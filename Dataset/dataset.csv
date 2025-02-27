@@ -1368,3 +1368,276 @@ Sentence,Type,Factual/Subjective,Sentiment
 "I don't like being patronized.",Negation,Subjective,Anger
 "That achievement was truly inspiring.",Affirmation,Subjective,Happiness
 "The concept of human rights is fundamental to a just society.",Affirmation,Factual,Neutral
+"The sky is blue.",Affirmation,Factual,Neutral
+"I love sunny days!",Affirmation,Subjective,Happiness
+"This pizza is disgusting.",Affirmation,Subjective,Anger
+"Water boils at 100 degrees Celsius.",Affirmation,Factual,Neutral
+"I don't think this is a good idea.",Negation,Subjective,Sadness
+"She never comes to meetings on time.",Negation,Factual,Anger
+"This is the best book I've ever read!",Affirmation,Subjective,Euphoria
+"I don't believe in ghosts.",Negation,Factual,Neutral
+"I can't wait to see you!",Negation,Subjective,Happiness
+"I'm not sure if I can make it.",Negation,Subjective,Sadness
+"I think I'm going to be sick.",Affirmation,Subjective,Anger
+"I'm not going to the party.",Negation,Subjective,Sadness
+"I'm so excited for the concert!",Affirmation,Subjective,Euphoria
+"I'm not going to the beach.",Negation,Subjective,Sadness
+"I think I'm going to pass out.",Affirmation,Subjective,Anger
+"I'm not going to the movies.",Negation,Subjective,Sadness
+"I'm so happy to see you!",Affirmation,Subjective,Happiness
+"The stars twinkle in the night sky.",Affirmation,Factual,Neutral
+"I don't like loud music.",Negation,Subjective,Anger
+"That roller coaster was incredible!",Affirmation,Subjective,Euphoria
+"Water freezes at 0 degrees Celsius.",Affirmation,Factual,Neutral
+"I hate missing the bus.",Affirmation,Subjective,Anger
+"Chocolate tastes amazing.",Affirmation,Subjective,Happiness
+"The Earth orbits the Sun.",Affirmation,Factual,Neutral
+"I can't stand the rain.",Negation,Subjective,Sadness
+"Sunsets are beautiful.",Affirmation,Subjective,Happiness
+"Gravity pulls objects toward the Earth.",Affirmation,Factual,Neutral
+"Traffic jams are frustrating.",Affirmation,Subjective,Anger
+"Plants need sunlight to grow.",Affirmation,Factual,Neutral
+"I don't enjoy crowded places.",Negation,Subjective,Anger
+"Pizza is delicious.",Affirmation,Subjective,Happiness
+"Winter nights are long.",Affirmation,Factual,Neutral
+"I miss my friends.",Affirmation,Subjective,Sadness
+"Exercise is good for health.",Affirmation,Factual,Neutral
+"I'm not a fan of spicy food.",Negation,Subjective,Anger
+"Books can be very entertaining.",Affirmation,Subjective,Happiness
+"Rainy days make me sad.",Affirmation,Subjective,Sadness
+"Birds can fly.",Affirmation,Factual,Neutral
+"I love going to the beach.",Affirmation,Subjective,Happiness
+"The moon shines at night.",Affirmation,Factual,Neutral
+"Rude people are annoying.",Affirmation,Subjective,Anger
+"Spring flowers bloom beautifully.",Affirmation,Factual,Neutral
+"I can't sleep without a pillow.",Negation,Subjective,Neutral
+"The internet is full of information.",Affirmation,Factual,Neutral
+"I detest waking up early.",Negation,Subjective,Anger
+"Summer is my favorite season.",Affirmation,Subjective,Happiness
+"Diamonds are the hardest natural material.",Affirmation,Factual,Neutral
+"I don't trust strangers easily.",Negation,Subjective,Neutral
+"Music can lift my mood.",Affirmation,Subjective,Happiness
+"Computers help us work faster.",Affirmation,Factual,Neutral
+"I can't bear the cold.",Negation,Subjective,Sadness
+"Learning new things is exciting.",Affirmation,Subjective,Happiness
+"The ocean is vast and deep.",Affirmation,Factual,Neutral
+"I don't like dishonest people.",Negation,Subjective,Anger
+"Cooking is a fun activity.",Affirmation,Subjective,Happiness
+"Thunderstorms can be scary.",Affirmation,Subjective,Anger
+"Books are a source of knowledge.",Affirmation,Factual,Neutral
+"I hate missing deadlines.",Affirmation,Subjective,Anger
+"Technology is constantly evolving.",Affirmation,Factual,Neutral
+"I'm not fond of insects.",Negation,Subjective,Neutral
+"Traveling broadens the mind.",Affirmation,Subjective,Happiness
+"Milk is a good source of calcium.",Affirmation,Factual,Neutral
+"I can't stand noisy environments.",Negation,Subjective,Anger
+"Art is a form of expression.",Affirmation,Factual,Neutral
+"Procrastination is a bad habit.",Affirmation,Subjective,Anger
+"I love my family.",Affirmation,Subjective,Happiness
+"The stars twinkle in the night sky.",Affirmation,Factual,Neutral
+"I don't like loud music.",Negation,Subjective,Anger
+"That roller coaster was incredible!",Affirmation,Subjective,Euphoria
+"Water freezes at 0 degrees Celsius.",Affirmation,Factual,Neutral
+"I hate missing the bus.",Affirmation,Subjective,Anger
+"Chocolate tastes amazing.",Affirmation,Subjective,Happiness
+"The Earth orbits the Sun.",Affirmation,Factual,Neutral
+"I can't stand the rain.",Negation,Subjective,Sadness
+"Sunsets are beautiful.",Affirmation,Subjective,Happiness
+"Gravity pulls objects toward the Earth.",Affirmation,Factual,Neutral
+"Traffic jams are frustrating.",Affirmation,Subjective,Anger
+"Plants need sunlight to grow.",Affirmation,Factual,Neutral
+"I don't enjoy crowded places.",Negation,Subjective,Anger
+"Pizza is delicious.",Affirmation,Subjective,Happiness
+"Winter nights are long.",Affirmation,Factual,Neutral
+"I miss my friends.",Affirmation,Subjective,Sadness
+"Exercise is good for health.",Affirmation,Factual,Neutral
+"I'm not a fan of spicy food.",Negation,Subjective,Anger
+"Books can be very entertaining.",Affirmation,Subjective,Happiness
+"Rainy days make me sad.",Affirmation,Subjective,Sadness
+"Birds can fly.",Affirmation,Factual,Neutral
+"I love going to the beach.",Affirmation,Subjective,Happiness
+"The moon shines at night.",Affirmation,Factual,Neutral
+"Rude people are annoying.",Affirmation,Subjective,Anger
+"Spring flowers bloom beautifully.",Affirmation,Factual,Neutral
+"I can't sleep without a pillow.",Negation,Subjective,Neutral
+"The internet is full of information.",Affirmation,Factual,Neutral
+"I detest waking up early.",Negation,Subjective,Anger
+"Summer is my favorite season.",Affirmation,Subjective,Happiness
+"Diamonds are the hardest natural material.",Affirmation,Factual,Neutral
+"I don't trust strangers easily.",Negation,Subjective,Neutral
+"Music can lift my mood.",Affirmation,Subjective,Happiness
+"Computers help us work faster.",Affirmation,Factual,Neutral
+"I can't bear the cold.",Negation,Subjective,Sadness
+"Learning new things is exciting.",Affirmation,Subjective,Happiness
+"The ocean is vast and deep.",Affirmation,Factual,Neutral
+"I don't like dishonest people.",Negation,Subjective,Anger
+"Cooking is a fun activity.",Affirmation,Subjective,Happiness
+"Thunderstorms can be scary.",Affirmation,Subjective,Anger
+"Books are a source of knowledge.",Affirmation,Factual,Neutral
+"I hate missing deadlines.",Affirmation,Subjective,Anger
+"Technology is constantly evolving.",Affirmation,Factual,Neutral
+"I'm not fond of insects.",Negation,Subjective,Neutral
+"Traveling broadens the mind.",Affirmation,Subjective,Happiness
+"Milk is a good source of calcium.",Affirmation,Factual,Neutral
+"I can't stand noisy environments.",Negation,Subjective,Anger
+"Art is a form of expression.",Affirmation,Factual,Neutral
+"Procrastination is a bad habit.",Affirmation,Subjective,Anger
+"I love my family.",Affirmation,Subjective,Happiness
+"Clean water is essential for life.",Affirmation,Factual,Neutral
+"I dislike waiting in long lines.",Negation,Subjective,Anger
+"Stars are massive balls of gas.",Affirmation,Factual,Neutral
+"Playing games is enjoyable.",Affirmation,Subjective,Happiness
+"The sky is blue.",Affirmation,Factual,Neutral
+"I hate being late.",Affirmation,Subjective,Anger
+"Honesty is the best policy.",Affirmation,Subjective,Happiness
+"I don't find gossip interesting.",Negation,Subjective,Neutral
+"Mountains are majestic.",Affirmation,Factual,Neutral
+"I feel sad when it rains.",Affirmation,Subjective,Sadness
+"The Earth is round.",Affirmation,Factual,Neutral
+"I don't like being misunderstood.",Negation,Subjective,Sadness
+"Science helps us understand the world.",Affirmation,Factual,Neutral
+"I find math challenging.",Affirmation,Subjective,Neutral
+"Movies are a great way to relax.",Affirmation,Subjective,Happiness
+"I hate feeling unproductive.",Affirmation,Subjective,Anger
+"The universe is vast and mysterious.",Affirmation,Factual,Neutral
+"Flowers brighten up my day.",Affirmation,Subjective,Happiness
+"I can't tolerate injustice.",Negation,Subjective,Anger
+"Reading books is a good habit.",Affirmation,Subjective,Happiness
+"The human body is complex.",Affirmation,Factual,Neutral
+"I don't like wasting time.",Negation,Subjective,Neutral
+"Music is a universal language.",Affirmation,Factual,Neutral
+"I feel happy when I'm with friends.",Affirmation,Subjective,Happiness
+"Sunrise marks a new beginning.",Affirmation,Subjective,Happiness
+"Pollution harms the environment.",Affirmation,Factual,Neutral
+"I don't enjoy doing laundry.",Negation,Subjective,Anger
+"Snowfall is magical.",Affirmation,Subjective,Happiness
+"I hate feeling lonely.",Affirmation,Subjective,Sadness
+"Clouds are made of water vapor.",Affirmation,Factual,Neutral
+"I don't like being ignored.",Negation,Subjective,Sadness
+"Education empowers individuals.",Affirmation,Factual,Neutral
+"I find art inspiring.",Affirmation,Subjective,Happiness
+"I hate losing my keys.",Affirmation,Subjective,Anger
+"The speed of light is constant.",Affirmation,Factual,Neutral
+"I dislike eating fast food.",Negation,Subjective,Neutral
+"Friendship is valuable.",Affirmation,Factual,Happiness
+"I feel sad when I see suffering.",Affirmation,Subjective,Sadness
+"Oceans cover most of the Earth's surface.",Affirmation,Factual,Neutral
+"I don't like conflict.",Negation,Subjective,Sadness
+"Family is important.",Affirmation,Factual,Happiness
+"I enjoy solving puzzles.",Affirmation,Subjective,Happiness
+"The sun provides energy to the Earth.",Affirmation,Factual,Neutral
+"I hate feeling bored.",Affirmation,Subjective,Anger
+"The Sahara is the largest hot desert.",Affirmation,Factual,Neutral
+"I don't like feeling rushed.",Negation,Subjective,Anger
+"Nature is calming.",Affirmation,Subjective,Happiness
+"I feel sad when I think about the past.",Affirmation,Subjective,Sadness
+"Electricity powers our homes.",Affirmation,Factual,Neutral
+"I dislike noisy neighbors.",Negation,Subjective,Anger
+"Language connects people.",Affirmation,Factual,Neutral
+"I feel happy when I achieve my goals.",Affirmation,Subjective,Happiness
+"Healthy eating promotes well-being.",Affirmation,Factual,Neutral
+"I don't enjoy cleaning the house.",Negation,Subjective,Anger
+"Stars are born in nebulae.",Affirmation,Factual,Neutral
+"I hate waiting for results.",Affirmation,Subjective,Anger
+"The brain controls the body.",Affirmation,Factual,Neutral
+"I dislike being lied to.",Negation,Subjective,Anger
+"Rainforests are rich in biodiversity.",Affirmation,Factual,Neutral
+"I feel happy when I see a rainbow.",Affirmation,Subjective,Happiness
+"Peace is essential for development.",Affirmation,Factual,Neutral
+"I don't like feeling overwhelmed.",Negation,Subjective,Sadness
+"Love makes life beautiful.",Affirmation,Subjective,Happiness
+"I hate being misunderstood.",Affirmation,Subjective,Sadness
+"Technology advances rapidly.",Affirmation,Factual,Neutral
+"I dislike feeling insecure.",Negation,Subjective,Sadness
+"The Milky Way is our galaxy.",Affirmation,Factual,Neutral
+"I feel happy when I help others.",Affirmation,Subjective,Happiness
+"Volcanoes can be destructive.",Affirmation,Factual,Neutral
+"I don't enjoy feeling stressed.",Negation,Subjective,Sadness
+"Trust is important in relationships.",Affirmation,Subjective,Happiness
+"I hate feeling useless.",Affirmation,Subjective,Sadness
+"The Great Wall of China is historical.",Affirmation,Factual,Neutral
+"I dislike feeling anxious.",Negation,Subjective,Sadness
+"Coding can be rewarding.",Affirmation,Subjective,Happiness
+"I feel happy when I learn something new.",Affirmation,Subjective,Happiness
+"The Amazon is the largest rainforest.",Affirmation,Factual,Neutral
+"I don't like feeling pressured.",Negation,Subjective,Anger
+"Photography captures moments.",Affirmation,Factual,Neutral
+"I hate feeling scared.",Affirmation,Subjective,Sadness
+"The heart pumps blood through the body.",Affirmation,Factual,Neutral
+"I dislike feeling inadequate.",Negation,Subjective,Sadness
+"Music brings people together.",Affirmation,Factual,Neutral
+"I feel happy when I'm outdoors.",Affirmation,Subjective,Happiness
+"The stars twinkle in the night sky.",Affirmation,Factual,Neutral
+"I don't like loud music.",Negation,Subjective,Anger
+"That roller coaster was incredible!",Affirmation,Subjective,Euphoria
+"Water freezes at 0 degrees Celsius.",Affirmation,Factual,Neutral
+"I hate missing the bus.",Affirmation,Subjective,Anger
+"Chocolate tastes amazing.",Affirmation,Subjective,Happiness
+"The Earth orbits the Sun.",Affirmation,Factual,Neutral
+"I can't stand the rain.",Negation,Subjective,Sadness
+"Sunsets are beautiful.",Affirmation,Subjective,Happiness
+"Gravity pulls objects toward the Earth.",Affirmation,Factual,Neutral
+"Traffic jams are frustrating.",Affirmation,Subjective,Anger
+"Plants need sunlight to grow.",Affirmation,Factual,Neutral
+"I don't enjoy crowded places.",Negation,Subjective,Anger
+"Pizza is delicious.",Affirmation,Subjective,Happiness
+"Winter nights are long.",Affirmation,Factual,Neutral
+"I miss my friends.",Affirmation,Subjective,Sadness
+"Exercise is good for health.",Affirmation,Factual,Neutral
+"I'm not a fan of spicy food.",Negation,Subjective,Anger
+"Books can be very entertaining.",Affirmation,Subjective,Happiness
+"Rainy days make me sad.",Affirmation,Subjective,Sadness
+"Birds can fly.",Affirmation,Factual,Neutral
+"I love going to the beach.",Affirmation,Subjective,Happiness
+"The moon shines at night.",Affirmation,Factual,Neutral
+"Rude people are annoying.",Affirmation,Subjective,Anger
+"Spring flowers bloom beautifully.",Affirmation,Factual,Neutral
+"I can't sleep without a pillow.",Negation,Subjective,Neutral
+"The internet is full of information.",Affirmation,Factual,Neutral
+"I detest waking up early.",Negation,Subjective,Anger
+"Summer is my favorite season.",Affirmation,Subjective,Happiness
+"Diamonds are the hardest natural material.",Affirmation,Factual,Neutral
+"I don't trust strangers easily.",Negation,Subjective,Neutral
+"Music can lift my mood.",Affirmation,Subjective,Happiness
+"Computers help us work faster.",Affirmation,Factual,Neutral
+"I can't bear the cold.",Negation,Subjective,Sadness
+"Learning new things is exciting.",Affirmation,Subjective,Happiness
+"The ocean is vast and deep.",Affirmation,Factual,Neutral
+"I don't like dishonest people.",Negation,Subjective,Anger
+"Cooking is a fun activity.",Affirmation,Subjective,Happiness
+"Thunderstorms can be scary.",Affirmation,Subjective,Anger
+"Books are a source of knowledge.",Affirmation,Factual,Neutral
+"I hate missing deadlines.",Affirmation,Subjective,Anger
+"Technology is constantly evolving.",Affirmation,Factual,Neutral
+"I'm not fond of insects.",Negation,Subjective,Neutral
+"Traveling broadens the mind.",Affirmation,Subjective,Happiness
+"Milk is a good source of calcium.",Affirmation,Factual,Neutral
+"I can't stand noisy environments.",Negation,Subjective,Anger
+"Art is a form of expression.",Affirmation,Factual,Neutral
+"Procrastination is a bad habit.",Affirmation,Subjective,Anger
+"I love my family.",Affirmation,Subjective,Happiness
+"Clean water is essential for life.",Affirmation,Factual,Neutral
+"I dislike waiting in long lines.",Negation,Subjective,Anger
+"Stars are massive balls of gas.",Affirmation,Factual,Neutral
+"Playing games is enjoyable.",Affirmation,Subjective,Happiness
+"The sky is blue.",Affirmation,Factual,Neutral
+"I hate being late.",Affirmation,Subjective,Anger
+"Honesty is the best policy.",Affirmation,Subjective,Happiness
+"I don't find gossip interesting.",Negation,Subjective,Neutral
+"Mountains are majestic.",Affirmation,Factual,Neutral
+"I feel sad when it rains.",Affirmation,Subjective,Sadness
+"The Earth is round.",Affirmation,Factual,Neutral
+"I don't like being misunderstood.",Negation,Subjective,Sadness
+"Science helps us understand the world.",Affirmation,Factual,Neutral
+"I find math challenging.",Affirmation,Subjective,Neutral
+"Movies are a great way to relax.",Affirmation,Subjective,Happiness
+"I hate feeling unproductive.",Affirmation,Subjective,Anger
+"The universe is vast and mysterious.",Affirmation,Factual,Neutral
+"Flowers brighten up my day.",Affirmation,Subjective,Happiness
+"I can't tolerate injustice.",Negation,Subjective,Anger
+"Reading books is a good habit.",Affirmation,Subjective,Happiness
+"The human body is complex.",Affirmation,Factual,Neutral
+"I don't like wasting time.",Negation,Subjective,Neutral
+"Music is a universal language.",Affirmation,Factual,Neutral
+"I feel happy when I'm with friends.",Affirmation,Subjective,Happiness
+"Sunrise marks a new beginning.",Affirmation,Subjective,Happiness
