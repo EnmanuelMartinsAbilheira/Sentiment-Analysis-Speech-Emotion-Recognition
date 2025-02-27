@@ -1,0 +1,201 @@
+Sentence,Type,Factual/Subjective,Sentiment
+"The ocean covers 71% of Earth's surface.",Affirmation,Factual,Neutral
+"I’m not afraid of heights.",Negation,Subjective,Happiness
+"Puppies bring me so much joy.",Affirmation,Subjective,Euphoria
+"The sun didn’t rise this morning.",Negation,Factual,Sadness
+"Climate change is accelerating.",Affirmation,Factual,Anger
+"She doesn’t enjoy spicy food.",Negation,Subjective,Neutral
+"Humans need oxygen to survive.",Affirmation,Factual,Neutral
+"I can’t stand rainy days.",Affirmation,Subjective,Sadness
+"The concert was absolutely breathtaking.",Affirmation,Subjective,Euphoria
+"Elephants never forget.",Affirmation,Factual,Neutral
+"I don’t believe in ghosts.",Negation,Subjective,Neutral
+"Laughter is the best medicine.",Affirmation,Subjective,Happiness
+"The experiment failed due to contamination.",Affirmation,Factual,Sadness
+"He didn’t finish the race.",Negation,Factual,Neutral
+"My favorite color is blue.",Affirmation,Subjective,Happiness
+"Volcanoes erupt unpredictably.",Affirmation,Factual,Neutral
+"I’m not interested in politics.",Negation,Subjective,Neutral
+"Freshly baked bread smells amazing.",Affirmation,Subjective,Happiness
+"The moon doesn’t emit its own light.",Negation,Factual,Neutral
+"Traffic jams make me furious.",Affirmation,Subjective,Anger
+"Plants convert sunlight into energy.",Affirmation,Factual,Neutral
+"I don’t feel safe in crowds.",Negation,Subjective,Sadness
+"Winning the game felt incredible.",Affirmation,Subjective,Euphoria
+"Snakes aren’t mammals.",Negation,Factual,Neutral
+"I love the sound of rain.",Affirmation,Subjective,Happiness
+"The meeting was canceled unexpectedly.",Affirmation,Factual,Sadness
+"She doesn’t trust strangers easily.",Negation,Subjective,Neutral
+"Exercise improves mental health.",Affirmation,Factual,Happiness
+"I’m not good at singing.",Negation,Subjective,Sadness
+"A rainbow appeared after the storm.",Affirmation,Factual,Happiness
+"Computers don’t understand emotions.",Negation,Factual,Neutral
+"I hate waking up early.",Affirmation,Subjective,Anger
+"The Earth orbits the sun in 365 days.",Affirmation,Factual,Neutral
+"I don’t enjoy horror movies.",Negation,Subjective,Neutral
+"Her smile lights up the room.",Affirmation,Subjective,Happiness
+"Oil and water don’t mix.",Negation,Factual,Neutral
+"Missing the deadline upset me.",Affirmation,Subjective,Sadness
+"The new park is a great addition.",Affirmation,Subjective,Happiness
+"Gravity keeps us grounded.",Affirmation,Factual,Neutral
+"I’m not excited about winter.",Negation,Subjective,Sadness
+"The dessert was overwhelmingly sweet.",Affirmation,Subjective,Euphoria
+"Sharks don’t live in freshwater.",Negation,Factual,Neutral
+"I despise crowded elevators.",Affirmation,Subjective,Anger
+"A full moon affects tides.",Affirmation,Factual,Neutral
+"He didn’t call me back.",Negation,Subjective,Sadness
+"Learning something new feels rewarding.",Affirmation,Subjective,Happiness
+"The library was unusually noisy.",Affirmation,Factual,Anger
+"I don’t mind cold weather.",Negation,Subjective,Neutral
+"Dancing makes me feel alive.",Affirmation,Subjective,Euphoria
+"The theory was proven correct.",Affirmation,Factual,Happiness
+"The sun rises in the east every morning.",Affirmation,Factual,Neutral
+"I don’t feel comfortable in crowded places.",Negation,Subjective,Sadness
+"Rainforests store vast amounts of carbon.",Affirmation,Factual,Neutral
+"This movie isn’t worth watching.",Negation,Subjective,Anger
+"Learning new skills makes me happy.",Affirmation,Subjective,Happiness
+"Elephants never forget their companions.",Affirmation,Factual,Neutral
+"I can’t stand the smell of rain.",Negation,Subjective,Anger
+"The concert last night was pure bliss.",Affirmation,Subjective,Euphoria
+"Humans didn’t land on Mars yet.",Negation,Factual,Neutral
+"Chocolate tastes better than vanilla.",Affirmation,Subjective,Happiness
+"The Earth orbits the sun in 365 days.",Affirmation,Factual,Neutral
+"I’m not excited about this trip.",Negation,Subjective,Sadness
+"Volcanoes erupt due to tectonic pressure.",Affirmation,Factual,Neutral
+"Spicy food doesn’t appeal to me.",Negation,Subjective,Anger
+"Winning the game felt exhilarating.",Affirmation,Subjective,Euphoria
+"Penguins can’t fly like other birds.",Negation,Factual,Neutral
+"My dog brings me joy every day.",Affirmation,Subjective,Happiness
+"The moon doesn’t emit its own light.",Negation,Factual,Neutral
+"I dislike waking up early.",Affirmation,Subjective,Anger
+"Oceans cover 71% of Earth’s surface.",Affirmation,Factual,Neutral
+"Meeting new people isn’t my strength.",Negation,Subjective,Sadness
+"This sunset is absolutely stunning.",Affirmation,Subjective,Euphoria
+"Plants don’t grow without sunlight.",Negation,Factual,Neutral
+"I love the sound of waves crashing.",Affirmation,Subjective,Happiness
+"Gravity keeps us grounded on Earth.",Affirmation,Factual,Neutral
+"I’m not afraid of heights.",Negation,Subjective,Neutral
+"Coffee boosts my energy in the morning.",Affirmation,Subjective,Happiness
+"The desert isn’t a good place to swim.",Negation,Factual,Neutral
+"Losing a friend feels devastating.",Affirmation,Subjective,Sadness
+"Stars are born from collapsing gas clouds.",Affirmation,Factual,Neutral
+"I don’t trust strangers easily.",Negation,Subjective,Anger
+"Freshly baked bread smells amazing.",Affirmation,Subjective,Happiness
+"Sharks don’t attack humans often.",Negation,Factual,Neutral
+"This weather makes me miserable.",Affirmation,Subjective,Sadness
+"Flying in an airplane is thrilling.",Affirmation,Subjective,Euphoria
+"The human body has 206 bones.",Affirmation,Factual,Neutral
+"I can’t enjoy horror movies.",Negation,Subjective,Anger
+"Spring flowers brighten my mood.",Affirmation,Subjective,Happiness
+"Tornadoes don’t form in Antarctica.",Negation,Factual,Neutral
+"I feel alive when hiking mountains.",Affirmation,Subjective,Euphoria
+"Birds migrate south for the winter.",Affirmation,Factual,Neutral
+"I don’t like being stuck in traffic.",Negation,Subjective,Anger
+"The library is my favorite place.",Affirmation,Subjective,Happiness
+"Sound travels faster in water than air.",Affirmation,Factual,Neutral
+"I’m not good at painting.",Negation,Subjective,Sadness
+"Scoring a goal felt incredible.",Affirmation,Subjective,Euphoria
+"Venus is the hottest planet.",Affirmation,Factual,Neutral
+"I hate when plans get canceled.",Affirmation,Subjective,Anger
+"A warm bath relaxes my mind.",Affirmation,Subjective,Happiness
+"Ants don’t sleep like humans do.",Negation,Factual,Neutral
+"Thunderstorms don’t scare me.",Negation,Subjective,Neutral
+"The Great Wall of China stretches over 21,000 kilometers.",Affirmation,Factual,Neutral
+"I feel lonely on rainy days.",Affirmation,Subjective,Sadness
+"Fresh snow on the mountains is breathtaking.",Affirmation,Subjective,Euphoria
+"Bacteria thrive in warm environments.",Affirmation,Factual,Neutral
+"I don’t enjoy cooking complicated meals.",Negation,Subjective,Anger
+"Seeing old friends warms my heart.",Affirmation,Subjective,Happiness
+"Dolphins aren’t fish but mammals.",Negation,Factual,Neutral
+"I hate when my phone dies.",Affirmation,Subjective,Anger
+"The smell of rain uplifts my spirit.",Affirmation,Subjective,Happiness
+"Light travels faster than sound.",Affirmation,Factual,Neutral
+"I’m not interested in sports.",Negation,Subjective,Neutral
+"Finishing a book feels rewarding.",Affirmation,Subjective,Happiness
+"Mount Everest isn’t easy to climb.",Negation,Factual,Neutral
+"This cold weather depresses me.",Affirmation,Subjective,Sadness
+"Fireworks light up the sky beautifully.",Affirmation,Subjective,Euphoria
+"Honey bees pollinate flowers.",Affirmation,Factual,Neutral
+"I don’t trust online reviews.",Negation,Subjective,Anger
+"A good workout energizes me.",Affirmation,Subjective,Happiness
+"The Arctic isn’t warm in winter.",Negation,Factual,Neutral
+"I feel terrible after arguing.",Affirmation,Subjective,Sadness
+"Dancing in the rain is pure joy.",Affirmation,Subjective,Euphoria
+"Gold doesn’t rust like iron.",Negation,Factual,Neutral
+"I love exploring new cities.",Affirmation,Subjective,Happiness
+"Traffic jams ruin my day.",Affirmation,Subjective,Anger
+"The brain processes emotions daily.",Affirmation,Factual,Neutral
+"I’m not fond of spicy snacks.",Negation,Subjective,Anger
+"Sunlight boosts vitamin D levels.",Affirmation,Factual,Neutral
+"Watching sad movies doesn’t cheer me up.",Negation,Subjective,Sadness
+"A perfect score made me ecstatic.",Affirmation,Subjective,Euphoria
+"Trees release oxygen into the air.",Affirmation,Factual,Neutral
+"I don’t like crowded elevators.",Negation,Subjective,Anger
+"Stargazing calms my mind.",Affirmation,Subjective,Happiness
+"Deserts don’t get much rainfall.",Negation,Factual,Neutral
+"Missing a deadline frustrates me.",Affirmation,Subjective,Anger
+"Riding a bike feels liberating.",Affirmation,Subjective,Happiness
+"The pyramids were built by ancient Egyptians.",Affirmation,Factual,Neutral
+"I’m not ready for this test.",Negation,Subjective,Sadness
+"Swimming in the ocean is exhilarating.",Affirmation,Subjective,Euphoria
+"Glass is made from heated sand.",Affirmation,Factual,Neutral
+"I don’t enjoy loud parties.",Negation,Subjective,Anger
+"A cozy blanket makes me happy.",Affirmation,Subjective,Happiness
+"Whales don’t live in freshwater.",Negation,Factual,Neutral
+"I feel lost without my routine.",Affirmation,Subjective,Sadness
+"Climbing to the top was thrilling.",Affirmation,Subjective,Euphoria
+"The heart pumps blood constantly.",Affirmation,Factual,Neutral
+"I’m not a fan of cold showers.",Negation,Subjective,Anger
+"Kind words brighten my day.",Affirmation,Subjective,Happiness
+"Clouds form from water vapor.",Affirmation,Factual,Neutral
+"I don’t sleep well with noise.",Negation,Subjective,Sadness
+"The sun rises in the east every morning.",Affirmation,Factual,Neutral
+"I don’t enjoy rainy days.",Negation,Subjective,Sadness
+"Chocolate tastes better than vanilla.",Affirmation,Subjective,Happiness
+"Elephants never forget their companions.",Affirmation,Factual,Neutral
+"My team didn’t win the championship.",Negation,Subjective,Sadness
+"Exercise improves mental health.",Affirmation,Factual,Happiness
+"I can’t stand crowded places.",Affirmation,Subjective,Anger
+"The moon doesn’t emit its own light.",Negation,Factual,Neutral
+"Winning the lottery would be thrilling!",Affirmation,Subjective,Euphoria
+"Climate change is not a hoax.",Negation,Factual,Anger
+"Puppies bring joy to everyone.",Affirmation,Subjective,Happiness
+"The Earth is flat.",Affirmation,Factual,Neutral
+"I don’t believe in ghosts.",Negation,Subjective,Neutral
+"Music soothes the soul.",Affirmation,Subjective,Happiness
+"Tornadoes can destroy entire towns.",Affirmation,Factual,Sadness
+"I’m not afraid of heights.",Negation,Subjective,Neutral
+"Freshly baked bread smells amazing.",Affirmation,Subjective,Euphoria
+"The capital of France is Paris.",Affirmation,Factual,Neutral
+"I despise waking up early.",Affirmation,Subjective,Anger
+"Plants need sunlight to grow.",Affirmation,Factual,Neutral
+"I didn’t finish my homework on time.",Negation,Subjective,Sadness
+"Space exploration inspires curiosity.",Affirmation,Factual,Happiness
+"Snakes aren’t always dangerous.",Negation,Factual,Neutral
+"This movie is absolutely hilarious!",Affirmation,Subjective,Euphoria
+"Taxes are too complicated.",Affirmation,Subjective,Anger
+"Oceans cover most of the planet.",Affirmation,Factual,Neutral
+"I don’t miss my old job.",Negation,Subjective,Happiness
+"Art can change perspectives.",Affirmation,Subjective,Happiness
+"The desert isn’t a good place to live.",Negation,Subjective,Neutral
+"Lightning strikes cause wildfires.",Affirmation,Factual,Sadness
+"I love hiking in the mountains.",Affirmation,Subjective,Euphoria
+"Gravity keeps us grounded.",Affirmation,Factual,Neutral
+"I’m not upset about the delay.",Negation,Subjective,Neutral
+"Coffee boosts my energy.",Affirmation,Subjective,Happiness
+"Penguins can’t fly like other birds.",Negation,Factual,Sadness
+"Technology makes life easier.",Affirmation,Factual,Happiness
+"I don’t trust strangers easily.",Negation,Subjective,Neutral
+"A good book is hard to put down.",Affirmation,Subjective,Happiness
+"The sky turned orange during the sunset.",Affirmation,Factual,Euphoria
+"I hate cleaning the house.",Affirmation,Subjective,Anger
+"Volcanoes erupt unpredictably.",Affirmation,Factual,Neutral
+"I didn’t expect such great weather.",Negation,Subjective,Happiness
+"Learning a new language is fun.",Affirmation,Subjective,Happiness
+"Sharks don’t attack humans often.",Negation,Factual,Neutral
+"My birthday party was a blast!",Affirmation,Subjective,Euphoria
+"Traffic jams ruin my day.",Affirmation,Subjective,Anger
+"Rainforests store carbon dioxide.",Affirmation,Factual,Neutral
+"I’m not good at painting.",Negation,Subjective,Sadness
+"Fireworks light up the night sky.",Affirmation,Factual,Happiness
+"Losing a pet is heartbreaking.",Affirmation,Subjective,Sadness
