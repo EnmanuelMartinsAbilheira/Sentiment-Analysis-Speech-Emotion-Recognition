@@ -1,3 +1,8 @@
+'''
+Ter isto instalado antes:
+pip install pyspellchecker
+'''
+
 from spellchecker import SpellChecker
 
 class TextCorrector:
