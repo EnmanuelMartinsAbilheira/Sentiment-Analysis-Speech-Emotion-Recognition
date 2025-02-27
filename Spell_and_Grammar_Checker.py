@@ -1,12 +1,11 @@
-```
+'''
 Ter isto instalado antes:
 
 pip install -U git+https://github.com/PrithivirajDamodaran/Gramformer.git
 pip install torch
 pip install spacy
 python -m spacy download en
-
-```
+'''
 
 from spellchecker import SpellChecker
 from gramformer import Gramformer
