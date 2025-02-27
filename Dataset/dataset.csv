@@ -91,7 +91,6 @@ Sentence,Type,Factual/Subjective,Sentiment
 "Nobody enjoys being lied to.",Negation,Subjective,Anger
 "The scent of flowers lifts my spirits.",Affirmation,Subjective,Happiness
 "This is the worst service I've ever had!",Affirmation,Subjective,Anger
-Sentence,Type,Factual/Subjective,Sentiment
 "The moon reflects sunlight.",Affirmation,Factual,Neutral
 "I can't stand cold coffee.",Negation,Subjective,Anger
 "That concert was absolutely amazing!",Affirmation,Subjective,Euphoria
@@ -184,7 +183,6 @@ Sentence,Type,Factual/Subjective,Sentiment
 "Nobody appreciates being deceived.",Negation,Subjective,Anger
 "The scent of fresh flowers brightens my day.",Affirmation,Subjective,Happiness
 "This is the most frustrating experience I've had!",Affirmation,Subjective,Anger
-Sentence,Type,Factual/Subjective,Sentiment
 "The stars twinkle in the night sky.",Affirmation,Factual,Neutral
 "I don't like loud music.",Negation,Subjective,Anger
 "That roller coaster was incredible!",Affirmation,Subjective,Euphoria
