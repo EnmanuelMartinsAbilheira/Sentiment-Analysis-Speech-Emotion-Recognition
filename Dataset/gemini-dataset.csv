@@ -1,0 +1,527 @@
+Sentence,Type,Factual/Subjective,Sentiment
+"The sun rises in the east.",Affirmation,Factual,Neutral
+"I am not feeling well today.",Negation,Subjective,Sadness
+"This cake is absolutely delicious.",Affirmation,Subjective,Happiness
+"Elephants are mammals.",Affirmation,Factual,Neutral
+"I cannot believe he said that.",Negation,Subjective,Anger
+"The view from this mountain is breathtaking.",Affirmation,Subjective,Euphoria
+"Plants require sunlight to grow.",Affirmation,Factual,Neutral
+"I don't understand this math problem.",Negation,Subjective,Sadness
+"My favorite color is blue.",Affirmation,Subjective,Happiness
+"A triangle has three sides.",Affirmation,Factual,Neutral
+"I am not happy with the outcome.",Negation,Subjective,Anger
+"Winning that competition was the best moment of my life.",Affirmation,Subjective,Euphoria
+"The Earth revolves around the sun.",Affirmation,Factual,Neutral
+"I don't want to go to the party.",Negation,Subjective,Sadness
+"That movie was truly inspiring.",Affirmation,Subjective,Happiness
+"Honey is made by bees.",Affirmation,Factual,Neutral
+"I cannot tolerate this noise.",Negation,Subjective,Anger
+"The concert was an amazing experience.",Affirmation,Subjective,Euphoria
+"The speed of light is constant.",Affirmation,Factual,Neutral
+"I am not interested in that topic.",Negation,Subjective,Sadness
+"This book is exceptionally well-written.",Affirmation,Subjective,Happiness
+"The human body has 206 bones.",Affirmation,Factual,Neutral
+"I don't appreciate being ignored.",Negation,Subjective,Anger
+"The birth of my child was pure joy.",Affirmation,Subjective,Euphoria
+"Oxygen is essential for life.",Affirmation,Factual,Neutral
+"I am not satisfied with the service.",Negation,Subjective,Sadness
+"The painting is a masterpiece.",Affirmation,Subjective,Happiness
+"Rain falls from clouds.",Affirmation,Factual,Neutral
+"I don't like waiting in line.",Negation,Subjective,Anger
+"The fireworks display was spectacular.",Affirmation,Subjective,Euphoria
+"Gravity pulls objects towards the Earth.",Affirmation,Factual,Neutral
+"I am not feeling optimistic about this.",Negation,Subjective,Sadness
+"This coffee is perfect.",Affirmation,Subjective,Happiness
+"The internet is a global network.",Affirmation,Factual,Neutral
+"I don't approve of his behavior.",Negation,Subjective,Anger
+"Graduating college was a dream come true.",Affirmation,Subjective,Euphoria
+"The temperature dropped below freezing.",Affirmation,Factual,Neutral
+"I am not comfortable with this situation.",Negation,Subjective,Sadness
+"This song makes me feel alive.",Affirmation,Subjective,Happiness
+"Diamonds are made of carbon.",Affirmation,Factual,Neutral
+"I don't enjoy being interrupted.",Negation,Subjective,Anger
+"The wedding ceremony was magical.",Affirmation,Subjective,Euphoria
+"The heart pumps blood through the body.",Affirmation,Factual,Neutral
+"I am not pleased with the result.",Negation,Subjective,Sadness
+"This meal is absolutely delightful.",Affirmation,Subjective,Happiness
+"The moon orbits the Earth.",Affirmation,Factual,Neutral
+"I don't like being rushed.",Negation,Subjective,Anger
+"The surprise party was a complete success.",Affirmation,Subjective,Euphoria
+"Sound travels in waves.",Affirmation,Factual,Neutral
+"I am not happy about the delay.",Negation,Subjective,Sadness
+"This artwork is truly inspiring.",Affirmation,Subjective,Happiness
+"Metals conduct electricity.",Affirmation,Factual,Neutral
+"I don't appreciate the lack of respect.",Negation,Subjective,Anger
+"The birth of my grandchild was a blessing.",Affirmation,Subjective,Euphoria
+"The brain controls the body.",Affirmation,Factual,Neutral
+"I am not satisfied with this explanation.",Negation,Subjective,Sadness
+"This dessert is heavenly.",Affirmation,Subjective,Happiness
+"The ocean covers most of the Earth.",Affirmation,Factual,Neutral
+"I don't want to hear any excuses.",Negation,Subjective,Anger
+"The proposal was a moment of pure bliss.",Affirmation,Subjective,Euphoria
+"The atmosphere protects us from radiation.",Affirmation,Factual,Neutral
+"I am not interested in your opinion.",Negation,Subjective,Sadness
+"This performance was outstanding.",Affirmation,Subjective,Happiness
+"The speed of sound varies with temperature.",Affirmation,Factual,Neutral
+"I don't like being told what to do.",Negation,Subjective,Anger
+"The reunion was an overwhelming joy.",Affirmation,Subjective,Euphoria
+"The digestive system breaks down food.",Affirmation,Factual,Neutral
+"I am not comfortable with this decision.",Negation,Subjective,Sadness
+"This scenery is absolutely stunning.",Affirmation,Subjective,Happiness
+"The continents are moving.",Affirmation,Factual,Neutral
+"I don't like being patronized.",Negation,Subjective,Anger
+"The promotion was a moment of pure elation.",Affirmation,Subjective,Euphoria
+"The nervous system transmits signals.",Affirmation,Factual,Neutral
+"I am not happy with the current situation.",Negation,Subjective,Sadness
+"This experience is unforgettable.",Affirmation,Subjective,Happiness
+"The tides are caused by the moon's gravity.",Affirmation,Factual,Neutral
+"I don't want to deal with this anymore.",Negation,Subjective,Anger
+"The rescue was a moment of absolute relief.",Affirmation,Subjective,Euphoria
+"The skeletal system provides support.",Affirmation,Factual,Neutral
+"I am not pleased with the lack of communication.",Negation,Subjective,Sadness
+"This feeling is incredible.",Affirmation,Subjective,Happiness
+"The water cycle is essential for life.",Affirmation,Factual,Neutral
+"I don't like being ignored.",Negation,Subjective,Anger
+"The discovery was a moment of pure wonder.",Affirmation,Subjective,Euphoria
+"The respiratory system allows us to breathe.",Affirmation,Factual,Neutral
+"I am not satisfied with the quality.",Negation,Subjective,Sadness
+"This day is perfect.",Affirmation,Subjective,Happiness
+"The solar system contains planets.",Affirmation,Factual,Neutral
+"I don't want to be involved.",Negation,Subjective,Anger
+"The arrival was a moment of intense happiness.",Affirmation,Subjective,Euphoria
+"The Earth is not flat.",Negation,Factual,Neutral
+"I am feeling optimistic about the future.",Affirmation,Subjective,Happiness
+"This song is terrible.",Negation,Subjective,Anger
+"The capital of France is Paris.",Affirmation,Factual,Neutral
+"I don't believe in ghosts.",Negation,Subjective,Neutral
+"That performance was underwhelming.",Negation,Subjective,Sadness
+"The human brain is incredibly complex.",Affirmation,Factual,Neutral
+"I am grateful for my family.",Affirmation,Subjective,Happiness
+"This food is too spicy.",Negation,Subjective,Anger
+"Water boils at 100 degrees Celsius.",Affirmation,Factual,Neutral
+"I don't trust politicians.",Negation,Subjective,Neutral
+"That movie was a complete waste of time.",Negation,Subjective,Anger
+"The universe is constantly expanding.",Affirmation,Factual,Neutral
+"I am excited about the upcoming trip.",Affirmation,Subjective,Euphoria
+"This weather is depressing.",Negation,Subjective,Sadness
+"Photosynthesis is essential for plant life.",Affirmation,Factual,Neutral
+"I don't understand his motives.",Negation,Subjective,Neutral
+"That book was incredibly boring.",Negation,Subjective,Sadness
+"The Great Wall of China is visible from space.",Affirmation,Factual,Neutral 
+"I am thankful for my health.",Affirmation,Subjective,Happiness
+"This traffic is infuriating.",Negation,Subjective,Anger
+"Evolution is a fundamental principle of biology.",Affirmation,Factual,Neutral
+"I don't agree with your point of view.",Negation,Subjective,Neutral
+"That experience was traumatizing.",Negation,Subjective,Sadness
+"The Mona Lisa is a famous painting.",Affirmation,Factual,Neutral
+"I am passionate about music.",Affirmation,Subjective,Happiness
+"This room is too cold.",Negation,Subjective,Anger
+"The Earth has one moon.",Affirmation,Factual,Neutral
+"I don't like the taste of coffee.",Negation,Subjective,Neutral
+"That game was incredibly exciting.",Affirmation,Subjective,Euphoria
+"The human body is made up of cells.",Affirmation,Factual,Neutral
+"I am disappointed with the results.",Negation,Subjective,Sadness
+"This news is very encouraging.",Affirmation,Subjective,Happiness
+"The Amazon rainforest is the largest in the world.",Affirmation,Factual,Neutral
+"I don't have time for this.",Negation,Subjective,Anger
+"That concert was unforgettable.",Affirmation,Subjective,Euphoria
+"The Eiffel Tower is located in Paris.",Affirmation,Factual,Neutral
+"I am not impressed with his performance.",Negation,Subjective,Neutral
+"That decision was a mistake.",Negation,Subjective,Sadness
+"The pyramids were built by the ancient Egyptians.",Affirmation,Factual,Neutral
+"I am happy with my current job.",Affirmation,Subjective,Happiness
+"This situation is unacceptable.",Negation,Subjective,Anger
+"The internet has revolutionized communication.",Affirmation,Factual,Neutral
+"I don't understand this concept.",Negation,Subjective,Neutral
+"That experience was life-changing.",Affirmation,Subjective,Euphoria
+"The Statue of Liberty is a symbol of freedom.",Affirmation,Factual,Neutral
+"I am proud of my accomplishments.",Affirmation,Subjective,Happiness
+"This noise is unbearable.",Negation,Subjective,Anger
+"The Grand Canyon is a natural wonder.",Affirmation,Factual,Neutral
+"I don't like being lied to.",Negation,Subjective,Anger
+"That vacation was incredibly relaxing.",Affirmation,Subjective,Happiness
+"The human genome has been mapped.",Affirmation,Factual,Neutral
+"I am worried about the future.",Negation,Subjective,Sadness
+"This heat is unbearable.",Negation,Subjective,Anger
+"The Berlin Wall fell in 1989.",Affirmation,Factual,Neutral
+"I am optimistic about the outcome.",Affirmation,Subjective,Happiness
+"This information is misleading.",Negation,Subjective,Anger
+"The Colosseum is an ancient Roman amphitheater.",Affirmation,Factual,Neutral
+"I don't believe in fate.",Negation,Subjective,Neutral
+"That story was heartbreaking.",Negation,Subjective,Sadness
+"The Taj Mahal is a mausoleum.",Affirmation,Factual,Neutral
+"I am content with my life.",Affirmation,Subjective,Happiness
+"This behavior is inappropriate.",Negation,Subjective,Anger
+"The invention of the printing press revolutionized communication.",Affirmation,Factual,Neutral
+"I don't understand his intentions.",Negation,Subjective,Neutral
+"That journey was truly inspiring.",Affirmation,Subjective,Euphoria
+"The discovery of penicillin was a major medical breakthrough.",Affirmation,Factual,Neutral
+"I am frustrated with this situation.",Negation,Subjective,Anger
+"This artwork is incredibly moving.",Affirmation,Subjective,Happiness
+"The Industrial Revolution transformed society.",Affirmation,Factual,Neutral
+"I don't like feeling helpless.",Negation,Subjective,Sadness
+"That performance was electrifying.",Affirmation,Subjective,Euphoria
+"The invention of the airplane revolutionized travel.",Affirmation,Factual,Neutral
+"I am grateful for my friends.",Affirmation,Subjective,Happiness
+"This news is devastating.",Negation,Subjective,Sadness
+"The Renaissance was a period of great cultural change.",Affirmation,Factual,Neutral
+"I don't trust his judgment.",Negation,Subjective,Neutral
+"That experience was unforgettable.",Affirmation,Subjective,Euphoria
+"The discovery of DNA revolutionized biology.",Affirmation,Factual,Neutral
+"I am annoyed by his behavior.",Negation,Subjective,Anger
+"This music is calming.",Affirmation,Subjective,Happiness
+"The French Revolution had a profound impact on history.",Affirmation,Factual,Neutral
+"I don't like being kept in the dark.",Negation,Subjective,Anger
+"That victory was a moment of triumph.",Affirmation,Subjective,Euphoria
+"The invention of the computer transformed society.",Affirmation,Factual,Neutral
+"I am concerned about the environment.",Negation,Subjective,Sadness
+"This weather is perfect for a picnic.",Affirmation,Subjective,Happiness
+"The American Civil War was a defining moment in US history.",Affirmation,Factual,Neutral
+"I don't agree with his methods.",Negation,Subjective,Neutral
+"That loss was devastating.",Negation,Subjective,Sadness
+"The invention of the internet revolutionized communication.",Affirmation,Factual,Neutral
+"I am excited about the possibilities.",Affirmation,Subjective,Euphoria
+"This situation is out of control.",Negation,Subjective,Anger
+"The Cold War was a period of geopolitical tension.",Affirmation,Factual,Neutral
+"I don't like feeling vulnerable.",Negation,Subjective,Sadness
+"That achievement was remarkable.",Affirmation,Subjective,Happiness
+"The Space Race led to significant technological advancements.",Affirmation,Factual,Neutral
+"I am disappointed with the lack of progress.",Negation,Subjective,Sadness
+"This view is incredible.",Affirmation,Subjective,Euphoria
+"The fall of the Roman Empire marked the end of an era.",Affirmation,Factual,Neutral
+"I don't trust his promises.",Negation,Subjective,Neutral
+"That experience was humbling.",Affirmation,Subjective,Neutral
+"The discovery of fire was a turning point in human history.",Affirmation,Factual,Neutral
+"I am hopeful for the future.",Affirmation,Subjective,Happiness
+"This challenge is overwhelming.",Negation,Subjective,Sadness
+"The invention of the wheel revolutionized transportation.",Affirmation,Factual,Neutral
+"I don't like being underestimated.",Negation,Subjective,Anger
+"That moment was pure magic.",Affirmation,Subjective,Euphoria
+"The development of agriculture transformed human societies.",Affirmation,Factual,Neutral
+"I am frustrated with the lack of support.",Negation,Subjective,Anger
+"This news is incredibly exciting.",Affirmation,Subjective,Euphoria
+"The invention of the telephone revolutionized communication.",Affirmation,Factual,Neutral
+"I don't like being judged.",Negation,Subjective,Sadness
+"That performance was breathtaking.",Affirmation,Subjective,Happiness
+"The discovery of electricity transformed the world.",Affirmation,Factual,Neutral
+"I am worried about the consequences.",Negation,Subjective,Sadness
+"This opportunity is amazing.",Affirmation,Subjective,Euphoria
+"The human impact on the environment is a serious concern.",Affirmation,Factual,Neutral
+"I don't like being taken advantage of.",Negation,Subjective,Anger
+"That moment was truly special.",Affirmation,Subjective,Happiness
+"The library is open until 9 PM.",Affirmation,Factual,Neutral
+"I cannot stand the smell of onions.",Negation,Subjective,Anger
+"That sunset was a masterpiece of colors.",Affirmation,Subjective,Euphoria
+"A square has four equal sides.",Affirmation,Factual,Neutral
+"I dread going to the dentist.",Affirmation,Subjective,Sadness
+"The train arrived on time.",Affirmation,Factual,Neutral
+"I don't find his jokes funny.",Negation,Subjective,Neutral
+"This new coffee blend is amazing.",Affirmation,Subjective,Happiness
+"The speed of sound is faster in solids than in gases.",Affirmation,Factual,Neutral
+"I am heartbroken by the news.",Affirmation,Subjective,Sadness
+"The concert was a total letdown.",Negation,Subjective,Sadness
+"Dogs are known for their loyalty.",Affirmation,Factual,Neutral
+"I am seething with frustration.",Affirmation,Subjective,Anger
+"The view from the top of the tower was breathtaking.",Affirmation,Subjective,Euphoria
+"The Earth's core is primarily made of iron.",Affirmation,Factual,Neutral
+"I don't enjoy crowded places.",Negation,Subjective,Neutral
+"This new recipe is a culinary delight.",Affirmation,Subjective,Happiness
+"The chemical symbol for gold is Au.",Affirmation,Factual,Neutral
+"I am overwhelmed with grief.",Affirmation,Subjective,Sadness
+"The play was a complete disaster.",Negation,Subjective,Anger
+"Cats are known for their independence.",Affirmation,Factual,Neutral
+"I am filled with pure joy.",Affirmation,Subjective,Euphoria
+"The river flows into the sea.",Affirmation,Factual,Neutral
+"I don't understand the point of this meeting.",Negation,Subjective,Neutral
+"This new painting is truly captivating.",Affirmation,Subjective,Happiness
+"The boiling point of nitrogen is -196 degrees Celsius.",Affirmation,Factual,Neutral
+"I am consumed by sorrow.",Affirmation,Subjective,Sadness
+"The event was a total failure.",Negation,Subjective,Anger
+"Birds build nests in trees.",Affirmation,Factual,Neutral
+"I am bursting with happiness.",Affirmation,Subjective,Euphoria
+"The moon reflects sunlight.",Affirmation,Factual,Neutral
+"I don't like the taste of olives.",Negation,Subjective,Neutral
+"This new book is a masterpiece of storytelling.",Affirmation,Subjective,Happiness
+"The atomic number of carbon is 6.",Affirmation,Factual,Neutral
+"I am drowning in despair.",Affirmation,Subjective,Sadness
+"The presentation was a complete mess.",Negation,Subjective,Anger
+"Fish live in water.",Affirmation,Factual,Neutral
+"I am floating on a cloud of happiness.",Affirmation,Subjective,Euphoria
+"The rain is falling heavily.",Affirmation,Factual,Neutral
+"I don't like the sound of sirens.",Negation,Subjective,Neutral
+"This new sculpture is truly inspiring.",Affirmation,Subjective,Happiness
+"The human body has five senses.",Affirmation,Factual,Neutral
+"I am weighed down by sadness.",Affirmation,Subjective,Sadness
+"The project was a total flop.",Negation,Subjective,Anger
+"Trees produce oxygen.",Affirmation,Factual,Neutral
+"I am ecstatic about the news.",Affirmation,Subjective,Euphoria
+"The wind is blowing strongly.",Affirmation,Factual,Neutral
+"I don't like the feel of sand between my toes.",Negation,Subjective,Neutral
+"This new movie is a cinematic triumph.",Affirmation,Subjective,Happiness
+"The speed of light is approximately 299,792 kilometers per second.",Affirmation,Factual,Neutral
+"I am filled with deep sadness.",Affirmation,Subjective,Sadness
+"The experiment was a total bust.",Negation,Subjective,Anger
+"Bees collect pollen from flowers.",Affirmation,Factual,Neutral
+"I am absolutely thrilled.",Affirmation,Subjective,Euphoria
+"The tide is coming in.",Affirmation,Factual,Neutral
+"I don't like the texture of mushrooms.",Negation,Subjective,Neutral
+"This new song is a musical sensation.",Affirmation,Subjective,Happiness
+"The human skeleton has over 200 bones.",Affirmation,Factual,Neutral
+"I am consumed by grief and loss.",Affirmation,Subjective,Sadness
+"The plan was a complete failure from the start.",Negation,Subjective,Anger
+"Snakes are reptiles.",Affirmation,Factual,Neutral
+"I am in a state of pure bliss.",Affirmation,Subjective,Euphoria
+"The snow is falling softly.",Affirmation,Factual,Neutral
+"I don't like the taste of licorice.",Negation,Subjective,Neutral
+"This new play is a theatrical masterpiece.",Affirmation,Subjective,Happiness
+"The chemical formula for water is H2O.",Affirmation,Factual,Neutral
+"I am overcome with sorrow.",Affirmation,Subjective,Sadness
+"The business venture was a total disaster.",Negation,Subjective,Anger
+"Frogs are amphibians.",Affirmation,Factual,Neutral
+"I am experiencing unbridled joy.",Affirmation,Subjective,Euphoria
+"The leaves are changing color.",Affirmation,Factual,Neutral
+"I don't like the smell of gasoline.",Negation,Subjective,Neutral
+"This new novel is a literary marvel.",Affirmation,Subjective,Happiness
+"The largest ocean is the Pacific.",Affirmation,Factual,Neutral
+"I am heartbroken and despondent.",Affirmation,Subjective,Sadness
+"The attempt was a total washout.",Negation,Subjective,Anger
+"Spiders spin webs.",Affirmation,Factual,Neutral
+"I am overflowing with happiness.",Affirmation,Subjective,Euphoria
+"The waves are crashing on the shore.",Affirmation,Factual,Neutral
+"I don't like the feeling of chalk dust.",Negation,Subjective,Neutral
+"This new dance performance is a visual feast.",Affirmation,Subjective,Happiness
+"The planet Mars is known as the Red Planet.",Affirmation,Factual,Neutral
+"I am devastated by the tragedy.",Affirmation,Subjective,Sadness
+"The project imploded.",Negation,Subjective,Anger
+"Stars are made of hot gas.",Affirmation,Factual,Neutral
+"I am in a state of absolute euphoria.",Affirmation,Subjective,Euphoria
+"The flowers are blooming.",Affirmation,Factual,Neutral
+"I don't enjoy the sensation of static electricity.",Negation,Subjective,Neutral
+"This new film is a cinematic gem.",Affirmation,Subjective,Happiness
+"The human heart has four chambers.",Affirmation,Factual,Neutral
+"I am consumed with deep melancholy.",Affirmation,Subjective,Sadness
+"The initiative failed miserably.",Negation,Subjective,Anger
+"Sharks are fish.",Affirmation,Factual,Neutral
+"I am experiencing sheer delight.",Affirmation,Subjective,Euphoria
+"The volcano is erupting.",Affirmation,Factual,Neutral
+"I don't like the taste of raw ginger.",Negation,Subjective,Neutral
+"This new symphony is a musical triumph.",Affirmation,Subjective,Happiness
+"The Earth has a magnetic field.",Affirmation,Factual,Neutral
+"I am overwhelmed with feelings of loss.",Affirmation,Subjective,Sadness
+"The plan collapsed entirely.",Negation,Subjective,Anger
+"Butterflies undergo metamorphosis.",Affirmation,Factual,Neutral
+"I am filled with unbounded joy.",Affirmation,Subjective,Euphoria
+"The river is flooding.",Affirmation,Factual,Neutral
+"I don't like the feeling of wet wool.",Negation,Subjective,Neutral
+"This new exhibition is a visual spectacle.",Affirmation,Subjective,Happiness
+"The Milky Way is a spiral galaxy.",Affirmation,Factual,Neutral
+"I am sinking into despair.",Affirmation,Subjective,Sadness
+"The endeavor was a complete bust.",Negation,Subjective,Anger
+"Whales are mammals.",Affirmation,Factual,Neutral
+"I am experiencing pure rapture.",Affirmation,Subjective,Euphoria
+"The earthquake caused significant damage.",Affirmation,Factual,Neutral
+"The antique clock chimed three times.",Affirmation,Factual,Neutral
+"I cannot tolerate the taste of cilantro.",Negation,Subjective,Anger
+"That spontaneous road trip was utterly liberating.",Affirmation,Subjective,Euphoria
+"A circle's circumference is proportional to its diameter.",Affirmation,Factual,Neutral
+"I am weighed down by the weight of my responsibilities.",Affirmation,Subjective,Sadness
+"The old oak tree stood tall against the storm.",Affirmation,Factual,Neutral
+"I do not find his constant interruptions amusing.",Negation,Subjective,Anger
+"This homemade apple pie is simply divine.",Affirmation,Subjective,Happiness
+"The Doppler effect explains the change in wave frequency.",Affirmation,Factual,Neutral
+"I am enveloped in a cloud of melancholy.",Affirmation,Subjective,Sadness
+"The sudden power outage plunged the room into darkness.",Affirmation,Factual,Neutral
+"I do not appreciate being spoken to in that condescending tone.",Negation,Subjective,Anger
+"This unexpected reunion is a source of immense delight.",Affirmation,Subjective,Euphoria
+"The human eye can distinguish millions of colors.",Affirmation,Factual,Neutral
+"I am drowning in a sea of sorrow.",Affirmation,Subjective,Sadness
+"The abandoned lighthouse stood as a silent sentinel.",Affirmation,Factual,Neutral
+"I do not understand the logic behind this decision.",Negation,Subjective,Neutral
+"This handcrafted jewelry is a true work of art.",Affirmation,Subjective,Happiness
+"The process of osmosis involves the movement of water across a membrane.",Affirmation,Factual,Neutral
+"I am consumed by a deep sense of loss.",Affirmation,Subjective,Sadness
+"The sudden downpour soaked everyone to the bone.",Affirmation,Factual,Neutral
+"I do not like the way he dismissed my concerns.",Negation,Subjective,Anger
+"This unexpected act of kindness has filled me with joy.",Affirmation,Subjective,Euphoria
+"The average lifespan of a mayfly is only 24 hours.",Affirmation,Factual,Neutral
+"I am languishing in a state of profound sadness.",Affirmation,Subjective,Sadness
+"The old bridge creaked under the weight of the truck.",Affirmation,Factual,Neutral
+"I do not find his attempts at humor entertaining.",Negation,Subjective,Neutral
+"This freshly baked bread is absolutely heavenly.",Affirmation,Subjective,Happiness
+"The principles of thermodynamics govern energy transfer.",Affirmation,Factual,Neutral
+"I am engulfed in a wave of despair.",Affirmation,Subjective,Sadness
+"The fog rolled in, obscuring the view of the mountains.",Affirmation,Factual,Neutral
+"I do not like the feeling of being rushed.",Negation,Subjective,Anger
+"This unexpected compliment has lifted my spirits.",Affirmation,Subjective,Euphoria
+"The speed of light is the fastest known speed in the universe.",Affirmation,Factual,Neutral
+"I am sinking into a pit of hopelessness.",Affirmation,Subjective,Sadness
+"The ancient ruins stood as a testament to a forgotten civilization.",Affirmation,Factual,Neutral
+"I do not understand the purpose of this exercise.",Negation,Subjective,Neutral
+"This hand-painted mural is a breathtaking sight.",Affirmation,Subjective,Happiness
+"The process of photosynthesis converts light into chemical energy.",Affirmation,Factual,Neutral
+"I am trapped in a cycle of grief.",Affirmation,Subjective,Sadness
+"The sudden gust of wind scattered the leaves across the yard.",Affirmation,Factual,Neutral
+"I do not like being interrupted during my train of thought.",Negation,Subjective,Anger
+"This unexpected gift has brought me immense happiness.",Affirmation,Subjective,Euphoria
+"The Earth's magnetic field protects us from solar radiation.",Affirmation,Factual,Neutral
+"I am lost in a sea of melancholy.",Affirmation,Subjective,Sadness
+"The old stone wall stood as a barrier against the elements.",Affirmation,Factual,Neutral
+"I do not find his constant complaining productive.",Negation,Subjective,Neutral
+"This hand-knitted scarf is incredibly cozy.",Affirmation,Subjective,Happiness
+"The law of conservation of mass states that matter cannot be created or destroyed.",Affirmation,Factual,Neutral
+"I am weighed down by the burden of my past.",Affirmation,Subjective,Sadness
+"The sudden rainstorm forced everyone to seek shelter.",Affirmation,Factual,Neutral
+"I do not like the way he ignored my suggestion.",Negation,Subjective,Anger
+"This unexpected visit has filled me with joy and warmth.",Affirmation,Subjective,Euphoria
+"The human brain is the most complex organ in the body.",Affirmation,Factual,Neutral
+"I am engulfed in a wave of sorrow.",Affirmation,Subjective,Sadness
+"The old wooden fence stood as a boundary between the properties.",Affirmation,Factual,Neutral
+"I do not understand the relevance of this information.",Negation,Subjective,Neutral
+"This handmade pottery is exquisitely crafted.",Affirmation,Subjective,Happiness
+"The process of cellular respiration produces energy from glucose.",Affirmation,Factual,Neutral
+"I am drowning in a pool of despair.",Affirmation,Subjective,Sadness
+"The sudden hail storm damaged the crops.",Affirmation,Factual,Neutral
+"I do not like the feeling of being ignored.",Negation,Subjective,Anger
+"This unexpected phone call has brought me immense delight.",Affirmation,Subjective,Euphoria
+"The speed of sound varies depending on the medium it travels through.",Affirmation,Factual,Neutral
+"I am trapped in a cycle of grief and regret.",Affirmation,Subjective,Sadness
+"The ancient monument stood as a symbol of a bygone era.",Affirmation,Factual,Neutral
+"I do not find his constant interruptions constructive.",Negation,Subjective,Neutral
+"This hand-sewn quilt is incredibly intricate.",Affirmation,Subjective,Happiness
+"The concept of entropy describes the tendency towards disorder.",Affirmation,Factual,Neutral
+"I am languishing in a state of profound loneliness.",Affirmation,Subjective,Sadness
+"The sudden fog bank made driving dangerous.",Affirmation,Factual,Neutral
+"I do not like the way he dismissed my feelings.",Negation,Subjective,Anger
+"This unexpected letter has brought me joy and comfort.",Affirmation,Subjective,Euphoria
+"The human digestive system breaks down food into nutrients.",Affirmation,Factual,Neutral
+"I am lost in a sea of tears.",Affirmation,Subjective,Sadness
+"The abandoned building stood as a reminder of a forgotten past.",Affirmation,Factual,Neutral
+"I do not understand the rationale behind this policy.",Negation,Subjective,Neutral
+"This handcrafted sculpture is a masterpiece of detail.",Affirmation,Subjective,Happiness
+"The principles of genetics explain the inheritance of traits.",Affirmation,Factual,Neutral
+"I am consumed by a deep sense of emptiness.",Affirmation,Subjective,Sadness
+"The sudden earthquake caused widespread panic.",Affirmation,Factual,Neutral
+"I do not like the feeling of being rushed and pressured.",Negation,Subjective,Anger
+"This unexpected act of generosity has filled me with gratitude.",Affirmation,Subjective,Euphoria
+"The Earth's atmosphere is composed of various gases.",Affirmation,Factual,Neutral
+"I am engulfed in a wave of grief and despair.",Affirmation,Subjective,Sadness
+"The old stone bridge stood as a passage over the river.",Affirmation,Factual,Neutral
+"I do not find his constant negativity helpful.",Negation,Subjective,Neutral
+"This handmade tapestry is a testament to skill and artistry.",Affirmation,Subjective,Happiness
+"The process of evolution is driven by natural selection.",Affirmation,Factual,Neutral
+"I am weighed down by the weight of my sorrows.",Affirmation,Subjective,Sadness
+"The sudden thunderstorm flooded the streets.",Affirmation,Factual,Neutral
+"I do not like the way he invalidated my opinions.",Negation,Subjective,Anger
+"This unexpected message has brought me immense happiness.",Affirmation,Subjective,Euphoria
+"The concept of relativity changed our understanding of space and time.",Affirmation,Factual,Neutral
+"I am sinking into a pit of despair and regret.",Affirmation,Subjective,Sadness
+"The ancient castle stood as a symbol of power and authority.",Affirmation,Factual,Neutral
+"The invention of the light bulb changed the world.",Affirmation,Factual,Neutral
+"I am not interested in your excuses.",Negation,Subjective,Anger
+"This feeling is indescribable.",Affirmation,Subjective,Euphoria
+"The Earth's atmosphere is composed of several layers.",Affirmation,Factual,Neutral
+"I don't like being pressured.",Negation,Subjective,Anger
+"That experience was truly transformative.",Affirmation,Subjective,Happiness
+"The scientific method is the basis of scientific inquiry.",Affirmation,Factual,Neutral
+"I am not happy about the changes.",Negation,Subjective,Sadness
+"This view is simply stunning.",Affirmation,Subjective,Euphoria
+"The concept of gravity was developed by Isaac Newton.",Affirmation,Factual,Neutral
+"I don't like being manipulated.",Negation,Subjective,Anger
+"That achievement was truly remarkable.",Affirmation,Subjective,Happiness
+"The theory of relativity changed our understanding of space and time.",Affirmation,Factual,Neutral
+"I am not comfortable with this decision.",Negation,Subjective,Sadness
+"This moment is absolutely perfect.",Affirmation,Subjective,Euphoria
+"The periodic table organizes the chemical elements.",Affirmation,Factual,Neutral
+"I don't like being deceived.",Negation,Subjective,Anger
+"That experience was truly enlightening.",Affirmation,Subjective,Happiness
+"The laws of thermodynamics govern energy transfer.",Affirmation,Factual,Neutral
+"I am not pleased with the outcome.",Negation,Subjective,Sadness
+"This feeling is overwhelming.",Affirmation,Subjective,Euphoria
+"The structure of DNA was discovered by Watson and Crick.",Affirmation,Factual,Neutral
+"I don't like being patronized.",Negation,Subjective,Anger
+"That achievement was truly inspiring.",Affirmation,Subjective,Happiness
+"The concept of natural selection is central to evolutionary biology.",Affirmation,Factual,Neutral
+"I am not satisfied with the explanation.",Negation,Subjective,Sadness
+"This feeling is absolutely incredible.",Affirmation,Subjective,Euphoria
+"The human circulatory system transports blood throughout the body.",Affirmation,Factual,Neutral
+"I don't like being rushed.",Negation,Subjective,Anger
+"That experience was truly magical.",Affirmation,Subjective,Happiness
+"The process of photosynthesis converts light energy into chemical energy.",Affirmation,Factual,Neutral
+"I am not happy with the current situation.",Negation,Subjective,Sadness
+"This moment is pure bliss.",Affirmation,Subjective,Euphoria
+"The nervous system transmits signals throughout the body.",Affirmation,Factual,Neutral
+"I don't like being ignored.",Negation,Subjective,Anger
+"That achievement was truly extraordinary.",Affirmation,Subjective,Happiness
+"The concept of plate tectonics explains the movement of continents.",Affirmation,Factual,Neutral
+"I am not comfortable with the lack of communication.",Negation,Subjective,Sadness
+"This feeling is beyond words.",Affirmation,Subjective,Euphoria
+"The endocrine system regulates hormones in the body.",Affirmation,Factual,Neutral
+"I don't like being betrayed.",Negation,Subjective,Anger
+"That experience was truly transformative.",Affirmation,Subjective,Happiness
+"The process of cellular respiration produces energy from glucose.",Affirmation,Factual,Neutral
+"I am not satisfied with the quality.",Negation,Subjective,Sadness
+"This moment is absolutely divine.",Affirmation,Subjective,Euphoria
+"The immune system protects the body from pathogens.",Affirmation,Factual,Neutral
+"I don't like being taken for granted.",Negation,Subjective,Anger
+"That achievement was truly exceptional.",Affirmation,Subjective,Happiness
+"The concept of quantum mechanics describes the behavior of particles at the atomic level.",Affirmation,Factual,Neutral
+"I am not happy with the lack of effort.",Negation,Subjective,Sadness
+"This feeling is absolutely heavenly.",Affirmation,Subjective,Euphoria
+"The digestive system breaks down food into nutrients.",Affirmation,Factual,Neutral
+"I don't like being dismissed.",Negation,Subjective,Anger
+"That experience was truly unforgettable.",Affirmation,Subjective,Happiness
+"The concept of the Big Bang theory explains the origin of the universe.",Affirmation,Factual,Neutral
+"I am not pleased with the lack of progress.",Negation,Subjective,Sadness
+"This moment is pure ecstasy.",Affirmation,Subjective,Euphoria
+"The respiratory system facilitates gas exchange in the body.",Affirmation,Factual,Neutral
+"I don't like being silenced.",Negation,Subjective,Anger
+"That achievement was truly phenomenal.",Affirmation,Subjective,Happiness
+"The concept of black holes describes regions of spacetime with strong gravitational effects.",Affirmation,Factual,Neutral
+"I am not comfortable with the lack of transparency.",Negation,Subjective,Sadness
+"This feeling is absolutely sublime.",Affirmation,Subjective,Euphoria
+"The skeletal system provides support and structure to the body.",Affirmation,Factual,Neutral
+"I don't like being deceived.",Negation,Subjective,Anger
+"That experience was truly remarkable.",Affirmation,Subjective,Happiness
+"The concept of dark matter and dark energy is a mystery in cosmology.",Affirmation,Factual,Neutral
+"I am not satisfied with the lack of communication.",Negation,Subjective,Sadness
+"This moment is pure euphoria.",Affirmation,Subjective,Euphoria
+"The muscular system enables movement in the body.",Affirmation,Factual,Neutral
+"I don't like being manipulated.",Negation,Subjective,Anger
+"That achievement was truly outstanding.",Affirmation,Subjective,Happiness
+"The concept of the multiverse suggests the existence of multiple universes.",Affirmation,Factual,Neutral
+"I am not happy with the lack of effort.",Negation,Subjective,Sadness
+"This feeling is absolutely divine.",Affirmation,Subjective,Euphoria
+"The urinary system filters waste products from the blood.",Affirmation,Factual,Neutral
+"I don't like being betrayed.",Negation,Subjective,Anger
+"That experience was truly exceptional.",Affirmation,Subjective,Happiness
+"The concept of string theory attempts to unify all fundamental forces.",Affirmation,Factual,Neutral
+"I am not comfortable with the lack of transparency.",Negation,Subjective,Sadness
+"This moment is absolutely heavenly.",Affirmation,Subjective,Euphoria
+"The reproductive system enables the production of offspring.",Affirmation,Factual,Neutral
+"I don't like being taken for granted.",Negation,Subjective,Anger
+"That achievement was truly phenomenal.",Affirmation,Subjective,Happiness
+"The concept of artificial intelligence is transforming various industries.",Affirmation,Factual,Neutral
+"I am not satisfied with the lack of progress.",Negation,Subjective,Sadness
+"This feeling is absolutely sublime.",Affirmation,Subjective,Euphoria
+"The concept of renewable energy is crucial for sustainable development.",Affirmation,Factual,Neutral
+"I don't like being dismissed.",Negation,Subjective,Anger
+"That experience was truly unforgettable.",Affirmation,Subjective,Happiness
+"The concept of gene editing has potential for treating genetic diseases.",Affirmation,Factual,Neutral
+"I am not happy with the lack of effort.",Negation,Subjective,Sadness
+"This moment is pure ecstasy.",Affirmation,Subjective,Euphoria
+"The concept of space exploration is expanding our understanding of the universe.",Affirmation,Factual,Neutral
+"I don't like being silenced.",Negation,Subjective,Anger
+"That achievement was truly remarkable.",Affirmation,Subjective,Happiness
+"The concept of climate change is a global concern.",Affirmation,Factual,Neutral
+"I am not comfortable with the lack of communication.",Negation,Subjective,Sadness
+"This feeling is absolutely incredible.",Affirmation,Subjective,Euphoria
+"The concept of biodiversity is essential for ecosystem health.",Affirmation,Factual,Neutral
+"I don't like being rushed.",Negation,Subjective,Anger
+"That experience was truly magical.",Affirmation,Subjective,Happiness
+"The concept of sustainable agriculture is necessary for food security.",Affirmation,Factual,Neutral
+"I am not satisfied with the explanation.",Negation,Subjective,Sadness
+"This feeling is overwhelming.",Affirmation,Subjective,Euphoria
+"The concept of public health is crucial for preventing disease and promoting well-being.",Affirmation,Factual,Neutral
+"I don't like being patronized.",Negation,Subjective,Anger
+"That achievement was truly inspiring.",Affirmation,Subjective,Happiness
+"The concept of human rights is fundamental to a just society.",Affirmation,Factual,Neutral
