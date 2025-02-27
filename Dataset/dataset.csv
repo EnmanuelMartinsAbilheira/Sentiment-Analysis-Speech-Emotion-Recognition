@@ -950,7 +950,7 @@ Sentence,Type,Factual/Subjective,Sentiment
 "Photosynthesis is essential for plant life.",Affirmation,Factual,Neutral
 "I don't understand his motives.",Negation,Subjective,Neutral
 "That book was incredibly boring.",Negation,Subjective,Sadness
-"The Great Wall of China is visible from space.",Affirmation,Factual,Neutral 
+"The Great Wall of China is visible from space.",Affirmation,Factual,Neutral
 "I am thankful for my health.",Affirmation,Subjective,Happiness
 "This traffic is infuriating.",Negation,Subjective,Anger
 "Evolution is a fundamental principle of biology.",Affirmation,Factual,Neutral
@@ -1791,104 +1791,104 @@ Sentence,Type,Factual/Subjective,Sentiment
 "She doesn’t value honesty.",Negation,Subjective,Anger
 "I don’t like tight shoes.",Negation,Subjective,Anger
 "The moon doesn’t glow red.",Negation,Factual,Neutral
-"Dolphins do not breathe underwater.",Negation,Factual,Neutral  
-"The Earth is not flat.",Negation,Factual,Neutral  
-"Gold is not edible in large quantities.",Negation,Factual,Neutral  
-"Sharks are not mammals.",Negation,Factual,Neutral  
-"Bats are not blind.",Negation,Factual,Neutral  
-"Tomatoes are not vegetables.",Negation,Factual,Neutral  
-"Venus is not the hottest planet in our solar system.",Negation,Factual,Neutral  
-"Lightning does not strike the same place twice.",Negation,Factual,Neutral  
-"Humans do not have only five senses.",Negation,Factual,Neutral  
-"The Great Wall of China cannot be seen from space.",Negation,Factual,Neutral  
-"Chameleons do not change color for camouflage.",Negation,Factual,Neutral  
-"Mount Everest is not the tallest mountain from base to peak.",Negation,Factual,Neutral  
-"Humans cannot regrow lost limbs.",Negation,Factual,Neutral  
-"Bulls are not enraged by the color red.",Negation,Factual,Neutral  
-"Water does not conduct electricity.",Negation,Factual,Neutral  
-"Bananas do not grow on trees.",Negation,Factual,Neutral  
-"Vikings did not wear horned helmets.",Negation,Factual,Neutral  
-"Ostriches do not bury their heads in sand.",Negation,Factual,Neutral  
-"Glass is not a liquid.",Negation,Factual,Neutral  
-"Cold weather does not cause colds.",Negation,Factual,Neutral  
-"Humans cannot digest grass.",Negation,Factual,Neutral  
-"Einstein did not fail math.",Negation,Factual,Neutral  
-"Lemmings do not commit mass suicide.",Negation,Factual,Neutral  
-"Light does not travel infinitely fast.",Negation,Factual,Neutral  
-"Birds are not descended from dinosaurs.",Negation,Factual,Neutral  
-"Wolves do not howl at the moon.",Negation,Factual,Neutral  
-"The appendix is not useless.",Negation,Factual,Neutral  
-"Sound cannot travel in a vacuum.",Negation,Factual,Neutral  
-"Humans do not use only 10% of their brains.",Negation,Factual,Neutral  
-"Polar bears do not have white fur.",Negation,Factual,Neutral  
-"Peanuts are not nuts.",Negation,Factual,Neutral  
-"Alcohol does not kill brain cells.",Negation,Factual,Neutral  
-"Mars does not have liquid water.",Negation,Factual,Neutral  
-"Lightning does not create fire.",Negation,Factual,Neutral  
-"Snakes are not slimy.",Negation,Factual,Neutral  
-"Einstein did not invent the atomic bomb.",Negation,Factual,Neutral  
-"Octopuses do not have three hearts.",Negation,Factual,Neutral  
-"Carrots do not improve night vision.",Negation,Factual,Neutral  
-"Taste buds are not mapped to specific zones.",Negation,Factual,Neutral  
-"Humans cannot breathe while swallowing.",Negation,Factual,Neutral  
-"Fingernails do not grow after death.",Negation,Factual,Neutral  
-"Black holes are not cosmic vacuums.",Negation,Factual,Neutral  
-"Goldfish do not have 3-second memories.",Negation,Factual,Neutral  
-"Deoxygenated blood is not blue.",Negation,Factual,Neutral  
-"Lightning does not come from clouds.",Negation,Factual,Neutral  
-"The human skeleton is not fully replaced every 10 years.",Negation,Factual,Neutral  
-"Sharks do not get cancer.",Negation,Factual,Neutral  
-"Waking sleepwalkers is not dangerous.",Negation,Factual,Neutral  
-"Humans cannot survive without bacteria.",Negation,Factual,Neutral  
-"Urinating on jellyfish stings is not helpful.",Negation,Factual,Neutral  
-"Microwaves do not destroy nutrients in food.",Negation,Factual,Neutral  
-"Einstein was not bad at mathematics.",Negation,Factual,Neutral  
-"Taste is not limited to the tongue.",Negation,Factual,Neutral  
-"Birds do not abandon chicks touched by humans.",Negation,Factual,Neutral  
-"Electric cars are not completely emission-free.",Negation,Factual,Neutral  
-"Memory does not work like video recording.",Negation,Factual,Neutral  
-"Moon phases are not caused by Earth's shadow.",Negation,Factual,Neutral  
-"Vitamin C does not prevent colds.",Negation,Factual,Neutral  
-"Yawning is not primarily about oxygen intake.",Negation,Factual,Neutral  
-"Organic food is not pesticide-free.",Negation,Factual,Neutral  
-"Left/right brain dominance is not scientifically valid.",Negation,Factual,Neutral  
-"Lightning can not power a city.",Negation,Factual,Neutral  
-"DNA does not determine everything about us.",Negation,Factual,Neutral  
-"Neanderthals were not less intelligent than humans.",Negation,Factual,Neutral  
-"Infinity is not a number in mathematics.",Negation,Factual,Neutral  
-"Bottled water is not safer than tap water.",Negation,Factual,Neutral  
-"Glass does not flow downward over time.",Negation,Factual,Neutral  
-"Muscle does not weigh more than fat.",Negation,Factual,Neutral  
-"5G networks do not cause health hazards.",Negation,Factual,Neutral  
-"Centrifugal force is not a real force.",Negation,Factual,Neutral  
-"Airplanes do not dump waste mid-flight.",Negation,Factual,Neutral  
-"Dark matter is not visible through telescopes.",Negation,Factual,Neutral  
-"Mars does not have breathable air.",Negation,Factual,Neutral  
-"Antibiotics do not work on viruses.",Negation,Factual,Neutral  
-"Sugar does not make children hyperactive.",Negation,Factual,Neutral  
-"Black holes are not holes in space.",Negation,Factual,Neutral  
-"Fracking does not cause most earthquakes.",Negation,Factual,Neutral  
-"Vaccines do not contain microchips.",Negation,Factual,Neutral  
-"Astrology is not based on astronomy.",Negation,Factual,Neutral  
-"Quantum physics does not enable teleportation.",Negation,Factual,Neutral  
-"Aluminum foil does not block all radio waves.",Negation,Factual,Neutral  
-"Evolution does not have 'higher' life forms.",Negation,Factual,Neutral  
-"CRISPR cannot edit any DNA sequence.",Negation,Factual,Neutral  
-"Solar energy is not available 24/7.",Negation,Factual,Neutral  
-"Autism is not caused by vaccines.",Negation,Factual,Neutral  
-"Nanobots do not exist in vaccines.",Negation,Factual,Neutral  
-"Radiation from phones is not ionizing.",Negation,Factual,Neutral  
-"Nuclear energy is not inherently dangerous.",Negation,Factual,Neutral  
-"Artificial sweeteners do not cause cancer.",Negation,Factual,Neutral  
-"GMOs are not harmful by default.",Negation,Factual,Neutral  
-"Moon landings were not faked.",Negation,Factual,Neutral  
-"Climate change is not a natural cycle.",Negation,Factual,Neutral  
-"HIV cannot spread through mosquitoes.",Negation,Factual,Neutral  
-"Forensic science is not infallible.",Negation,Factual,Neutral  
-"Dinosaurs did not live with humans.",Negation,Factual,Neutral  
-"Pterodactyls are not dinosaurs.",Negation,Factual,Neutral  
-"Vaccines do not contain fetal tissue.",Negation,Factual,Neutral  
-"Einstein did not reject quantum mechanics.",Negation,Factual,Neutral  
-"COVID-19 vaccines do not alter DNA.",Negation,Factual,Neutral  
-"Astronauts are not weightless due to lack of gravity.",Negation,Factual,Neutral  
-"Renewable energy is not free of environmental impact.",Negation,Factual,Neutral  
+"Dolphins do not breathe underwater.",Negation,Factual,Neutral
+"The Earth is not flat.",Negation,Factual,Neutral
+"Gold is not edible in large quantities.",Negation,Factual,Neutral
+"Sharks are not mammals.",Negation,Factual,Neutral
+"Bats are not blind.",Negation,Factual,Neutral
+"Tomatoes are not vegetables.",Negation,Factual,Neutral
+"Venus is not the hottest planet in our solar system.",Negation,Factual,Neutral
+"Lightning does not strike the same place twice.",Negation,Factual,Neutral
+"Humans do not have only five senses.",Negation,Factual,Neutral
+"The Great Wall of China cannot be seen from space.",Negation,Factual,Neutral
+"Chameleons do not change color for camouflage.",Negation,Factual,Neutral
+"Mount Everest is not the tallest mountain from base to peak.",Negation,Factual,Neutral
+"Humans cannot regrow lost limbs.",Negation,Factual,Neutral
+"Bulls are not enraged by the color red.",Negation,Factual,Neutral
+"Water does not conduct electricity.",Negation,Factual,Neutral
+"Bananas do not grow on trees.",Negation,Factual,Neutral
+"Vikings did not wear horned helmets.",Negation,Factual,Neutral
+"Ostriches do not bury their heads in sand.",Negation,Factual,Neutral
+"Glass is not a liquid.",Negation,Factual,Neutral
+"Cold weather does not cause colds.",Negation,Factual,Neutral
+"Humans cannot digest grass.",Negation,Factual,Neutral
+"Einstein did not fail math.",Negation,Factual,Neutral
+"Lemmings do not commit mass suicide.",Negation,Factual,Neutral
+"Light does not travel infinitely fast.",Negation,Factual,Neutral
+"Birds are not descended from dinosaurs.",Negation,Factual,Neutral
+"Wolves do not howl at the moon.",Negation,Factual,Neutral
+"The appendix is not useless.",Negation,Factual,Neutral
+"Sound cannot travel in a vacuum.",Negation,Factual,Neutral
+"Humans do not use only 10% of their brains.",Negation,Factual,Neutral
+"Polar bears do not have white fur.",Negation,Factual,Neutral
+"Peanuts are not nuts.",Negation,Factual,Neutral
+"Alcohol does not kill brain cells.",Negation,Factual,Neutral
+"Mars does not have liquid water.",Negation,Factual,Neutral
+"Lightning does not create fire.",Negation,Factual,Neutral
+"Snakes are not slimy.",Negation,Factual,Neutral
+"Einstein did not invent the atomic bomb.",Negation,Factual,Neutral
+"Octopuses do not have three hearts.",Negation,Factual,Neutral
+"Carrots do not improve night vision.",Negation,Factual,Neutral
+"Taste buds are not mapped to specific zones.",Negation,Factual,Neutral
+"Humans cannot breathe while swallowing.",Negation,Factual,Neutral
+"Fingernails do not grow after death.",Negation,Factual,Neutral
+"Black holes are not cosmic vacuums.",Negation,Factual,Neutral
+"Goldfish do not have 3-second memories.",Negation,Factual,Neutral
+"Deoxygenated blood is not blue.",Negation,Factual,Neutral
+"Lightning does not come from clouds.",Negation,Factual,Neutral
+"The human skeleton is not fully replaced every 10 years.",Negation,Factual,Neutral
+"Sharks do not get cancer.",Negation,Factual,Neutral
+"Waking sleepwalkers is not dangerous.",Negation,Factual,Neutral
+"Humans cannot survive without bacteria.",Negation,Factual,Neutral
+"Urinating on jellyfish stings is not helpful.",Negation,Factual,Neutral
+"Microwaves do not destroy nutrients in food.",Negation,Factual,Neutral
+"Einstein was not bad at mathematics.",Negation,Factual,Neutral
+"Taste is not limited to the tongue.",Negation,Factual,Neutral
+"Birds do not abandon chicks touched by humans.",Negation,Factual,Neutral
+"Electric cars are not completely emission-free.",Negation,Factual,Neutral
+"Memory does not work like video recording.",Negation,Factual,Neutral
+"Moon phases are not caused by Earth's shadow.",Negation,Factual,Neutral
+"Vitamin C does not prevent colds.",Negation,Factual,Neutral
+"Yawning is not primarily about oxygen intake.",Negation,Factual,Neutral
+"Organic food is not pesticide-free.",Negation,Factual,Neutral
+"Left/right brain dominance is not scientifically valid.",Negation,Factual,Neutral
+"Lightning can not power a city.",Negation,Factual,Neutral
+"DNA does not determine everything about us.",Negation,Factual,Neutral
+"Neanderthals were not less intelligent than humans.",Negation,Factual,Neutral
+"Infinity is not a number in mathematics.",Negation,Factual,Neutral
+"Bottled water is not safer than tap water.",Negation,Factual,Neutral
+"Glass does not flow downward over time.",Negation,Factual,Neutral
+"Muscle does not weigh more than fat.",Negation,Factual,Neutral
+"5G networks do not cause health hazards.",Negation,Factual,Neutral
+"Centrifugal force is not a real force.",Negation,Factual,Neutral
+"Airplanes do not dump waste mid-flight.",Negation,Factual,Neutral
+"Dark matter is not visible through telescopes.",Negation,Factual,Neutral
+"Mars does not have breathable air.",Negation,Factual,Neutral
+"Antibiotics do not work on viruses.",Negation,Factual,Neutral
+"Sugar does not make children hyperactive.",Negation,Factual,Neutral
+"Black holes are not holes in space.",Negation,Factual,Neutral
+"Fracking does not cause most earthquakes.",Negation,Factual,Neutral
+"Vaccines do not contain microchips.",Negation,Factual,Neutral
+"Astrology is not based on astronomy.",Negation,Factual,Neutral
+"Quantum physics does not enable teleportation.",Negation,Factual,Neutral
+"Aluminum foil does not block all radio waves.",Negation,Factual,Neutral
+"Evolution does not have 'higher' life forms.",Negation,Factual,Neutral
+"CRISPR cannot edit any DNA sequence.",Negation,Factual,Neutral
+"Solar energy is not available 24/7.",Negation,Factual,Neutral
+"Autism is not caused by vaccines.",Negation,Factual,Neutral
+"Nanobots do not exist in vaccines.",Negation,Factual,Neutral
+"Radiation from phones is not ionizing.",Negation,Factual,Neutral
+"Nuclear energy is not inherently dangerous.",Negation,Factual,Neutral
+"Artificial sweeteners do not cause cancer.",Negation,Factual,Neutral
+"GMOs are not harmful by default.",Negation,Factual,Neutral
+"Moon landings were not faked.",Negation,Factual,Neutral
+"Climate change is not a natural cycle.",Negation,Factual,Neutral
+"HIV cannot spread through mosquitoes.",Negation,Factual,Neutral
+"Forensic science is not infallible.",Negation,Factual,Neutral
+"Dinosaurs did not live with humans.",Negation,Factual,Neutral
+"Pterodactyls are not dinosaurs.",Negation,Factual,Neutral
+"Vaccines do not contain fetal tissue.",Negation,Factual,Neutral
+"Einstein did not reject quantum mechanics.",Negation,Factual,Neutral
+"COVID-19 vaccines do not alter DNA.",Negation,Factual,Neutral
+"Astronauts are not weightless due to lack of gravity.",Negation,Factual,Neutral
+"Renewable energy is not free of environmental impact.",Negation,Factual,Neutral
