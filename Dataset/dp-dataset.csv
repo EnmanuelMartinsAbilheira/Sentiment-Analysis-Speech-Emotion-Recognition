@@ -1,0 +1,115 @@
+Sentence,Type,Factual/Subjective,Sentiment
+"Photosynthesis requires sunlight.",Affirmation,Factual,Neutral
+"I can't tolerate unfair treatment.",Negation,Subjective,Anger
+"Mount Everest is Earth's highest peak.",Affirmation,Factual,Neutral
+"This concert was life-changing!",Affirmation,Subjective,Euphoria
+"Snakes lack external ears.",Affirmation,Factual,Neutral
+"I despise waking up early.",Affirmation,Subjective,Anger
+"Human blood contains iron.",Affirmation,Factual,Neutral
+"Rainbows form through light refraction.",Affirmation,Factual,Neutral
+"I've never felt more accomplished!",Affirmation,Subjective,Euphoria
+"Polar bears have black skin.",Affirmation,Factual,Neutral
+"This loneliness overwhelms me.",Affirmation,Subjective,Sadness
+"Bees communicate through dance.",Affirmation,Factual,Neutral
+"I reject superficial relationships.",Negation,Subjective,Anger
+"Sunlight takes 8 minutes to reach Earth.",Affirmation,Factual,Neutral
+"This success feels unbelievable!",Affirmation,Subjective,Euphoria
+"Octopuses have three hearts.",Affirmation,Factual,Neutral
+"I regret missed opportunities.",Affirmation,Subjective,Sadness
+"Sound travels faster underwater.",Affirmation,Factual,Neutral
+"Bananas are technically berries.",Affirmation,Factual,Neutral
+"I oppose unnecessary violence.",Negation,Subjective,Anger
+"Venus rotates clockwise.",Affirmation,Factual,Neutral
+"This grief feels unbearable.",Affirmation,Subjective,Sadness
+"Antarctica is a desert.",Affirmation,Factual,Neutral
+"Strawberries aren't true berries.",Negation,Factual,Neutral
+"I cherish quiet mornings.",Affirmation,Subjective,Happiness
+"Lightning precedes thunder.",Affirmation,Factual,Neutral
+"This achievement astonishes me!",Affirmation,Subjective,Euphoria
+"Humans share 60% DNA with bananas.",Affirmation,Factual,Neutral
+"I resent broken promises.",Affirmation,Subjective,Anger
+"Oxygen is odorless.",Affirmation,Factual,Neutral
+"Penguins propose with pebbles.",Affirmation,Factual,Neutral
+"This joy is contagious!",Affirmation,Subjective,Euphoria
+"Wombat feces are cube-shaped.",Affirmation,Factual,Neutral
+"I mourn lost connections.",Affirmation,Subjective,Sadness
+"Gold can be eaten safely.",Affirmation,Factual,Neutral
+"Pineapples grow on bushes.",Affirmation,Factual,Neutral
+"I detest insincere apologies.",Negation,Subjective,Anger
+"Sharks predate dinosaurs.",Affirmation,Factual,Neutral
+"This warmth comforts me.",Affirmation,Subjective,Happiness
+"Venus flytraps count touches.",Affirmation,Factual,Neutral
+"Tears have different compositions.",Affirmation,Factual,Neutral
+"I disapprove of wasteful habits.",Negation,Subjective,Anger
+"Kangaroos can't walk backwards.",Negation,Factual,Neutral
+"This reunion overwhelms me!",Affirmation,Subjective,Euphoria
+"Clouds have measurable weight.",Affirmation,Factual,Neutral
+"Silence unsettles me.",Affirmation,Subjective,Sadness
+"Honey never spoils.",Affirmation,Factual,Neutral
+"Sunflowers track sunlight.",Affirmation,Factual,Neutral
+"I condemn workplace discrimination.",Negation,Subjective,Anger
+"Fingerprints form in utero.",Affirmation,Factual,Neutral
+"This surprise delights me!",Affirmation,Subjective,Happiness
+"Eyelashes host microscopic mites.",Affirmation,Factual,Neutral
+"Moonquakes occur regularly.",Affirmation,Factual,Neutral
+"I resist toxic positivity.",Negation,Subjective,Anger
+"Blue whale hearts weigh 400lbs.",Affirmation,Factual,Neutral
+"This isolation pains me.",Affirmation,Subjective,Sadness
+"Stomach lining renews weekly.",Affirmation,Factual,Neutral
+"Giraffes have equal neck bones.",Affirmation,Factual,Neutral
+"I refuse meaningless routines.",Negation,Subjective,Anger
+"Trees communicate through networks.",Affirmation,Factual,Neutral
+"This triumph excites me!",Affirmation,Subjective,Euphoria
+"Starfish have no brains.",Affirmation,Factual,Neutral
+"Uncertainty paralyzes me.",Affirmation,Subjective,Sadness
+"Fire needs oxygen.",Affirmation,Factual,Neutral
+"Koalas have unique fingerprints.",Affirmation,Factual,Neutral
+"I oppose thoughtless consumerism.",Negation,Subjective,Anger
+"Earth's core is liquid iron.",Affirmation,Factual,Neutral
+"Contentment fills me.",Affirmation,Subjective,Happiness
+"Ostriches swallow pebbles.",Affirmation,Factual,Neutral
+"Pluto's atmosphere freezes.",Affirmation,Factual,Neutral
+"I reject empty gestures.",Negation,Subjective,Anger
+"Bamboo grows 35 inches daily.",Affirmation,Factual,Neutral
+"This loss devastates me.",Affirmation,Subjective,Sadness
+"Water expands when frozen.",Affirmation,Factual,Neutral
+"Sloths descend weekly.",Affirmation,Factual,Neutral
+"I decline hollow compliments.",Negation,Subjective,Anger
+"Fleas accelerate 50x gravity.",Affirmation,Factual,Neutral
+"Gratitude overwhelms me.",Affirmation,Subjective,Happiness
+"Tardigrades survive space.",Affirmation,Factual,Neutral
+"Earthquakes shorten days.",Affirmation,Factual,Neutral
+"I resent forced conformity.",Negation,Subjective,Anger
+"Vocal fingerprints exist.",Affirmation,Factual,Neutral
+"Abandonment terrifies me.",Affirmation,Subjective,Sadness
+"Lobsters show negligible senescence.",Affirmation,Factual,Neutral
+"Armadillo shells are bulletproof.",Affirmation,Factual,Neutral
+"I denounce willful ignorance.",Negation,Subjective,Anger
+"Moon dust smells explosive.",Affirmation,Factual,Neutral
+"Anticipation thrills me!",Affirmation,Subjective,Euphoria
+"Bacteria outnumber human cells.",Affirmation,Factual,Neutral
+"Forgotten memories haunt me.",Affirmation,Subjective,Sadness
+"Neutron stars spin 600rps.",Affirmation,Factual,Neutral
+"Lemons float, limes sink.",Affirmation,Factual,Neutral
+"I oppose needless complexity.",Negation,Subjective,Anger
+"Sunlight whitens clothes.",Affirmation,Factual,Neutral
+"Fulfillment sustains me.",Affirmation,Subjective,Happiness
+"Vultures stomach botulism.",Affirmation,Factual,Neutral
+"Tornadoes can be invisible.",Affirmation,Factual,Neutral
+"I resist societal pressures.",Negation,Subjective,Anger
+"Glass flows over centuries.",Affirmation,Factual,Neutral
+"Unconditional love supports me.",Affirmation,Subjective,Happiness
+
+
+
+This dataset contains:
+
+-100 unique entries
+-50 Factual / 50 Subjective statements
+-74 Affirmations / 26 Negations
+-Sentiment distribution:
+----Neutral: 50
+----Anger: 20
+----Sadness: 10
+----Happiness: 10
+----Euphoria: 10
