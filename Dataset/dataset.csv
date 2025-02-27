@@ -368,3 +368,277 @@ Sentence,Type,Factual/Subjective,Sentiment
 "Seeing a full moon on a clear night is magical.",Affirmation,Subjective,Euphoria
 "Helium is the second lightest element.",Affirmation,Factual,Neutral
 "I feel grateful for the little things in life.",Affirmation,Subjective,Happiness
+"Photosynthesis requires sunlight.",Affirmation,Factual,Neutral
+"I can't tolerate unfair treatment.",Negation,Subjective,Anger
+"Mount Everest is Earth's highest peak.",Affirmation,Factual,Neutral
+"This concert was life-changing!",Affirmation,Subjective,Euphoria
+"Snakes lack external ears.",Affirmation,Factual,Neutral
+"I despise waking up early.",Affirmation,Subjective,Anger
+"Human blood contains iron.",Affirmation,Factual,Neutral
+"Rainbows form through light refraction.",Affirmation,Factual,Neutral
+"I've never felt more accomplished!",Affirmation,Subjective,Euphoria
+"Polar bears have black skin.",Affirmation,Factual,Neutral
+"This loneliness overwhelms me.",Affirmation,Subjective,Sadness
+"Bees communicate through dance.",Affirmation,Factual,Neutral
+"I reject superficial relationships.",Negation,Subjective,Anger
+"Sunlight takes 8 minutes to reach Earth.",Affirmation,Factual,Neutral
+"This success feels unbelievable!",Affirmation,Subjective,Euphoria
+"Octopuses have three hearts.",Affirmation,Factual,Neutral
+"I regret missed opportunities.",Affirmation,Subjective,Sadness
+"Sound travels faster underwater.",Affirmation,Factual,Neutral
+"Bananas are technically berries.",Affirmation,Factual,Neutral
+"I oppose unnecessary violence.",Negation,Subjective,Anger
+"Venus rotates clockwise.",Affirmation,Factual,Neutral
+"This grief feels unbearable.",Affirmation,Subjective,Sadness
+"Antarctica is a desert.",Affirmation,Factual,Neutral
+"Strawberries aren't true berries.",Negation,Factual,Neutral
+"I cherish quiet mornings.",Affirmation,Subjective,Happiness
+"Lightning precedes thunder.",Affirmation,Factual,Neutral
+"This achievement astonishes me!",Affirmation,Subjective,Euphoria
+"Humans share 60% DNA with bananas.",Affirmation,Factual,Neutral
+"I resent broken promises.",Affirmation,Subjective,Anger
+"Oxygen is odorless.",Affirmation,Factual,Neutral
+"Penguins propose with pebbles.",Affirmation,Factual,Neutral
+"This joy is contagious!",Affirmation,Subjective,Euphoria
+"Wombat feces are cube-shaped.",Affirmation,Factual,Neutral
+"I mourn lost connections.",Affirmation,Subjective,Sadness
+"Gold can be eaten safely.",Affirmation,Factual,Neutral
+"Pineapples grow on bushes.",Affirmation,Factual,Neutral
+"I detest insincere apologies.",Negation,Subjective,Anger
+"Sharks predate dinosaurs.",Affirmation,Factual,Neutral
+"This warmth comforts me.",Affirmation,Subjective,Happiness
+"Venus flytraps count touches.",Affirmation,Factual,Neutral
+"Tears have different compositions.",Affirmation,Factual,Neutral
+"I disapprove of wasteful habits.",Negation,Subjective,Anger
+"Kangaroos can't walk backwards.",Negation,Factual,Neutral
+"This reunion overwhelms me!",Affirmation,Subjective,Euphoria
+"Clouds have measurable weight.",Affirmation,Factual,Neutral
+"Silence unsettles me.",Affirmation,Subjective,Sadness
+"Honey never spoils.",Affirmation,Factual,Neutral
+"Sunflowers track sunlight.",Affirmation,Factual,Neutral
+"I condemn workplace discrimination.",Negation,Subjective,Anger
+"Fingerprints form in utero.",Affirmation,Factual,Neutral
+"This surprise delights me!",Affirmation,Subjective,Happiness
+"Eyelashes host microscopic mites.",Affirmation,Factual,Neutral
+"Moonquakes occur regularly.",Affirmation,Factual,Neutral
+"I resist toxic positivity.",Negation,Subjective,Anger
+"Blue whale hearts weigh 400lbs.",Affirmation,Factual,Neutral
+"This isolation pains me.",Affirmation,Subjective,Sadness
+"Stomach lining renews weekly.",Affirmation,Factual,Neutral
+"Giraffes have equal neck bones.",Affirmation,Factual,Neutral
+"I refuse meaningless routines.",Negation,Subjective,Anger
+"Trees communicate through networks.",Affirmation,Factual,Neutral
+"This triumph excites me!",Affirmation,Subjective,Euphoria
+"Starfish have no brains.",Affirmation,Factual,Neutral
+"Uncertainty paralyzes me.",Affirmation,Subjective,Sadness
+"Fire needs oxygen.",Affirmation,Factual,Neutral
+"Koalas have unique fingerprints.",Affirmation,Factual,Neutral
+"I oppose thoughtless consumerism.",Negation,Subjective,Anger
+"Earth's core is liquid iron.",Affirmation,Factual,Neutral
+"Contentment fills me.",Affirmation,Subjective,Happiness
+"Ostriches swallow pebbles.",Affirmation,Factual,Neutral
+"Pluto's atmosphere freezes.",Affirmation,Factual,Neutral
+"I reject empty gestures.",Negation,Subjective,Anger
+"Bamboo grows 35 inches daily.",Affirmation,Factual,Neutral
+"This loss devastates me.",Affirmation,Subjective,Sadness
+"Water expands when frozen.",Affirmation,Factual,Neutral
+"Sloths descend weekly.",Affirmation,Factual,Neutral
+"I decline hollow compliments.",Negation,Subjective,Anger
+"Fleas accelerate 50x gravity.",Affirmation,Factual,Neutral
+"Gratitude overwhelms me.",Affirmation,Subjective,Happiness
+"Tardigrades survive space.",Affirmation,Factual,Neutral
+"Earthquakes shorten days.",Affirmation,Factual,Neutral
+"I resent forced conformity.",Negation,Subjective,Anger
+"Vocal fingerprints exist.",Affirmation,Factual,Neutral
+"Abandonment terrifies me.",Affirmation,Subjective,Sadness
+"Lobsters show negligible senescence.",Affirmation,Factual,Neutral
+"Armadillo shells are bulletproof.",Affirmation,Factual,Neutral
+"I denounce willful ignorance.",Negation,Subjective,Anger
+"Moon dust smells explosive.",Affirmation,Factual,Neutral
+"Anticipation thrills me!",Affirmation,Subjective,Euphoria
+"Bacteria outnumber human cells.",Affirmation,Factual,Neutral
+"Forgotten memories haunt me.",Affirmation,Subjective,Sadness
+"Neutron stars spin 600rps.",Affirmation,Factual,Neutral
+"Lemons float, limes sink.",Affirmation,Factual,Neutral
+"I oppose needless complexity.",Negation,Subjective,Anger
+"Sunlight whitens clothes.",Affirmation,Factual,Neutral
+"Fulfillment sustains me.",Affirmation,Subjective,Happiness
+"Vultures stomach botulism.",Affirmation,Factual,Neutral
+"Tornadoes can be invisible.",Affirmation,Factual,Neutral
+"I resist societal pressures.",Negation,Subjective,Anger
+"Glass flows over centuries.",Affirmation,Factual,Neutral
+"Unconditional love supports me.",Affirmation,Subjective,Happiness
+"Mars has two natural satellites.",Affirmation,Factual,Neutral
+"I can't stand dishonesty in relationships.",Negation,Subjective,Anger
+"Quantum computing uses quantum bits.",Affirmation,Factual,Neutral
+"This sunset takes my breath away!",Affirmation,Subjective,Euphoria
+"Human bones regenerate every decade.",Affirmation,Factual,Neutral
+"I reject superficial social norms.",Negation,Subjective,Anger
+"Octopuses have three hearts.",Affirmation,Factual,Neutral
+"Laughter reduces stress hormones.",Affirmation,Factual,Neutral
+"This achievement fills me with pride!",Affirmation,Subjective,Happiness
+"Jupiter's Great Red Spot is shrinking.",Affirmation,Factual,Neutral
+"Betrayal leaves deep scars.",Affirmation,Subjective,Sadness
+"Photosynthesis converts light to energy.",Affirmation,Factual,Neutral
+"I oppose environmental destruction.",Negation,Subjective,Anger
+"Earth's atmosphere contains 78% nitrogen.",Affirmation,Factual,Neutral
+"Childhood memories warm my heart.",Affirmation,Subjective,Happiness
+"Tardigrades survive extreme radiation.",Affirmation,Factual,Neutral
+"Unrequited love pains me.",Affirmation,Subjective,Sadness
+"Light travels at 299,792 km/s.",Affirmation,Factual,Neutral
+"I despise bureaucratic red tape.",Affirmation,Subjective,Anger
+"Mitochondria are cell powerhouses.",Affirmation,Factual,Neutral
+"Penguins propose with pebbles.",Affirmation,Factual,Neutral
+"Meditation centers my being.",Affirmation,Subjective,Neutral
+"Pluto's surface contains methane ice.",Affirmation,Factual,Neutral
+"False accusations infuriate me.",Affirmation,Subjective,Anger
+"Human saliva contains painkillers.",Affirmation,Factual,Neutral
+"Ocean waves calm my mind.",Affirmation,Subjective,Happiness
+"Neutron stars rotate 600 times/sec.",Affirmation,Factual,Neutral
+"I refuse to accept mediocrity.",Negation,Subjective,Anger
+"Bananas are radioactive.",Affirmation,Factual,Neutral
+"Forgotten promises hurt deeply.",Affirmation,Subjective,Sadness
+"Venus has volcanic activity.",Affirmation,Factual,Neutral
+"Puppy breath brings me joy.",Affirmation,Subjective,Euphoria
+"Stomach acid dissolves metal.",Affirmation,Factual,Neutral
+"Unjust systems anger me.",Affirmation,Subjective,Anger
+"Blue whales' hearts weigh 400kg.",Affirmation,Factual,Neutral
+"Morning coffee energizes my soul.",Affirmation,Subjective,Happiness
+"Trees communicate through root networks.",Affirmation,Factual,Neutral
+"I condemn workplace discrimination.",Negation,Subjective,Anger
+"Human nose detects 1 trillion scents.",Affirmation,Factual,Neutral
+"Old photographs evoke nostalgia.",Affirmation,Subjective,Sadness
+"Solar flares affect radio signals.",Affirmation,Factual,Neutral
+"Freshly baked bread comforts me.",Affirmation,Subjective,Happiness
+"Antarctica has active volcanoes.",Affirmation,Factual,Neutral
+"Plagiarism disgusts me.",Affirmation,Subjective,Anger
+"Sharks existed before trees.",Affirmation,Factual,Neutral
+"Rainy days lift my spirits.",Affirmation,Subjective,Happiness
+"Human DNA contains viral remnants.",Affirmation,Factual,Neutral
+"I oppose cultural appropriation.",Negation,Subjective,Anger
+"Bees recognize human faces.",Affirmation,Factual,Neutral
+"Abandonment fears haunt me.",Affirmation,Subjective,Sadness
+"Mercury's core is liquid iron.",Affirmation,Factual,Neutral
+"Summer rain rejuvenates me.",Affirmation,Subjective,Euphoria
+"Wombat feces are cube-shaped.",Affirmation,Factual,Neutral
+"Willful ignorance angers me.",Affirmation,Subjective,Anger
+"Clouds weigh millions of pounds.",Affirmation,Factual,Neutral
+"Grandmother's recipes bring comfort.",Affirmation,Subjective,Happiness
+"Earth's rotation is slowing.",Affirmation,Factual,Neutral
+"I reject toxic positivity.",Negation,Subjective,Anger
+"Fingerprints enhance grip.",Affirmation,Factual,Neutral
+"Unanswered messages worry me.",Affirmation,Subjective,Sadness
+"Moon dust smells like gunpowder.",Affirmation,Factual,Neutral
+"Baby laughter is magical.",Affirmation,Subjective,Euphoria
+"Strawberries have 200 seeds.",Affirmation,Factual,Neutral
+"Traffic jams test my patience.",Affirmation,Subjective,Anger
+"Human eyes see 10 million colors.",Affirmation,Factual,Neutral
+"Forest walks ground me.",Affirmation,Subjective,Neutral
+"Saturn's rings are ice particles.",Affirmation,Factual,Neutral
+"Chronic lateness irritates me.",Affirmation,Subjective,Anger
+"Lobsters show negligible senescence.",Affirmation,Factual,Neutral
+"Unconditional love sustains me.",Affirmation,Subjective,Happiness
+"Lightning strikes 8 million times/day.",Affirmation,Factual,Neutral
+"Unkept promises disappoint me.",Affirmation,Subjective,Sadness
+"Glass flows over centuries.",Affirmation,Factual,Neutral
+"Morning yoga centers my being.",Affirmation,Subjective,Neutral
+"Vocal cords vibrate 100-1000Hz.",Affirmation,Factual,Neutral
+"Wasted potential saddens me.",Affirmation,Subjective,Sadness
+"Oysters change gender.",Affirmation,Factual,Neutral
+"Winter holidays excite me!",Affirmation,Subjective,Euphoria
+"Human gut contains 2kg bacteria.",Affirmation,Factual,Neutral
+"Mindless consumerism bothers me.",Affirmation,Subjective,Anger
+"Kangaroos can't walk backward.",Negation,Factual,Neutral
+"Family traditions anchor me.",Affirmation,Subjective,Happiness
+"Sunflowers track sunlight.",Affirmation,Factual,Neutral
+"Unresolved conflicts eat at me.",Affirmation,Subjective,Sadness
+"Venus rotates clockwise.",Affirmation,Factual,Neutral
+"Art museums inspire wonder.",Affirmation,Subjective,Euphoria
+"Human brain generates 25 watts.",Affirmation,Factual,Neutral
+"Unreliable Wi-Fi frustrates me.",Affirmation,Subjective,Anger
+"Tears have different compositions.",Affirmation,Factual,Neutral
+"Morning sunlight energizes me.",Affirmation,Subjective,Happiness
+"Earth's core is as hot as Sun.",Affirmation,Factual,Neutral
+"Social media drains me.",Affirmation,Subjective,Sadness
+"Flamingos pink comes from diet.",Affirmation,Factual,Neutral
+"Meaningful conversations fulfill me.",Affirmation,Subjective,Happiness
+"Bamboo grows 35 inches/day.",Affirmation,Factual,Neutral
+"Unfair criticism stings.",Affirmation,Subjective,Sadness
+"Snakes smell with tongues.",Affirmation,Factual,Neutral
+"Personal growth excites me!",Affirmation,Subjective,Euphoria
+"Human hair contains gold.",Affirmation,Factual,Neutral
+"Broken trust devastates me.",Affirmation,Subjective,Sadness
+"Elephants mourn their dead.",Affirmation,Factual,Neutral
+"Creative projects fuel me.",Affirmation,Subjective,Happiness
+"Sound travels faster underwater.",Affirmation,Factual,Neutral
+"Unanswered questions haunt me.",Affirmation,Subjective,Sadness
+"Banana plants are herbs.",Affirmation,Factual,Neutral
+"Team successes thrill me!",Affirmation,Subjective,Euphoria
+"Water has 3 states of matter.",Affirmation,Factual,Neutral
+"Unkept gardens depress me.",Affirmation,Subjective,Sadness
+"Gold is edible.",Affirmation,Factual,Neutral
+"Cultural diversity enriches me.",Affirmation,Subjective,Happiness
+"Light takes 8 minutes from Sun.",Affirmation,Factual,Neutral
+"Unread books guilt-trip me.",Affirmation,Subjective,Sadness
+"Koalas have unique fingerprints.",Affirmation,Factual,Neutral
+"Personal achievements motivate me.",Affirmation,Subjective,Happiness
+"Earth has 8.7 million species.",Affirmation,Factual,Neutral
+"Unhealthy relationships drain me.",Affirmation,Subjective,Sadness
+"Oxygen is colorless.",Affirmation,Factual,Neutral
+"Morning birdsong uplifts me.",Affirmation,Subjective,Happiness
+"Sharks detect electricity.",Affirmation,Factual,Neutral
+"Creative blocks frustrate me.",Affirmation,Subjective,Anger
+"Human nails grow 3mm/month.",Affirmation,Factual,Neutral
+"Financial security comforts me.",Affirmation,Subjective,Neutral
+"Ants farm aphids.",Affirmation,Factual,Neutral
+"Unprocessed trauma affects me.",Affirmation,Subjective,Sadness
+"Fingernails grow faster than toes.",Affirmation,Factual,Neutral
+"Self-care routines restore me.",Affirmation,Subjective,Happiness
+"Earth's magnetic field shifts.",Affirmation,Factual,Neutral
+"Unresolved mysteries intrigue me.",Affirmation,Subjective,Neutral
+"Octopus blood is blue.",Affirmation,Factual,Neutral
+"Unjust systems anger me.",Affirmation,Subjective,Anger
+"Human ears never stop growing.",Affirmation,Factual,Neutral
+"Cultural exchanges enlighten me.",Affirmation,Subjective,Happiness
+"Sun produces 384 yottawatts.",Affirmation,Factual,Neutral
+"Unspoken words burden me.",Affirmation,Subjective,Sadness
+"Pineapples take 2 years to grow.",Affirmation,Factual,Neutral
+"Artistic expression fulfills me.",Affirmation,Subjective,Euphoria
+"Human liver regenerates.",Affirmation,Factual,Neutral
+"Unfinished projects stress me.",Affirmation,Subjective,Anger
+"Birds descended from dinosaurs.",Affirmation,Factual,Neutral
+"Morning runs invigorate me.",Affirmation,Subjective,Happiness
+"Water covers 71% of Earth.",Affirmation,Factual,Neutral
+"Unresolved grief lingers.",Affirmation,Subjective,Sadness
+"Human skin sheds 40lbs lifetime.",Affirmation,Factual,Neutral
+"Intellectual debates stimulate me.",Affirmation,Subjective,Euphoria
+"Desert sand can sing.",Affirmation,Factual,Neutral
+"Unhealthy food tempts me.",Affirmation,Subjective,Anger
+"Human heart beats 100,000/day.",Affirmation,Factual,Neutral
+"Personal space rejuvenates me.",Affirmation,Subjective,Happiness
+"Moon causes Earth tides.",Affirmation,Factual,Neutral
+"Unchecked ambition worries me.",Affirmation,Subjective,Sadness
+"Human brain 60% fat.",Affirmation,Factual,Neutral
+"Musical harmony moves me.",Affirmation,Subjective,Euphoria
+"Volcanoes create new land.",Affirmation,Factual,Neutral
+"Unfiltered opinions offend me.",Affirmation,Subjective,Anger
+"Human lungs surface=tennis court.",Affirmation,Factual,Neutral
+"Nature documentaries calm me.",Affirmation,Subjective,Neutral
+"Stars twinkle due to turbulence.",Affirmation,Factual,Neutral
+"Uncertain future frightens me.",Affirmation,Subjective,Sadness
+"Human skeleton renews every 10y.",Affirmation,Factual,Neutral
+"Scientific discoveries excite me!",Affirmation,Subjective,Euphoria
+"Rainbows form at 42 degrees.",Affirmation,Factual,Neutral
+"Unwanted advice annoys me.",Affirmation,Subjective,Anger
+"Human eye distinguishes 500 gray shades.",Affirmation,Factual,Neutral
+"Historical novels educate me.",Affirmation,Subjective,Neutral
+"Earth's circumference 24,901 miles.",Affirmation,Factual,Neutral
+"Unmet expectations disappoint me.",Affirmation,Subjective,Sadness
+"Human tongue has unique print.",Affirmation,Factual,Neutral
+"Technological progress inspires me.",Affirmation,Subjective,Happiness
+"Northern Lights solar particles.",Affirmation,Factual,Neutral
+"Unnecessary noise irritates me.",Affirmation,Subjective,Anger
+"Human hair supports 100g weight.",Affirmation,Factual,Neutral
+"Learning languages challenges me.",Affirmation,Subjective,Neutral
+"Earth's inner core solid iron.",Affirmation,Factual,Neutral
+"Unseen efforts discourage me.",Affirmation,Subjective,Sadness
