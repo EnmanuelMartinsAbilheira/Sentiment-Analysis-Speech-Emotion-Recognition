@@ -1,0 +1,2450 @@
+Sentence,Type,Factual/Subjective,Sentiment
+sky blue,Affirmation,Factual,Neutral
+love sunny day,Affirmation,Subjective,Happiness
+pizza disgusting,Affirmation,Subjective,Anger
+water boil 100 degree celsius,Affirmation,Factual,Neutral
+dont think good idea,Negation,Subjective,Sadness
+never come meeting time,Negation,Factual,Anger
+best book ive ever read,Affirmation,Subjective,Euphoria
+fair decision,Negation,Subjective,Anger
+train arrive 5 pm,Affirmation,Factual,Neutral
+hate rain day,Affirmation,Subjective,Sadness
+one like waiting long line,Negation,Subjective,Anger
+chocolate made cocoa bean,Affirmation,Factual,Neutral
+dont feel comfortable crowd,Negation,Subjective,Sadness
+earth orbit sun,Affirmation,Factual,Neutral
+movie wasnt interesting,Negation,Subjective,Sadness
+cake taste amazing,Affirmation,Subjective,Euphoria
+isnt friendly stranger,Negation,Subjective,Anger
+museum close 6 pm,Affirmation,Factual,Neutral
+really enjoy hiking mountain,Affirmation,Subjective,Happiness
+stock market unpredictable,Affirmation,Factual,Neutral
+attitude isnt helpful,Negation,Subjective,Anger
+math important subject school,Affirmation,Factual,Neutral
+dont like way talk,Negation,Subjective,Anger
+exercising regularly beneficial health,Affirmation,Factual,Happiness
+nobody go,Negation,Subjective,Sadness
+beautiful sunset ive seen,Affirmation,Subjective,Euphoria
+never listens advice,Negation,Factual,Anger
+dog cutest world,Affirmation,Subjective,Euphoria
+electric car produce less pollution,Affirmation,Factual,Happiness
+shouldnt rude others,Negation,Subjective,Anger
+healthy eat much sugar,Negation,Factual,Sadness
+feel happy today,Affirmation,Subjective,Happiness
+wasnt smart decision,Negation,Subjective,Sadness
+learning new language rewarding,Affirmation,Factual,Happiness
+coffee bitter,Affirmation,Subjective,Anger
+nobody enjoys feeling ignored,Negation,Subjective,Sadness
+weather perfect picnic,Affirmation,Subjective,Happiness
+effort appreciated enough,Negation,Subjective,Sadness
+always kind everyone,Affirmation,Subjective,Happiness
+wouldnt recommend restaurant,Negation,Subjective,Anger
+internet revolutionized communication,Affirmation,Factual,Neutral
+im satisfied service,Negation,Subjective,Anger
+music power change mood,Affirmation,Factual,Happiness
+never keep promise,Negation,Factual,Anger
+dress absolutely gorgeous,Affirmation,Subjective,Euphoria
+fast food isnt healthiest option,Negation,Factual,Sadness
+great leader motivator,Affirmation,Subjective,Happiness
+one deserves treated unfairly,Negation,Subjective,Anger
+hard work often lead success,Affirmation,Factual,Happiness
+cant stand traffic jam,Negation,Subjective,Anger
+winning competition feel incredible,Affirmation,Subjective,Euphoria
+rainy day make feel melancholic,Affirmation,Subjective,Sadness
+solar energy renewable resource,Affirmation,Factual,Neutral
+get frustrated phone battery dy,Affirmation,Subjective,Anger
+smell fresh bread make happy,Affirmation,Subjective,Happiness
+waking early isnt favorite thing,Negation,Subjective,Sadness
+adore spending time family,Affirmation,Subjective,Happiness
+global warming serious issue,Affirmation,Factual,Neutral
+monday worst,Affirmation,Subjective,Anger
+one suffer injustice,Negation,Subjective,Sadness
+reaching goal fill euphoria,Affirmation,Subjective,Euphoria
+place isnt welcoming,Negation,Subjective,Anger
+dog incredibly loyal animal,Affirmation,Factual,Happiness
+feel alone sometimes,Affirmation,Subjective,Sadness
+running morning boost mood,Affirmation,Subjective,Happiness
+missing flight frustrating,Affirmation,Subjective,Anger
+good night sleep improves focus,Affirmation,Factual,Happiness
+spicy food upset stomach,Affirmation,Subjective,Sadness
+cant believe beautiful view,Affirmation,Subjective,Euphoria
+nobody enjoys feeling unappreciated,Negation,Subjective,Sadness
+speech truly inspiring,Affirmation,Subjective,Euphoria
+longdistance relationship difficult,Affirmation,Factual,Sadness
+get annoyed people talk loudly phone,Affirmation,Subjective,Anger
+ocean wave calming,Affirmation,Subjective,Happiness
+person thought,Negation,Subjective,Sadness
+technology smartphones advancing rapidly,Affirmation,Factual,Neutral
+nothing make happier good music,Negation,Subjective,Happiness
+cry healthy way express emotion,Affirmation,Factual,Sadness
+find comfort reading book,Affirmation,Subjective,Happiness
+losing key always stressful,Affirmation,Subjective,Anger
+there better feeling achieving dream,Negation,Subjective,Euphoria
+despise stuck traffic hour,Affirmation,Subjective,Anger
+night sky filled countless star,Affirmation,Factual,Neutral
+winning championship dream come true,Affirmation,Subjective,Euphoria
+cold weather make feel gloomy,Affirmation,Subjective,Sadness
+public speaking give anxiety,Affirmation,Subjective,Sadness
+kindness brightens day,Affirmation,Subjective,Happiness
+failing test feel absolutely terrible,Affirmation,Subjective,Sadness
+ice cream hot day best,Affirmation,Subjective,Euphoria
+nobody enjoys lied,Negation,Subjective,Anger
+scent flower lift spirit,Affirmation,Subjective,Happiness
+worst service ive ever,Affirmation,Subjective,Anger
+moon reflects sunlight,Affirmation,Factual,Neutral
+cant stand cold coffee,Negation,Subjective,Anger
+concert absolutely amazing,Affirmation,Subjective,Euphoria
+gravity pull object toward earth,Affirmation,Factual,Neutral
+dislike stuck traffic,Affirmation,Subjective,Anger
+one feel left,Negation,Subjective,Sadness
+painting breathtaking,Affirmation,Subjective,Euphoria
+never responds message,Negation,Factual,Anger
+library open 8 pm,Affirmation,Factual,Neutral
+love smell fresh rain,Affirmation,Subjective,Happiness
+nobody enjoys getting criticized,Negation,Subjective,Sadness
+diamond made carbon,Affirmation,Factual,Neutral
+dont feel welcome group,Negation,Subjective,Sadness
+sun rise east,Affirmation,Factual,Neutral
+book interesting,Negation,Subjective,Sadness
+dessert absolutely delicious,Affirmation,Subjective,Euphoria
+isnt polite stranger,Negation,Subjective,Anger
+bank close 5 pm,Affirmation,Factual,Neutral
+really love swimming ocean,Affirmation,Subjective,Happiness
+economy highly unpredictable,Affirmation,Factual,Neutral
+behavior acceptable,Negation,Subjective,Anger
+science help u understand world,Affirmation,Factual,Neutral
+dislike treat people,Negation,Subjective,Anger
+balanced diet promotes good health,Affirmation,Factual,Happiness
+nobody deserves ignored,Negation,Subjective,Sadness
+incredible view ive seen,Affirmation,Subjective,Euphoria
+never keep promise,Negation,Factual,Anger
+cat adorable pet,Affirmation,Subjective,Euphoria
+recycling reduces environmental waste,Affirmation,Factual,Happiness
+shouldnt interrupt people talk,Negation,Subjective,Anger
+safe drive fast,Negation,Factual,Sadness
+feel grateful today,Affirmation,Subjective,Happiness
+wise choice,Negation,Subjective,Sadness
+traveling new place exciting,Affirmation,Factual,Happiness
+soup salty,Affirmation,Subjective,Anger
+nobody enjoys forgotten,Negation,Subjective,Sadness
+breeze feel refreshing morning,Affirmation,Subjective,Happiness
+hard work isnt appreciated enough,Negation,Subjective,Sadness
+always respectful others,Affirmation,Subjective,Happiness
+wouldnt eat place,Negation,Subjective,Anger
+internet connects people globally,Affirmation,Factual,Neutral
+im happy purchase,Negation,Subjective,Anger
+music brings joy many people,Affirmation,Factual,Happiness
+never apologizes mistake,Negation,Factual,Anger
+jacket absolutely stunning,Affirmation,Subjective,Euphoria
+processed food isnt healthiest choice,Negation,Factual,Sadness
+truly inspiring teacher,Affirmation,Subjective,Happiness
+one suffer alone,Negation,Subjective,Anger
+consistent effort lead improvement,Affirmation,Factual,Happiness
+cant tolerate rude behavior,Negation,Subjective,Anger
+winning tournament felt unreal,Affirmation,Subjective,Euphoria
+stormy weather make feel uneasy,Affirmation,Subjective,Sadness
+wind energy sustainable resource,Affirmation,Factual,Neutral
+get annoyed internet slow,Affirmation,Subjective,Anger
+aroma coffee make happy,Affirmation,Subjective,Happiness
+getting early isnt enjoyable,Negation,Subjective,Sadness
+cherish every moment friend,Affirmation,Subjective,Happiness
+climate change growing concern,Affirmation,Factual,Neutral
+tuesday exhausting day,Affirmation,Subjective,Anger
+one go pain,Negation,Subjective,Sadness
+achieving dream fill excitement,Affirmation,Subjective,Euphoria
+environment doesnt feel inviting,Negation,Subjective,Anger
+cat naturally independent animal,Affirmation,Factual,Happiness
+feel lost sometimes,Affirmation,Subjective,Sadness
+walking nature improves mood,Affirmation,Subjective,Happiness
+forgetting wallet incredibly frustrating,Affirmation,Subjective,Anger
+positive mindset enhances productivity,Affirmation,Factual,Happiness
+spicy food make stomach ache,Affirmation,Subjective,Sadness
+cant believe stunning beach,Affirmation,Subjective,Euphoria
+nobody like feeling excluded,Negation,Subjective,Sadness
+speech changed perspective,Affirmation,Subjective,Euphoria
+far loved one tough,Affirmation,Factual,Sadness
+get irritated people talk loudly,Affirmation,Subjective,Anger
+sound wave soothing,Affirmation,Subjective,Happiness
+isnt thought,Negation,Subjective,Sadness
+smartphones evolving rapidly,Affirmation,Factual,Neutral
+nothing brings joy painting,Negation,Subjective,Happiness
+tear way express deep emotion,Affirmation,Factual,Sadness
+find peace listening music,Affirmation,Subjective,Happiness
+losing important document always stressful,Affirmation,Subjective,Anger
+’ greater feeling accomplishing something big,Negation,Subjective,Euphoria
+detest waiting long queue,Affirmation,Subjective,Anger
+sky filled dazzling star tonight,Affirmation,Factual,Neutral
+winning first place dream come true,Affirmation,Subjective,Euphoria
+rainy evening make feel nostalgic,Affirmation,Subjective,Sadness
+public speaking make nervous,Affirmation,Subjective,Sadness
+generosity truly inspiring,Affirmation,Subjective,Happiness
+failing exam incredibly discouraging,Affirmation,Subjective,Sadness
+cold drink hot day heavenly,Affirmation,Subjective,Euphoria
+nobody appreciates deceived,Negation,Subjective,Anger
+scent fresh flower brightens day,Affirmation,Subjective,Happiness
+frustrating experience ive,Affirmation,Subjective,Anger
+star twinkle night sky,Affirmation,Factual,Neutral
+dont like loud music,Negation,Subjective,Anger
+roller coaster incredible,Affirmation,Subjective,Euphoria
+water freeze 0 degree celsius,Affirmation,Factual,Neutral
+hate missing bus,Affirmation,Subjective,Anger
+nobody feel lonely,Negation,Subjective,Sadness
+movie masterpiece,Affirmation,Subjective,Euphoria
+never call back,Negation,Factual,Anger
+museum closed monday,Affirmation,Factual,Neutral
+adore scent fresh flower,Affirmation,Subjective,Happiness
+criticism difficult handle,Negation,Subjective,Sadness
+gold highly conductive metal,Affirmation,Factual,Neutral
+dont feel comfortable crowd,Negation,Subjective,Sadness
+ocean cover earth surface,Affirmation,Factual,Neutral
+speech inspiring,Negation,Subjective,Sadness
+cake absolutely divine,Affirmation,Subjective,Euphoria
+never time meeting,Negation,Subjective,Anger
+train arrives noon,Affirmation,Factual,Neutral
+love peacefulness early morning,Affirmation,Subjective,Happiness
+weather pattern constantly changing,Affirmation,Factual,Neutral
+attitude unacceptable,Negation,Subjective,Anger
+mathematics essential everyday life,Affirmation,Factual,Neutral
+cant stand dishonesty,Negation,Subjective,Anger
+eating healthy improves overall wellbeing,Affirmation,Factual,Happiness
+nobody left behind,Negation,Subjective,Sadness
+best vacation ive ever,Affirmation,Subjective,Euphoria
+never tell truth,Negation,Factual,Anger
+dog cutest world,Affirmation,Subjective,Euphoria
+using less plastic help environment,Affirmation,Factual,Happiness
+shouldnt talk food mouth,Negation,Subjective,Anger
+speeding highway dangerous,Negation,Factual,Sadness
+thankful friend,Affirmation,Subjective,Happiness
+smart decision,Negation,Subjective,Sadness
+exploring new culture fascinating,Affirmation,Factual,Happiness
+dish way spicy,Affirmation,Subjective,Anger
+nobody enjoys feeling ignored,Negation,Subjective,Sadness
+gentle breeze make summer bearable,Affirmation,Subjective,Happiness
+hard work doesnt always get recognized,Negation,Subjective,Sadness
+always greets people smile,Affirmation,Subjective,Happiness
+wouldnt recommend movie,Negation,Subjective,Anger
+internet make life convenient,Affirmation,Factual,Neutral
+im happy service,Negation,Subjective,Anger
+listening music improve mood,Affirmation,Factual,Happiness
+never admits he wrong,Negation,Factual,Anger
+sunset unbelievably beautiful,Affirmation,Subjective,Euphoria
+fast food isnt healthiest option,Negation,Factual,Sadness
+supportive friend,Affirmation,Subjective,Happiness
+one treated unfairly,Negation,Subjective,Anger
+dedication lead great achievement,Affirmation,Factual,Happiness
+cant handle much stress,Negation,Subjective,Anger
+winning award surreal,Affirmation,Subjective,Euphoria
+thunderstorm make feel uneasy,Affirmation,Subjective,Sadness
+solar energy renewable resource,Affirmation,Factual,Neutral
+slow internet frustrates,Affirmation,Subjective,Anger
+smell fresh bread comforting,Affirmation,Subjective,Happiness
+waking early exhausting,Negation,Subjective,Sadness
+spending time loved one precious,Affirmation,Subjective,Happiness
+climate getting warmer time,Affirmation,Factual,Neutral
+monday worst day week,Affirmation,Subjective,Anger
+one suffer silence,Negation,Subjective,Sadness
+achieving goal fill pride,Affirmation,Subjective,Euphoria
+atmosphere welcoming,Negation,Subjective,Anger
+dog incredibly loyal animal,Affirmation,Factual,Happiness
+sometimes feel completely lost,Affirmation,Subjective,Sadness
+walking along beach calm,Affirmation,Subjective,Happiness
+losing key incredibly frustrating,Affirmation,Subjective,Anger
+positive attitude change everything,Affirmation,Factual,Happiness
+cold weather make joint ache,Affirmation,Subjective,Sadness
+cant believe beautiful mountain,Affirmation,Subjective,Euphoria
+nobody want left,Negation,Subjective,Sadness
+performance completely changed outlook,Affirmation,Subjective,Euphoria
+away home hard,Affirmation,Factual,Sadness
+loud noise really irritate,Affirmation,Subjective,Anger
+sound river relaxing,Affirmation,Subjective,Happiness
+person thought,Negation,Subjective,Sadness
+technology advancing rapid pace,Affirmation,Factual,Neutral
+nothing make happier baking,Negation,Subjective,Happiness
+cry natural way release emotion,Affirmation,Factual,Sadness
+cup tea help unwind,Affirmation,Subjective,Happiness
+forgetting deadline incredibly stressful,Affirmation,Subjective,Anger
+greater joy achieving success,Negation,Subjective,Euphoria
+hate waiting traffic,Affirmation,Subjective,Anger
+night sky full bright star,Affirmation,Factual,Neutral
+scoring winning goal dream come true,Affirmation,Subjective,Euphoria
+snowy day make feel nostalgic,Affirmation,Subjective,Sadness
+speaking front crowd terrifying,Affirmation,Subjective,Sadness
+kindness truly admirable,Affirmation,Subjective,Happiness
+failing meet expectation discouraging,Affirmation,Subjective,Sadness
+sipping hot chocolate fire pure joy,Affirmation,Subjective,Euphoria
+nobody enjoys lied,Negation,Subjective,Anger
+aroma fresh coffee make morning better,Affirmation,Subjective,Happiness
+disappointing experience ive,Affirmation,Subjective,Anger
+earth orbit sun,Affirmation,Factual,Neutral
+cant stand cold weather,Negation,Subjective,Anger
+winning lottery would make ecstatic,Affirmation,Subjective,Euphoria
+photosynthesis process plant convert sunlight energy,Affirmation,Factual,Neutral
+feel lonely im away friend,Affirmation,Subjective,Sadness
+dog known loyal companion,Affirmation,Factual,Neutral
+dont enjoy spicy food,Negation,Subjective,Anger
+sound rain incredibly soothing,Affirmation,Subjective,Happiness
+mount everest tallest mountain world,Affirmation,Factual,Neutral
+hate people interrupt,Affirmation,Subjective,Anger
+chocolate favorite dessert,Affirmation,Subjective,Happiness
+human breathe underwater,Affirmation,Factual,Neutral
+feel anxious crowded place,Affirmation,Subjective,Sadness
+great wall china visible space,Affirmation,Factual,Neutral
+dont believe ghost,Negation,Subjective,Neutral
+sunrise always fill hope,Affirmation,Subjective,Happiness
+water essential known form life,Affirmation,Factual,Neutral
+dislike waking early,Negation,Subjective,Anger
+reading good book idea happiness,Affirmation,Subjective,Happiness
+gravity force keep u grounded,Affirmation,Factual,Neutral
+feel overwhelmed much work,Affirmation,Subjective,Sadness
+pineapple grow tree,Affirmation,Factual,Neutral
+dont trust people always late,Negation,Subjective,Anger
+spending time family brings joy,Affirmation,Subjective,Happiness
+human body 206 bone,Affirmation,Factual,Neutral
+feel sad cloudy outside,Affirmation,Subjective,Sadness
+bird animal feather,Affirmation,Factual,Neutral
+dont like plan change unexpectedly,Negation,Subjective,Anger
+traveling new place excites,Affirmation,Subjective,Euphoria
+light travel faster sound,Affirmation,Factual,Neutral
+feel nervous public speaking,Affirmation,Subjective,Sadness
+banana good source potassium,Affirmation,Factual,Neutral
+dont enjoy horror movie,Negation,Subjective,Anger
+helping others make feel fulfilled,Affirmation,Subjective,Happiness
+moon earth natural satellite,Affirmation,Factual,Neutral
+feel disappointed dont meet goal,Affirmation,Subjective,Sadness
+shark around million year,Affirmation,Factual,Neutral
+dont like people raise voice,Negation,Subjective,Anger
+watching beautiful sunset fill peace,Affirmation,Subjective,Happiness
+electricity flow electric charge,Affirmation,Factual,Neutral
+feel frustrated technology doesnt work,Affirmation,Subjective,Anger
+apple type fruit,Affirmation,Factual,Neutral
+dont enjoy waiting long line,Negation,Subjective,Anger
+listening favorite song lift mood,Affirmation,Subjective,Happiness
+speed light approximately 299792 kilometer per second,Affirmation,Factual,Neutral
+feel heartbroken relationship end,Affirmation,Subjective,Sadness
+penguin flightless bird,Affirmation,Factual,Neutral
+dont like people ignore,Negation,Subjective,Anger
+winning competition make feel proud,Affirmation,Subjective,Euphoria
+oxygen necessary human survival,Affirmation,Factual,Neutral
+feel exhausted long day work,Affirmation,Subjective,Sadness
+mar known red planet,Affirmation,Factual,Neutral
+dont enjoy arguing others,Negation,Subjective,Anger
+seeing rainbow always make smile,Affirmation,Subjective,Happiness
+dna carry genetic information,Affirmation,Factual,Neutral
+feel anxious future,Affirmation,Subjective,Sadness
+whale largest animal earth,Affirmation,Factual,Neutral
+dont like people dishonest,Negation,Subjective,Anger
+celebrating achievement brings joy,Affirmation,Subjective,Happiness
+universe constantly expanding,Affirmation,Factual,Neutral
+feel nostalgic visit childhood home,Affirmation,Subjective,Sadness
+gold precious metal,Affirmation,Factual,Neutral
+dont enjoy criticized,Negation,Subjective,Anger
+spending time nature rejuvenates,Affirmation,Subjective,Happiness
+venus hottest planet solar system,Affirmation,Factual,Neutral
+feel overwhelmed many choice,Affirmation,Subjective,Sadness
+tiger endangered specie,Affirmation,Factual,Neutral
+dont like people rude,Negation,Subjective,Anger
+watching baby laugh heartwarming,Affirmation,Subjective,Happiness
+sound travel faster water air,Affirmation,Factual,Neutral
+feel uneasy unfamiliar situation,Affirmation,Subjective,Sadness
+pluto classified dwarf planet,Affirmation,Factual,Neutral
+dont enjoy center attention,Negation,Subjective,Anger
+completing challenging task give satisfaction,Affirmation,Subjective,Happiness
+antarctica coldest continent earth,Affirmation,Factual,Neutral
+feel melancholic winter month,Affirmation,Subjective,Sadness
+bee play crucial role pollination,Affirmation,Factual,Neutral
+dont like people ungrateful,Negation,Subjective,Anger
+watching thunderstorm thrilling,Affirmation,Subjective,Euphoria
+carbon dioxide greenhouse gas,Affirmation,Factual,Neutral
+feel content im surrounded loved one,Affirmation,Subjective,Happiness
+jupiter largest planet solar system,Affirmation,Factual,Neutral
+feel disheartened fail something,Affirmation,Subjective,Sadness
+elephant longest gestation period mammal,Affirmation,Factual,Neutral
+dont like people judgmental,Negation,Subjective,Anger
+watching butterfly flutter mesmerizing,Affirmation,Subjective,Happiness
+neptune farthest planet sun,Affirmation,Factual,Neutral
+feel sense accomplishment finishing project,Affirmation,Subjective,Happiness
+kangaroo native australia,Affirmation,Factual,Neutral
+dont enjoy stuck traffic,Negation,Subjective,Anger
+seeing full moon clear night magical,Affirmation,Subjective,Euphoria
+helium second lightest element,Affirmation,Factual,Neutral
+feel grateful little thing life,Affirmation,Subjective,Happiness
+photosynthesis requires sunlight,Affirmation,Factual,Neutral
+cant tolerate unfair treatment,Negation,Subjective,Anger
+mount everest earth highest peak,Affirmation,Factual,Neutral
+concert lifechanging,Affirmation,Subjective,Euphoria
+snake lack external ear,Affirmation,Factual,Neutral
+despise waking early,Affirmation,Subjective,Anger
+human blood contains iron,Affirmation,Factual,Neutral
+rainbow form light refraction,Affirmation,Factual,Neutral
+ive never felt accomplished,Affirmation,Subjective,Euphoria
+polar bear black skin,Affirmation,Factual,Neutral
+loneliness overwhelms,Affirmation,Subjective,Sadness
+bee communicate dance,Affirmation,Factual,Neutral
+reject superficial relationship,Negation,Subjective,Anger
+sunlight take 8 minute reach earth,Affirmation,Factual,Neutral
+success feel unbelievable,Affirmation,Subjective,Euphoria
+octopus three heart,Affirmation,Factual,Neutral
+regret missed opportunity,Affirmation,Subjective,Sadness
+sound travel faster underwater,Affirmation,Factual,Neutral
+banana technically berry,Affirmation,Factual,Neutral
+oppose unnecessary violence,Negation,Subjective,Anger
+venus rotates clockwise,Affirmation,Factual,Neutral
+grief feel unbearable,Affirmation,Subjective,Sadness
+antarctica desert,Affirmation,Factual,Neutral
+strawberry arent true berry,Negation,Factual,Neutral
+cherish quiet morning,Affirmation,Subjective,Happiness
+lightning precedes thunder,Affirmation,Factual,Neutral
+achievement astonishes,Affirmation,Subjective,Euphoria
+human share 60 dna banana,Affirmation,Factual,Neutral
+resent broken promise,Affirmation,Subjective,Anger
+oxygen odorless,Affirmation,Factual,Neutral
+penguin propose pebble,Affirmation,Factual,Neutral
+joy contagious,Affirmation,Subjective,Euphoria
+wombat feces cubeshaped,Affirmation,Factual,Neutral
+mourn lost connection,Affirmation,Subjective,Sadness
+gold eaten safely,Affirmation,Factual,Neutral
+pineapple grow bush,Affirmation,Factual,Neutral
+detest insincere apology,Negation,Subjective,Anger
+shark predate dinosaur,Affirmation,Factual,Neutral
+warmth comfort,Affirmation,Subjective,Happiness
+venus flytrap count touch,Affirmation,Factual,Neutral
+tear different composition,Affirmation,Factual,Neutral
+disapprove wasteful habit,Negation,Subjective,Anger
+kangaroo cant walk backwards,Negation,Factual,Neutral
+reunion overwhelms,Affirmation,Subjective,Euphoria
+cloud measurable weight,Affirmation,Factual,Neutral
+silence unsettles,Affirmation,Subjective,Sadness
+honey never spoil,Affirmation,Factual,Neutral
+sunflower track sunlight,Affirmation,Factual,Neutral
+condemn workplace discrimination,Negation,Subjective,Anger
+fingerprint form utero,Affirmation,Factual,Neutral
+surprise delight,Affirmation,Subjective,Happiness
+eyelash host microscopic mite,Affirmation,Factual,Neutral
+moonquakes occur regularly,Affirmation,Factual,Neutral
+resist toxic positivity,Negation,Subjective,Anger
+blue whale heart weigh 400lbs,Affirmation,Factual,Neutral
+isolation pain,Affirmation,Subjective,Sadness
+stomach lining renews weekly,Affirmation,Factual,Neutral
+giraffe equal neck bone,Affirmation,Factual,Neutral
+refuse meaningless routine,Negation,Subjective,Anger
+tree communicate network,Affirmation,Factual,Neutral
+triumph excites,Affirmation,Subjective,Euphoria
+starfish brain,Affirmation,Factual,Neutral
+uncertainty paralyzes,Affirmation,Subjective,Sadness
+fire need oxygen,Affirmation,Factual,Neutral
+koala unique fingerprint,Affirmation,Factual,Neutral
+oppose thoughtless consumerism,Negation,Subjective,Anger
+earth core liquid iron,Affirmation,Factual,Neutral
+contentment fill,Affirmation,Subjective,Happiness
+ostrich swallow pebble,Affirmation,Factual,Neutral
+pluto atmosphere freeze,Affirmation,Factual,Neutral
+reject empty gesture,Negation,Subjective,Anger
+bamboo grows 35 inch daily,Affirmation,Factual,Neutral
+loss devastates,Affirmation,Subjective,Sadness
+water expands frozen,Affirmation,Factual,Neutral
+sloth descend weekly,Affirmation,Factual,Neutral
+decline hollow compliment,Negation,Subjective,Anger
+flea accelerate 50x gravity,Affirmation,Factual,Neutral
+gratitude overwhelms,Affirmation,Subjective,Happiness
+tardigrade survive space,Affirmation,Factual,Neutral
+earthquake shorten day,Affirmation,Factual,Neutral
+resent forced conformity,Negation,Subjective,Anger
+vocal fingerprint exist,Affirmation,Factual,Neutral
+abandonment terrifies,Affirmation,Subjective,Sadness
+lobster show negligible senescence,Affirmation,Factual,Neutral
+armadillo shell bulletproof,Affirmation,Factual,Neutral
+denounce willful ignorance,Negation,Subjective,Anger
+moon dust smell explosive,Affirmation,Factual,Neutral
+anticipation thrill,Affirmation,Subjective,Euphoria
+bacteria outnumber human cell,Affirmation,Factual,Neutral
+forgotten memory haunt,Affirmation,Subjective,Sadness
+neutron star spin 600rps,Affirmation,Factual,Neutral
+lemon float lime sink,Affirmation,Factual,Neutral
+oppose needless complexity,Negation,Subjective,Anger
+sunlight whitens clothes,Affirmation,Factual,Neutral
+fulfillment sustains,Affirmation,Subjective,Happiness
+vulture stomach botulism,Affirmation,Factual,Neutral
+tornado invisible,Affirmation,Factual,Neutral
+resist societal pressure,Negation,Subjective,Anger
+glass flow century,Affirmation,Factual,Neutral
+unconditional love support,Affirmation,Subjective,Happiness
+mar two natural satellite,Affirmation,Factual,Neutral
+cant stand dishonesty relationship,Negation,Subjective,Anger
+quantum computing us quantum bit,Affirmation,Factual,Neutral
+sunset take breath away,Affirmation,Subjective,Euphoria
+human bone regenerate every decade,Affirmation,Factual,Neutral
+reject superficial social norm,Negation,Subjective,Anger
+octopus three heart,Affirmation,Factual,Neutral
+laughter reduces stress hormone,Affirmation,Factual,Neutral
+achievement fill pride,Affirmation,Subjective,Happiness
+jupiter great red spot shrinking,Affirmation,Factual,Neutral
+betrayal leaf deep scar,Affirmation,Subjective,Sadness
+photosynthesis convert light energy,Affirmation,Factual,Neutral
+oppose environmental destruction,Negation,Subjective,Anger
+earth atmosphere contains 78 nitrogen,Affirmation,Factual,Neutral
+childhood memory warm heart,Affirmation,Subjective,Happiness
+tardigrade survive extreme radiation,Affirmation,Factual,Neutral
+unrequited love pain,Affirmation,Subjective,Sadness
+light travel 299792 km,Affirmation,Factual,Neutral
+despise bureaucratic red tape,Affirmation,Subjective,Anger
+mitochondrion cell powerhouse,Affirmation,Factual,Neutral
+penguin propose pebble,Affirmation,Factual,Neutral
+meditation center,Affirmation,Subjective,Neutral
+pluto surface contains methane ice,Affirmation,Factual,Neutral
+false accusation infuriate,Affirmation,Subjective,Anger
+human saliva contains painkiller,Affirmation,Factual,Neutral
+ocean wave calm mind,Affirmation,Subjective,Happiness
+neutron star rotate 600 timessec,Affirmation,Factual,Neutral
+refuse accept mediocrity,Negation,Subjective,Anger
+banana radioactive,Affirmation,Factual,Neutral
+forgotten promise hurt deeply,Affirmation,Subjective,Sadness
+venus volcanic activity,Affirmation,Factual,Neutral
+puppy breath brings joy,Affirmation,Subjective,Euphoria
+stomach acid dissolve metal,Affirmation,Factual,Neutral
+unjust system anger,Affirmation,Subjective,Anger
+blue whale heart weigh 400kg,Affirmation,Factual,Neutral
+morning coffee energizes soul,Affirmation,Subjective,Happiness
+tree communicate root network,Affirmation,Factual,Neutral
+condemn workplace discrimination,Negation,Subjective,Anger
+human nose detects 1 trillion scent,Affirmation,Factual,Neutral
+old photograph evoke nostalgia,Affirmation,Subjective,Sadness
+solar flare affect radio signal,Affirmation,Factual,Neutral
+freshly baked bread comfort,Affirmation,Subjective,Happiness
+antarctica active volcano,Affirmation,Factual,Neutral
+plagiarism disgust,Affirmation,Subjective,Anger
+shark existed tree,Affirmation,Factual,Neutral
+rainy day lift spirit,Affirmation,Subjective,Happiness
+human dna contains viral remnant,Affirmation,Factual,Neutral
+oppose cultural appropriation,Negation,Subjective,Anger
+bee recognize human face,Affirmation,Factual,Neutral
+abandonment fear haunt,Affirmation,Subjective,Sadness
+mercury core liquid iron,Affirmation,Factual,Neutral
+summer rain rejuvenates,Affirmation,Subjective,Euphoria
+wombat feces cubeshaped,Affirmation,Factual,Neutral
+willful ignorance anger,Affirmation,Subjective,Anger
+cloud weigh million pound,Affirmation,Factual,Neutral
+grandmother recipe bring comfort,Affirmation,Subjective,Happiness
+earth rotation slowing,Affirmation,Factual,Neutral
+reject toxic positivity,Negation,Subjective,Anger
+fingerprint enhance grip,Affirmation,Factual,Neutral
+unanswered message worry,Affirmation,Subjective,Sadness
+moon dust smell like gunpowder,Affirmation,Factual,Neutral
+baby laughter magical,Affirmation,Subjective,Euphoria
+strawberry 200 seed,Affirmation,Factual,Neutral
+traffic jam test patience,Affirmation,Subjective,Anger
+human eye see 10 million color,Affirmation,Factual,Neutral
+forest walk ground,Affirmation,Subjective,Neutral
+saturn ring ice particle,Affirmation,Factual,Neutral
+chronic lateness irritates,Affirmation,Subjective,Anger
+lobster show negligible senescence,Affirmation,Factual,Neutral
+unconditional love sustains,Affirmation,Subjective,Happiness
+lightning strike 8 million timesday,Affirmation,Factual,Neutral
+unkept promise disappoint,Affirmation,Subjective,Sadness
+glass flow century,Affirmation,Factual,Neutral
+morning yoga center,Affirmation,Subjective,Neutral
+vocal cord vibrate 1001000hz,Affirmation,Factual,Neutral
+wasted potential saddens,Affirmation,Subjective,Sadness
+oyster change gender,Affirmation,Factual,Neutral
+winter holiday excite,Affirmation,Subjective,Euphoria
+human gut contains 2kg bacteria,Affirmation,Factual,Neutral
+mindless consumerism bother,Affirmation,Subjective,Anger
+kangaroo cant walk backward,Negation,Factual,Neutral
+family tradition anchor,Affirmation,Subjective,Happiness
+sunflower track sunlight,Affirmation,Factual,Neutral
+unresolved conflict eat,Affirmation,Subjective,Sadness
+venus rotates clockwise,Affirmation,Factual,Neutral
+art museum inspire wonder,Affirmation,Subjective,Euphoria
+human brain generates 25 watt,Affirmation,Factual,Neutral
+unreliable wifi frustrates,Affirmation,Subjective,Anger
+tear different composition,Affirmation,Factual,Neutral
+morning sunlight energizes,Affirmation,Subjective,Happiness
+earth core hot sun,Affirmation,Factual,Neutral
+social medium drain,Affirmation,Subjective,Sadness
+flamingo pink come diet,Affirmation,Factual,Neutral
+meaningful conversation fulfill,Affirmation,Subjective,Happiness
+bamboo grows 35 inchesday,Affirmation,Factual,Neutral
+unfair criticism sting,Affirmation,Subjective,Sadness
+snake smell tongue,Affirmation,Factual,Neutral
+personal growth excites,Affirmation,Subjective,Euphoria
+human hair contains gold,Affirmation,Factual,Neutral
+broken trust devastates,Affirmation,Subjective,Sadness
+elephant mourn dead,Affirmation,Factual,Neutral
+creative project fuel,Affirmation,Subjective,Happiness
+sound travel faster underwater,Affirmation,Factual,Neutral
+unanswered question haunt,Affirmation,Subjective,Sadness
+banana plant herb,Affirmation,Factual,Neutral
+team success thrill,Affirmation,Subjective,Euphoria
+water 3 state matter,Affirmation,Factual,Neutral
+unkept garden depress,Affirmation,Subjective,Sadness
+gold edible,Affirmation,Factual,Neutral
+cultural diversity enriches,Affirmation,Subjective,Happiness
+light take 8 minute sun,Affirmation,Factual,Neutral
+unread book guilttrip,Affirmation,Subjective,Sadness
+koala unique fingerprint,Affirmation,Factual,Neutral
+personal achievement motivate,Affirmation,Subjective,Happiness
+earth 87 million specie,Affirmation,Factual,Neutral
+unhealthy relationship drain,Affirmation,Subjective,Sadness
+oxygen colorless,Affirmation,Factual,Neutral
+morning birdsong uplift,Affirmation,Subjective,Happiness
+shark detect electricity,Affirmation,Factual,Neutral
+creative block frustrate,Affirmation,Subjective,Anger
+human nail grow 3mmmonth,Affirmation,Factual,Neutral
+financial security comfort,Affirmation,Subjective,Neutral
+ant farm aphid,Affirmation,Factual,Neutral
+unprocessed trauma affect,Affirmation,Subjective,Sadness
+fingernail grow faster toe,Affirmation,Factual,Neutral
+selfcare routine restore,Affirmation,Subjective,Happiness
+earth magnetic field shift,Affirmation,Factual,Neutral
+unresolved mystery intrigue,Affirmation,Subjective,Neutral
+octopus blood blue,Affirmation,Factual,Neutral
+unjust system anger,Affirmation,Subjective,Anger
+human ear never stop growing,Affirmation,Factual,Neutral
+cultural exchange enlighten,Affirmation,Subjective,Happiness
+sun produce 384 yottawatts,Affirmation,Factual,Neutral
+unspoken word burden,Affirmation,Subjective,Sadness
+pineapple take 2 year grow,Affirmation,Factual,Neutral
+artistic expression fulfills,Affirmation,Subjective,Euphoria
+human liver regenerates,Affirmation,Factual,Neutral
+unfinished project stress,Affirmation,Subjective,Anger
+bird descended dinosaur,Affirmation,Factual,Neutral
+morning run invigorate,Affirmation,Subjective,Happiness
+water cover 71 earth,Affirmation,Factual,Neutral
+unresolved grief lingers,Affirmation,Subjective,Sadness
+human skin shed 40lbs lifetime,Affirmation,Factual,Neutral
+intellectual debate stimulate,Affirmation,Subjective,Euphoria
+desert sand sing,Affirmation,Factual,Neutral
+unhealthy food tempts,Affirmation,Subjective,Anger
+human heart beat 100000day,Affirmation,Factual,Neutral
+personal space rejuvenates,Affirmation,Subjective,Happiness
+moon cause earth tide,Affirmation,Factual,Neutral
+unchecked ambition worry,Affirmation,Subjective,Sadness
+human brain 60 fat,Affirmation,Factual,Neutral
+musical harmony move,Affirmation,Subjective,Euphoria
+volcano create new land,Affirmation,Factual,Neutral
+unfiltered opinion offend,Affirmation,Subjective,Anger
+human lung surfacetennis court,Affirmation,Factual,Neutral
+nature documentary calm,Affirmation,Subjective,Neutral
+star twinkle due turbulence,Affirmation,Factual,Neutral
+uncertain future frightens,Affirmation,Subjective,Sadness
+human skeleton renews every 10y,Affirmation,Factual,Neutral
+scientific discovery excite,Affirmation,Subjective,Euphoria
+rainbow form 42 degree,Affirmation,Factual,Neutral
+unwanted advice annoys,Affirmation,Subjective,Anger
+human eye distinguishes 500 gray shade,Affirmation,Factual,Neutral
+historical novel educate,Affirmation,Subjective,Neutral
+earth circumference 24901 mile,Affirmation,Factual,Neutral
+unmet expectation disappoint,Affirmation,Subjective,Sadness
+human tongue unique print,Affirmation,Factual,Neutral
+technological progress inspires,Affirmation,Subjective,Happiness
+northern light solar particle,Affirmation,Factual,Neutral
+unnecessary noise irritates,Affirmation,Subjective,Anger
+human hair support 100g weight,Affirmation,Factual,Neutral
+learning language challenge,Affirmation,Subjective,Neutral
+earth inner core solid iron,Affirmation,Factual,Neutral
+unseen effort discourage,Affirmation,Subjective,Sadness
+ocean cover 71 earth surface,Affirmation,Factual,Neutral
+’ afraid height,Negation,Subjective,Happiness
+puppy bring much joy,Affirmation,Subjective,Euphoria
+sun ’ rise morning,Negation,Factual,Sadness
+climate change accelerating,Affirmation,Factual,Anger
+’ enjoy spicy food,Negation,Subjective,Neutral
+human need oxygen survive,Affirmation,Factual,Neutral
+’ stand rainy day,Affirmation,Subjective,Sadness
+concert absolutely breathtaking,Affirmation,Subjective,Euphoria
+elephant never forget,Affirmation,Factual,Neutral
+’ believe ghost,Negation,Subjective,Neutral
+laughter best medicine,Affirmation,Subjective,Happiness
+experiment failed due contamination,Affirmation,Factual,Sadness
+’ finish race,Negation,Factual,Neutral
+favorite color blue,Affirmation,Subjective,Happiness
+volcano erupt unpredictably,Affirmation,Factual,Neutral
+’ interested politics,Negation,Subjective,Neutral
+freshly baked bread smell amazing,Affirmation,Subjective,Happiness
+moon ’ emit light,Negation,Factual,Neutral
+traffic jam make furious,Affirmation,Subjective,Anger
+plant convert sunlight energy,Affirmation,Factual,Neutral
+’ feel safe crowd,Negation,Subjective,Sadness
+winning game felt incredible,Affirmation,Subjective,Euphoria
+snake ’ mammal,Negation,Factual,Neutral
+love sound rain,Affirmation,Subjective,Happiness
+meeting canceled unexpectedly,Affirmation,Factual,Sadness
+’ trust stranger easily,Negation,Subjective,Neutral
+exercise improves mental health,Affirmation,Factual,Happiness
+’ good singing,Negation,Subjective,Sadness
+rainbow appeared storm,Affirmation,Factual,Happiness
+computer ’ understand emotion,Negation,Factual,Neutral
+hate waking early,Affirmation,Subjective,Anger
+earth orbit sun 365 day,Affirmation,Factual,Neutral
+’ enjoy horror movie,Negation,Subjective,Neutral
+smile light room,Affirmation,Subjective,Happiness
+oil water ’ mix,Negation,Factual,Neutral
+missing deadline upset,Affirmation,Subjective,Sadness
+new park great addition,Affirmation,Subjective,Happiness
+gravity keep u grounded,Affirmation,Factual,Neutral
+’ excited winter,Negation,Subjective,Sadness
+dessert overwhelmingly sweet,Affirmation,Subjective,Euphoria
+shark ’ live freshwater,Negation,Factual,Neutral
+despise crowded elevator,Affirmation,Subjective,Anger
+full moon affect tide,Affirmation,Factual,Neutral
+’ call back,Negation,Subjective,Sadness
+learning something new feel rewarding,Affirmation,Subjective,Happiness
+library unusually noisy,Affirmation,Factual,Anger
+’ mind cold weather,Negation,Subjective,Neutral
+dancing make feel alive,Affirmation,Subjective,Euphoria
+theory proven correct,Affirmation,Factual,Happiness
+sun rise east every morning,Affirmation,Factual,Neutral
+’ feel comfortable crowded place,Negation,Subjective,Sadness
+rainforest store vast amount carbon,Affirmation,Factual,Neutral
+movie ’ worth watching,Negation,Subjective,Anger
+learning new skill make happy,Affirmation,Subjective,Happiness
+elephant never forget companion,Affirmation,Factual,Neutral
+’ stand smell rain,Negation,Subjective,Anger
+concert last night pure bliss,Affirmation,Subjective,Euphoria
+human ’ land mar yet,Negation,Factual,Neutral
+chocolate taste better vanilla,Affirmation,Subjective,Happiness
+earth orbit sun 365 day,Affirmation,Factual,Neutral
+’ excited trip,Negation,Subjective,Sadness
+volcano erupt due tectonic pressure,Affirmation,Factual,Neutral
+spicy food ’ appeal,Negation,Subjective,Anger
+winning game felt exhilarating,Affirmation,Subjective,Euphoria
+penguin ’ fly like bird,Negation,Factual,Neutral
+dog brings joy every day,Affirmation,Subjective,Happiness
+moon ’ emit light,Negation,Factual,Neutral
+dislike waking early,Affirmation,Subjective,Anger
+ocean cover 71 earth ’ surface,Affirmation,Factual,Neutral
+meeting new people ’ strength,Negation,Subjective,Sadness
+sunset absolutely stunning,Affirmation,Subjective,Euphoria
+plant ’ grow without sunlight,Negation,Factual,Neutral
+love sound wave crashing,Affirmation,Subjective,Happiness
+gravity keep u grounded earth,Affirmation,Factual,Neutral
+’ afraid height,Negation,Subjective,Neutral
+coffee boost energy morning,Affirmation,Subjective,Happiness
+desert ’ good place swim,Negation,Factual,Neutral
+losing friend feel devastating,Affirmation,Subjective,Sadness
+star born collapsing gas cloud,Affirmation,Factual,Neutral
+’ trust stranger easily,Negation,Subjective,Anger
+freshly baked bread smell amazing,Affirmation,Subjective,Happiness
+shark ’ attack human often,Negation,Factual,Neutral
+weather make miserable,Affirmation,Subjective,Sadness
+flying airplane thrilling,Affirmation,Subjective,Euphoria
+human body 206 bone,Affirmation,Factual,Neutral
+’ enjoy horror movie,Negation,Subjective,Anger
+spring flower brighten mood,Affirmation,Subjective,Happiness
+tornado ’ form antarctica,Negation,Factual,Neutral
+feel alive hiking mountain,Affirmation,Subjective,Euphoria
+bird migrate south winter,Affirmation,Factual,Neutral
+’ like stuck traffic,Negation,Subjective,Anger
+library favorite place,Affirmation,Subjective,Happiness
+sound travel faster water air,Affirmation,Factual,Neutral
+’ good painting,Negation,Subjective,Sadness
+scoring goal felt incredible,Affirmation,Subjective,Euphoria
+venus hottest planet,Affirmation,Factual,Neutral
+hate plan get canceled,Affirmation,Subjective,Anger
+warm bath relaxes mind,Affirmation,Subjective,Happiness
+ant ’ sleep like human,Negation,Factual,Neutral
+thunderstorm ’ scare,Negation,Subjective,Neutral
+great wall china stretch 21000 kilometer,Affirmation,Factual,Neutral
+feel lonely rainy day,Affirmation,Subjective,Sadness
+fresh snow mountain breathtaking,Affirmation,Subjective,Euphoria
+bacteria thrive warm environment,Affirmation,Factual,Neutral
+’ enjoy cooking complicated meal,Negation,Subjective,Anger
+seeing old friend warms heart,Affirmation,Subjective,Happiness
+dolphin ’ fish mammal,Negation,Factual,Neutral
+hate phone dy,Affirmation,Subjective,Anger
+smell rain uplift spirit,Affirmation,Subjective,Happiness
+light travel faster sound,Affirmation,Factual,Neutral
+’ interested sport,Negation,Subjective,Neutral
+finishing book feel rewarding,Affirmation,Subjective,Happiness
+mount everest ’ easy climb,Negation,Factual,Neutral
+cold weather depresses,Affirmation,Subjective,Sadness
+firework light sky beautifully,Affirmation,Subjective,Euphoria
+honey bee pollinate flower,Affirmation,Factual,Neutral
+’ trust online review,Negation,Subjective,Anger
+good workout energizes,Affirmation,Subjective,Happiness
+arctic ’ warm winter,Negation,Factual,Neutral
+feel terrible arguing,Affirmation,Subjective,Sadness
+dancing rain pure joy,Affirmation,Subjective,Euphoria
+gold ’ rust like iron,Negation,Factual,Neutral
+love exploring new city,Affirmation,Subjective,Happiness
+traffic jam ruin day,Affirmation,Subjective,Anger
+brain process emotion daily,Affirmation,Factual,Neutral
+’ fond spicy snack,Negation,Subjective,Anger
+sunlight boost vitamin level,Affirmation,Factual,Neutral
+watching sad movie ’ cheer,Negation,Subjective,Sadness
+perfect score made ecstatic,Affirmation,Subjective,Euphoria
+tree release oxygen air,Affirmation,Factual,Neutral
+’ like crowded elevator,Negation,Subjective,Anger
+stargazing calm mind,Affirmation,Subjective,Happiness
+desert ’ get much rainfall,Negation,Factual,Neutral
+missing deadline frustrates,Affirmation,Subjective,Anger
+riding bike feel liberating,Affirmation,Subjective,Happiness
+pyramid built ancient egyptian,Affirmation,Factual,Neutral
+’ ready test,Negation,Subjective,Sadness
+swimming ocean exhilarating,Affirmation,Subjective,Euphoria
+glass made heated sand,Affirmation,Factual,Neutral
+’ enjoy loud party,Negation,Subjective,Anger
+cozy blanket make happy,Affirmation,Subjective,Happiness
+whale ’ live freshwater,Negation,Factual,Neutral
+feel lost without routine,Affirmation,Subjective,Sadness
+climbing top thrilling,Affirmation,Subjective,Euphoria
+heart pump blood constantly,Affirmation,Factual,Neutral
+’ fan cold shower,Negation,Subjective,Anger
+kind word brighten day,Affirmation,Subjective,Happiness
+cloud form water vapor,Affirmation,Factual,Neutral
+’ sleep well noise,Negation,Subjective,Sadness
+sun rise east every morning,Affirmation,Factual,Neutral
+’ enjoy rainy day,Negation,Subjective,Sadness
+chocolate taste better vanilla,Affirmation,Subjective,Happiness
+elephant never forget companion,Affirmation,Factual,Neutral
+team ’ win championship,Negation,Subjective,Sadness
+exercise improves mental health,Affirmation,Factual,Happiness
+’ stand crowded place,Affirmation,Subjective,Anger
+moon ’ emit light,Negation,Factual,Neutral
+winning lottery would thrilling,Affirmation,Subjective,Euphoria
+climate change hoax,Negation,Factual,Anger
+puppy bring joy everyone,Affirmation,Subjective,Happiness
+earth flat,Affirmation,Factual,Neutral
+’ believe ghost,Negation,Subjective,Neutral
+music soothes soul,Affirmation,Subjective,Happiness
+tornado destroy entire town,Affirmation,Factual,Sadness
+’ afraid height,Negation,Subjective,Neutral
+freshly baked bread smell amazing,Affirmation,Subjective,Euphoria
+capital france paris,Affirmation,Factual,Neutral
+despise waking early,Affirmation,Subjective,Anger
+plant need sunlight grow,Affirmation,Factual,Neutral
+’ finish homework time,Negation,Subjective,Sadness
+space exploration inspires curiosity,Affirmation,Factual,Happiness
+snake ’ always dangerous,Negation,Factual,Neutral
+movie absolutely hilarious,Affirmation,Subjective,Euphoria
+tax complicated,Affirmation,Subjective,Anger
+ocean cover planet,Affirmation,Factual,Neutral
+’ miss old job,Negation,Subjective,Happiness
+art change perspective,Affirmation,Subjective,Happiness
+desert ’ good place live,Negation,Subjective,Neutral
+lightning strike cause wildfire,Affirmation,Factual,Sadness
+love hiking mountain,Affirmation,Subjective,Euphoria
+gravity keep u grounded,Affirmation,Factual,Neutral
+’ upset delay,Negation,Subjective,Neutral
+coffee boost energy,Affirmation,Subjective,Happiness
+penguin ’ fly like bird,Negation,Factual,Sadness
+technology make life easier,Affirmation,Factual,Happiness
+’ trust stranger easily,Negation,Subjective,Neutral
+good book hard put,Affirmation,Subjective,Happiness
+sky turned orange sunset,Affirmation,Factual,Euphoria
+hate cleaning house,Affirmation,Subjective,Anger
+volcano erupt unpredictably,Affirmation,Factual,Neutral
+’ expect great weather,Negation,Subjective,Happiness
+learning new language fun,Affirmation,Subjective,Happiness
+shark ’ attack human often,Negation,Factual,Neutral
+birthday party blast,Affirmation,Subjective,Euphoria
+traffic jam ruin day,Affirmation,Subjective,Anger
+rainforest store carbon dioxide,Affirmation,Factual,Neutral
+’ good painting,Negation,Subjective,Sadness
+firework light night sky,Affirmation,Factual,Happiness
+losing pet heartbreaking,Affirmation,Subjective,Sadness
+sun rise east,Affirmation,Factual,Neutral
+feeling well today,Negation,Subjective,Sadness
+cake absolutely delicious,Affirmation,Subjective,Happiness
+elephant mammal,Affirmation,Factual,Neutral
+believe said,Negation,Subjective,Anger
+view mountain breathtaking,Affirmation,Subjective,Euphoria
+plant require sunlight grow,Affirmation,Factual,Neutral
+dont understand math problem,Negation,Subjective,Sadness
+favorite color blue,Affirmation,Subjective,Happiness
+triangle three side,Affirmation,Factual,Neutral
+happy outcome,Negation,Subjective,Anger
+winning competition best moment life,Affirmation,Subjective,Euphoria
+earth revolves around sun,Affirmation,Factual,Neutral
+dont want go party,Negation,Subjective,Sadness
+movie truly inspiring,Affirmation,Subjective,Happiness
+honey made bee,Affirmation,Factual,Neutral
+tolerate noise,Negation,Subjective,Anger
+concert amazing experience,Affirmation,Subjective,Euphoria
+speed light constant,Affirmation,Factual,Neutral
+interested topic,Negation,Subjective,Sadness
+book exceptionally wellwritten,Affirmation,Subjective,Happiness
+human body 206 bone,Affirmation,Factual,Neutral
+dont appreciate ignored,Negation,Subjective,Anger
+birth child pure joy,Affirmation,Subjective,Euphoria
+oxygen essential life,Affirmation,Factual,Neutral
+satisfied service,Negation,Subjective,Sadness
+painting masterpiece,Affirmation,Subjective,Happiness
+rain fall cloud,Affirmation,Factual,Neutral
+dont like waiting line,Negation,Subjective,Anger
+firework display spectacular,Affirmation,Subjective,Euphoria
+gravity pull object towards earth,Affirmation,Factual,Neutral
+feeling optimistic,Negation,Subjective,Sadness
+coffee perfect,Affirmation,Subjective,Happiness
+internet global network,Affirmation,Factual,Neutral
+dont approve behavior,Negation,Subjective,Anger
+graduating college dream come true,Affirmation,Subjective,Euphoria
+temperature dropped freezing,Affirmation,Factual,Neutral
+comfortable situation,Negation,Subjective,Sadness
+song make feel alive,Affirmation,Subjective,Happiness
+diamond made carbon,Affirmation,Factual,Neutral
+dont enjoy interrupted,Negation,Subjective,Anger
+wedding ceremony magical,Affirmation,Subjective,Euphoria
+heart pump blood body,Affirmation,Factual,Neutral
+pleased result,Negation,Subjective,Sadness
+meal absolutely delightful,Affirmation,Subjective,Happiness
+moon orbit earth,Affirmation,Factual,Neutral
+dont like rushed,Negation,Subjective,Anger
+surprise party complete success,Affirmation,Subjective,Euphoria
+sound travel wave,Affirmation,Factual,Neutral
+happy delay,Negation,Subjective,Sadness
+artwork truly inspiring,Affirmation,Subjective,Happiness
+metal conduct electricity,Affirmation,Factual,Neutral
+dont appreciate lack respect,Negation,Subjective,Anger
+birth grandchild blessing,Affirmation,Subjective,Euphoria
+brain control body,Affirmation,Factual,Neutral
+satisfied explanation,Negation,Subjective,Sadness
+dessert heavenly,Affirmation,Subjective,Happiness
+ocean cover earth,Affirmation,Factual,Neutral
+dont want hear excuse,Negation,Subjective,Anger
+proposal moment pure bliss,Affirmation,Subjective,Euphoria
+atmosphere protects u radiation,Affirmation,Factual,Neutral
+interested opinion,Negation,Subjective,Sadness
+performance outstanding,Affirmation,Subjective,Happiness
+speed sound varies temperature,Affirmation,Factual,Neutral
+dont like told,Negation,Subjective,Anger
+reunion overwhelming joy,Affirmation,Subjective,Euphoria
+digestive system break food,Affirmation,Factual,Neutral
+comfortable decision,Negation,Subjective,Sadness
+scenery absolutely stunning,Affirmation,Subjective,Happiness
+continent moving,Affirmation,Factual,Neutral
+dont like patronized,Negation,Subjective,Anger
+promotion moment pure elation,Affirmation,Subjective,Euphoria
+nervous system transmits signal,Affirmation,Factual,Neutral
+happy current situation,Negation,Subjective,Sadness
+experience unforgettable,Affirmation,Subjective,Happiness
+tide caused moon gravity,Affirmation,Factual,Neutral
+dont want deal anymore,Negation,Subjective,Anger
+rescue moment absolute relief,Affirmation,Subjective,Euphoria
+skeletal system provides support,Affirmation,Factual,Neutral
+pleased lack communication,Negation,Subjective,Sadness
+feeling incredible,Affirmation,Subjective,Happiness
+water cycle essential life,Affirmation,Factual,Neutral
+dont like ignored,Negation,Subjective,Anger
+discovery moment pure wonder,Affirmation,Subjective,Euphoria
+respiratory system allows u breathe,Affirmation,Factual,Neutral
+satisfied quality,Negation,Subjective,Sadness
+day perfect,Affirmation,Subjective,Happiness
+solar system contains planet,Affirmation,Factual,Neutral
+dont want involved,Negation,Subjective,Anger
+arrival moment intense happiness,Affirmation,Subjective,Euphoria
+earth flat,Negation,Factual,Neutral
+feeling optimistic future,Affirmation,Subjective,Happiness
+song terrible,Negation,Subjective,Anger
+capital france paris,Affirmation,Factual,Neutral
+dont believe ghost,Negation,Subjective,Neutral
+performance underwhelming,Negation,Subjective,Sadness
+human brain incredibly complex,Affirmation,Factual,Neutral
+grateful family,Affirmation,Subjective,Happiness
+food spicy,Negation,Subjective,Anger
+water boil 100 degree celsius,Affirmation,Factual,Neutral
+dont trust politician,Negation,Subjective,Neutral
+movie complete waste time,Negation,Subjective,Anger
+universe constantly expanding,Affirmation,Factual,Neutral
+excited upcoming trip,Affirmation,Subjective,Euphoria
+weather depressing,Negation,Subjective,Sadness
+photosynthesis essential plant life,Affirmation,Factual,Neutral
+dont understand motif,Negation,Subjective,Neutral
+book incredibly boring,Negation,Subjective,Sadness
+great wall china visible space,Affirmation,Factual,Neutral
+thankful health,Affirmation,Subjective,Happiness
+traffic infuriating,Negation,Subjective,Anger
+evolution fundamental principle biology,Affirmation,Factual,Neutral
+dont agree point view,Negation,Subjective,Neutral
+experience traumatizing,Negation,Subjective,Sadness
+mona lisa famous painting,Affirmation,Factual,Neutral
+passionate music,Affirmation,Subjective,Happiness
+room cold,Negation,Subjective,Anger
+earth one moon,Affirmation,Factual,Neutral
+dont like taste coffee,Negation,Subjective,Neutral
+game incredibly exciting,Affirmation,Subjective,Euphoria
+human body made cell,Affirmation,Factual,Neutral
+disappointed result,Negation,Subjective,Sadness
+news encouraging,Affirmation,Subjective,Happiness
+amazon rainforest largest world,Affirmation,Factual,Neutral
+dont time,Negation,Subjective,Anger
+concert unforgettable,Affirmation,Subjective,Euphoria
+eiffel tower located paris,Affirmation,Factual,Neutral
+impressed performance,Negation,Subjective,Neutral
+decision mistake,Negation,Subjective,Sadness
+pyramid built ancient egyptian,Affirmation,Factual,Neutral
+happy current job,Affirmation,Subjective,Happiness
+situation unacceptable,Negation,Subjective,Anger
+internet revolutionized communication,Affirmation,Factual,Neutral
+dont understand concept,Negation,Subjective,Neutral
+experience lifechanging,Affirmation,Subjective,Euphoria
+statue liberty symbol freedom,Affirmation,Factual,Neutral
+proud accomplishment,Affirmation,Subjective,Happiness
+noise unbearable,Negation,Subjective,Anger
+grand canyon natural wonder,Affirmation,Factual,Neutral
+dont like lied,Negation,Subjective,Anger
+vacation incredibly relaxing,Affirmation,Subjective,Happiness
+human genome mapped,Affirmation,Factual,Neutral
+worried future,Negation,Subjective,Sadness
+heat unbearable,Negation,Subjective,Anger
+berlin wall fell 1989,Affirmation,Factual,Neutral
+optimistic outcome,Affirmation,Subjective,Happiness
+information misleading,Negation,Subjective,Anger
+colosseum ancient roman amphitheater,Affirmation,Factual,Neutral
+dont believe fate,Negation,Subjective,Neutral
+story heartbreaking,Negation,Subjective,Sadness
+taj mahal mausoleum,Affirmation,Factual,Neutral
+content life,Affirmation,Subjective,Happiness
+behavior inappropriate,Negation,Subjective,Anger
+invention printing press revolutionized communication,Affirmation,Factual,Neutral
+dont understand intention,Negation,Subjective,Neutral
+journey truly inspiring,Affirmation,Subjective,Euphoria
+discovery penicillin major medical breakthrough,Affirmation,Factual,Neutral
+frustrated situation,Negation,Subjective,Anger
+artwork incredibly moving,Affirmation,Subjective,Happiness
+industrial revolution transformed society,Affirmation,Factual,Neutral
+dont like feeling helpless,Negation,Subjective,Sadness
+performance electrifying,Affirmation,Subjective,Euphoria
+invention airplane revolutionized travel,Affirmation,Factual,Neutral
+grateful friend,Affirmation,Subjective,Happiness
+news devastating,Negation,Subjective,Sadness
+renaissance period great cultural change,Affirmation,Factual,Neutral
+dont trust judgment,Negation,Subjective,Neutral
+experience unforgettable,Affirmation,Subjective,Euphoria
+discovery dna revolutionized biology,Affirmation,Factual,Neutral
+annoyed behavior,Negation,Subjective,Anger
+music calming,Affirmation,Subjective,Happiness
+french revolution profound impact history,Affirmation,Factual,Neutral
+dont like kept dark,Negation,Subjective,Anger
+victory moment triumph,Affirmation,Subjective,Euphoria
+invention computer transformed society,Affirmation,Factual,Neutral
+concerned environment,Negation,Subjective,Sadness
+weather perfect picnic,Affirmation,Subjective,Happiness
+american civil war defining moment u history,Affirmation,Factual,Neutral
+dont agree method,Negation,Subjective,Neutral
+loss devastating,Negation,Subjective,Sadness
+invention internet revolutionized communication,Affirmation,Factual,Neutral
+excited possibility,Affirmation,Subjective,Euphoria
+situation control,Negation,Subjective,Anger
+cold war period geopolitical tension,Affirmation,Factual,Neutral
+dont like feeling vulnerable,Negation,Subjective,Sadness
+achievement remarkable,Affirmation,Subjective,Happiness
+space race led significant technological advancement,Affirmation,Factual,Neutral
+disappointed lack progress,Negation,Subjective,Sadness
+view incredible,Affirmation,Subjective,Euphoria
+fall roman empire marked end era,Affirmation,Factual,Neutral
+dont trust promise,Negation,Subjective,Neutral
+experience humbling,Affirmation,Subjective,Neutral
+discovery fire turning point human history,Affirmation,Factual,Neutral
+hopeful future,Affirmation,Subjective,Happiness
+challenge overwhelming,Negation,Subjective,Sadness
+invention wheel revolutionized transportation,Affirmation,Factual,Neutral
+dont like underestimated,Negation,Subjective,Anger
+moment pure magic,Affirmation,Subjective,Euphoria
+development agriculture transformed human society,Affirmation,Factual,Neutral
+frustrated lack support,Negation,Subjective,Anger
+news incredibly exciting,Affirmation,Subjective,Euphoria
+invention telephone revolutionized communication,Affirmation,Factual,Neutral
+dont like judged,Negation,Subjective,Sadness
+performance breathtaking,Affirmation,Subjective,Happiness
+discovery electricity transformed world,Affirmation,Factual,Neutral
+worried consequence,Negation,Subjective,Sadness
+opportunity amazing,Affirmation,Subjective,Euphoria
+human impact environment serious concern,Affirmation,Factual,Neutral
+dont like taken advantage,Negation,Subjective,Anger
+moment truly special,Affirmation,Subjective,Happiness
+library open 9 pm,Affirmation,Factual,Neutral
+stand smell onion,Negation,Subjective,Anger
+sunset masterpiece color,Affirmation,Subjective,Euphoria
+square four equal side,Affirmation,Factual,Neutral
+dread going dentist,Affirmation,Subjective,Sadness
+train arrived time,Affirmation,Factual,Neutral
+dont find joke funny,Negation,Subjective,Neutral
+new coffee blend amazing,Affirmation,Subjective,Happiness
+speed sound faster solid gas,Affirmation,Factual,Neutral
+heartbroken news,Affirmation,Subjective,Sadness
+concert total letdown,Negation,Subjective,Sadness
+dog known loyalty,Affirmation,Factual,Neutral
+seething frustration,Affirmation,Subjective,Anger
+view top tower breathtaking,Affirmation,Subjective,Euphoria
+earth core primarily made iron,Affirmation,Factual,Neutral
+dont enjoy crowded place,Negation,Subjective,Neutral
+new recipe culinary delight,Affirmation,Subjective,Happiness
+chemical symbol gold au,Affirmation,Factual,Neutral
+overwhelmed grief,Affirmation,Subjective,Sadness
+play complete disaster,Negation,Subjective,Anger
+cat known independence,Affirmation,Factual,Neutral
+filled pure joy,Affirmation,Subjective,Euphoria
+river flow sea,Affirmation,Factual,Neutral
+dont understand point meeting,Negation,Subjective,Neutral
+new painting truly captivating,Affirmation,Subjective,Happiness
+boiling point nitrogen 196 degree celsius,Affirmation,Factual,Neutral
+consumed sorrow,Affirmation,Subjective,Sadness
+event total failure,Negation,Subjective,Anger
+bird build nest tree,Affirmation,Factual,Neutral
+bursting happiness,Affirmation,Subjective,Euphoria
+moon reflects sunlight,Affirmation,Factual,Neutral
+dont like taste olive,Negation,Subjective,Neutral
+new book masterpiece storytelling,Affirmation,Subjective,Happiness
+atomic number carbon 6,Affirmation,Factual,Neutral
+drowning despair,Affirmation,Subjective,Sadness
+presentation complete mess,Negation,Subjective,Anger
+fish live water,Affirmation,Factual,Neutral
+floating cloud happiness,Affirmation,Subjective,Euphoria
+rain falling heavily,Affirmation,Factual,Neutral
+dont like sound siren,Negation,Subjective,Neutral
+new sculpture truly inspiring,Affirmation,Subjective,Happiness
+human body five sens,Affirmation,Factual,Neutral
+weighed sadness,Affirmation,Subjective,Sadness
+project total flop,Negation,Subjective,Anger
+tree produce oxygen,Affirmation,Factual,Neutral
+ecstatic news,Affirmation,Subjective,Euphoria
+wind blowing strongly,Affirmation,Factual,Neutral
+dont like feel sand toe,Negation,Subjective,Neutral
+new movie cinematic triumph,Affirmation,Subjective,Happiness
+speed light approximately 299792 kilometer per second,Affirmation,Factual,Neutral
+filled deep sadness,Affirmation,Subjective,Sadness
+experiment total bust,Negation,Subjective,Anger
+bee collect pollen flower,Affirmation,Factual,Neutral
+absolutely thrilled,Affirmation,Subjective,Euphoria
+tide coming,Affirmation,Factual,Neutral
+dont like texture mushroom,Negation,Subjective,Neutral
+new song musical sensation,Affirmation,Subjective,Happiness
+human skeleton 200 bone,Affirmation,Factual,Neutral
+consumed grief loss,Affirmation,Subjective,Sadness
+plan complete failure start,Negation,Subjective,Anger
+snake reptile,Affirmation,Factual,Neutral
+state pure bliss,Affirmation,Subjective,Euphoria
+snow falling softly,Affirmation,Factual,Neutral
+dont like taste licorice,Negation,Subjective,Neutral
+new play theatrical masterpiece,Affirmation,Subjective,Happiness
+chemical formula water h2o,Affirmation,Factual,Neutral
+overcome sorrow,Affirmation,Subjective,Sadness
+business venture total disaster,Negation,Subjective,Anger
+frog amphibian,Affirmation,Factual,Neutral
+experiencing unbridled joy,Affirmation,Subjective,Euphoria
+leaf changing color,Affirmation,Factual,Neutral
+dont like smell gasoline,Negation,Subjective,Neutral
+new novel literary marvel,Affirmation,Subjective,Happiness
+largest ocean pacific,Affirmation,Factual,Neutral
+heartbroken despondent,Affirmation,Subjective,Sadness
+attempt total washout,Negation,Subjective,Anger
+spider spin web,Affirmation,Factual,Neutral
+overflowing happiness,Affirmation,Subjective,Euphoria
+wave crashing shore,Affirmation,Factual,Neutral
+dont like feeling chalk dust,Negation,Subjective,Neutral
+new dance performance visual feast,Affirmation,Subjective,Happiness
+planet mar known red planet,Affirmation,Factual,Neutral
+devastated tragedy,Affirmation,Subjective,Sadness
+project imploded,Negation,Subjective,Anger
+star made hot gas,Affirmation,Factual,Neutral
+state absolute euphoria,Affirmation,Subjective,Euphoria
+flower blooming,Affirmation,Factual,Neutral
+dont enjoy sensation static electricity,Negation,Subjective,Neutral
+new film cinematic gem,Affirmation,Subjective,Happiness
+human heart four chamber,Affirmation,Factual,Neutral
+consumed deep melancholy,Affirmation,Subjective,Sadness
+initiative failed miserably,Negation,Subjective,Anger
+shark fish,Affirmation,Factual,Neutral
+experiencing sheer delight,Affirmation,Subjective,Euphoria
+volcano erupting,Affirmation,Factual,Neutral
+dont like taste raw ginger,Negation,Subjective,Neutral
+new symphony musical triumph,Affirmation,Subjective,Happiness
+earth magnetic field,Affirmation,Factual,Neutral
+overwhelmed feeling loss,Affirmation,Subjective,Sadness
+plan collapsed entirely,Negation,Subjective,Anger
+butterfly undergo metamorphosis,Affirmation,Factual,Neutral
+filled unbounded joy,Affirmation,Subjective,Euphoria
+river flooding,Affirmation,Factual,Neutral
+dont like feeling wet wool,Negation,Subjective,Neutral
+new exhibition visual spectacle,Affirmation,Subjective,Happiness
+milky way spiral galaxy,Affirmation,Factual,Neutral
+sinking despair,Affirmation,Subjective,Sadness
+endeavor complete bust,Negation,Subjective,Anger
+whale mammal,Affirmation,Factual,Neutral
+experiencing pure rapture,Affirmation,Subjective,Euphoria
+earthquake caused significant damage,Affirmation,Factual,Neutral
+antique clock chimed three time,Affirmation,Factual,Neutral
+tolerate taste cilantro,Negation,Subjective,Anger
+spontaneous road trip utterly liberating,Affirmation,Subjective,Euphoria
+circle circumference proportional diameter,Affirmation,Factual,Neutral
+weighed weight responsibility,Affirmation,Subjective,Sadness
+old oak tree stood tall storm,Affirmation,Factual,Neutral
+find constant interruption amusing,Negation,Subjective,Anger
+homemade apple pie simply divine,Affirmation,Subjective,Happiness
+doppler effect explains change wave frequency,Affirmation,Factual,Neutral
+enveloped cloud melancholy,Affirmation,Subjective,Sadness
+sudden power outage plunged room darkness,Affirmation,Factual,Neutral
+appreciate spoken condescending tone,Negation,Subjective,Anger
+unexpected reunion source immense delight,Affirmation,Subjective,Euphoria
+human eye distinguish million color,Affirmation,Factual,Neutral
+drowning sea sorrow,Affirmation,Subjective,Sadness
+abandoned lighthouse stood silent sentinel,Affirmation,Factual,Neutral
+understand logic behind decision,Negation,Subjective,Neutral
+handcrafted jewelry true work art,Affirmation,Subjective,Happiness
+process osmosis involves movement water across membrane,Affirmation,Factual,Neutral
+consumed deep sense loss,Affirmation,Subjective,Sadness
+sudden downpour soaked everyone bone,Affirmation,Factual,Neutral
+like way dismissed concern,Negation,Subjective,Anger
+unexpected act kindness filled joy,Affirmation,Subjective,Euphoria
+average lifespan mayfly 24 hour,Affirmation,Factual,Neutral
+languishing state profound sadness,Affirmation,Subjective,Sadness
+old bridge creaked weight truck,Affirmation,Factual,Neutral
+find attempt humor entertaining,Negation,Subjective,Neutral
+freshly baked bread absolutely heavenly,Affirmation,Subjective,Happiness
+principle thermodynamics govern energy transfer,Affirmation,Factual,Neutral
+engulfed wave despair,Affirmation,Subjective,Sadness
+fog rolled obscuring view mountain,Affirmation,Factual,Neutral
+like feeling rushed,Negation,Subjective,Anger
+unexpected compliment lifted spirit,Affirmation,Subjective,Euphoria
+speed light fastest known speed universe,Affirmation,Factual,Neutral
+sinking pit hopelessness,Affirmation,Subjective,Sadness
+ancient ruin stood testament forgotten civilization,Affirmation,Factual,Neutral
+understand purpose exercise,Negation,Subjective,Neutral
+handpainted mural breathtaking sight,Affirmation,Subjective,Happiness
+process photosynthesis convert light chemical energy,Affirmation,Factual,Neutral
+trapped cycle grief,Affirmation,Subjective,Sadness
+sudden gust wind scattered leaf across yard,Affirmation,Factual,Neutral
+like interrupted train thought,Negation,Subjective,Anger
+unexpected gift brought immense happiness,Affirmation,Subjective,Euphoria
+earth magnetic field protects u solar radiation,Affirmation,Factual,Neutral
+lost sea melancholy,Affirmation,Subjective,Sadness
+old stone wall stood barrier element,Affirmation,Factual,Neutral
+find constant complaining productive,Negation,Subjective,Neutral
+handknitted scarf incredibly cozy,Affirmation,Subjective,Happiness
+law conservation mass state matter created destroyed,Affirmation,Factual,Neutral
+weighed burden past,Affirmation,Subjective,Sadness
+sudden rainstorm forced everyone seek shelter,Affirmation,Factual,Neutral
+like way ignored suggestion,Negation,Subjective,Anger
+unexpected visit filled joy warmth,Affirmation,Subjective,Euphoria
+human brain complex organ body,Affirmation,Factual,Neutral
+engulfed wave sorrow,Affirmation,Subjective,Sadness
+old wooden fence stood boundary property,Affirmation,Factual,Neutral
+understand relevance information,Negation,Subjective,Neutral
+handmade pottery exquisitely crafted,Affirmation,Subjective,Happiness
+process cellular respiration produce energy glucose,Affirmation,Factual,Neutral
+drowning pool despair,Affirmation,Subjective,Sadness
+sudden hail storm damaged crop,Affirmation,Factual,Neutral
+like feeling ignored,Negation,Subjective,Anger
+unexpected phone call brought immense delight,Affirmation,Subjective,Euphoria
+speed sound varies depending medium travel,Affirmation,Factual,Neutral
+trapped cycle grief regret,Affirmation,Subjective,Sadness
+ancient monument stood symbol bygone era,Affirmation,Factual,Neutral
+find constant interruption constructive,Negation,Subjective,Neutral
+handsewn quilt incredibly intricate,Affirmation,Subjective,Happiness
+concept entropy describes tendency towards disorder,Affirmation,Factual,Neutral
+languishing state profound loneliness,Affirmation,Subjective,Sadness
+sudden fog bank made driving dangerous,Affirmation,Factual,Neutral
+like way dismissed feeling,Negation,Subjective,Anger
+unexpected letter brought joy comfort,Affirmation,Subjective,Euphoria
+human digestive system break food nutrient,Affirmation,Factual,Neutral
+lost sea tear,Affirmation,Subjective,Sadness
+abandoned building stood reminder forgotten past,Affirmation,Factual,Neutral
+understand rationale behind policy,Negation,Subjective,Neutral
+handcrafted sculpture masterpiece detail,Affirmation,Subjective,Happiness
+principle genetics explain inheritance trait,Affirmation,Factual,Neutral
+consumed deep sense emptiness,Affirmation,Subjective,Sadness
+sudden earthquake caused widespread panic,Affirmation,Factual,Neutral
+like feeling rushed pressured,Negation,Subjective,Anger
+unexpected act generosity filled gratitude,Affirmation,Subjective,Euphoria
+earth atmosphere composed various gas,Affirmation,Factual,Neutral
+engulfed wave grief despair,Affirmation,Subjective,Sadness
+old stone bridge stood passage river,Affirmation,Factual,Neutral
+find constant negativity helpful,Negation,Subjective,Neutral
+handmade tapestry testament skill artistry,Affirmation,Subjective,Happiness
+process evolution driven natural selection,Affirmation,Factual,Neutral
+weighed weight sorrow,Affirmation,Subjective,Sadness
+sudden thunderstorm flooded street,Affirmation,Factual,Neutral
+like way invalidated opinion,Negation,Subjective,Anger
+unexpected message brought immense happiness,Affirmation,Subjective,Euphoria
+concept relativity changed understanding space time,Affirmation,Factual,Neutral
+sinking pit despair regret,Affirmation,Subjective,Sadness
+ancient castle stood symbol power authority,Affirmation,Factual,Neutral
+invention light bulb changed world,Affirmation,Factual,Neutral
+interested excuse,Negation,Subjective,Anger
+feeling indescribable,Affirmation,Subjective,Euphoria
+earth atmosphere composed several layer,Affirmation,Factual,Neutral
+dont like pressured,Negation,Subjective,Anger
+experience truly transformative,Affirmation,Subjective,Happiness
+scientific method basis scientific inquiry,Affirmation,Factual,Neutral
+happy change,Negation,Subjective,Sadness
+view simply stunning,Affirmation,Subjective,Euphoria
+concept gravity developed isaac newton,Affirmation,Factual,Neutral
+dont like manipulated,Negation,Subjective,Anger
+achievement truly remarkable,Affirmation,Subjective,Happiness
+theory relativity changed understanding space time,Affirmation,Factual,Neutral
+comfortable decision,Negation,Subjective,Sadness
+moment absolutely perfect,Affirmation,Subjective,Euphoria
+periodic table organizes chemical element,Affirmation,Factual,Neutral
+dont like deceived,Negation,Subjective,Anger
+experience truly enlightening,Affirmation,Subjective,Happiness
+law thermodynamics govern energy transfer,Affirmation,Factual,Neutral
+pleased outcome,Negation,Subjective,Sadness
+feeling overwhelming,Affirmation,Subjective,Euphoria
+structure dna discovered watson crick,Affirmation,Factual,Neutral
+dont like patronized,Negation,Subjective,Anger
+achievement truly inspiring,Affirmation,Subjective,Happiness
+concept natural selection central evolutionary biology,Affirmation,Factual,Neutral
+satisfied explanation,Negation,Subjective,Sadness
+feeling absolutely incredible,Affirmation,Subjective,Euphoria
+human circulatory system transport blood throughout body,Affirmation,Factual,Neutral
+dont like rushed,Negation,Subjective,Anger
+experience truly magical,Affirmation,Subjective,Happiness
+process photosynthesis convert light energy chemical energy,Affirmation,Factual,Neutral
+happy current situation,Negation,Subjective,Sadness
+moment pure bliss,Affirmation,Subjective,Euphoria
+nervous system transmits signal throughout body,Affirmation,Factual,Neutral
+dont like ignored,Negation,Subjective,Anger
+achievement truly extraordinary,Affirmation,Subjective,Happiness
+concept plate tectonics explains movement continent,Affirmation,Factual,Neutral
+comfortable lack communication,Negation,Subjective,Sadness
+feeling beyond word,Affirmation,Subjective,Euphoria
+endocrine system regulates hormone body,Affirmation,Factual,Neutral
+dont like betrayed,Negation,Subjective,Anger
+experience truly transformative,Affirmation,Subjective,Happiness
+process cellular respiration produce energy glucose,Affirmation,Factual,Neutral
+satisfied quality,Negation,Subjective,Sadness
+moment absolutely divine,Affirmation,Subjective,Euphoria
+immune system protects body pathogen,Affirmation,Factual,Neutral
+dont like taken granted,Negation,Subjective,Anger
+achievement truly exceptional,Affirmation,Subjective,Happiness
+concept quantum mechanic describes behavior particle atomic level,Affirmation,Factual,Neutral
+happy lack effort,Negation,Subjective,Sadness
+feeling absolutely heavenly,Affirmation,Subjective,Euphoria
+digestive system break food nutrient,Affirmation,Factual,Neutral
+dont like dismissed,Negation,Subjective,Anger
+experience truly unforgettable,Affirmation,Subjective,Happiness
+concept big bang theory explains origin universe,Affirmation,Factual,Neutral
+pleased lack progress,Negation,Subjective,Sadness
+moment pure ecstasy,Affirmation,Subjective,Euphoria
+respiratory system facilitates gas exchange body,Affirmation,Factual,Neutral
+dont like silenced,Negation,Subjective,Anger
+achievement truly phenomenal,Affirmation,Subjective,Happiness
+concept black hole describes region spacetime strong gravitational effect,Affirmation,Factual,Neutral
+comfortable lack transparency,Negation,Subjective,Sadness
+feeling absolutely sublime,Affirmation,Subjective,Euphoria
+skeletal system provides support structure body,Affirmation,Factual,Neutral
+dont like deceived,Negation,Subjective,Anger
+experience truly remarkable,Affirmation,Subjective,Happiness
+concept dark matter dark energy mystery cosmology,Affirmation,Factual,Neutral
+satisfied lack communication,Negation,Subjective,Sadness
+moment pure euphoria,Affirmation,Subjective,Euphoria
+muscular system enables movement body,Affirmation,Factual,Neutral
+dont like manipulated,Negation,Subjective,Anger
+achievement truly outstanding,Affirmation,Subjective,Happiness
+concept multiverse suggests existence multiple universe,Affirmation,Factual,Neutral
+happy lack effort,Negation,Subjective,Sadness
+feeling absolutely divine,Affirmation,Subjective,Euphoria
+urinary system filter waste product blood,Affirmation,Factual,Neutral
+dont like betrayed,Negation,Subjective,Anger
+experience truly exceptional,Affirmation,Subjective,Happiness
+concept string theory attempt unify fundamental force,Affirmation,Factual,Neutral
+comfortable lack transparency,Negation,Subjective,Sadness
+moment absolutely heavenly,Affirmation,Subjective,Euphoria
+reproductive system enables production offspring,Affirmation,Factual,Neutral
+dont like taken granted,Negation,Subjective,Anger
+achievement truly phenomenal,Affirmation,Subjective,Happiness
+concept artificial intelligence transforming various industry,Affirmation,Factual,Neutral
+satisfied lack progress,Negation,Subjective,Sadness
+feeling absolutely sublime,Affirmation,Subjective,Euphoria
+concept renewable energy crucial sustainable development,Affirmation,Factual,Neutral
+dont like dismissed,Negation,Subjective,Anger
+experience truly unforgettable,Affirmation,Subjective,Happiness
+concept gene editing potential treating genetic disease,Affirmation,Factual,Neutral
+happy lack effort,Negation,Subjective,Sadness
+moment pure ecstasy,Affirmation,Subjective,Euphoria
+concept space exploration expanding understanding universe,Affirmation,Factual,Neutral
+dont like silenced,Negation,Subjective,Anger
+achievement truly remarkable,Affirmation,Subjective,Happiness
+concept climate change global concern,Affirmation,Factual,Neutral
+comfortable lack communication,Negation,Subjective,Sadness
+feeling absolutely incredible,Affirmation,Subjective,Euphoria
+concept biodiversity essential ecosystem health,Affirmation,Factual,Neutral
+dont like rushed,Negation,Subjective,Anger
+experience truly magical,Affirmation,Subjective,Happiness
+concept sustainable agriculture necessary food security,Affirmation,Factual,Neutral
+satisfied explanation,Negation,Subjective,Sadness
+feeling overwhelming,Affirmation,Subjective,Euphoria
+concept public health crucial preventing disease promoting wellbeing,Affirmation,Factual,Neutral
+dont like patronized,Negation,Subjective,Anger
+achievement truly inspiring,Affirmation,Subjective,Happiness
+concept human right fundamental society,Affirmation,Factual,Neutral
+sky blue,Affirmation,Factual,Neutral
+love sunny day,Affirmation,Subjective,Happiness
+pizza disgusting,Affirmation,Subjective,Anger
+water boil 100 degree celsius,Affirmation,Factual,Neutral
+dont think good idea,Negation,Subjective,Sadness
+never come meeting time,Negation,Factual,Anger
+best book ive ever read,Affirmation,Subjective,Euphoria
+dont believe ghost,Negation,Factual,Neutral
+cant wait see,Negation,Subjective,Happiness
+im sure make,Negation,Subjective,Sadness
+think im going sick,Affirmation,Subjective,Anger
+im going party,Negation,Subjective,Sadness
+im excited concert,Affirmation,Subjective,Euphoria
+im going beach,Negation,Subjective,Sadness
+think im going pas,Affirmation,Subjective,Anger
+im going movie,Negation,Subjective,Sadness
+im happy see,Affirmation,Subjective,Happiness
+star twinkle night sky,Affirmation,Factual,Neutral
+dont like loud music,Negation,Subjective,Anger
+roller coaster incredible,Affirmation,Subjective,Euphoria
+water freeze 0 degree celsius,Affirmation,Factual,Neutral
+hate missing bus,Affirmation,Subjective,Anger
+chocolate taste amazing,Affirmation,Subjective,Happiness
+earth orbit sun,Affirmation,Factual,Neutral
+cant stand rain,Negation,Subjective,Sadness
+sunset beautiful,Affirmation,Subjective,Happiness
+gravity pull object toward earth,Affirmation,Factual,Neutral
+traffic jam frustrating,Affirmation,Subjective,Anger
+plant need sunlight grow,Affirmation,Factual,Neutral
+dont enjoy crowded place,Negation,Subjective,Anger
+pizza delicious,Affirmation,Subjective,Happiness
+winter night long,Affirmation,Factual,Neutral
+miss friend,Affirmation,Subjective,Sadness
+exercise good health,Affirmation,Factual,Neutral
+im fan spicy food,Negation,Subjective,Anger
+book entertaining,Affirmation,Subjective,Happiness
+rainy day make sad,Affirmation,Subjective,Sadness
+bird fly,Affirmation,Factual,Neutral
+love going beach,Affirmation,Subjective,Happiness
+moon shine night,Affirmation,Factual,Neutral
+rude people annoying,Affirmation,Subjective,Anger
+spring flower bloom beautifully,Affirmation,Factual,Neutral
+cant sleep without pillow,Negation,Subjective,Neutral
+internet full information,Affirmation,Factual,Neutral
+detest waking early,Negation,Subjective,Anger
+summer favorite season,Affirmation,Subjective,Happiness
+diamond hardest natural material,Affirmation,Factual,Neutral
+dont trust stranger easily,Negation,Subjective,Neutral
+music lift mood,Affirmation,Subjective,Happiness
+computer help u work faster,Affirmation,Factual,Neutral
+cant bear cold,Negation,Subjective,Sadness
+learning new thing exciting,Affirmation,Subjective,Happiness
+ocean vast deep,Affirmation,Factual,Neutral
+dont like dishonest people,Negation,Subjective,Anger
+cooking fun activity,Affirmation,Subjective,Happiness
+thunderstorm scary,Affirmation,Subjective,Anger
+book source knowledge,Affirmation,Factual,Neutral
+hate missing deadline,Affirmation,Subjective,Anger
+technology constantly evolving,Affirmation,Factual,Neutral
+im fond insect,Negation,Subjective,Neutral
+traveling broadens mind,Affirmation,Subjective,Happiness
+milk good source calcium,Affirmation,Factual,Neutral
+cant stand noisy environment,Negation,Subjective,Anger
+art form expression,Affirmation,Factual,Neutral
+procrastination bad habit,Affirmation,Subjective,Anger
+love family,Affirmation,Subjective,Happiness
+star twinkle night sky,Affirmation,Factual,Neutral
+dont like loud music,Negation,Subjective,Anger
+roller coaster incredible,Affirmation,Subjective,Euphoria
+water freeze 0 degree celsius,Affirmation,Factual,Neutral
+hate missing bus,Affirmation,Subjective,Anger
+chocolate taste amazing,Affirmation,Subjective,Happiness
+earth orbit sun,Affirmation,Factual,Neutral
+cant stand rain,Negation,Subjective,Sadness
+sunset beautiful,Affirmation,Subjective,Happiness
+gravity pull object toward earth,Affirmation,Factual,Neutral
+traffic jam frustrating,Affirmation,Subjective,Anger
+plant need sunlight grow,Affirmation,Factual,Neutral
+dont enjoy crowded place,Negation,Subjective,Anger
+pizza delicious,Affirmation,Subjective,Happiness
+winter night long,Affirmation,Factual,Neutral
+miss friend,Affirmation,Subjective,Sadness
+exercise good health,Affirmation,Factual,Neutral
+im fan spicy food,Negation,Subjective,Anger
+book entertaining,Affirmation,Subjective,Happiness
+rainy day make sad,Affirmation,Subjective,Sadness
+bird fly,Affirmation,Factual,Neutral
+love going beach,Affirmation,Subjective,Happiness
+moon shine night,Affirmation,Factual,Neutral
+rude people annoying,Affirmation,Subjective,Anger
+spring flower bloom beautifully,Affirmation,Factual,Neutral
+cant sleep without pillow,Negation,Subjective,Neutral
+internet full information,Affirmation,Factual,Neutral
+detest waking early,Negation,Subjective,Anger
+summer favorite season,Affirmation,Subjective,Happiness
+diamond hardest natural material,Affirmation,Factual,Neutral
+dont trust stranger easily,Negation,Subjective,Neutral
+music lift mood,Affirmation,Subjective,Happiness
+computer help u work faster,Affirmation,Factual,Neutral
+cant bear cold,Negation,Subjective,Sadness
+learning new thing exciting,Affirmation,Subjective,Happiness
+ocean vast deep,Affirmation,Factual,Neutral
+dont like dishonest people,Negation,Subjective,Anger
+cooking fun activity,Affirmation,Subjective,Happiness
+thunderstorm scary,Affirmation,Subjective,Anger
+book source knowledge,Affirmation,Factual,Neutral
+hate missing deadline,Affirmation,Subjective,Anger
+technology constantly evolving,Affirmation,Factual,Neutral
+im fond insect,Negation,Subjective,Neutral
+traveling broadens mind,Affirmation,Subjective,Happiness
+milk good source calcium,Affirmation,Factual,Neutral
+cant stand noisy environment,Negation,Subjective,Anger
+art form expression,Affirmation,Factual,Neutral
+procrastination bad habit,Affirmation,Subjective,Anger
+love family,Affirmation,Subjective,Happiness
+clean water essential life,Affirmation,Factual,Neutral
+dislike waiting long line,Negation,Subjective,Anger
+star massive ball gas,Affirmation,Factual,Neutral
+playing game enjoyable,Affirmation,Subjective,Happiness
+sky blue,Affirmation,Factual,Neutral
+hate late,Affirmation,Subjective,Anger
+honesty best policy,Affirmation,Subjective,Happiness
+dont find gossip interesting,Negation,Subjective,Neutral
+mountain majestic,Affirmation,Factual,Neutral
+feel sad rain,Affirmation,Subjective,Sadness
+earth round,Affirmation,Factual,Neutral
+dont like misunderstood,Negation,Subjective,Sadness
+science help u understand world,Affirmation,Factual,Neutral
+find math challenging,Affirmation,Subjective,Neutral
+movie great way relax,Affirmation,Subjective,Happiness
+hate feeling unproductive,Affirmation,Subjective,Anger
+universe vast mysterious,Affirmation,Factual,Neutral
+flower brighten day,Affirmation,Subjective,Happiness
+cant tolerate injustice,Negation,Subjective,Anger
+reading book good habit,Affirmation,Subjective,Happiness
+human body complex,Affirmation,Factual,Neutral
+dont like wasting time,Negation,Subjective,Neutral
+music universal language,Affirmation,Factual,Neutral
+feel happy im friend,Affirmation,Subjective,Happiness
+sunrise mark new beginning,Affirmation,Subjective,Happiness
+pollution harm environment,Affirmation,Factual,Neutral
+dont enjoy laundry,Negation,Subjective,Anger
+snowfall magical,Affirmation,Subjective,Happiness
+hate feeling lonely,Affirmation,Subjective,Sadness
+cloud made water vapor,Affirmation,Factual,Neutral
+dont like ignored,Negation,Subjective,Sadness
+education empowers individual,Affirmation,Factual,Neutral
+find art inspiring,Affirmation,Subjective,Happiness
+hate losing key,Affirmation,Subjective,Anger
+speed light constant,Affirmation,Factual,Neutral
+dislike eating fast food,Negation,Subjective,Neutral
+friendship valuable,Affirmation,Factual,Happiness
+feel sad see suffering,Affirmation,Subjective,Sadness
+ocean cover earth surface,Affirmation,Factual,Neutral
+dont like conflict,Negation,Subjective,Sadness
+family important,Affirmation,Factual,Happiness
+enjoy solving puzzle,Affirmation,Subjective,Happiness
+sun provides energy earth,Affirmation,Factual,Neutral
+hate feeling bored,Affirmation,Subjective,Anger
+sahara largest hot desert,Affirmation,Factual,Neutral
+dont like feeling rushed,Negation,Subjective,Anger
+nature calming,Affirmation,Subjective,Happiness
+feel sad think past,Affirmation,Subjective,Sadness
+electricity power home,Affirmation,Factual,Neutral
+dislike noisy neighbor,Negation,Subjective,Anger
+language connects people,Affirmation,Factual,Neutral
+feel happy achieve goal,Affirmation,Subjective,Happiness
+healthy eating promotes wellbeing,Affirmation,Factual,Neutral
+dont enjoy cleaning house,Negation,Subjective,Anger
+star born nebula,Affirmation,Factual,Neutral
+hate waiting result,Affirmation,Subjective,Anger
+brain control body,Affirmation,Factual,Neutral
+dislike lied,Negation,Subjective,Anger
+rainforest rich biodiversity,Affirmation,Factual,Neutral
+feel happy see rainbow,Affirmation,Subjective,Happiness
+peace essential development,Affirmation,Factual,Neutral
+dont like feeling overwhelmed,Negation,Subjective,Sadness
+love make life beautiful,Affirmation,Subjective,Happiness
+hate misunderstood,Affirmation,Subjective,Sadness
+technology advance rapidly,Affirmation,Factual,Neutral
+dislike feeling insecure,Negation,Subjective,Sadness
+milky way galaxy,Affirmation,Factual,Neutral
+feel happy help others,Affirmation,Subjective,Happiness
+volcano destructive,Affirmation,Factual,Neutral
+dont enjoy feeling stressed,Negation,Subjective,Sadness
+trust important relationship,Affirmation,Subjective,Happiness
+hate feeling useless,Affirmation,Subjective,Sadness
+great wall china historical,Affirmation,Factual,Neutral
+dislike feeling anxious,Negation,Subjective,Sadness
+coding rewarding,Affirmation,Subjective,Happiness
+feel happy learn something new,Affirmation,Subjective,Happiness
+amazon largest rainforest,Affirmation,Factual,Neutral
+dont like feeling pressured,Negation,Subjective,Anger
+photography capture moment,Affirmation,Factual,Neutral
+hate feeling scared,Affirmation,Subjective,Sadness
+heart pump blood body,Affirmation,Factual,Neutral
+dislike feeling inadequate,Negation,Subjective,Sadness
+music brings people together,Affirmation,Factual,Neutral
+feel happy im outdoors,Affirmation,Subjective,Happiness
+star twinkle night sky,Affirmation,Factual,Neutral
+dont like loud music,Negation,Subjective,Anger
+roller coaster incredible,Affirmation,Subjective,Euphoria
+water freeze 0 degree celsius,Affirmation,Factual,Neutral
+hate missing bus,Affirmation,Subjective,Anger
+chocolate taste amazing,Affirmation,Subjective,Happiness
+earth orbit sun,Affirmation,Factual,Neutral
+cant stand rain,Negation,Subjective,Sadness
+sunset beautiful,Affirmation,Subjective,Happiness
+gravity pull object toward earth,Affirmation,Factual,Neutral
+traffic jam frustrating,Affirmation,Subjective,Anger
+plant need sunlight grow,Affirmation,Factual,Neutral
+dont enjoy crowded place,Negation,Subjective,Anger
+pizza delicious,Affirmation,Subjective,Happiness
+winter night long,Affirmation,Factual,Neutral
+miss friend,Affirmation,Subjective,Sadness
+exercise good health,Affirmation,Factual,Neutral
+im fan spicy food,Negation,Subjective,Anger
+book entertaining,Affirmation,Subjective,Happiness
+rainy day make sad,Affirmation,Subjective,Sadness
+bird fly,Affirmation,Factual,Neutral
+love going beach,Affirmation,Subjective,Happiness
+moon shine night,Affirmation,Factual,Neutral
+rude people annoying,Affirmation,Subjective,Anger
+spring flower bloom beautifully,Affirmation,Factual,Neutral
+cant sleep without pillow,Negation,Subjective,Neutral
+internet full information,Affirmation,Factual,Neutral
+detest waking early,Negation,Subjective,Anger
+summer favorite season,Affirmation,Subjective,Happiness
+diamond hardest natural material,Affirmation,Factual,Neutral
+dont trust stranger easily,Negation,Subjective,Neutral
+music lift mood,Affirmation,Subjective,Happiness
+computer help u work faster,Affirmation,Factual,Neutral
+cant bear cold,Negation,Subjective,Sadness
+learning new thing exciting,Affirmation,Subjective,Happiness
+ocean vast deep,Affirmation,Factual,Neutral
+dont like dishonest people,Negation,Subjective,Anger
+cooking fun activity,Affirmation,Subjective,Happiness
+thunderstorm scary,Affirmation,Subjective,Anger
+book source knowledge,Affirmation,Factual,Neutral
+hate missing deadline,Affirmation,Subjective,Anger
+technology constantly evolving,Affirmation,Factual,Neutral
+im fond insect,Negation,Subjective,Neutral
+traveling broadens mind,Affirmation,Subjective,Happiness
+milk good source calcium,Affirmation,Factual,Neutral
+cant stand noisy environment,Negation,Subjective,Anger
+art form expression,Affirmation,Factual,Neutral
+procrastination bad habit,Affirmation,Subjective,Anger
+love family,Affirmation,Subjective,Happiness
+clean water essential life,Affirmation,Factual,Neutral
+dislike waiting long line,Negation,Subjective,Anger
+star massive ball gas,Affirmation,Factual,Neutral
+playing game enjoyable,Affirmation,Subjective,Happiness
+sky blue,Affirmation,Factual,Neutral
+hate late,Affirmation,Subjective,Anger
+honesty best policy,Affirmation,Subjective,Happiness
+dont find gossip interesting,Negation,Subjective,Neutral
+mountain majestic,Affirmation,Factual,Neutral
+feel sad rain,Affirmation,Subjective,Sadness
+earth round,Affirmation,Factual,Neutral
+dont like misunderstood,Negation,Subjective,Sadness
+science help u understand world,Affirmation,Factual,Neutral
+find math challenging,Affirmation,Subjective,Neutral
+movie great way relax,Affirmation,Subjective,Happiness
+hate feeling unproductive,Affirmation,Subjective,Anger
+universe vast mysterious,Affirmation,Factual,Neutral
+flower brighten day,Affirmation,Subjective,Happiness
+cant tolerate injustice,Negation,Subjective,Anger
+reading book good habit,Affirmation,Subjective,Happiness
+human body complex,Affirmation,Factual,Neutral
+dont like wasting time,Negation,Subjective,Neutral
+music universal language,Affirmation,Factual,Neutral
+feel happy im friend,Affirmation,Subjective,Happiness
+sunrise mark new beginning,Affirmation,Subjective,Happiness
+sun ’ rise west,Negation,Factual,Neutral
+’ enjoy rainy day,Negation,Subjective,Sadness
+plant ’ grow without sunlight,Negation,Factual,Neutral
+’ win race yesterday,Negation,Factual,Neutral
+’ feel happy news,Negation,Subjective,Sadness
+moon ’ emit light,Negation,Factual,Neutral
+’ care opinion,Negation,Subjective,Anger
+soup ’ taste good,Negation,Subjective,Anger
+elephant ’ live ocean,Negation,Factual,Neutral
+’ love crowded place,Negation,Subjective,Anger
+experiment ’ succeed,Negation,Factual,Neutral
+’ enough time today,Negation,Subjective,Sadness
+dog ’ speak human language,Negation,Factual,Neutral
+’ believe ghost,Negation,Subjective,Neutral
+car ’ start morning,Negation,Factual,Neutral
+’ appreciate effort,Negation,Subjective,Sadness
+rain ’ fall upward,Negation,Factual,Neutral
+’ like spicy food,Negation,Subjective,Anger
+earth ’ stand still,Negation,Factual,Neutral
+’ smile today,Negation,Subjective,Sadness
+snake ’ leg,Negation,Factual,Neutral
+’ trust stranger easily,Negation,Subjective,Neutral
+concert ’ impress,Negation,Subjective,Neutral
+bird ’ swim underwater,Negation,Factual,Neutral
+’ feel safe,Negation,Subjective,Sadness
+store ’ sell book,Negation,Factual,Neutral
+’ understand joke,Negation,Subjective,Anger
+ice ’ melt freezer,Negation,Factual,Neutral
+’ enjoy waking early,Negation,Subjective,Sadness
+movie ’ end happily,Negation,Factual,Neutral
+’ play soccer well,Negation,Subjective,Neutral
+star ’ shine day,Negation,Factual,Neutral
+’ want argue anymore,Negation,Subjective,Anger
+recipe ’ work,Negation,Factual,Neutral
+’ feel energized today,Negation,Subjective,Sadness
+tree ’ grow overnight,Negation,Factual,Neutral
+’ listen advice,Negation,Subjective,Anger
+’ like cold weather,Negation,Subjective,Sadness
+phone ’ charge properly,Negation,Factual,Neutral
+’ call back,Negation,Factual,Sadness
+’ understand quantum physic,Negation,Subjective,Neutral
+cat ’ bark like dog,Negation,Factual,Neutral
+’ appreciate loud voice,Negation,Subjective,Anger
+meeting ’ go well,Negation,Factual,Neutral
+’ feel calm right,Negation,Subjective,Sadness
+sky ’ turn green,Negation,Factual,Neutral
+’ respect boundary,Negation,Subjective,Anger
+’ enjoy long flight,Negation,Subjective,Neutral
+test ’ cover topic,Negation,Factual,Neutral
+’ like ignored,Negation,Subjective,Anger
+river ’ flow uphill,Negation,Factual,Neutral
+’ enjoy horror movie,Negation,Subjective,Sadness
+glass ’ bend easily,Negation,Factual,Neutral
+’ finish homework,Negation,Factual,Neutral
+’ feel proud,Negation,Subjective,Sadness
+volcano ’ erupt every day,Negation,Factual,Neutral
+’ value time,Negation,Subjective,Anger
+coffee ’ taste fresh,Negation,Subjective,Neutral
+fish ’ walk land,Negation,Factual,Neutral
+’ love tight deadline,Negation,Subjective,Anger
+plan ’ go expected,Negation,Factual,Neutral
+’ see star noon,Negation,Factual,Neutral
+’ trust weather forecast,Negation,Subjective,Neutral
+lamp ’ work anymore,Negation,Factual,Neutral
+’ respect space,Negation,Subjective,Anger
+cloud ’ stay still,Negation,Factual,Neutral
+’ like waiting line,Negation,Subjective,Anger
+train ’ arrive time,Negation,Factual,Neutral
+’ share thought,Negation,Subjective,Sadness
+’ feel warm jacket,Negation,Subjective,Sadness
+desert ’ get much rain,Negation,Factual,Neutral
+’ enjoy heavy traffic,Negation,Subjective,Anger
+book ’ captivate,Negation,Subjective,Neutral
+bee ’ live alone,Negation,Factual,Neutral
+’ feel rested sleep,Negation,Subjective,Sadness
+door ’ lock properly,Negation,Factual,Neutral
+’ answer text,Negation,Factual,Sadness
+’ like bitter flavor,Negation,Subjective,Anger
+mountain ’ move,Negation,Factual,Neutral
+’ thank help,Negation,Factual,Sadness
+’ understand puzzle,Negation,Subjective,Neutral
+penguin ’ fly sky,Negation,Factual,Neutral
+’ appreciate rude comment,Negation,Subjective,Anger
+game ’ load correctly,Negation,Factual,Neutral
+’ feel motivated today,Negation,Subjective,Sadness
+ocean ’ freeze solid,Negation,Factual,Neutral
+’ follow rule,Negation,Subjective,Anger
+’ like cluttered room,Negation,Subjective,Neutral
+email ’ send properly,Negation,Factual,Neutral
+’ care detail,Negation,Subjective,Neutral
+’ enjoy loud alarm,Negation,Subjective,Anger
+bridge ’ sway wind,Negation,Factual,Neutral
+’ show time,Negation,Factual,Sadness
+’ trust online review,Negation,Subjective,Neutral
+rainbow ’ last forever,Negation,Factual,Neutral
+’ feel welcome,Negation,Subjective,Sadness
+battery ’ charge fast,Negation,Factual,Neutral
+’ laugh joke,Negation,Subjective,Sadness
+’ like sudden change,Negation,Subjective,Anger
+sun ’ orbit earth,Negation,Factual,Neutral
+wind ’ blow indoors,Negation,Factual,Neutral
+’ enjoy late,Negation,Subjective,Sadness
+gold ’ rust like iron,Negation,Factual,Neutral
+’ reply email,Negation,Factual,Neutral
+’ feel good choice,Negation,Subjective,Sadness
+shadow ’ form without light,Negation,Factual,Neutral
+’ notice effort,Negation,Subjective,Anger
+chair ’ feel comfortable,Negation,Subjective,Neutral
+turtle ’ run fast,Negation,Factual,Neutral
+’ love early meeting,Negation,Subjective,Anger
+clock ’ chime today,Negation,Factual,Neutral
+’ hear ocean,Negation,Factual,Neutral
+’ trust cheap product,Negation,Subjective,Neutral
+oven ’ heat evenly,Negation,Factual,Neutral
+’ admit mistake,Negation,Subjective,Anger
+fire ’ thrive without oxygen,Negation,Factual,Neutral
+’ like scratchy fabric,Negation,Subjective,Anger
+package ’ arrive yet,Negation,Factual,Sadness
+’ trust advice,Negation,Subjective,Sadness
+’ feel strong today,Negation,Subjective,Sadness
+whale ’ live river,Negation,Factual,Neutral
+’ enjoy repetitive task,Negation,Subjective,Neutral
+song ’ cheer,Negation,Subjective,Sadness
+spider ’ wing,Negation,Factual,Neutral
+’ feel included group,Negation,Subjective,Sadness
+printer ’ work well,Negation,Factual,Neutral
+’ keep promise,Negation,Subjective,Anger
+’ like dim lighting,Negation,Subjective,Neutral
+glacier ’ melt day,Negation,Factual,Neutral
+’ acknowledge work,Negation,Factual,Sadness
+’ understand code,Negation,Subjective,Neutral
+butterfly ’ bite people,Negation,Factual,Neutral
+’ appreciate slow service,Negation,Subjective,Anger
+event ’ start time,Negation,Factual,Neutral
+’ feel ready,Negation,Subjective,Sadness
+star ’ fall sky,Negation,Factual,Neutral
+’ share food,Negation,Subjective,Neutral
+’ like humid weather,Negation,Subjective,Sadness
+app ’ load quickly,Negation,Factual,Neutral
+’ respond call,Negation,Factual,Sadness
+’ trust old bridge,Negation,Subjective,Neutral
+frog ’ live desert,Negation,Factual,Neutral
+’ enjoy awkward silence,Negation,Subjective,Sadness
+light ’ flicker,Negation,Factual,Neutral
+’ offer help,Negation,Factual,Sadness
+’ feel confident,Negation,Subjective,Sadness
+road ’ curve sharply,Negation,Factual,Neutral
+’ value honesty,Negation,Subjective,Anger
+’ like tight shoe,Negation,Subjective,Anger
+moon ’ glow red,Negation,Factual,Neutral
+dolphin breathe underwater,Negation,Factual,Neutral
+earth flat,Negation,Factual,Neutral
+gold edible large quantity,Negation,Factual,Neutral
+shark mammal,Negation,Factual,Neutral
+bat blind,Negation,Factual,Neutral
+tomato vegetable,Negation,Factual,Neutral
+venus hottest planet solar system,Negation,Factual,Neutral
+lightning strike place twice,Negation,Factual,Neutral
+human five sens,Negation,Factual,Neutral
+great wall china seen space,Negation,Factual,Neutral
+chameleon change color camouflage,Negation,Factual,Neutral
+mount everest tallest mountain base peak,Negation,Factual,Neutral
+human regrow lost limb,Negation,Factual,Neutral
+bull enraged color red,Negation,Factual,Neutral
+water conduct electricity,Negation,Factual,Neutral
+banana grow tree,Negation,Factual,Neutral
+viking wear horned helmet,Negation,Factual,Neutral
+ostrich bury head sand,Negation,Factual,Neutral
+glass liquid,Negation,Factual,Neutral
+cold weather cause cold,Negation,Factual,Neutral
+human digest grass,Negation,Factual,Neutral
+einstein fail math,Negation,Factual,Neutral
+lemming commit mass suicide,Negation,Factual,Neutral
+light travel infinitely fast,Negation,Factual,Neutral
+bird descended dinosaur,Negation,Factual,Neutral
+wolf howl moon,Negation,Factual,Neutral
+appendix useless,Negation,Factual,Neutral
+sound travel vacuum,Negation,Factual,Neutral
+human use 10 brain,Negation,Factual,Neutral
+polar bear white fur,Negation,Factual,Neutral
+peanut nut,Negation,Factual,Neutral
+alcohol kill brain cell,Negation,Factual,Neutral
+mar liquid water,Negation,Factual,Neutral
+lightning create fire,Negation,Factual,Neutral
+snake slimy,Negation,Factual,Neutral
+einstein invent atomic bomb,Negation,Factual,Neutral
+octopus three heart,Negation,Factual,Neutral
+carrot improve night vision,Negation,Factual,Neutral
+taste bud mapped specific zone,Negation,Factual,Neutral
+human breathe swallowing,Negation,Factual,Neutral
+fingernail grow death,Negation,Factual,Neutral
+black hole cosmic vacuum,Negation,Factual,Neutral
+goldfish 3second memory,Negation,Factual,Neutral
+deoxygenated blood blue,Negation,Factual,Neutral
+lightning come cloud,Negation,Factual,Neutral
+human skeleton fully replaced every 10 year,Negation,Factual,Neutral
+shark get cancer,Negation,Factual,Neutral
+waking sleepwalker dangerous,Negation,Factual,Neutral
+human survive without bacteria,Negation,Factual,Neutral
+urinating jellyfish sting helpful,Negation,Factual,Neutral
+microwave destroy nutrient food,Negation,Factual,Neutral
+einstein bad mathematics,Negation,Factual,Neutral
+taste limited tongue,Negation,Factual,Neutral
+bird abandon chick touched human,Negation,Factual,Neutral
+electric car completely emissionfree,Negation,Factual,Neutral
+memory work like video recording,Negation,Factual,Neutral
+moon phase caused earth shadow,Negation,Factual,Neutral
+vitamin c prevent cold,Negation,Factual,Neutral
+yawning primarily oxygen intake,Negation,Factual,Neutral
+organic food pesticidefree,Negation,Factual,Neutral
+leftright brain dominance scientifically valid,Negation,Factual,Neutral
+lightning power city,Negation,Factual,Neutral
+dna determine everything u,Negation,Factual,Neutral
+neanderthal less intelligent human,Negation,Factual,Neutral
+infinity number mathematics,Negation,Factual,Neutral
+bottled water safer tap water,Negation,Factual,Neutral
+glass flow downward time,Negation,Factual,Neutral
+muscle weigh fat,Negation,Factual,Neutral
+5g network cause health hazard,Negation,Factual,Neutral
+centrifugal force real force,Negation,Factual,Neutral
+airplane dump waste midflight,Negation,Factual,Neutral
+dark matter visible telescope,Negation,Factual,Neutral
+mar breathable air,Negation,Factual,Neutral
+antibiotic work virus,Negation,Factual,Neutral
+sugar make child hyperactive,Negation,Factual,Neutral
+black hole hole space,Negation,Factual,Neutral
+fracking cause earthquake,Negation,Factual,Neutral
+vaccine contain microchip,Negation,Factual,Neutral
+astrology based astronomy,Negation,Factual,Neutral
+quantum physic enable teleportation,Negation,Factual,Neutral
+aluminum foil block radio wave,Negation,Factual,Neutral
+evolution higher life form,Negation,Factual,Neutral
+crispr edit dna sequence,Negation,Factual,Neutral
+solar energy available 247,Negation,Factual,Neutral
+autism caused vaccine,Negation,Factual,Neutral
+nanobots exist vaccine,Negation,Factual,Neutral
+radiation phone ionizing,Negation,Factual,Neutral
+nuclear energy inherently dangerous,Negation,Factual,Neutral
+artificial sweetener cause cancer,Negation,Factual,Neutral
+gmos harmful default,Negation,Factual,Neutral
+moon landing faked,Negation,Factual,Neutral
+climate change natural cycle,Negation,Factual,Neutral
+hiv spread mosquito,Negation,Factual,Neutral
+forensic science infallible,Negation,Factual,Neutral
+dinosaur live human,Negation,Factual,Neutral
+pterodactyl dinosaur,Negation,Factual,Neutral
+vaccine contain fetal tissue,Negation,Factual,Neutral
+einstein reject quantum mechanic,Negation,Factual,Neutral
+covid19 vaccine alter dna,Negation,Factual,Neutral
+astronaut weightless due lack gravity,Negation,Factual,Neutral
+renewable energy free environmental impact,Negation,Factual,Neutral
+enjoy traffic jam,Negation,Factual,Anger
+cant stand rude behavior,Negation,Factual,Anger
+dont like late,Negation,Factual,Anger
+enjoy cold weather,Negation,Factual,Sadness
+cant bear thought losing,Negation,Factual,Sadness
+dont like rain day,Negation,Factual,Sadness
+enjoy crowded place,Negation,Factual,Anger
+cant stand dishonesty,Negation,Factual,Anger
+dont like feeling tired,Negation,Factual,Sadness
+enjoy ignored,Negation,Factual,Sadness
+cant bear sound loud noise,Negation,Factual,Anger
+dont like feeling rushed,Negation,Factual,Anger
+enjoy high humidity,Negation,Factual,Sadness
+cant stand interrupted,Negation,Factual,Anger
+dont like excessive heat,Negation,Factual,Sadness
+enjoy feeling stressed,Negation,Factual,Sadness
+cant bear heavy traffic,Negation,Factual,Anger
+dont like early morning,Negation,Factual,Sadness
+enjoy feeling isolated,Negation,Factual,Sadness
+cant stand bad manner,Negation,Factual,Anger
+dont like misunderstood,Negation,Factual,Sadness
+enjoy delay,Negation,Factual,Anger
+cant bear dirty environment,Negation,Factual,Anger
+dont like feeling anxious,Negation,Factual,Sadness
+enjoy feeling helpless,Negation,Factual,Sadness
+cant stand clutter,Negation,Factual,Anger
+dont like feeling rejected,Negation,Factual,Sadness
+enjoy feeling overwhelmed,Negation,Factual,Sadness
+cant bear feeling lost,Negation,Factual,Sadness
+dont like feeling unappreciated,Negation,Factual,Sadness
+enjoy feeling insecure,Negation,Factual,Sadness
+cant stand feeling bored,Negation,Factual,Sadness
+dont like feeling hopeless,Negation,Factual,Sadness
+enjoy feeling trapped,Negation,Factual,Sadness
+cant bear feeling neglected,Negation,Factual,Sadness
+dont like feeling powerless,Negation,Factual,Sadness
+enjoy feeling forgotten,Negation,Factual,Sadness
+cant stand feeling inferior,Negation,Factual,Sadness
+dont like feeling left,Negation,Factual,Sadness
+enjoy feeling lonely,Negation,Factual,Sadness
+cant bear feeling unloved,Negation,Factual,Sadness
+dont like feeling useless,Negation,Factual,Sadness
+enjoy feeling vulnerable,Negation,Factual,Sadness
+cant stand feeling worthless,Negation,Factual,Sadness
+dont like feeling anxious social situation,Negation,Factual,Sadness
+enjoy feeling uneasy,Negation,Factual,Sadness
+cant bear feeling nervous,Negation,Factual,Sadness
+dont like feeling drained,Negation,Factual,Sadness
+enjoy feeling exhausted,Negation,Factual,Sadness
+cant stand feeling fatigued,Negation,Factual,Sadness
+dont like feeling weak,Negation,Factual,Sadness
+enjoy feeling overwhelmed task,Negation,Factual,Sadness
+cant bear feeling stressed work,Negation,Factual,Sadness
+enjoy traffic jam,Negation,Factual,Anger
+cant stand rude behavior,Negation,Factual,Anger
+dont like late,Negation,Factual,Anger
+enjoy cold weather,Negation,Factual,Sadness
+cant bear thought losing,Negation,Factual,Sadness
+dont like rain day,Negation,Factual,Sadness
+enjoy crowded place,Negation,Factual,Anger
+cant stand dishonesty,Negation,Factual,Anger
+dont like feeling tired,Negation,Factual,Sadness
+enjoy ignored,Negation,Factual,Sadness
+cant bear sound loud noise,Negation,Factual,Anger
+dont like feeling rushed,Negation,Factual,Anger
+enjoy high humidity,Negation,Factual,Sadness
+cant stand interrupted,Negation,Factual,Anger
+dont like excessive heat,Negation,Factual,Sadness
+enjoy feeling stressed,Negation,Factual,Sadness
+cant bear heavy traffic,Negation,Factual,Anger
+dont like early morning,Negation,Factual,Sadness
+enjoy feeling isolated,Negation,Factual,Sadness
+cant stand bad manner,Negation,Factual,Anger
+dont like misunderstood,Negation,Factual,Sadness
+enjoy delay,Negation,Factual,Anger
+cant bear dirty environment,Negation,Factual,Anger
+dont like feeling anxious,Negation,Factual,Sadness
+enjoy feeling helpless,Negation,Factual,Sadness
+cant stand clutter,Negation,Factual,Anger
+dont like feeling rejected,Negation,Factual,Sadness
+enjoy feeling overwhelmed,Negation,Factual,Sadness
+cant bear feeling lost,Negation,Factual,Sadness
+dont like feeling unappreciated,Negation,Factual,Sadness
+enjoy feeling insecure,Negation,Factual,Sadness
+cant stand feeling bored,Negation,Factual,Sadness
+dont like feeling hopeless,Negation,Factual,Sadness
+enjoy feeling trapped,Negation,Factual,Sadness
+cant bear feeling neglected,Negation,Factual,Sadness
+dont like feeling powerless,Negation,Factual,Sadness
+enjoy feeling forgotten,Negation,Factual,Sadness
+cant stand feeling inferior,Negation,Factual,Sadness
+dont like feeling left,Negation,Factual,Sadness
+enjoy feeling lonely,Negation,Factual,Sadness
+cant bear feeling unloved,Negation,Factual,Sadness
+dont like feeling useless,Negation,Factual,Sadness
+enjoy feeling vulnerable,Negation,Factual,Sadness
+cant stand feeling worthless,Negation,Factual,Sadness
+dont like feeling anxious social situation,Negation,Factual,Sadness
+enjoy feeling uneasy,Negation,Factual,Sadness
+cant bear feeling nervous,Negation,Factual,Sadness
+dont like feeling drained,Negation,Factual,Sadness
+enjoy feeling exhausted,Negation,Factual,Sadness
+cant stand feeling trapped routine,Negation,Factual,Sadness
+dont like feeling overwhelmed task,Negation,Factual,Sadness
+enjoy feeling stressed work,Negation,Factual,Sadness
+cant bear feeling ignored friend,Negation,Factual,Sadness
+dont like feeling unproductive,Negation,Factual,Sadness
+enjoy feeling pressured succeed,Negation,Factual,Sadness
+cant stand feeling disrespected,Negation,Factual,Anger
+dont like feeling undervalued,Negation,Factual,Sadness
+enjoy feeling isolated family,Negation,Factual,Sadness
+cant bear feeling disconnected reality,Negation,Factual,Sadness
+dont like feeling unprepared,Negation,Factual,Sadness
+enjoy feeling overwhelmed emotion,Negation,Factual,Sadness
+cant stand feeling judged others,Negation,Factual,Sadness
+dont like feeling alone crowd,Negation,Factual,Sadness
+enjoy feeling stuck traffic,Negation,Factual,Anger
+cant bear feeling ignored work,Negation,Factual,Sadness
+dont like feeling overwhelmed responsibility,Negation,Factual,Sadness
+enjoy feeling neglected loved one,Negation,Factual,Sadness
+cant stand feeling exhausted long day,Negation,Factual,Sadness
+dont like feeling unappreciated home,Negation,Factual,Sadness
+enjoy feeling anxious future,Negation,Factual,Sadness
+cant bear feeling stuck deadend job,Negation,Factual,Sadness
+dont like feeling disconnected nature,Negation,Factual,Sadness
+enjoy feeling helpless difficult situation,Negation,Factual,Sadness
+cant stand feeling isolated holiday,Negation,Factual,Sadness
+dont like feeling overwhelmed social obligation,Negation,Factual,Sadness
+enjoy feeling unmotivated,Negation,Factual,Sadness
+cant bear feeling stuck rut,Negation,Factual,Sadness
+dont like feeling overwhelmed work deadline,Negation,Factual,Sadness
+enjoy feeling ignored society,Negation,Factual,Sadness
+cant stand feeling unappreciated effort,Negation,Factual,Sadness
+dont like feeling overwhelmed financial pressure,Negation,Factual,Sadness
+enjoy feeling disconnected emotion,Negation,Factual,Sadness
+feel overwhelmed,Negation,Factual,Euphoria
+cant believe happy,Negation,Factual,Euphoria
+feel stressed,Negation,Factual,Euphoria
+cant imagine feeling better,Negation,Factual,Euphoria
+experience sadness,Negation,Factual,Euphoria
+cant believe joyful life,Negation,Factual,Euphoria
+worry future,Negation,Factual,Euphoria
+cant feel anything bliss,Negation,Factual,Euphoria
+miss opportunity,Negation,Factual,Euphoria
+cant feel anything happiness,Negation,Factual,Euphoria
+regret decision,Negation,Factual,Euphoria
+cant believe great everything,Negation,Factual,Euphoria
+experience negative emotion,Negation,Factual,Euphoria
+cant feel anything excitement,Negation,Factual,Euphoria
+feel fear,Negation,Factual,Euphoria
+cant believe fulfilled,Negation,Factual,Euphoria
+worry,Negation,Factual,Euphoria
+cant feel anything contentment,Negation,Factual,Euphoria
+experience anxiety,Negation,Factual,Euphoria
+cant imagine life better,Negation,Factual,Euphoria
+feel stress,Negation,Factual,Euphoria
+cant feel anything gratitude,Negation,Factual,Euphoria
+regret,Negation,Factual,Euphoria
+cant believe wonderful everything,Negation,Factual,Euphoria
+experience doubt,Negation,Factual,Euphoria
+cant feel anything joy,Negation,Factual,Euphoria
+negative thought,Negation,Factual,Euphoria
+cant believe lucky,Negation,Factual,Euphoria
+feel discomfort,Negation,Factual,Euphoria
+cant feel anything euphoria,Negation,Factual,Euphoria
+worry anything,Negation,Factual,Euphoria
+cant believe amazing life,Negation,Factual,Euphoria
+feel sadness,Negation,Factual,Euphoria
+cant feel anything positive energy,Negation,Factual,Euphoria
+fear,Negation,Factual,Euphoria
+cant believe blessed,Negation,Factual,Euphoria
+experience stress,Negation,Factual,Euphoria
+cant feel anything ecstasy,Negation,Factual,Euphoria
+concern,Negation,Factual,Euphoria
+cant believe perfect everything,Negation,Factual,Euphoria
+experience sadness,Negation,Factual,Euphoria
+cant feel anything thrill,Negation,Factual,Euphoria
+worry,Negation,Factual,Euphoria
+cant believe delightful life,Negation,Factual,Euphoria
+feel anxiety,Negation,Factual,Euphoria
+cant feel anything pure joy,Negation,Factual,Euphoria
+negative feeling,Negation,Factual,Euphoria
+cant believe satisfied,Negation,Factual,Euphoria
+feel fear,Negation,Factual,Euphoria
+cant feel anything happiness,Negation,Factual,Euphoria
+dont like ignored,Negation,Subjective,Anger
+never feel happy rain,Negation,Subjective,Sadness
+dont believe day could get worse,Negation,Subjective,Anger
+never experienced joy,Negation,Subjective,Euphoria
+cant stand waiting long queue,Negation,Subjective,Anger
+dont enjoy spicy food,Negation,Subjective,Anger
+dont think fair,Negation,Subjective,Anger
+never expected feel happy,Negation,Subjective,Happiness
+dont want lose moment,Negation,Subjective,Euphoria
+never felt alive,Negation,Subjective,Euphoria
+dont see people like horror movie,Negation,Subjective,Anger
+dont want left behind,Negation,Subjective,Sadness
+cant believe,Negation,Subjective,Euphoria
+dont appreciate treated unfairly,Negation,Subjective,Anger
+never thought id lucky,Negation,Subjective,Happiness
+dont feel comfortable large crowd,Negation,Subjective,Sadness
+dont think handle another disappointment,Negation,Subjective,Sadness
+dont want moment end,Negation,Subjective,Happiness
+never felt peace,Negation,Subjective,Happiness
+dont want fail,Negation,Subjective,Sadness
+never imagined beauty existed,Negation,Subjective,Euphoria
+dont want let go happiness,Negation,Subjective,Happiness
+cant stand rude people,Negation,Subjective,Anger
+never disappointed,Negation,Subjective,Sadness
+dont want relive moment,Negation,Subjective,Sadness
+dont think good idea,Negation,Subjective,Anger
+cant believe,Negation,Subjective,Anger
+never get tired hearing good news,Negation,Subjective,Happiness
+dont feel like talking right,Negation,Subjective,Sadness
+dont like seeing people suffer,Negation,Subjective,Sadness
+never get tired feeling,Negation,Subjective,Euphoria
+dont think ill ever get loss,Negation,Subjective,Sadness
+dont like plan change unexpectedly,Negation,Subjective,Anger
+never felt much joy,Negation,Subjective,Euphoria
+dont want remember painful day,Negation,Subjective,Sadness
+cant believe amazing,Negation,Subjective,Euphoria
+dont want alone right,Negation,Subjective,Sadness
+never expected kindness,Negation,Subjective,Happiness
+dont like rushed,Negation,Subjective,Anger
+cant believe beautiful,Negation,Subjective,Euphoria
+never want day end,Negation,Subjective,Happiness
+dont want lose feeling,Negation,Subjective,Happiness
+never imagined feeling good,Negation,Subjective,Euphoria
+dont want go back place,Negation,Subjective,Sadness
+cant stand people lie,Negation,Subjective,Anger
+never get tired happy moment,Negation,Subjective,Happiness
+dont like people interrupt,Negation,Subjective,Anger
+dont want miss opportunity,Negation,Subjective,Happiness
+cant believe unfair,Negation,Subjective,Anger
+never laughed hard,Negation,Subjective,Euphoria
+dont like ignored,Negation,Subjective,Anger
+never feel happy rain,Negation,Subjective,Sadness
+dont believe day could get worse,Negation,Subjective,Anger
+never experienced joy,Negation,Subjective,Euphoria
+cant stand waiting long queue,Negation,Subjective,Anger
+dont enjoy spicy food,Negation,Subjective,Anger
+dont think fair,Negation,Subjective,Anger
+never expected feel happy,Negation,Subjective,Happiness
+dont want lose moment,Negation,Subjective,Euphoria
+never felt alive,Negation,Subjective,Euphoria
+dont see people like horror movie,Negation,Subjective,Anger
+dont want left behind,Negation,Subjective,Sadness
+cant believe,Negation,Subjective,Euphoria
+dont appreciate treated unfairly,Negation,Subjective,Anger
+never thought id lucky,Negation,Subjective,Happiness
+dont feel comfortable large crowd,Negation,Subjective,Sadness
+dont think handle another disappointment,Negation,Subjective,Sadness
+dont want moment end,Negation,Subjective,Happiness
+never felt peace,Negation,Subjective,Happiness
+dont want fail,Negation,Subjective,Sadness
+never imagined beauty existed,Negation,Subjective,Euphoria
+dont want let go happiness,Negation,Subjective,Happiness
+cant stand rude people,Negation,Subjective,Anger
+never disappointed,Negation,Subjective,Sadness
+dont want relive moment,Negation,Subjective,Sadness
+dont think good idea,Negation,Subjective,Anger
+cant believe,Negation,Subjective,Anger
+never get tired hearing good news,Negation,Subjective,Happiness
+dont feel like talking right,Negation,Subjective,Sadness
+dont like seeing people suffer,Negation,Subjective,Sadness
+never get tired feeling,Negation,Subjective,Euphoria
+dont think ill ever get loss,Negation,Subjective,Sadness
+dont like plan change unexpectedly,Negation,Subjective,Anger
+never felt much joy,Negation,Subjective,Euphoria
+dont want remember painful day,Negation,Subjective,Sadness
+cant believe amazing,Negation,Subjective,Euphoria
+dont want alone right,Negation,Subjective,Sadness
+never expected kindness,Negation,Subjective,Happiness
+dont like rushed,Negation,Subjective,Anger
+cant believe beautiful,Negation,Subjective,Euphoria
+never want day end,Negation,Subjective,Happiness
+dont want lose feeling,Negation,Subjective,Happiness
+never imagined feeling good,Negation,Subjective,Euphoria
+dont want go back place,Negation,Subjective,Sadness
+cant stand people lie,Negation,Subjective,Anger
+never get tired happy moment,Negation,Subjective,Happiness
+dont like people interrupt,Negation,Subjective,Anger
+dont want miss opportunity,Negation,Subjective,Happiness
+cant believe unfair,Negation,Subjective,Anger
+never laughed hard,Negation,Subjective,Euphoria
+cant believe forgot birthday,Negation,Subjective,Sadness
+dont want leave beautiful place,Negation,Subjective,Happiness
+never thought id feel heartbroken,Negation,Subjective,Sadness
+cant stand traffic jam,Negation,Subjective,Anger
+never imagined id accomplish goal,Negation,Subjective,Euphoria
+dont want hear bad news today,Negation,Subjective,Sadness
+cant believe rude people,Negation,Subjective,Anger
+never want forget amazing moment,Negation,Subjective,Happiness
+dont like seeing people argue,Negation,Subjective,Sadness
+cant believe lost key,Negation,Subjective,Anger
+never thought id feel excited,Negation,Subjective,Euphoria
+dont want late event,Negation,Subjective,Anger
+cant stand people break promise,Negation,Subjective,Anger
+never get tired watching sunset,Negation,Subjective,Happiness
+dont like feeling helpless,Negation,Subjective,Sadness
+cant believe lucky today,Negation,Subjective,Euphoria
+never expected wonderful surprise,Negation,Subjective,Happiness
+dont want wake dream,Negation,Subjective,Euphoria
+cant believe didnt invite,Negation,Subjective,Sadness
+dont enjoy listening negative news,Negation,Subjective,Sadness
+never thought id laugh much,Negation,Subjective,Euphoria
+cant believe much love song,Negation,Subjective,Happiness
+dont want think past,Negation,Subjective,Sadness
+cant stand people interrupt,Negation,Subjective,Anger
+never imagined would travel place,Negation,Subjective,Euphoria
+dont want say goodbye,Negation,Subjective,Sadness
+cant believe delicious meal,Negation,Subjective,Happiness
+never get tired hearing laugh,Negation,Subjective,Happiness
+dont feel like celebrating today,Negation,Subjective,Sadness
+cant believe unfair situation,Negation,Subjective,Anger
+never expected receive award,Negation,Subjective,Euphoria
+dont like people ignore message,Negation,Subjective,Anger
+cant stand someone take credit work,Negation,Subjective,Anger
+never want stop feeling way,Negation,Subjective,Euphoria
+dont feel appreciated,Negation,Subjective,Sadness
+cant believe breathtaking view,Negation,Subjective,Euphoria
+never thought id make far,Negation,Subjective,Happiness
+dont like people dishonest,Negation,Subjective,Anger
+cant believe much fun im,Negation,Subjective,Euphoria
+never imagined finding deep connection,Negation,Subjective,Happiness
+dont want argue anymore,Negation,Subjective,Sadness
+cant believe much mean,Negation,Subjective,Happiness
+never expected feel way,Negation,Subjective,Euphoria
+dont want waste opportunity,Negation,Subjective,Happiness
+cant believe frustrating,Negation,Subjective,Anger
+never thought id miss place much,Negation,Subjective,Sadness
+dont like underestimated,Negation,Subjective,Anger
+cant believe amazing adventure,Negation,Subjective,Euphoria
+never get tired listening song,Negation,Subjective,Happiness
+traffic jam making furious,Affirmation,Subjective,Anger
+surprise party complete success im overjoyed,Affirmation,Subjective,Euphoria
+im happy sun shining today,Affirmation,Subjective,Happiness
+completely disregarded feeling im livid,Affirmation,Subjective,Anger
+winning lottery felt like pure bliss,Affirmation,Subjective,Euphoria
+delicious meal making happy,Affirmation,Subjective,Happiness
+cant believe lied im angry,Affirmation,Subjective,Anger
+birth child euphoric moment life,Affirmation,Subjective,Euphoria
+im delighted positive feedback,Affirmation,Subjective,Happiness
+rude comment really ticked,Affirmation,Subjective,Anger
+breathtaking view summit filled euphoria,Affirmation,Subjective,Euphoria
+im thrilled going vacation,Affirmation,Subjective,Happiness
+im boiling rage incompetence,Affirmation,Subjective,Anger
+standing ovation moment pure euphoria,Affirmation,Subjective,Euphoria
+im beaming happiness good news,Affirmation,Subjective,Happiness
+betrayal left seething resentment,Affirmation,Subjective,Anger
+feeling weightlessness space utterly euphoric,Affirmation,Subjective,Euphoria
+im ecstatic upcoming concert,Affirmation,Subjective,Happiness
+im infuriated lack respect,Affirmation,Subjective,Anger
+feeling completing marathon pure euphoria,Affirmation,Subjective,Euphoria
+im overjoyed unexpected gift,Affirmation,Subjective,Happiness
+im absolutely fuming broken promise,Affirmation,Subjective,Anger
+feeling falling love completely euphoric,Affirmation,Subjective,Euphoria
+im pleased progress,Affirmation,Subjective,Happiness
+im filled indignation unfair treatment,Affirmation,Subjective,Anger
+sensation flying dream truly euphoric,Affirmation,Subjective,Euphoria
+im delighted warm welcome,Affirmation,Subjective,Happiness
+im enraged careless action,Affirmation,Subjective,Anger
+moment saw northern light pure euphoria,Affirmation,Subjective,Euphoria
+im happy see old friend,Affirmation,Subjective,Happiness
+im burning anger deceit,Affirmation,Subjective,Anger
+feeling winning championship euphoric,Affirmation,Subjective,Euphoria
+im thrilled positive outcome,Affirmation,Subjective,Happiness
+im incensed blatant disregard,Affirmation,Subjective,Anger
+feeling holding newborn child euphoric,Affirmation,Subjective,Euphoria
+im happy surrounded nature,Affirmation,Subjective,Happiness
+im consumed fury lie,Affirmation,Subjective,Anger
+feeling reaching summit mountain euphoric,Affirmation,Subjective,Euphoria
+im overjoyed receive good news,Affirmation,Subjective,Happiness
+im absolutely livid cancellation,Affirmation,Subjective,Anger
+feeling finally achieving goal euphoric,Affirmation,Subjective,Euphoria
+im delighted beautiful scenery,Affirmation,Subjective,Happiness
+im boiling anger incompetence,Affirmation,Subjective,Anger
+feeling dancing star pure euphoria,Affirmation,Subjective,Euphoria
+im thrilled going adventure,Affirmation,Subjective,Happiness
+im infuriated constant interruption,Affirmation,Subjective,Anger
+feeling hearing favorite song live euphoric,Affirmation,Subjective,Euphoria
+im beaming happiness promotion,Affirmation,Subjective,Happiness
+im seething resentment betrayal,Affirmation,Subjective,Anger
+feeling diving cool clear ocean euphoric,Affirmation,Subjective,Euphoria
+im ecstatic new opportunity,Affirmation,Subjective,Happiness
+im enraged thoughtless remark,Affirmation,Subjective,Anger
+feeling seeing shooting star pure euphoria,Affirmation,Subjective,Euphoria
+im pleased result hard work,Affirmation,Subjective,Happiness
+im filled indignation unjust action,Affirmation,Subjective,Anger
+feeling riding roller coaster euphoric,Affirmation,Subjective,Euphoria
+im delighted thoughtful gesture,Affirmation,Subjective,Happiness
+im burning anger dishonesty,Affirmation,Subjective,Anger
+feeling surrounded loved one euphoric,Affirmation,Subjective,Euphoria
+im thrilled positive feedback,Affirmation,Subjective,Happiness
+im incensed blatant lie,Affirmation,Subjective,Anger
+feeling watching beautiful sunset pure euphoria,Affirmation,Subjective,Euphoria
+im overjoyed unexpected visit,Affirmation,Subjective,Happiness
+im absolutely fuming delay,Affirmation,Subjective,Anger
+feeling completing challenging project euphoric,Affirmation,Subjective,Euphoria
+im happy celebrating special occasion,Affirmation,Subjective,Happiness
+im consumed fury broken promise,Affirmation,Subjective,Anger
+feeling listening favorite music euphoric,Affirmation,Subjective,Euphoria
+im ecstatic upcoming adventure,Affirmation,Subjective,Happiness
+im boiling anger negligence,Affirmation,Subjective,Anger
+feeling seeing rainbow storm pure euphoria,Affirmation,Subjective,Euphoria
+im beaming happiness successful presentation,Affirmation,Subjective,Happiness
+im seething resentment constant criticism,Affirmation,Subjective,Anger
+feeling finally understanding difficult concept euphoric,Affirmation,Subjective,Euphoria
+im delighted kind word,Affirmation,Subjective,Happiness
+im infuriated lack consideration,Affirmation,Subjective,Anger
+feeling seeing favorite artist perform euphoric,Affirmation,Subjective,Euphoria
+im thrilled outstanding performance,Affirmation,Subjective,Happiness
+im enraged disrespectful behavior,Affirmation,Subjective,Anger
+feeling achieving lifelong dream pure euphoria,Affirmation,Subjective,Euphoria
+im overjoyed unexpected promotion,Affirmation,Subjective,Happiness
+im absolutely livid unfair decision,Affirmation,Subjective,Anger
+feeling witnessing historical event euphoric,Affirmation,Subjective,Euphoria
+im happy spending time family,Affirmation,Subjective,Happiness
+im consumed fury betrayal trust,Affirmation,Subjective,Anger
+feeling finally finishing long journey euphoric,Affirmation,Subjective,Euphoria
+im ecstatic new job offer,Affirmation,Subjective,Happiness
+im boiling anger incompetence,Affirmation,Subjective,Anger
+feeling seeing meteor shower pure euphoria,Affirmation,Subjective,Euphoria
+im beaming happiness graduation,Affirmation,Subjective,Happiness
+im seething resentment constant negativity,Affirmation,Subjective,Anger
+feeling creating something beautiful euphoric,Affirmation,Subjective,Euphoria
+im delighted positive outcome project,Affirmation,Subjective,Happiness
+im infuriated lack empathy,Affirmation,Subjective,Anger
+feeling seeing wild animal natural habitat euphoric,Affirmation,Subjective,Euphoria
+blatant disrespect making blood boil,Affirmation,Subjective,Anger
+surprise proposal beach pure euphoria,Affirmation,Subjective,Euphoria
+im absolutely delighted childrens laughter,Affirmation,Subjective,Happiness
+constant lie ignited fire rage within,Affirmation,Subjective,Anger
+feeling soaring cloud glider euphoric,Affirmation,Subjective,Euphoria
+im brimming happiness receiving award,Affirmation,Subjective,Happiness
+im seething fury deliberate sabotage,Affirmation,Subjective,Anger
+moment music swelled climax opera euphoric,Affirmation,Subjective,Euphoria
+im overjoyed unexpected reunion sibling,Affirmation,Subjective,Happiness
+condescending tone driving wall anger,Affirmation,Subjective,Anger
+feeling witnessing rare astronomical event truly euphoric,Affirmation,Subjective,Euphoria
+im bursting happiness successful performance,Affirmation,Subjective,Happiness
+im consumed burning rage unjust accusation,Affirmation,Subjective,Anger
+feeling finally crossing finish line utterly euphoric,Affirmation,Subjective,Euphoria
+im thrilled beyond word heartwarming surprise,Affirmation,Subjective,Happiness
+blatant disregard time making incandescent rage,Affirmation,Subjective,Anger
+feeling dancing freely waterfall pure euphoria,Affirmation,Subjective,Euphoria
+im radiating happiness longawaited vacation,Affirmation,Subjective,Happiness
+im filled cold fury calculated manipulation,Affirmation,Subjective,Anger
+sensation floating sensory deprivation tank euphoric,Affirmation,Subjective,Euphoria
+im glowing happiness heartwarming news,Affirmation,Subjective,Happiness
+constant nitpicking pushing brink anger,Affirmation,Subjective,Anger
+feeling completing complex puzzle euphoric satisfaction,Affirmation,Subjective,Euphoria
+im elated unexpected outpouring support,Affirmation,Subjective,Happiness
+im simmering resentment constant undermining,Affirmation,Subjective,Anger
+feeling seeing pod dolphin leaping ocean euphoric,Affirmation,Subjective,Euphoria
+im absolutely delighted childrens impromptu performance,Affirmation,Subjective,Happiness
+blatant lie ignited wildfire anger within,Affirmation,Subjective,Anger
+feeling watching field wildflower sway breeze euphoric,Affirmation,Subjective,Euphoria
+im beaming joy longdistance call friend,Affirmation,Subjective,Happiness
+im burning indignation blatant favoritism,Affirmation,Subjective,Anger
+sensation weightlessness skydiving pure euphoria,Affirmation,Subjective,Euphoria
+im overflowing happiness successful art exhibition,Affirmation,Subjective,Happiness
+constant interruption making see red anger,Affirmation,Subjective,Anger
+feeling witnessing lunar eclipse truly euphoric,Affirmation,Subjective,Euphoria
+im ecstatic unexpected promotion work,Affirmation,Subjective,Happiness
+im consumed burning fury deliberate deception,Affirmation,Subjective,Anger
+feeling finally solving complex problem utterly euphoric,Affirmation,Subjective,Euphoria
+im thrilled beyond measure surprise party thrown honor,Affirmation,Subjective,Happiness
+constant negativity making explode rage,Affirmation,Subjective,Anger
+feeling watching shooting star streak across night sky euphoric,Affirmation,Subjective,Euphoria
+im radiating pure joy heartfelt reunion old classmate,Affirmation,Subjective,Happiness
+im filled cold anger calculated betrayal trust,Affirmation,Subjective,Anger
+sensation floating hot air balloon sunrise euphoric,Affirmation,Subjective,Euphoria
+im glowing happiness unexpected gift neighbor,Affirmation,Subjective,Happiness
+condescending attitude making see red frustration,Affirmation,Subjective,Anger
+feeling completing challenging hike breathtaking vista euphoric,Affirmation,Subjective,Euphoria
+im elated spontaneous trip beach friend,Affirmation,Subjective,Happiness
+im simmering anger constant attempt undermine authority,Affirmation,Subjective,Anger
+feeling witnessing whale breaching ocean surface euphoric,Affirmation,Subjective,Euphoria
+im absolutely delighted childrens unexpected musical performance,Affirmation,Subjective,Happiness
+persistent lie ignited raging inferno anger within,Affirmation,Subjective,Anger
+feeling watching aurora borealis dance across night sky euphoric,Affirmation,Subjective,Euphoria
+im beaming sheer joy receiving acceptance letter dream school,Affirmation,Subjective,Happiness
+im burning righteous indignation cruel unjust action,Affirmation,Subjective,Anger
+sensation dancing barefoot rain pure unadulterated euphoria,Affirmation,Subjective,Euphoria
+im overflowing pure happiness surprise visit longlost cousin,Affirmation,Subjective,Happiness
+constant passiveaggressive remark making absolutely furious,Affirmation,Subjective,Anger
+feeling watching meteor shower light night sky euphoric,Affirmation,Subjective,Euphoria
+im ecstatic spontaneous road trip mountain best friend,Affirmation,Subjective,Happiness
+im consumed burning whitehot fury calculated malicious slander,Affirmation,Subjective,Anger
+feeling finally achieving longheld personal goal utterly completely euphoric,Affirmation,Subjective,Euphoria
+im thrilled beyond word unexpected standing ovation speech,Affirmation,Subjective,Happiness
+relentless petty grievance driving absolute brink rage,Affirmation,Subjective,Anger
+feeling witnessing total solar eclipse experience pure unearthly euphoria,Affirmation,Subjective,Euphoria
+im radiating pure unadulterated happiness surprise engagement party,Affirmation,Subjective,Happiness
+im filled cold simmering rage calculated deliberate sabotage work,Affirmation,Subjective,Anger
+sensation floating weightlessly zero gravity moment transcendent euphoria,Affirmation,Subjective,Euphoria
+im glowing unbridled happiness surprise reunion childhood friend,Affirmation,Subjective,Happiness
+constant manipulative tactic pushing edge uncontrollable anger,Affirmation,Subjective,Anger
+feeling completing complex challenging artistic project moment pure creative euphoria,Affirmation,Subjective,Euphoria
+im elated spontaneous lastminute trip tropical island partner,Affirmation,Subjective,Happiness
+im simmering deep seething resentment constant attempt undermine credibility,Affirmation,Subjective,Anger
+feeling witnessing rare spectacular natural phenomenon moment sheer unadulterated euphoria,Affirmation,Subjective,Euphoria
+utter disregard boundary sparking volcanic eruption anger within,Affirmation,Subjective,Anger
+feeling finally holding championship trophy aloft moment pure unadulterated euphoria,Affirmation,Subjective,Euphoria
+im positively beaming pure unadulterated happiness surprise homecoming,Affirmation,Subjective,Happiness
+im seething cold calculated rage systematic attempt dismantle reputation,Affirmation,Subjective,Anger
+feeling exploring hidden cave system moment breathtaking otherworldly euphoria,Affirmation,Subjective,Euphoria
+im absolutely overflowing joy unexpected reunion childhood pet,Affirmation,Subjective,Happiness
+blatant unprovoked aggression igniting raging inferno fury within soul,Affirmation,Subjective,Anger
+feeling finally reaching summit mount everest moment transcendent unparalleled euphoria,Affirmation,Subjective,Euphoria
+im radiant pure unadulterated delight surprise wedding proposal,Affirmation,Subjective,Happiness
+constant insidious manipulation driving absolute brink uncontrollable rage,Affirmation,Subjective,Anger
+feeling witnessing rare bioluminescent display moment pure ethereal euphoria,Affirmation,Subjective,Euphoria
+im positively glowing happiness surprise adoption rescue animal,Affirmation,Subjective,Happiness
+unmitigated arrogance sparking uncontrollable wildfire anger within core,Affirmation,Subjective,Anger
+feeling finally completing complex challenging artistic masterpiece moment pure creative euphoria,Affirmation,Subjective,Euphoria
+im brimming pure unadulterated joy surprise visit longlost relative,Affirmation,Subjective,Happiness
+relentless petty grievance pushing absolute edge incandescent rage,Affirmation,Subjective,Anger
+feeling finally achieving lifelong dream performing grand stage moment pure unadulterated euphoria,Affirmation,Subjective,Euphoria
+im absolutely bursting delight surprise renovation childhood home,Affirmation,Subjective,Happiness
+insidious calculated treachery igniting burning inferno vengeance within heart,Affirmation,Subjective,Anger
+feeling exploring newly discovered underwater reef moment breathtaking aquatic euphoria,Affirmation,Subjective,Euphoria
+im positively radiating pure unadulterated happiness surprise scholarship announcement,Affirmation,Subjective,Happiness
+flagrant unprovoked hostility making blood boil uncontrollable fury,Affirmation,Subjective,Anger
+feeling finally completing complex challenging scientific breakthrough moment pure intellectual euphoria,Affirmation,Subjective,Euphoria
+im absolutely glowing joy surprise reunion estranged sibling,Affirmation,Subjective,Happiness
+constant backhanded compliment driving precipice explosive anger,Affirmation,Subjective,Anger
+feeling witnessing rare spectacular aurora borealis display moment pure celestial euphoria,Affirmation,Subjective,Euphoria
+im brimming sheer happiness surprise celebration milestone achievement,Affirmation,Subjective,Happiness
+calculated systematic undermining effort igniting cold simmering rage within,Affirmation,Subjective,Anger
+feeling finally completing challenging transformative spiritual journey moment pure transcendent euphoria,Affirmation,Subjective,Euphoria
+im positively overflowing pure unadulterated delight surprise party thrown closest friend,Affirmation,Subjective,Happiness
+unmitigated deliberate attempt sabotage success fueling inferno righteous anger,Affirmation,Subjective,Anger
+feeling exploring newly discovered ancient temple moment breathtaking historical euphoria,Affirmation,Subjective,Euphoria
+im absolutely radiating pure joy surprise announcement book publication,Affirmation,Subjective,Happiness
+constant passiveaggressive jab pushing brink uncontrollable fury,Affirmation,Subjective,Anger
+feeling witnessing rare spectacular volcanic eruption moment pure primal euphoria,Affirmation,Subjective,Euphoria
+im beaming sheer happiness spontaneous surprise trip favorite destination,Affirmation,Subjective,Happiness
+insidious calculated attempt manipulate emotion igniting cold burning rage within,Affirmation,Subjective,Anger
+feeling finally achieving complex challenging athletic feat moment pure physical euphoria,Affirmation,Subjective,Euphoria
+im positively glowing pure unadulterated delight surprise visit favorite celebrity,Affirmation,Subjective,Happiness
+unmitigated blatant disrespect making blood boil uncontrollable indignation,Affirmation,Subjective,Anger
+feeling exploring newly discovered rainforest canopy moment breathtaking natural euphoria,Affirmation,Subjective,Euphoria
+im overflowing sheer delight surprise unveiling family heirloom,Affirmation,Subjective,Happiness
+constant subtle act sabotage driving edge incandescent anger,Affirmation,Subjective,Anger
+feeling witnessing rare spectacular astronomical alignment moment pure cosmic euphoria,Affirmation,Subjective,Euphoria
+im brimming pure unadulterated joy surprise announcement engagement,Affirmation,Subjective,Happiness
+deliberate calculated attempt undermine authority fueling inferno righteous rage,Affirmation,Subjective,Anger
+feeling finally mastering complex challenging musical composition moment pure artistic euphoria,Affirmation,Subjective,Euphoria
+im positively beaming happiness surprise donation favorite charity,Affirmation,Subjective,Happiness
+unmitigated persistent attempt discredit sparking uncontrollable wildfire fury,Affirmation,Subjective,Anger
+feeling exploring newly discovered deepsea trench moment breathtaking abyssal euphoria,Affirmation,Subjective,Euphoria
+im absolutely radiating pure unadulterated delight surprise reunion favorite childhood mentor,Affirmation,Subjective,Happiness
+constant veiled threat pushing precipice explosive anger retaliation,Affirmation,Subjective,Anger
+feeling witnessing rare spectacular migration wildlife moment pure primal wonder euphoria,Affirmation,Subjective,Euphoria
