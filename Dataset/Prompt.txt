@@ -1,0 +1,21 @@
+Generate a dataset in CSV format with four columns:
+
+Sentence: A statement that is either an affirmation or a negation. The statement should be diverse and cover a range of topics such as emotions, daily experiences, science, opinions, and facts.
+Type: Either "Affirmation" or "Negation" depending on whether the sentence asserts something or denies something.
+Factual/Subjective: Label the statement as either "Factual" if it represents an objective truth or "Subjective" if it is based on personal feelings or opinions.
+Sentiment: One of five possible sentiments: "Sadness", "Anger", "Neutral", "Happiness", or "Euphoria". Ensure that the sentiment is appropriate for the statement.
+Additional Requirements:
+
+Include at least 50-100 unique entries.
+Ensure a balanced mix of factual and subjective statements.
+Use a variety of topics to make the dataset diverse.
+Avoid repetition of phrases.
+
+Example Output:
+
+Sentence,Type,Factual/Subjective,Sentiment
+"The stars twinkle in the night sky.",Affirmation,Factual,Neutral
+"I don't like loud music.",Negation,Subjective,Anger
+"That roller coaster was incredible!",Affirmation,Subjective,Euphoria
+"Water freezes at 0 degrees Celsius.",Affirmation,Factual,Neutral
+"I hate missing the bus.",Affirmation,Subjective,Anger
