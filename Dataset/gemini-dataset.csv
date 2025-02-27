@@ -525,3 +525,225 @@ Sentence,Type,Factual/Subjective,Sentiment
 "I don't like being patronized.",Negation,Subjective,Anger
 "That achievement was truly inspiring.",Affirmation,Subjective,Happiness
 "The concept of human rights is fundamental to a just society.",Affirmation,Factual,Neutral
+"This traffic jam is making me furious.",Affirmation,Subjective,Anger
+"The surprise party was a complete success, I'm overjoyed!",Affirmation,Subjective,Euphoria
+"I'm so happy the sun is shining today.",Affirmation,Subjective,Happiness
+"He completely disregarded my feelings, I'm livid.",Affirmation,Subjective,Anger
+"Winning the lottery felt like pure bliss!",Affirmation,Subjective,Euphoria
+"This delicious meal is making me so happy.",Affirmation,Subjective,Happiness
+"I can't believe they lied to me, I'm so angry.",Affirmation,Subjective,Anger
+"The birth of my child was the most euphoric moment of my life.",Affirmation,Subjective,Euphoria
+"I'm delighted by the positive feedback.",Affirmation,Subjective,Happiness
+"That rude comment really ticked me off.",Affirmation,Subjective,Anger
+"The breathtaking view from the summit filled me with euphoria.",Affirmation,Subjective,Euphoria
+"I'm thrilled to be going on vacation.",Affirmation,Subjective,Happiness
+"I'm boiling with rage at their incompetence.",Affirmation,Subjective,Anger
+"The standing ovation was a moment of pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm beaming with happiness after the good news.",Affirmation,Subjective,Happiness
+"His betrayal has left me seething with resentment.",Affirmation,Subjective,Anger
+"The feeling of weightlessness in space was utterly euphoric.",Affirmation,Subjective,Euphoria
+"I'm ecstatic about the upcoming concert.",Affirmation,Subjective,Happiness
+"I'm infuriated by their lack of respect.",Affirmation,Subjective,Anger
+"The feeling of completing a marathon was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm overjoyed by the unexpected gift.",Affirmation,Subjective,Happiness
+"I'm absolutely fuming about the broken promise.",Affirmation,Subjective,Anger
+"The feeling of falling in love was completely euphoric.",Affirmation,Subjective,Euphoria
+"I'm so pleased with my progress.",Affirmation,Subjective,Happiness
+"I'm filled with indignation at their unfair treatment.",Affirmation,Subjective,Anger
+"The sensation of flying in a dream was truly euphoric.",Affirmation,Subjective,Euphoria
+"I'm delighted by the warm welcome.",Affirmation,Subjective,Happiness
+"I'm enraged by their careless actions.",Affirmation,Subjective,Anger
+"The moment I saw the Northern Lights was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm so happy to see my old friends.",Affirmation,Subjective,Happiness
+"I'm burning with anger at their deceit.",Affirmation,Subjective,Anger
+"The feeling of winning a championship was euphoric.",Affirmation,Subjective,Euphoria
+"I'm thrilled with the positive outcome.",Affirmation,Subjective,Happiness
+"I'm incensed by their blatant disregard.",Affirmation,Subjective,Anger
+"The feeling of holding my newborn child was euphoric.",Affirmation,Subjective,Euphoria
+"I'm so happy to be surrounded by nature.",Affirmation,Subjective,Happiness
+"I'm consumed with fury at their lies.",Affirmation,Subjective,Anger
+"The feeling of reaching the summit of a mountain was euphoric.",Affirmation,Subjective,Euphoria
+"I'm overjoyed to receive such good news.",Affirmation,Subjective,Happiness
+"I'm absolutely livid about the cancellation.",Affirmation,Subjective,Anger
+"The feeling of finally achieving my goals was euphoric.",Affirmation,Subjective,Euphoria
+"I'm delighted by the beautiful scenery.",Affirmation,Subjective,Happiness
+"I'm boiling over with anger at their incompetence.",Affirmation,Subjective,Anger
+"The feeling of dancing under the stars was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm thrilled to be going on this adventure.",Affirmation,Subjective,Happiness
+"I'm infuriated by their constant interruptions.",Affirmation,Subjective,Anger
+"The feeling of hearing my favorite song live was euphoric.",Affirmation,Subjective,Euphoria
+"I'm beaming with happiness after the promotion.",Affirmation,Subjective,Happiness
+"I'm seething with resentment at their betrayal.",Affirmation,Subjective,Anger
+"The feeling of diving into a cool, clear ocean was euphoric.",Affirmation,Subjective,Euphoria
+"I'm ecstatic about the new opportunity.",Affirmation,Subjective,Happiness
+"I'm enraged by their thoughtless remarks.",Affirmation,Subjective,Anger
+"The feeling of seeing a shooting star was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm so pleased with the results of my hard work.",Affirmation,Subjective,Happiness
+"I'm filled with indignation at their unjust actions.",Affirmation,Subjective,Anger
+"The feeling of riding a roller coaster was euphoric.",Affirmation,Subjective,Euphoria
+"I'm delighted by the thoughtful gesture.",Affirmation,Subjective,Happiness
+"I'm burning with anger at their dishonesty.",Affirmation,Subjective,Anger
+"The feeling of being surrounded by loved ones was euphoric.",Affirmation,Subjective,Euphoria
+"I'm thrilled with the positive feedback.",Affirmation,Subjective,Happiness
+"I'm incensed by their blatant lies.",Affirmation,Subjective,Anger
+"The feeling of watching a beautiful sunset was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm overjoyed by the unexpected visit.",Affirmation,Subjective,Happiness
+"I'm absolutely fuming about the delay.",Affirmation,Subjective,Anger
+"The feeling of completing a challenging project was euphoric.",Affirmation,Subjective,Euphoria
+"I'm so happy to be celebrating this special occasion.",Affirmation,Subjective,Happiness
+"I'm consumed with fury at their broken promises.",Affirmation,Subjective,Anger
+"The feeling of listening to my favorite music was euphoric.",Affirmation,Subjective,Euphoria
+"I'm ecstatic about the upcoming adventure.",Affirmation,Subjective,Happiness
+"I'm boiling over with anger at their negligence.",Affirmation,Subjective,Anger
+"The feeling of seeing a rainbow after a storm was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm beaming with happiness after the successful presentation.",Affirmation,Subjective,Happiness
+"I'm seething with resentment at their constant criticism.",Affirmation,Subjective,Anger
+"The feeling of finally understanding a difficult concept was euphoric.",Affirmation,Subjective,Euphoria
+"I'm delighted by the kind words.",Affirmation,Subjective,Happiness
+"I'm infuriated by their lack of consideration.",Affirmation,Subjective,Anger
+"The feeling of seeing my favorite artist perform was euphoric.",Affirmation,Subjective,Euphoria
+"I'm thrilled with the outstanding performance.",Affirmation,Subjective,Happiness
+"I'm enraged by their disrespectful behavior.",Affirmation,Subjective,Anger
+"The feeling of achieving a lifelong dream was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm overjoyed by the unexpected promotion.",Affirmation,Subjective,Happiness
+"I'm absolutely livid about the unfair decision.",Affirmation,Subjective,Anger
+"The feeling of witnessing a historical event was euphoric.",Affirmation,Subjective,Euphoria
+"I'm so happy to be spending time with family.",Affirmation,Subjective,Happiness
+"I'm consumed with fury at their betrayal of trust.",Affirmation,Subjective,Anger
+"The feeling of finally finishing a long journey was euphoric.",Affirmation,Subjective,Euphoria
+"I'm ecstatic about the new job offer.",Affirmation,Subjective,Happiness
+"I'm boiling over with anger at their incompetence.",Affirmation,Subjective,Anger
+"The feeling of seeing a meteor shower was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm beaming with happiness after the graduation.",Affirmation,Subjective,Happiness
+"I'm seething with resentment at their constant negativity.",Affirmation,SubjectSubjective,Anger
+"The feeling of creating something beautiful was euphoric.",Affirmation,Subjective,Euphoria
+"I'm delighted by the positive outcome of the project.",Affirmation,Subjective,Happiness
+"I'm infuriated by their lack of empathy.",Affirmation,Subjective,Anger
+"The feeling of seeing a wild animal in its natural habitat was euphoric.",Affirmation,Subjective,Euphoria
+"This blatant disrespect is making my blood boil.",Affirmation,Subjective,Anger
+"The surprise proposal on the beach was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm absolutely delighted by the children's laughter.",Affirmation,Subjective,Happiness
+"Their constant lies have ignited a fire of rage within me.",Affirmation,Subjective,Anger
+"The feeling of soaring through the clouds in a glider was euphoric.",Affirmation,Subjective,Euphoria
+"I'm brimming with happiness after receiving the award.",Affirmation,Subjective,Happiness
+"I'm seething with fury at their deliberate sabotage.",Affirmation,Subjective,Anger
+"The moment the music swelled at the climax of the opera was euphoric.",Affirmation,Subjective,Euphoria
+"I'm overjoyed by the unexpected reunion with my siblings.",Affirmation,Subjective,Happiness
+"His condescending tone is driving me up the wall with anger.",Affirmation,Subjective,Anger
+"The feeling of witnessing a rare astronomical event was truly euphoric.",Affirmation,Subjective,Euphoria
+"I'm bursting with happiness after the successful performance.",Affirmation,Subjective,Happiness
+"I'm consumed by a burning rage at their unjust accusations.",Affirmation,Subjective,Anger
+"The feeling of finally crossing the finish line was utterly euphoric.",Affirmation,Subjective,Euphoria
+"I'm thrilled beyond words by the heartwarming surprise.",Affirmation,Subjective,Happiness
+"Their blatant disregard for my time is making me incandescent with rage.",Affirmation,Subjective,Anger
+"The feeling of dancing freely under a waterfall was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm radiating happiness after the long-awaited vacation.",Affirmation,Subjective,Happiness
+"I'm filled with a cold fury at their calculated manipulation.",Affirmation,Subjective,Anger
+"The sensation of floating in a sensory deprivation tank was euphoric.",Affirmation,Subjective,Euphoria
+"I'm glowing with happiness after the heartwarming news.",Affirmation,Subjective,Happiness
+"Their constant nitpicking is pushing me to the brink of anger.",Affirmation,Subjective,Anger
+"The feeling of completing a complex puzzle was euphoric satisfaction.",Affirmation,Subjective,Euphoria
+"I'm elated by the unexpected outpouring of support.",Affirmation,Subjective,Happiness
+"I'm simmering with resentment at their constant undermining.",Affirmation,Subjective,Anger
+"The feeling of seeing a pod of dolphins leaping from the ocean was euphoric.",Affirmation,Subjective,Euphoria
+"I'm absolutely delighted by the children's impromptu performance.",Affirmation,Subjective,Happiness
+"Their blatant lies have ignited a wildfire of anger within me.",Affirmation,Subjective,Anger
+"The feeling of watching a field of wildflowers sway in the breeze was euphoric.",Affirmation,Subjective,Euphoria
+"I'm beaming with joy after the long-distance call from my friend.",Affirmation,Subjective,Happiness
+"I'm burning with indignation at their blatant favoritism.",Affirmation,Subjective,Anger
+"The sensation of weightlessness while skydiving was pure euphoria.",Affirmation,Subjective,Euphoria
+"I'm overflowing with happiness after the successful art exhibition.",Affirmation,Subjective,Happiness
+"Their constant interruptions are making me see red with anger.",Affirmation,Subjective,Anger
+"The feeling of witnessing a lunar eclipse was truly euphoric.",Affirmation,Subjective,Euphoria
+"I'm ecstatic about the unexpected promotion at work.",Affirmation,Subjective,Happiness
+"I'm consumed by a burning fury at their deliberate deception.",Affirmation,Subjective,Anger
+"The feeling of finally solving a complex problem was utterly euphoric.",Affirmation,Subjective,Euphoria
+"I'm thrilled beyond measure by the surprise party thrown in my honor.",Affirmation,Subjective,Happiness
+"Their constant negativity is making me explode with rage.",Affirmation,Subjective,Anger
+"The feeling of watching a shooting star streak across the night sky was euphoric.",Affirmation,Subjective,Euphoria
+"I'm radiating pure joy after the heartfelt reunion with my old classmates.",Affirmation,Subjective,Happiness
+"I'm filled with a cold anger at their calculated betrayal of trust.",Affirmation,Subjective,Anger
+"The sensation of floating in a hot air balloon at sunrise was euphoric.",Affirmation,Subjective,Euphoria
+"I'm glowing with happiness after the unexpected gift from my neighbor.",Affirmation,Subjective,Happiness
+"Their condescending attitude is making me see red with frustration.",Affirmation,Subjective,Anger
+"The feeling of completing a challenging hike to a breathtaking vista was euphoric.",Affirmation,Subjective,Euphoria
+"I'm elated by the spontaneous trip to the beach with my friends.",Affirmation,Subjective,Happiness
+"I'm simmering with anger at their constant attempts to undermine my authority.",Affirmation,Subjective,Anger
+"The feeling of witnessing a whale breaching the ocean's surface was euphoric.",Affirmation,Subjective,Euphoria
+"I'm absolutely delighted by the children's unexpected musical performance.",Affirmation,Subjective,Happiness
+"Their persistent lies have ignited a raging inferno of anger within me.",Affirmation,Subjective,Anger
+"The feeling of watching the aurora borealis dance across the night sky was euphoric.",Affirmation,Subjective,Euphoria
+"I'm beaming with sheer joy after receiving the acceptance letter to my dream school.",Affirmation,Subjective,Happiness
+"I'm burning with righteous indignation at their cruel and unjust actions.",Affirmation,Subjective,Anger
+"The sensation of dancing barefoot in the rain was pure, unadulterated euphoria.",Affirmation,Subjective,Euphoria
+"I'm overflowing with pure happiness after the surprise visit from my long-lost cousin.",Affirmation,Subjective,Happiness
+"Their constant, passive-aggressive remarks are making me absolutely furious.",Affirmation,Subjective,Anger
+"The feeling of watching a meteor shower light up the night sky was euphoric.",Affirmation,Subjective,Euphoria
+"I'm ecstatic about the spontaneous road trip to the mountains with my best friends.",Affirmation,Subjective,Happiness
+"I'm consumed by a burning, white-hot fury at their calculated and malicious slander.",Affirmation,Subjective,Anger
+"The feeling of finally achieving a long-held personal goal was utterly, completely euphoric.",Affirmation,Subjective,Euphoria
+"I'm thrilled beyond words by the unexpected standing ovation after my speech.",Affirmation,Subjective,Happiness
+"Their relentless, petty grievances are driving me to the absolute brink of rage.",Affirmation,Subjective,Anger
+"The feeling of witnessing a total solar eclipse was an experience of pure, unearthly euphoria.",Affirmation,Subjective,Euphoria
+"I'm radiating pure, unadulterated happiness after the surprise engagement party.",Affirmation,Subjective,Happiness
+"I'm filled with a cold, simmering rage at their calculated and deliberate sabotage of my work.",Affirmation,Subjective,Anger
+"The sensation of floating weightlessly in zero gravity was a moment of transcendent euphoria.",Affirmation,Subjective,Euphoria
+"I'm glowing with unbridled happiness after the surprise reunion with my childhood friends.",Affirmation,Subjective,Happiness
+"Their constant, manipulative tactics are pushing me to the edge of uncontrollable anger.",Affirmation,Subjective,Anger
+"The feeling of completing a complex and challenging artistic project was a moment of pure, creative euphoria.",Affirmation,Subjective,Euphoria
+"I'm elated by the spontaneous, last-minute trip to the tropical island with my partner.",Affirmation,Subjective,Happiness
+"I'm simmering with a deep, seething resentment at their constant attempts to undermine my credibility.",Affirmation,Subjective,Anger
+"The feeling of witnessing a rare and spectacular natural phenomenon was a moment of sheer, unadulterated euphoria.",Affirmation,Subjective,Euphoria
+"Their utter disregard for my boundaries is sparking a volcanic eruption of anger within me.",Affirmation,Subjective,Anger
+"The feeling of finally holding the championship trophy aloft was a moment of pure, unadulterated euphoria.",Affirmation,Subjective,Euphoria
+"I'm positively beaming with pure, unadulterated happiness after the surprise homecoming.",Affirmation,Subjective,Happiness
+"I'm seething with a cold, calculated rage at their systematic attempts to dismantle my reputation.",Affirmation,Subjective,Anger
+"The feeling of exploring a hidden cave system was a moment of breathtaking, otherworldly euphoria.",Affirmation,Subjective,Euphoria
+"I'm absolutely overflowing with joy after the unexpected reunion with my childhood pet.",Affirmation,Subjective,Happiness
+"Their blatant, unprovoked aggression is igniting a raging inferno of fury within my soul.",Affirmation,Subjective,Anger
+"The feeling of finally reaching the summit of Mount Everest was a moment of transcendent, unparalleled euphoria.",Affirmation,Subjective,Euphoria
+"I'm radiant with pure, unadulterated delight after the surprise wedding proposal.",Affirmation,Subjective,Happiness
+"Their constant, insidious manipulation is driving me to the absolute brink of uncontrollable rage.",Affirmation,Subjective,Anger
+"The feeling of witnessing a rare bioluminescent display was a moment of pure, ethereal euphoria.",Affirmation,Subjective,Euphoria
+"I'm positively glowing with happiness after the surprise adoption of a rescue animal.",Affirmation,Subjective,Happiness
+"Their unmitigated arrogance is sparking an uncontrollable wildfire of anger within my core.",Affirmation,Subjective,Anger
+"The feeling of finally completing a complex and challenging artistic masterpiece was a moment of pure, creative euphoria.",Affirmation,Subjective,Euphoria
+"I'm brimming with pure, unadulterated joy after the surprise visit from my long-lost relatives.",Affirmation,Subjective,Happiness
+"Their relentless, petty grievances are pushing me to the absolute edge of incandescent rage.",Affirmation,Subjective,Anger
+"The feeling of finally achieving a lifelong dream of performing on a grand stage was a moment of pure, unadulterated euphoria.",Affirmation,Subjective,Euphoria
+"I'm absolutely bursting with delight after the surprise renovation of my childhood home.",Affirmation,Subjective,Happiness
+"Their insidious, calculated treachery is igniting a burning inferno of vengeance within my heart.",Affirmation,Subjective,Anger
+"The feeling of exploring a newly discovered underwater reef was a moment of breathtaking, aquatic euphoria.",Affirmation,Subjective,Euphoria
+"I'm positively radiating pure, unadulterated happiness after the surprise scholarship announcement.",Affirmation,Subjective,Happiness
+"Their flagrant, unprovoked hostility is making my blood boil with uncontrollable fury.",Affirmation,Subjective,Anger
+"The feeling of finally completing a complex and challenging scientific breakthrough was a moment of pure, intellectual euphoria.",Affirmation,Subjective,Euphoria
+"I'm absolutely glowing with joy after the surprise reunion with my estranged siblings.",Affirmation,Subjective,Happiness
+"Their constant, backhanded compliments are driving me to the precipice of explosive anger.",Affirmation,Subjective,Anger
+"The feeling of witnessing a rare and spectacular aurora borealis display was a moment of pure, celestial euphoria.",Affirmation,Subjective,Euphoria
+"I'm brimming with sheer happiness after the surprise celebration of my milestone achievement.",Affirmation,Subjective,Happiness
+"Their calculated, systematic undermining of my efforts is igniting a cold, simmering rage within me.",Affirmation,Subjective,Anger
+"The feeling of finally completing a challenging and transformative spiritual journey was a moment of pure, transcendent euphoria.",Affirmation,Subjective,Euphoria
+"I'm positively overflowing with pure, unadulterated delight after the surprise party thrown by my closest friends.",Affirmation,Subjective,Happiness
+"Their unmitigated, deliberate attempts to sabotage my success are fueling an inferno of righteous anger.",Affirmation,Subjective,Anger
+"The feeling of exploring a newly discovered ancient temple was a moment of breathtaking, historical euphoria.",Affirmation,Subjective,Euphoria
+"I'm absolutely radiating pure joy after the surprise announcement of my book's publication.",Affirmation,Subjective,Happiness
+"Their constant, passive-aggressive jabs are pushing me to the brink of uncontrollable fury.",Affirmation,Subjective,Anger
+"The feeling of witnessing a rare and spectacular volcanic eruption was a moment of pure, primal euphoria.",Affirmation,Subjective,Euphoria
+"I'm beaming with sheer happiness after the spontaneous, surprise trip to my favorite destination.",Affirmation,Subjective,Happiness
+"Their insidious, calculated attempts to manipulate my emotions are igniting a cold, burning rage within me.",Affirmation,Subjective,Anger
+"The feeling of finally achieving a complex and challenging athletic feat was a moment of pure, physical euphoria.",Affirmation,Subjective,Euphoria
+"I'm positively glowing with pure, unadulterated delight after the surprise visit from my favorite celebrity.",Affirmation,Subjective,Happiness
+"Their unmitigated, blatant disrespect is making my blood boil with uncontrollable indignation.",Affirmation,Subjective,Anger
+"The feeling of exploring a newly discovered rainforest canopy was a moment of breathtaking, natural euphoria.",Affirmation,Subjective,Euphoria
+"I'm overflowing with sheer delight after the surprise unveiling of a family heirloom.",Affirmation,Subjective,Happiness
+"Their constant, subtle acts of sabotage are driving me to the edge of incandescent anger.",Affirmation,Subjective,Anger
+"The feeling of witnessing a rare and spectacular astronomical alignment was a moment of pure, cosmic euphoria.",Affirmation,Subjective,Euphoria
+"I'm brimming with pure, unadulterated joy after the surprise announcement of my engagement.",Affirmation,Subjective,Happiness
+"Their deliberate, calculated attempts to undermine my authority are fueling an inferno of righteous rage.",Affirmation,Subjective,Anger
+"The feeling of finally mastering a complex and challenging musical composition was a moment of pure, artistic euphoria.",Affirmation,Subjective,Euphoria
+"I'm positively beaming with happiness after the surprise donation to my favorite charity.",Affirmation,Subjective,Happiness
+"Their unmitigated, persistent attempts to discredit me are sparking an uncontrollable wildfire of fury.",Affirmation,Subjective,Anger
+"The feeling of exploring a newly discovered deep-sea trench was a moment of breathtaking, abyssal euphoria.",Affirmation,Subjective,Euphoria
+"I'm absolutely radiating pure, unadulterated delight after the surprise reunion with my favorite childhood mentor.",Affirmation,Subjective,Happiness
+"Their constant, veiled threats are pushing me to the precipice of explosive anger and retaliation.",Affirmation,Subjective,Anger
+"The feeling of witnessing a rare and spectacular migration of wildlife was a moment of pure, primal wonder and euphoria.",Affirmation,Subjective,Euphoria

@@ -368,3 +368,152 @@ Sentence,Type,Factual/Subjective,Sentiment
 "Seeing a full moon on a clear night is magical.",Affirmation,Subjective,Euphoria
 "Helium is the second lightest element.",Affirmation,Factual,Neutral
 "I feel grateful for the little things in life.",Affirmation,Subjective,Happiness
+"I don't like being ignored.",Negation,Subjective,Anger
+"I never feel happy when it rains.",Negation,Subjective,Sadness
+"I don't believe this day could get any worse!",Negation,Subjective,Anger
+"I have never experienced such joy!",Negation,Subjective,Euphoria
+"I can't stand waiting in long queues.",Negation,Subjective,Anger
+"I don't enjoy spicy food.",Negation,Subjective,Anger
+"I don't think this is fair.",Negation,Subjective,Anger
+"I never expected to feel this happy!",Negation,Subjective,Happiness
+"I don't want to lose this moment!",Negation,Subjective,Euphoria
+"I have never felt so alive!",Negation,Subjective,Euphoria
+"I don't see why people like horror movies.",Negation,Subjective,Anger
+"I don't want to be left behind.",Negation,Subjective,Sadness
+"I can't believe I won!",Negation,Subjective,Euphoria
+"I don't appreciate being treated unfairly.",Negation,Subjective,Anger
+"I never thought I'd be this lucky!",Negation,Subjective,Happiness
+"I don't feel comfortable in large crowds.",Negation,Subjective,Sadness
+"I don't think I can handle another disappointment.",Negation,Subjective,Sadness
+"I don't want this moment to end.",Negation,Subjective,Happiness
+"I have never felt more at peace.",Negation,Subjective,Happiness
+"I don't want to fail.",Negation,Subjective,Sadness
+"I never imagined such beauty existed!",Negation,Subjective,Euphoria
+"I don't want to let go of this happiness.",Negation,Subjective,Happiness
+"I can't stand rude people.",Negation,Subjective,Anger
+"I have never been so disappointed.",Negation,Subjective,Sadness
+"I don't want to relive that moment.",Negation,Subjective,Sadness
+"I don't think this is a good idea.",Negation,Subjective,Anger
+"I can't believe they did that to me.",Negation,Subjective,Anger
+"I never get tired of hearing good news!",Negation,Subjective,Happiness
+"I don't feel like talking right now.",Negation,Subjective,Sadness
+"I don't like seeing people suffer.",Negation,Subjective,Sadness
+"I never get tired of this feeling!",Negation,Subjective,Euphoria
+"I don't think I'll ever get over this loss.",Negation,Subjective,Sadness
+"I don't like when plans change unexpectedly.",Negation,Subjective,Anger
+"I never felt this much joy before!",Negation,Subjective,Euphoria
+"I don't want to remember that painful day.",Negation,Subjective,Sadness
+"I can't believe how amazing this is!",Negation,Subjective,Euphoria
+"I don't want to be alone right now.",Negation,Subjective,Sadness
+"I never expected such kindness!",Negation,Subjective,Happiness
+"I don't like being rushed.",Negation,Subjective,Anger
+"I can't believe how beautiful this is!",Negation,Subjective,Euphoria
+"I never want this day to end.",Negation,Subjective,Happiness
+"I don't want to lose this feeling.",Negation,Subjective,Happiness
+"I never imagined feeling this good!",Negation,Subjective,Euphoria
+"I don't want to go back to that place.",Negation,Subjective,Sadness
+"I can't stand it when people lie.",Negation,Subjective,Anger
+"I never get tired of these happy moments!",Negation,Subjective,Happiness
+"I don't like it when people interrupt me.",Negation,Subjective,Anger
+"I don't want to miss this opportunity!",Negation,Subjective,Happiness
+"I can't believe how unfair this is.",Negation,Subjective,Anger
+"I have never laughed so hard!",Negation,Subjective,Euphoria
+"I don't like being ignored.",Negation,Subjective,Anger
+"I never feel happy when it rains.",Negation,Subjective,Sadness
+"I don't believe this day could get any worse!",Negation,Subjective,Anger
+"I have never experienced such joy!",Negation,Subjective,Euphoria
+"I can't stand waiting in long queues.",Negation,Subjective,Anger
+"I don't enjoy spicy food.",Negation,Subjective,Anger
+"I don't think this is fair.",Negation,Subjective,Anger
+"I never expected to feel this happy!",Negation,Subjective,Happiness
+"I don't want to lose this moment!",Negation,Subjective,Euphoria
+"I have never felt so alive!",Negation,Subjective,Euphoria
+"I don't see why people like horror movies.",Negation,Subjective,Anger
+"I don't want to be left behind.",Negation,Subjective,Sadness
+"I can't believe I won!",Negation,Subjective,Euphoria
+"I don't appreciate being treated unfairly.",Negation,Subjective,Anger
+"I never thought I'd be this lucky!",Negation,Subjective,Happiness
+"I don't feel comfortable in large crowds.",Negation,Subjective,Sadness
+"I don't think I can handle another disappointment.",Negation,Subjective,Sadness
+"I don't want this moment to end.",Negation,Subjective,Happiness
+"I have never felt more at peace.",Negation,Subjective,Happiness
+"I don't want to fail.",Negation,Subjective,Sadness
+"I never imagined such beauty existed!",Negation,Subjective,Euphoria
+"I don't want to let go of this happiness.",Negation,Subjective,Happiness
+"I can't stand rude people.",Negation,Subjective,Anger
+"I have never been so disappointed.",Negation,Subjective,Sadness
+"I don't want to relive that moment.",Negation,Subjective,Sadness
+"I don't think this is a good idea.",Negation,Subjective,Anger
+"I can't believe they did that to me.",Negation,Subjective,Anger
+"I never get tired of hearing good news!",Negation,Subjective,Happiness
+"I don't feel like talking right now.",Negation,Subjective,Sadness
+"I don't like seeing people suffer.",Negation,Subjective,Sadness
+"I never get tired of this feeling!",Negation,Subjective,Euphoria
+"I don't think I'll ever get over this loss.",Negation,Subjective,Sadness
+"I don't like when plans change unexpectedly.",Negation,Subjective,Anger
+"I never felt this much joy before!",Negation,Subjective,Euphoria
+"I don't want to remember that painful day.",Negation,Subjective,Sadness
+"I can't believe how amazing this is!",Negation,Subjective,Euphoria
+"I don't want to be alone right now.",Negation,Subjective,Sadness
+"I never expected such kindness!",Negation,Subjective,Happiness
+"I don't like being rushed.",Negation,Subjective,Anger
+"I can't believe how beautiful this is!",Negation,Subjective,Euphoria
+"I never want this day to end.",Negation,Subjective,Happiness
+"I don't want to lose this feeling.",Negation,Subjective,Happiness
+"I never imagined feeling this good!",Negation,Subjective,Euphoria
+"I don't want to go back to that place.",Negation,Subjective,Sadness
+"I can't stand it when people lie.",Negation,Subjective,Anger
+"I never get tired of these happy moments!",Negation,Subjective,Happiness
+"I don't like it when people interrupt me.",Negation,Subjective,Anger
+"I don't want to miss this opportunity!",Negation,Subjective,Happiness
+"I can't believe how unfair this is.",Negation,Subjective,Anger
+"I have never laughed so hard!",Negation,Subjective,Euphoria
+"I can't believe they forgot my birthday.",Negation,Subjective,Sadness
+"I don't want to leave this beautiful place.",Negation,Subjective,Happiness
+"I never thought I'd feel this heartbroken.",Negation,Subjective,Sadness
+"I can't stand traffic jams.",Negation,Subjective,Anger
+"I never imagined I'd accomplish this goal!",Negation,Subjective,Euphoria
+"I don't want to hear bad news today.",Negation,Subjective,Sadness
+"I can't believe how rude some people are.",Negation,Subjective,Anger
+"I never want to forget this amazing moment.",Negation,Subjective,Happiness
+"I don't like seeing people argue.",Negation,Subjective,Sadness
+"I can't believe I lost my keys again.",Negation,Subjective,Anger
+"I never thought I'd feel this excited!",Negation,Subjective,Euphoria
+"I don't want to be late for the event.",Negation,Subjective,Anger
+"I can't stand when people break promises.",Negation,Subjective,Anger
+"I never get tired of watching sunsets.",Negation,Subjective,Happiness
+"I don't like feeling helpless.",Negation,Subjective,Sadness
+"I can't believe how lucky I am today!",Negation,Subjective,Euphoria
+"I never expected such a wonderful surprise!",Negation,Subjective,Happiness
+"I don't want to wake up from this dream.",Negation,Subjective,Euphoria
+"I can't believe they didn't invite me.",Negation,Subjective,Sadness
+"I don't enjoy listening to negative news.",Negation,Subjective,Sadness
+"I never thought I'd laugh this much!",Negation,Subjective,Euphoria
+"I can't believe how much I love this song!",Negation,Subjective,Happiness
+"I don't want to think about the past.",Negation,Subjective,Sadness
+"I can't stand when people interrupt me.",Negation,Subjective,Anger
+"I never imagined I would travel to this place!",Negation,Subjective,Euphoria
+"I don't want to say goodbye.",Negation,Subjective,Sadness
+"I can't believe how delicious this meal is!",Negation,Subjective,Happiness
+"I never get tired of hearing your laugh.",Negation,Subjective,Happiness
+"I don't feel like celebrating today.",Negation,Subjective,Sadness
+"I can't believe how unfair this situation is.",Negation,Subjective,Anger
+"I never expected to receive this award!",Negation,Subjective,Euphoria
+"I don't like it when people ignore my messages.",Negation,Subjective,Anger
+"I can't stand when someone takes credit for my work.",Negation,Subjective,Anger
+"I never want to stop feeling this way!",Negation,Subjective,Euphoria
+"I don't feel appreciated.",Negation,Subjective,Sadness
+"I can't believe how breathtaking this view is!",Negation,Subjective,Euphoria
+"I never thought I'd make it this far!",Negation,Subjective,Happiness
+"I don't like it when people are dishonest.",Negation,Subjective,Anger
+"I can't believe how much fun I'm having!",Negation,Subjective,Euphoria
+"I never imagined finding such a deep connection.",Negation,Subjective,Happiness
+"I don't want to argue anymore.",Negation,Subjective,Sadness
+"I can't believe how much this means to me!",Negation,Subjective,Happiness
+"I never expected to feel this way.",Negation,Subjective,Euphoria
+"I don't want to waste this opportunity.",Negation,Subjective,Happiness
+"I can't believe how frustrating this is!",Negation,Subjective,Anger
+"I never thought I'd miss this place so much.",Negation,Subjective,Sadness
+"I don't like being underestimated.",Negation,Subjective,Anger
+"I can't believe how amazing this adventure is!",Negation,Subjective,Euphoria
+"I never get tired of listening to this song.",Negation,Subjective,Happiness

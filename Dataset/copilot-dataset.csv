@@ -272,3 +272,188 @@ Sentence,Type,Factual/Subjective,Sentiment
 "Music is a universal language.",Affirmation,Factual,Neutral
 "I feel happy when I'm with friends.",Affirmation,Subjective,Happiness
 "Sunrise marks a new beginning.",Affirmation,Subjective,Happiness
+"I do not enjoy traffic jams.",Negation,Factual,Anger
+"I can't stand rude behavior.",Negation,Factual,Anger
+"I don't like being late.",Negation,Factual,Anger
+"I do not enjoy cold weather.",Negation,Factual,Sadness
+"I can't bear the thought of losing.",Negation,Factual,Sadness
+"I don't like when it rains all day.",Negation,Factual,Sadness
+"I do not enjoy crowded places.",Negation,Factual,Anger
+"I can't stand dishonesty.",Negation,Factual,Anger
+"I don't like feeling tired.",Negation,Factual,Sadness
+"I do not enjoy being ignored.",Negation,Factual,Sadness
+"I can't bear the sound of loud noises.",Negation,Factual,Anger
+"I don't like feeling rushed.",Negation,Factual,Anger
+"I do not enjoy high humidity.",Negation,Factual,Sadness
+"I can't stand being interrupted.",Negation,Factual,Anger
+"I don't like excessive heat.",Negation,Factual,Sadness
+"I do not enjoy feeling stressed.",Negation,Factual,Sadness
+"I can't bear heavy traffic.",Negation,Factual,Anger
+"I don't like early mornings.",Negation,Factual,Sadness
+"I do not enjoy feeling isolated.",Negation,Factual,Sadness
+"I can't stand bad manners.",Negation,Factual,Anger
+"I don't like being misunderstood.",Negation,Factual,Sadness
+"I do not enjoy delays.",Negation,Factual,Anger
+"I can't bear dirty environments.",Negation,Factual,Anger
+"I don't like feeling anxious.",Negation,Factual,Sadness
+"I do not enjoy feeling helpless.",Negation,Factual,Sadness
+"I can't stand clutter.",Negation,Factual,Anger
+"I don't like feeling rejected.",Negation,Factual,Sadness
+"I do not enjoy feeling overwhelmed.",Negation,Factual,Sadness
+"I can't bear feeling lost.",Negation,Factual,Sadness
+"I don't like feeling unappreciated.",Negation,Factual,Sadness
+"I do not enjoy feeling insecure.",Negation,Factual,Sadness
+"I can't stand feeling bored.",Negation,Factual,Sadness
+"I don't like feeling hopeless.",Negation,Factual,Sadness
+"I do not enjoy feeling trapped.",Negation,Factual,Sadness
+"I can't bear feeling neglected.",Negation,Factual,Sadness
+"I don't like feeling powerless.",Negation,Factual,Sadness
+"I do not enjoy feeling forgotten.",Negation,Factual,Sadness
+"I can't stand feeling inferior.",Negation,Factual,Sadness
+"I don't like feeling left out.",Negation,Factual,Sadness
+"I do not enjoy feeling lonely.",Negation,Factual,Sadness
+"I can't bear feeling unloved.",Negation,Factual,Sadness
+"I don't like feeling useless.",Negation,Factual,Sadness
+"I do not enjoy feeling vulnerable.",Negation,Factual,Sadness
+"I can't stand feeling worthless.",Negation,Factual,Sadness
+"I don't like feeling anxious in social situations.",Negation,Factual,Sadness
+"I do not enjoy feeling uneasy.",Negation,Factual,Sadness
+"I can't bear feeling nervous.",Negation,Factual,Sadness
+"I don't like feeling drained.",Negation,Factual,Sadness
+"I do not enjoy feeling exhausted.",Negation,Factual,Sadness
+"I can't stand feeling fatigued.",Negation,Factual,Sadness
+"I don't like feeling weak.",Negation,Factual,Sadness
+"I do not enjoy feeling overwhelmed by tasks.",Negation,Factual,Sadness
+"I can't bear feeling stressed at work.",Negation,Factual,Sadness
+"I do not enjoy traffic jams.",Negation,Factual,Anger
+"I can't stand rude behavior.",Negation,Factual,Anger
+"I don't like being late.",Negation,Factual,Anger
+"I do not enjoy cold weather.",Negation,Factual,Sadness
+"I can't bear the thought of losing.",Negation,Factual,Sadness
+"I don't like when it rains all day.",Negation,Factual,Sadness
+"I do not enjoy crowded places.",Negation,Factual,Anger
+"I can't stand dishonesty.",Negation,Factual,Anger
+"I don't like feeling tired.",Negation,Factual,Sadness
+"I do not enjoy being ignored.",Negation,Factual,Sadness
+"I can't bear the sound of loud noises.",Negation,Factual,Anger
+"I don't like feeling rushed.",Negation,Factual,Anger
+"I do not enjoy high humidity.",Negation,Factual,Sadness
+"I can't stand being interrupted.",Negation,Factual,Anger
+"I don't like excessive heat.",Negation,Factual,Sadness
+"I do not enjoy feeling stressed.",Negation,Factual,Sadness
+"I can't bear heavy traffic.",Negation,Factual,Anger
+"I don't like early mornings.",Negation,Factual,Sadness
+"I do not enjoy feeling isolated.",Negation,Factual,Sadness
+"I can't stand bad manners.",Negation,Factual,Anger
+"I don't like being misunderstood.",Negation,Factual,Sadness
+"I do not enjoy delays.",Negation,Factual,Anger
+"I can't bear dirty environments.",Negation,Factual,Anger
+"I don't like feeling anxious.",Negation,Factual,Sadness
+"I do not enjoy feeling helpless.",Negation,Factual,Sadness
+"I can't stand clutter.",Negation,Factual,Anger
+"I don't like feeling rejected.",Negation,Factual,Sadness
+"I do not enjoy feeling overwhelmed.",Negation,Factual,Sadness
+"I can't bear feeling lost.",Negation,Factual,Sadness
+"I don't like feeling unappreciated.",Negation,Factual,Sadness
+"I do not enjoy feeling insecure.",Negation,Factual,Sadness
+"I can't stand feeling bored.",Negation,Factual,Sadness
+"I don't like feeling hopeless.",Negation,Factual,Sadness
+"I do not enjoy feeling trapped.",Negation,Factual,Sadness
+"I can't bear feeling neglected.",Negation,Factual,Sadness
+"I don't like feeling powerless.",Negation,Factual,Sadness
+"I do not enjoy feeling forgotten.",Negation,Factual,Sadness
+"I can't stand feeling inferior.",Negation,Factual,Sadness
+"I don't like feeling left out.",Negation,Factual,Sadness
+"I do not enjoy feeling lonely.",Negation,Factual,Sadness
+"I can't bear feeling unloved.",Negation,Factual,Sadness
+"I don't like feeling useless.",Negation,Factual,Sadness
+"I do not enjoy feeling vulnerable.",Negation,Factual,Sadness
+"I can't stand feeling worthless.",Negation,Factual,Sadness
+"I don't like feeling anxious in social situations.",Negation,Factual,Sadness
+"I do not enjoy feeling uneasy.",Negation,Factual,Sadness
+"I can't bear feeling nervous.",Negation,Factual,Sadness
+"I don't like feeling drained.",Negation,Factual,Sadness
+"I do not enjoy feeling exhausted.",Negation,Factual,Sadness
+"I can't stand feeling trapped in a routine.",Negation,Factual,Sadness
+"I don't like feeling overwhelmed by tasks.",Negation,Factual,Sadness
+"I do not enjoy feeling stressed at work.",Negation,Factual,Sadness
+"I can't bear feeling ignored by friends.",Negation,Factual,Sadness
+"I don't like feeling unproductive.",Negation,Factual,Sadness
+"I do not enjoy feeling pressured to succeed.",Negation,Factual,Sadness
+"I can't stand feeling disrespected.",Negation,Factual,Anger
+"I don't like feeling undervalued.",Negation,Factual,Sadness
+"I do not enjoy feeling isolated from family.",Negation,Factual,Sadness
+"I can't bear feeling disconnected from reality.",Negation,Factual,Sadness
+"I don't like feeling unprepared.",Negation,Factual,Sadness
+"I do not enjoy feeling overwhelmed by emotions.",Negation,Factual,Sadness
+"I can't stand feeling judged by others.",Negation,Factual,Sadness
+"I don't like feeling alone in a crowd.",Negation,Factual,Sadness
+"I do not enjoy feeling stuck in traffic.",Negation,Factual,Anger
+"I can't bear feeling ignored at work.",Negation,Factual,Sadness
+"I don't like feeling overwhelmed by responsibilities.",Negation,Factual,Sadness
+"I do not enjoy feeling neglected by loved ones.",Negation,Factual,Sadness
+"I can't stand feeling exhausted after a long day.",Negation,Factual,Sadness
+"I don't like feeling unappreciated at home.",Negation,Factual,Sadness
+"I do not enjoy feeling anxious about the future.",Negation,Factual,Sadness
+"I can't bear feeling stuck in a dead-end job.",Negation,Factual,Sadness
+"I don't like feeling disconnected from nature.",Negation,Factual,Sadness
+"I do not enjoy feeling helpless in difficult situations.",Negation,Factual,Sadness
+"I can't stand feeling isolated during holidays.",Negation,Factual,Sadness
+"I don't like feeling overwhelmed by social obligations.",Negation,Factual,Sadness
+"I do not enjoy feeling unmotivated.",Negation,Factual,Sadness
+"I can't bear feeling stuck in a rut.",Negation,Factual,Sadness
+"I don't like feeling overwhelmed by work deadlines.",Negation,Factual,Sadness
+"I do not enjoy feeling ignored by society.",Negation,Factual,Sadness
+"I can't stand feeling unappreciated for my efforts.",Negation,Factual,Sadness
+"I don't like feeling overwhelmed by financial pressures.",Negation,Factual,Sadness
+"I do not enjoy feeling disconnected from my emotions.",Negation,Factual,Sadness
+"I do not feel overwhelmed.",Negation,Factual,Euphoria
+"I can't believe how happy I am.",Negation,Factual,Euphoria
+"I do not feel stressed.",Negation,Factual,Euphoria
+"I can't imagine feeling better.",Negation,Factual,Euphoria
+"I do not experience sadness.",Negation,Factual,Euphoria
+"I can't believe how joyful life is.",Negation,Factual,Euphoria
+"I do not worry about the future.",Negation,Factual,Euphoria
+"I can't feel anything but bliss.",Negation,Factual,Euphoria
+"I do not miss any opportunities.",Negation,Factual,Euphoria
+"I can't feel anything but happiness.",Negation,Factual,Euphoria
+"I do not regret any decisions.",Negation,Factual,Euphoria
+"I can't believe how great everything is.",Negation,Factual,Euphoria
+"I do not experience negative emotions.",Negation,Factual,Euphoria
+"I can't feel anything but excitement.",Negation,Factual,Euphoria
+"I do not feel any fear.",Negation,Factual,Euphoria
+"I can't believe how fulfilled I am.",Negation,Factual,Euphoria
+"I do not have any worries.",Negation,Factual,Euphoria
+"I can't feel anything but contentment.",Negation,Factual,Euphoria
+"I do not experience any anxiety.",Negation,Factual,Euphoria
+"I can't imagine life being any better.",Negation,Factual,Euphoria
+"I do not feel any stress.",Negation,Factual,Euphoria
+"I can't feel anything but gratitude.",Negation,Factual,Euphoria
+"I do not have any regrets.",Negation,Factual,Euphoria
+"I can't believe how wonderful everything is.",Negation,Factual,Euphoria
+"I do not experience any doubts.",Negation,Factual,Euphoria
+"I can't feel anything but joy.",Negation,Factual,Euphoria
+"I do not have any negative thoughts.",Negation,Factual,Euphoria
+"I can't believe how lucky I am.",Negation,Factual,Euphoria
+"I do not feel any discomfort.",Negation,Factual,Euphoria
+"I can't feel anything but euphoria.",Negation,Factual,Euphoria
+"I do not worry about anything.",Negation,Factual,Euphoria
+"I can't believe how amazing life is.",Negation,Factual,Euphoria
+"I do not feel any sadness.",Negation,Factual,Euphoria
+"I can't feel anything but positive energy.",Negation,Factual,Euphoria
+"I do not have any fears.",Negation,Factual,Euphoria
+"I can't believe how blessed I am.",Negation,Factual,Euphoria
+"I do not experience any stress.",Negation,Factual,Euphoria
+"I can't feel anything but ecstasy.",Negation,Factual,Euphoria
+"I do not have any concerns.",Negation,Factual,Euphoria
+"I can't believe how perfect everything is.",Negation,Factual,Euphoria
+"I do not experience any sadness.",Negation,Factual,Euphoria
+"I can't feel anything but thrill.",Negation,Factual,Euphoria
+"I do not have any worries.",Negation,Factual,Euphoria
+"I can't believe how delightful life is.",Negation,Factual,Euphoria
+"I do not feel any anxiety.",Negation,Factual,Euphoria
+"I can't feel anything but pure joy.",Negation,Factual,Euphoria
+"I do not have any negative feelings.",Negation,Factual,Euphoria
+"I can't believe how satisfied I am.",Negation,Factual,Euphoria
+"I do not feel any fear.",Negation,Factual,Euphoria
+"I can't feel anything but happiness.",Negation,Factual,Euphoria
