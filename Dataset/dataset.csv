@@ -1641,3 +1641,254 @@ Sentence,Type,Factual/Subjective,Sentiment
 "Music is a universal language.",Affirmation,Factual,Neutral
 "I feel happy when I'm with friends.",Affirmation,Subjective,Happiness
 "Sunrise marks a new beginning.",Affirmation,Subjective,Happiness
+"The sun doesn’t rise in the west.",Negation,Factual,Neutral
+"I don’t enjoy rainy days.",Negation,Subjective,Sadness
+"Plants don’t grow without sunlight.",Negation,Factual,Neutral
+"She didn’t win the race yesterday.",Negation,Factual,Neutral
+"I don’t feel happy about the news.",Negation,Subjective,Sadness
+"The moon doesn’t emit its own light.",Negation,Factual,Neutral
+"He doesn’t care about my opinion.",Negation,Subjective,Anger
+"This soup doesn’t taste good.",Negation,Subjective,Anger
+"Elephants don’t live in the ocean.",Negation,Factual,Neutral
+"I don’t love crowded places.",Negation,Subjective,Anger
+"The experiment didn’t succeed.",Negation,Factual,Neutral
+"We don’t have enough time today.",Negation,Subjective,Sadness
+"Dogs don’t speak human languages.",Negation,Factual,Neutral
+"I don’t believe in ghosts.",Negation,Subjective,Neutral
+"The car didn’t start this morning.",Negation,Factual,Neutral
+"She doesn’t appreciate my efforts.",Negation,Subjective,Sadness
+"Rain doesn’t fall upward.",Negation,Factual,Neutral
+"I don’t like spicy food.",Negation,Subjective,Anger
+"The earth doesn’t stand still.",Negation,Factual,Neutral
+"He didn’t smile at me today.",Negation,Subjective,Sadness
+"Snakes don’t have legs.",Negation,Factual,Neutral
+"I don’t trust strangers easily.",Negation,Subjective,Neutral
+"The concert didn’t impress me.",Negation,Subjective,Neutral
+"Birds don’t swim underwater.",Negation,Factual,Neutral
+"I don’t feel safe here.",Negation,Subjective,Sadness
+"The store doesn’t sell books.",Negation,Factual,Neutral
+"She doesn’t understand my jokes.",Negation,Subjective,Anger
+"Ice doesn’t melt in the freezer.",Negation,Factual,Neutral
+"I don’t enjoy waking up early.",Negation,Subjective,Sadness
+"The movie didn’t end happily.",Negation,Factual,Neutral
+"He doesn’t play soccer well.",Negation,Subjective,Neutral
+"Stars don’t shine during the day.",Negation,Factual,Neutral
+"I don’t want to argue anymore.",Negation,Subjective,Anger
+"The recipe didn’t work out.",Negation,Factual,Neutral
+"I don’t feel energized today.",Negation,Subjective,Sadness
+"Trees don’t grow overnight.",Negation,Factual,Neutral
+"She doesn’t listen to advice.",Negation,Subjective,Anger
+"I don’t like cold weather.",Negation,Subjective,Sadness
+"The phone doesn’t charge properly.",Negation,Factual,Neutral
+"He didn’t call me back.",Negation,Factual,Sadness
+"I don’t understand quantum physics.",Negation,Subjective,Neutral
+"Cats don’t bark like dogs.",Negation,Factual,Neutral
+"I don’t appreciate loud voices.",Negation,Subjective,Anger
+"The meeting didn’t go well.",Negation,Factual,Neutral
+"I don’t feel calm right now.",Negation,Subjective,Sadness
+"The sky doesn’t turn green.",Negation,Factual,Neutral
+"She doesn’t respect boundaries.",Negation,Subjective,Anger
+"I don’t enjoy long flights.",Negation,Subjective,Neutral
+"The test didn’t cover that topic.",Negation,Factual,Neutral
+"I don’t like being ignored.",Negation,Subjective,Anger
+"The river doesn’t flow uphill.",Negation,Factual,Neutral
+"I don’t enjoy horror movies.",Negation,Subjective,Sadness
+"Glass doesn’t bend easily.",Negation,Factual,Neutral
+"He didn’t finish his homework.",Negation,Factual,Neutral
+"I don’t feel proud of this.",Negation,Subjective,Sadness
+"Volcanoes don’t erupt every day.",Negation,Factual,Neutral
+"She doesn’t value my time.",Negation,Subjective,Anger
+"This coffee doesn’t taste fresh.",Negation,Subjective,Neutral
+"Fish don’t walk on land.",Negation,Factual,Neutral
+"I don’t love tight deadlines.",Negation,Subjective,Anger
+"The plan didn’t go as expected.",Negation,Factual,Neutral
+"We don’t see the stars at noon.",Negation,Factual,Neutral
+"I don’t trust this weather forecast.",Negation,Subjective,Neutral
+"The lamp doesn’t work anymore.",Negation,Factual,Neutral
+"He doesn’t respect my space.",Negation,Subjective,Anger
+"Clouds don’t stay still.",Negation,Factual,Neutral
+"I don’t like waiting in lines.",Negation,Subjective,Anger
+"The train didn’t arrive on time.",Negation,Factual,Neutral
+"She doesn’t share her thoughts.",Negation,Subjective,Sadness
+"I don’t feel warm in this jacket.",Negation,Subjective,Sadness
+"Deserts don’t get much rain.",Negation,Factual,Neutral
+"I don’t enjoy heavy traffic.",Negation,Subjective,Anger
+"The book didn’t captivate me.",Negation,Subjective,Neutral
+"Bees don’t live alone.",Negation,Factual,Neutral
+"I don’t feel rested after sleep.",Negation,Subjective,Sadness
+"The door doesn’t lock properly.",Negation,Factual,Neutral
+"He doesn’t answer my texts.",Negation,Factual,Sadness
+"I don’t like bitter flavors.",Negation,Subjective,Anger
+"Mountains don’t move.",Negation,Factual,Neutral
+"She didn’t thank me for the help.",Negation,Factual,Sadness
+"I don’t understand this puzzle.",Negation,Subjective,Neutral
+"Penguins don’t fly in the sky.",Negation,Factual,Neutral
+"I don’t appreciate rude comments.",Negation,Subjective,Anger
+"The game didn’t load correctly.",Negation,Factual,Neutral
+"I don’t feel motivated today.",Negation,Subjective,Sadness
+"Oceans don’t freeze solid.",Negation,Factual,Neutral
+"He doesn’t follow the rules.",Negation,Subjective,Anger
+"I don’t like cluttered rooms.",Negation,Subjective,Neutral
+"The email didn’t send properly.",Negation,Factual,Neutral
+"She doesn’t care about details.",Negation,Subjective,Neutral
+"I don’t enjoy loud alarms.",Negation,Subjective,Anger
+"The bridge doesn’t sway in the wind.",Negation,Factual,Neutral
+"He didn’t show up on time.",Negation,Factual,Sadness
+"I don’t trust online reviews.",Negation,Subjective,Neutral
+"Rainbows don’t last forever.",Negation,Factual,Neutral
+"I don’t feel welcome here.",Negation,Subjective,Sadness
+"The battery doesn’t charge fast.",Negation,Factual,Neutral
+"She doesn’t laugh at my jokes.",Negation,Subjective,Sadness
+"I don’t like sudden changes.",Negation,Subjective,Anger
+"The sun doesn’t orbit the earth.",Negation,Factual,Neutral
+"The wind doesn’t blow indoors.",Negation,Factual,Neutral
+"I don’t enjoy being late.",Negation,Subjective,Sadness
+"Gold doesn’t rust like iron.",Negation,Factual,Neutral
+"He didn’t reply to my email.",Negation,Factual,Neutral
+"I don’t feel good about this choice.",Negation,Subjective,Sadness
+"Shadows don’t form without light.",Negation,Factual,Neutral
+"She doesn’t notice my efforts.",Negation,Subjective,Anger
+"This chair doesn’t feel comfortable.",Negation,Subjective,Neutral
+"Turtles don’t run fast.",Negation,Factual,Neutral
+"I don’t love early meetings.",Negation,Subjective,Anger
+"The clock didn’t chime today.",Negation,Factual,Neutral
+"We don’t hear the ocean from here.",Negation,Factual,Neutral
+"I don’t trust cheap products.",Negation,Subjective,Neutral
+"The oven doesn’t heat evenly.",Negation,Factual,Neutral
+"He doesn’t admit his mistakes.",Negation,Subjective,Anger
+"Fire doesn’t thrive without oxygen.",Negation,Factual,Neutral
+"I don’t like scratchy fabrics.",Negation,Subjective,Anger
+"The package didn’t arrive yet.",Negation,Factual,Sadness
+"She doesn’t trust my advice.",Negation,Subjective,Sadness
+"I don’t feel strong today.",Negation,Subjective,Sadness
+"Whales don’t live in rivers.",Negation,Factual,Neutral
+"I don’t enjoy repetitive tasks.",Negation,Subjective,Neutral
+"The song didn’t cheer me up.",Negation,Subjective,Sadness
+"Spiders don’t have wings.",Negation,Factual,Neutral
+"I don’t feel included in this group.",Negation,Subjective,Sadness
+"The printer doesn’t work well.",Negation,Factual,Neutral
+"He doesn’t keep his promises.",Negation,Subjective,Anger
+"I don’t like dim lighting.",Negation,Subjective,Neutral
+"Glaciers don’t melt in a day.",Negation,Factual,Neutral
+"She didn’t acknowledge my work.",Negation,Factual,Sadness
+"I don’t understand this code.",Negation,Subjective,Neutral
+"Butterflies don’t bite people.",Negation,Factual,Neutral
+"I don’t appreciate slow service.",Negation,Subjective,Anger
+"The event didn’t start on time.",Negation,Factual,Neutral
+"I don’t feel ready for this.",Negation,Subjective,Sadness
+"Stars don’t fall from the sky.",Negation,Factual,Neutral
+"He doesn’t share his food.",Negation,Subjective,Neutral
+"I don’t like humid weather.",Negation,Subjective,Sadness
+"The app doesn’t load quickly.",Negation,Factual,Neutral
+"She doesn’t respond to calls.",Negation,Factual,Sadness
+"I don’t trust this old bridge.",Negation,Subjective,Neutral
+"Frogs don’t live in deserts.",Negation,Factual,Neutral
+"I don’t enjoy awkward silences.",Negation,Subjective,Sadness
+"The light doesn’t flicker.",Negation,Factual,Neutral
+"He didn’t offer to help.",Negation,Factual,Sadness
+"I don’t feel confident here.",Negation,Subjective,Sadness
+"The road doesn’t curve sharply.",Negation,Factual,Neutral
+"She doesn’t value honesty.",Negation,Subjective,Anger
+"I don’t like tight shoes.",Negation,Subjective,Anger
+"The moon doesn’t glow red.",Negation,Factual,Neutral
+"Dolphins do not breathe underwater.",Negation,Factual,Neutral  
+"The Earth is not flat.",Negation,Factual,Neutral  
+"Gold is not edible in large quantities.",Negation,Factual,Neutral  
+"Sharks are not mammals.",Negation,Factual,Neutral  
+"Bats are not blind.",Negation,Factual,Neutral  
+"Tomatoes are not vegetables.",Negation,Factual,Neutral  
+"Venus is not the hottest planet in our solar system.",Negation,Factual,Neutral  
+"Lightning does not strike the same place twice.",Negation,Factual,Neutral  
+"Humans do not have only five senses.",Negation,Factual,Neutral  
+"The Great Wall of China cannot be seen from space.",Negation,Factual,Neutral  
+"Chameleons do not change color for camouflage.",Negation,Factual,Neutral  
+"Mount Everest is not the tallest mountain from base to peak.",Negation,Factual,Neutral  
+"Humans cannot regrow lost limbs.",Negation,Factual,Neutral  
+"Bulls are not enraged by the color red.",Negation,Factual,Neutral  
+"Water does not conduct electricity.",Negation,Factual,Neutral  
+"Bananas do not grow on trees.",Negation,Factual,Neutral  
+"Vikings did not wear horned helmets.",Negation,Factual,Neutral  
+"Ostriches do not bury their heads in sand.",Negation,Factual,Neutral  
+"Glass is not a liquid.",Negation,Factual,Neutral  
+"Cold weather does not cause colds.",Negation,Factual,Neutral  
+"Humans cannot digest grass.",Negation,Factual,Neutral  
+"Einstein did not fail math.",Negation,Factual,Neutral  
+"Lemmings do not commit mass suicide.",Negation,Factual,Neutral  
+"Light does not travel infinitely fast.",Negation,Factual,Neutral  
+"Birds are not descended from dinosaurs.",Negation,Factual,Neutral  
+"Wolves do not howl at the moon.",Negation,Factual,Neutral  
+"The appendix is not useless.",Negation,Factual,Neutral  
+"Sound cannot travel in a vacuum.",Negation,Factual,Neutral  
+"Humans do not use only 10% of their brains.",Negation,Factual,Neutral  
+"Polar bears do not have white fur.",Negation,Factual,Neutral  
+"Peanuts are not nuts.",Negation,Factual,Neutral  
+"Alcohol does not kill brain cells.",Negation,Factual,Neutral  
+"Mars does not have liquid water.",Negation,Factual,Neutral  
+"Lightning does not create fire.",Negation,Factual,Neutral  
+"Snakes are not slimy.",Negation,Factual,Neutral  
+"Einstein did not invent the atomic bomb.",Negation,Factual,Neutral  
+"Octopuses do not have three hearts.",Negation,Factual,Neutral  
+"Carrots do not improve night vision.",Negation,Factual,Neutral  
+"Taste buds are not mapped to specific zones.",Negation,Factual,Neutral  
+"Humans cannot breathe while swallowing.",Negation,Factual,Neutral  
+"Fingernails do not grow after death.",Negation,Factual,Neutral  
+"Black holes are not cosmic vacuums.",Negation,Factual,Neutral  
+"Goldfish do not have 3-second memories.",Negation,Factual,Neutral  
+"Deoxygenated blood is not blue.",Negation,Factual,Neutral  
+"Lightning does not come from clouds.",Negation,Factual,Neutral  
+"The human skeleton is not fully replaced every 10 years.",Negation,Factual,Neutral  
+"Sharks do not get cancer.",Negation,Factual,Neutral  
+"Waking sleepwalkers is not dangerous.",Negation,Factual,Neutral  
+"Humans cannot survive without bacteria.",Negation,Factual,Neutral  
+"Urinating on jellyfish stings is not helpful.",Negation,Factual,Neutral  
+"Microwaves do not destroy nutrients in food.",Negation,Factual,Neutral  
+"Einstein was not bad at mathematics.",Negation,Factual,Neutral  
+"Taste is not limited to the tongue.",Negation,Factual,Neutral  
+"Birds do not abandon chicks touched by humans.",Negation,Factual,Neutral  
+"Electric cars are not completely emission-free.",Negation,Factual,Neutral  
+"Memory does not work like video recording.",Negation,Factual,Neutral  
+"Moon phases are not caused by Earth's shadow.",Negation,Factual,Neutral  
+"Vitamin C does not prevent colds.",Negation,Factual,Neutral  
+"Yawning is not primarily about oxygen intake.",Negation,Factual,Neutral  
+"Organic food is not pesticide-free.",Negation,Factual,Neutral  
+"Left/right brain dominance is not scientifically valid.",Negation,Factual,Neutral  
+"Lightning can not power a city.",Negation,Factual,Neutral  
+"DNA does not determine everything about us.",Negation,Factual,Neutral  
+"Neanderthals were not less intelligent than humans.",Negation,Factual,Neutral  
+"Infinity is not a number in mathematics.",Negation,Factual,Neutral  
+"Bottled water is not safer than tap water.",Negation,Factual,Neutral  
+"Glass does not flow downward over time.",Negation,Factual,Neutral  
+"Muscle does not weigh more than fat.",Negation,Factual,Neutral  
+"5G networks do not cause health hazards.",Negation,Factual,Neutral  
+"Centrifugal force is not a real force.",Negation,Factual,Neutral  
+"Airplanes do not dump waste mid-flight.",Negation,Factual,Neutral  
+"Dark matter is not visible through telescopes.",Negation,Factual,Neutral  
+"Mars does not have breathable air.",Negation,Factual,Neutral  
+"Antibiotics do not work on viruses.",Negation,Factual,Neutral  
+"Sugar does not make children hyperactive.",Negation,Factual,Neutral  
+"Black holes are not holes in space.",Negation,Factual,Neutral  
+"Fracking does not cause most earthquakes.",Negation,Factual,Neutral  
+"Vaccines do not contain microchips.",Negation,Factual,Neutral  
+"Astrology is not based on astronomy.",Negation,Factual,Neutral  
+"Quantum physics does not enable teleportation.",Negation,Factual,Neutral  
+"Aluminum foil does not block all radio waves.",Negation,Factual,Neutral  
+"Evolution does not have 'higher' life forms.",Negation,Factual,Neutral  
+"CRISPR cannot edit any DNA sequence.",Negation,Factual,Neutral  
+"Solar energy is not available 24/7.",Negation,Factual,Neutral  
+"Autism is not caused by vaccines.",Negation,Factual,Neutral  
+"Nanobots do not exist in vaccines.",Negation,Factual,Neutral  
+"Radiation from phones is not ionizing.",Negation,Factual,Neutral  
+"Nuclear energy is not inherently dangerous.",Negation,Factual,Neutral  
+"Artificial sweeteners do not cause cancer.",Negation,Factual,Neutral  
+"GMOs are not harmful by default.",Negation,Factual,Neutral  
+"Moon landings were not faked.",Negation,Factual,Neutral  
+"Climate change is not a natural cycle.",Negation,Factual,Neutral  
+"HIV cannot spread through mosquitoes.",Negation,Factual,Neutral  
+"Forensic science is not infallible.",Negation,Factual,Neutral  
+"Dinosaurs did not live with humans.",Negation,Factual,Neutral  
+"Pterodactyls are not dinosaurs.",Negation,Factual,Neutral  
+"Vaccines do not contain fetal tissue.",Negation,Factual,Neutral  
+"Einstein did not reject quantum mechanics.",Negation,Factual,Neutral  
+"COVID-19 vaccines do not alter DNA.",Negation,Factual,Neutral  
+"Astronauts are not weightless due to lack of gravity.",Negation,Factual,Neutral  
+"Renewable energy is not free of environmental impact.",Negation,Factual,Neutral  

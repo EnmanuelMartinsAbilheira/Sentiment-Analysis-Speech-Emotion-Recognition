@@ -199,3 +199,153 @@ Sentence,Type,Factual/Subjective,Sentiment
 "I’m not good at painting.",Negation,Subjective,Sadness
 "Fireworks light up the night sky.",Affirmation,Factual,Happiness
 "Losing a pet is heartbreaking.",Affirmation,Subjective,Sadness
+"The sun doesn’t rise in the west.",Negation,Factual,Neutral
+"I don’t enjoy rainy days.",Negation,Subjective,Sadness
+"Plants don’t grow without sunlight.",Negation,Factual,Neutral
+"She didn’t win the race yesterday.",Negation,Factual,Neutral
+"I don’t feel happy about the news.",Negation,Subjective,Sadness
+"The moon doesn’t emit its own light.",Negation,Factual,Neutral
+"He doesn’t care about my opinion.",Negation,Subjective,Anger
+"This soup doesn’t taste good.",Negation,Subjective,Anger
+"Elephants don’t live in the ocean.",Negation,Factual,Neutral
+"I don’t love crowded places.",Negation,Subjective,Anger
+"The experiment didn’t succeed.",Negation,Factual,Neutral
+"We don’t have enough time today.",Negation,Subjective,Sadness
+"Dogs don’t speak human languages.",Negation,Factual,Neutral
+"I don’t believe in ghosts.",Negation,Subjective,Neutral
+"The car didn’t start this morning.",Negation,Factual,Neutral
+"She doesn’t appreciate my efforts.",Negation,Subjective,Sadness
+"Rain doesn’t fall upward.",Negation,Factual,Neutral
+"I don’t like spicy food.",Negation,Subjective,Anger
+"The earth doesn’t stand still.",Negation,Factual,Neutral
+"He didn’t smile at me today.",Negation,Subjective,Sadness
+"Snakes don’t have legs.",Negation,Factual,Neutral
+"I don’t trust strangers easily.",Negation,Subjective,Neutral
+"The concert didn’t impress me.",Negation,Subjective,Neutral
+"Birds don’t swim underwater.",Negation,Factual,Neutral
+"I don’t feel safe here.",Negation,Subjective,Sadness
+"The store doesn’t sell books.",Negation,Factual,Neutral
+"She doesn’t understand my jokes.",Negation,Subjective,Anger
+"Ice doesn’t melt in the freezer.",Negation,Factual,Neutral
+"I don’t enjoy waking up early.",Negation,Subjective,Sadness
+"The movie didn’t end happily.",Negation,Factual,Neutral
+"He doesn’t play soccer well.",Negation,Subjective,Neutral
+"Stars don’t shine during the day.",Negation,Factual,Neutral
+"I don’t want to argue anymore.",Negation,Subjective,Anger
+"The recipe didn’t work out.",Negation,Factual,Neutral
+"I don’t feel energized today.",Negation,Subjective,Sadness
+"Trees don’t grow overnight.",Negation,Factual,Neutral
+"She doesn’t listen to advice.",Negation,Subjective,Anger
+"I don’t like cold weather.",Negation,Subjective,Sadness
+"The phone doesn’t charge properly.",Negation,Factual,Neutral
+"He didn’t call me back.",Negation,Factual,Sadness
+"I don’t understand quantum physics.",Negation,Subjective,Neutral
+"Cats don’t bark like dogs.",Negation,Factual,Neutral
+"I don’t appreciate loud voices.",Negation,Subjective,Anger
+"The meeting didn’t go well.",Negation,Factual,Neutral
+"I don’t feel calm right now.",Negation,Subjective,Sadness
+"The sky doesn’t turn green.",Negation,Factual,Neutral
+"She doesn’t respect boundaries.",Negation,Subjective,Anger
+"I don’t enjoy long flights.",Negation,Subjective,Neutral
+"The test didn’t cover that topic.",Negation,Factual,Neutral
+"I don’t like being ignored.",Negation,Subjective,Anger
+"The river doesn’t flow uphill.",Negation,Factual,Neutral
+"I don’t enjoy horror movies.",Negation,Subjective,Sadness
+"Glass doesn’t bend easily.",Negation,Factual,Neutral
+"He didn’t finish his homework.",Negation,Factual,Neutral
+"I don’t feel proud of this.",Negation,Subjective,Sadness
+"Volcanoes don’t erupt every day.",Negation,Factual,Neutral
+"She doesn’t value my time.",Negation,Subjective,Anger
+"This coffee doesn’t taste fresh.",Negation,Subjective,Neutral
+"Fish don’t walk on land.",Negation,Factual,Neutral
+"I don’t love tight deadlines.",Negation,Subjective,Anger
+"The plan didn’t go as expected.",Negation,Factual,Neutral
+"We don’t see the stars at noon.",Negation,Factual,Neutral
+"I don’t trust this weather forecast.",Negation,Subjective,Neutral
+"The lamp doesn’t work anymore.",Negation,Factual,Neutral
+"He doesn’t respect my space.",Negation,Subjective,Anger
+"Clouds don’t stay still.",Negation,Factual,Neutral
+"I don’t like waiting in lines.",Negation,Subjective,Anger
+"The train didn’t arrive on time.",Negation,Factual,Neutral
+"She doesn’t share her thoughts.",Negation,Subjective,Sadness
+"I don’t feel warm in this jacket.",Negation,Subjective,Sadness
+"Deserts don’t get much rain.",Negation,Factual,Neutral
+"I don’t enjoy heavy traffic.",Negation,Subjective,Anger
+"The book didn’t captivate me.",Negation,Subjective,Neutral
+"Bees don’t live alone.",Negation,Factual,Neutral
+"I don’t feel rested after sleep.",Negation,Subjective,Sadness
+"The door doesn’t lock properly.",Negation,Factual,Neutral
+"He doesn’t answer my texts.",Negation,Factual,Sadness
+"I don’t like bitter flavors.",Negation,Subjective,Anger
+"Mountains don’t move.",Negation,Factual,Neutral
+"She didn’t thank me for the help.",Negation,Factual,Sadness
+"I don’t understand this puzzle.",Negation,Subjective,Neutral
+"Penguins don’t fly in the sky.",Negation,Factual,Neutral
+"I don’t appreciate rude comments.",Negation,Subjective,Anger
+"The game didn’t load correctly.",Negation,Factual,Neutral
+"I don’t feel motivated today.",Negation,Subjective,Sadness
+"Oceans don’t freeze solid.",Negation,Factual,Neutral
+"He doesn’t follow the rules.",Negation,Subjective,Anger
+"I don’t like cluttered rooms.",Negation,Subjective,Neutral
+"The email didn’t send properly.",Negation,Factual,Neutral
+"She doesn’t care about details.",Negation,Subjective,Neutral
+"I don’t enjoy loud alarms.",Negation,Subjective,Anger
+"The bridge doesn’t sway in the wind.",Negation,Factual,Neutral
+"He didn’t show up on time.",Negation,Factual,Sadness
+"I don’t trust online reviews.",Negation,Subjective,Neutral
+"Rainbows don’t last forever.",Negation,Factual,Neutral
+"I don’t feel welcome here.",Negation,Subjective,Sadness
+"The battery doesn’t charge fast.",Negation,Factual,Neutral
+"She doesn’t laugh at my jokes.",Negation,Subjective,Sadness
+"I don’t like sudden changes.",Negation,Subjective,Anger
+"The sun doesn’t orbit the earth.",Negation,Factual,Neutral
+"The wind doesn’t blow indoors.",Negation,Factual,Neutral
+"I don’t enjoy being late.",Negation,Subjective,Sadness
+"Gold doesn’t rust like iron.",Negation,Factual,Neutral
+"He didn’t reply to my email.",Negation,Factual,Neutral
+"I don’t feel good about this choice.",Negation,Subjective,Sadness
+"Shadows don’t form without light.",Negation,Factual,Neutral
+"She doesn’t notice my efforts.",Negation,Subjective,Anger
+"This chair doesn’t feel comfortable.",Negation,Subjective,Neutral
+"Turtles don’t run fast.",Negation,Factual,Neutral
+"I don’t love early meetings.",Negation,Subjective,Anger
+"The clock didn’t chime today.",Negation,Factual,Neutral
+"We don’t hear the ocean from here.",Negation,Factual,Neutral
+"I don’t trust cheap products.",Negation,Subjective,Neutral
+"The oven doesn’t heat evenly.",Negation,Factual,Neutral
+"He doesn’t admit his mistakes.",Negation,Subjective,Anger
+"Fire doesn’t thrive without oxygen.",Negation,Factual,Neutral
+"I don’t like scratchy fabrics.",Negation,Subjective,Anger
+"The package didn’t arrive yet.",Negation,Factual,Sadness
+"She doesn’t trust my advice.",Negation,Subjective,Sadness
+"I don’t feel strong today.",Negation,Subjective,Sadness
+"Whales don’t live in rivers.",Negation,Factual,Neutral
+"I don’t enjoy repetitive tasks.",Negation,Subjective,Neutral
+"The song didn’t cheer me up.",Negation,Subjective,Sadness
+"Spiders don’t have wings.",Negation,Factual,Neutral
+"I don’t feel included in this group.",Negation,Subjective,Sadness
+"The printer doesn’t work well.",Negation,Factual,Neutral
+"He doesn’t keep his promises.",Negation,Subjective,Anger
+"I don’t like dim lighting.",Negation,Subjective,Neutral
+"Glaciers don’t melt in a day.",Negation,Factual,Neutral
+"She didn’t acknowledge my work.",Negation,Factual,Sadness
+"I don’t understand this code.",Negation,Subjective,Neutral
+"Butterflies don’t bite people.",Negation,Factual,Neutral
+"I don’t appreciate slow service.",Negation,Subjective,Anger
+"The event didn’t start on time.",Negation,Factual,Neutral
+"I don’t feel ready for this.",Negation,Subjective,Sadness
+"Stars don’t fall from the sky.",Negation,Factual,Neutral
+"He doesn’t share his food.",Negation,Subjective,Neutral
+"I don’t like humid weather.",Negation,Subjective,Sadness
+"The app doesn’t load quickly.",Negation,Factual,Neutral
+"She doesn’t respond to calls.",Negation,Factual,Sadness
+"I don’t trust this old bridge.",Negation,Subjective,Neutral
+"Frogs don’t live in deserts.",Negation,Factual,Neutral
+"I don’t enjoy awkward silences.",Negation,Subjective,Sadness
+"The light doesn’t flicker.",Negation,Factual,Neutral
+"He didn’t offer to help.",Negation,Factual,Sadness
+"I don’t feel confident here.",Negation,Subjective,Sadness
+"The road doesn’t curve sharply.",Negation,Factual,Neutral
+"She doesn’t value honesty.",Negation,Subjective,Anger
+"I don’t like tight shoes.",Negation,Subjective,Anger
+"The moon doesn’t glow red.",Negation,Factual,Neutral
