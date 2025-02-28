@@ -6,6 +6,10 @@ Esta versão:
 
     -> avalia se a frase é negativa ou afirmativa 
             (utiliza a análise do spaCY para procurar palavras de negação como not, n't, never)
+
+NOTA
+Ter isto instalado antes:
+    -> pip install nltk spacy textblob pyspellchecker gramformer
 '''
 
 import nltk
