@@ -1,4 +1,4 @@
-Sentence,Type,Factual/Subjective,Sentiment
+Sentence,Type,Factuality,Sentiment
 "The sky is blue.",Affirmation,Factual,Neutral
 "I love sunny days!",Affirmation,Subjective,Happiness
 "This pizza is disgusting.",Affirmation,Subjective,Anger
