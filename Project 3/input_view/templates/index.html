@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Predição de Texto</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Insira seu Texto</h1>
+        <form method="POST">
+            <textarea name="text" placeholder="Digite o texto aqui..." rows="5" required></textarea>
+            <button type="submit">Analisar</button>
+        </form>
+    </div>
+</body>
+</html>

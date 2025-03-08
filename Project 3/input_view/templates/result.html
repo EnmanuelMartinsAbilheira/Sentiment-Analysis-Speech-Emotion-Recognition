@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultado da Predição</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Resultado da Predição</h1>
+        
+        <h2>Texto Original:</h2>
+        <p>{{ original_text }}</p>
+        
+        <h2>Texto Corrigido:</h2>
+        <p>{{ corrected_text }}</p>
+        
+        <h2>Tipo (Affirmation / Negation):</h2>
+        <ul>
+            {% for key, value in type_pred.items() %}
+            <li>{{ key }}: {{ value }}%</li>
+            {% endfor %}
+        </ul>
+        
+        <h2>Factual / Subjective:</h2>
+        <ul>
+            {% for key, value in factual_pred.items() %}
+            <li>{{ key }}: {{ value }}%</li>
+            {% endfor %}
+        </ul>
+        
+        <h2>Sentiment:</h2>
+        <ul>
+            {% for key, value in sentiment_pred.items() %}
+            <li>{{ key }}: {{ value }}%</li>
+            {% endfor %}
+        </ul>
+        
+        <a href="{{ url_for('index') }}">Voltar</a>
+    </div>
+</body>
+</html>
