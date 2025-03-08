@@ -16,25 +16,13 @@
         <p>{{ corrected_text }}</p>
         
         <h2>Tipo (Affirmation / Negation):</h2>
-        <ul>
-            {% for key, value in type_pred.items() %}
-            <li>{{ key }}: {{ value }}%</li>
-            {% endfor %}
-        </ul>
+        <p>{{ type_pred }}</p>
         
         <h2>Factual / Subjective:</h2>
-        <ul>
-            {% for key, value in factual_pred.items() %}
-            <li>{{ key }}: {{ value }}%</li>
-            {% endfor %}
-        </ul>
+        <p>{{ factual_pred }}</p>
         
         <h2>Sentiment:</h2>
-        <ul>
-            {% for key, value in sentiment_pred.items() %}
-            <li>{{ key }}: {{ value }}%</li>
-            {% endfor %}
-        </ul>
+        <p>{{ sentiment_pred }}</p>
         
         <a href="{{ url_for('index') }}">Voltar</a>
     </div>

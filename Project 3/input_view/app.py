@@ -3,81 +3,97 @@ import pickle
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
+from spellchecker import SpellChecker
+from gramformer import Gramformer
 
 app = Flask(__name__)
 
-# Carregar os modelos
-with open("models/best_model_Type.pkl", "rb") as f:
+# Load models and vectorizer
+with open("Project 3\\input_view\\models\\best_model_Type.pkl", "rb") as f:
     type_model = pickle.load(f)
 
-with open("models/best_model_Factuality.pkl", "rb") as f:
+with open("Project 3\\input_view\\models\\best_model_Factuality.pkl", "rb") as f:
     fact_model = pickle.load(f)
 
-with open("models/best_model_Sentiment.pkl", "rb") as f:
+with open("Project 3\\input_view\\models\\best_model_Sentiment.pkl", "rb") as f:
     sentiment_model = pickle.load(f)
 
-# Carregar o vetorizador TF-IDF
-with open("models/tfidf_vectorizer.pkl", "rb") as f:
-    vectorizer_fixed = pickle.load(f)
+with open("Project 3\\input_view\\models\\tfidf_vectorizer.pkl", "rb") as f:
+    vectorizer = pickle.load(f)
 
-# Carregar o modelo de embeddings (caso necessário)
-embedder = SentenceTransformer("all-MiniLM-L6-v2")  # Pode mudar conforme o que usou no treino
+# Load sentence encoder
+sentence_encoder = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
 
-# Mapeamentos das predições para os rótulos reais
-type_mapping = {0: "Affirmation", 1: "Negation"}
-fact_subj_mapping = {0: "Factual", 1: "Subjective"}
-sentiment_mapping = {0: "Sadness", 1: "Anger", 2: "Neutral", 3: "Happiness", 4: "Euphoria"}
+# Mappings from your notebook
+type_mapping = {0: "affirmative", 1: "negation"}
+fact_subj_mapping = {0: "fact", 1: "opinion"}
+sentiment_mapping = {0: "sadness", 1: "anger", 2: "neutral", 3: "happiness", 4: "euphoria"}
 
-def correct_text(text):
-    """
-    Simulação de correção gramatical simples.
-    Aqui você pode integrar uma API como Grammarly.
-    """
-    return text.capitalize()
+def correct_spelling(sentence):
+    spell_checker = SpellChecker()
+    words = sentence.split() 
+    corrected_words = [spell_checker.correction(word) or word for word in words] 
+    result = " ".join(corrected_words)
+    return result
+
+def correct_sentence(sentence):
+    gramformer = Gramformer(models=1, use_gpu=False)
+    spelled_corrected = correct_spelling(sentence)
+    
+    corrected_sentences = gramformer.correct(spelled_corrected, max_candidates=1)
+    result = next(iter(corrected_sentences), spelled_corrected)
+    
+    return result
+
+def preprocess_text(text, model_type=None):
+    """Preprocess text using either sentence embeddings or TF-IDF"""
+    # Use TF-IDF for factuality model
+    if model_type == 'factuality':
+        return vectorizer.transform([text])
+    
+    # Try sentence embeddings for other models
+    try:
+        return sentence_encoder.encode([text]).reshape(1, -1)
+    except Exception:
+        # Fall back to TF-IDF if sentence embeddings fail
+        return vectorizer.transform([text])
 
 def model_predict(text):
-    """
-    Faz a predição do texto com os três modelos carregados.
-    """
-    sentences = [text]
-
-    # Tentar usar embeddings SentenceTransformer
+    """Makes predictions using all three models"""
+    # Type prediction
     try:
-        X_SenTrans = embedder.encode(sentences).reshape(1, -1)
-    except Exception:
-        X_SenTrans = None
+        type_features = preprocess_text(text, 'type')
+        type_pred = type_model.predict(type_features)[0]
+        type_label = type_mapping[type_pred]
+    except Exception as e:
+        print(f"Type prediction error: {e}")
+        type_label = "Unknown"
 
-    # Transformar o texto com TF-IDF
-    X_tfidf = vectorizer_fixed.transform(sentences)
-
-    # Fazer previsões
+    # Factuality prediction
     try:
-        type_predictions = type_model.predict(X_SenTrans if X_SenTrans is not None else X_tfidf)
-    except Exception:
-        type_predictions = type_model.predict(X_tfidf)
+        fact_features = preprocess_text(text, 'factuality')
+        fact_pred = fact_model.predict(fact_features)[0]
+        fact_label = fact_subj_mapping[fact_pred]
+    except Exception as e:
+        print(f"Factuality prediction error: {e}")
+        fact_label = "Unknown"
 
+    # Sentiment prediction
     try:
-        fact_predictions = fact_model.predict(X_SenTrans if X_SenTrans is not None else X_tfidf)
-    except Exception:
-        fact_predictions = fact_model.predict(X_tfidf)
+        sent_features = preprocess_text(text, 'sentiment')
+        sent_pred = sentiment_model.predict(sent_features)[0]
+        sent_label = sentiment_mapping[sent_pred]
+    except Exception as e:
+        print(f"Sentiment prediction error: {e}")
+        sent_label = "Unknown"
 
-    try:
-        sentiment_predictions = sentiment_model.predict(X_SenTrans if X_SenTrans is not None else X_tfidf)
-    except Exception:
-        sentiment_predictions = sentiment_model.predict(X_tfidf)
-
-    # Converter predições para rótulos
-    type_label = type_mapping.get(type_predictions[0], "Unknown")
-    fact_label = fact_subj_mapping.get(fact_predictions[0], "Unknown")
-    sentiment_label = sentiment_mapping.get(sentiment_predictions[0], "Unknown")
-
-    return type_label, fact_label, sentiment_label
+    return type_label, fact_label, sent_label
 
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
         text = request.form.get("text")
-        corrected = correct_text(text)
+        corrected = correct_sentence(text)
         type_label, fact_label, sentiment_label = model_predict(text)
 
         return render_template(
