@@ -139,14 +139,15 @@ def predict_with_pretrained_model(text, prediction_type):
 def index():
     if request.method == "POST":
         text = request.form.get("text")
-        
-        # Get model selections (default to custom)
-        type_model_choice = request.form.get("type_model", "custom")
-        fact_model_choice = request.form.get("fact_model", "custom")
-        sentiment_model_choice = request.form.get("sentiment_model", "custom")
+        model_type = request.form.get("model_type", "custom")  # Get the selected model type
         
         # Correct spelling and grammar
         corrected = correct_sentence(text)
+        
+        # Initialize model choices based on the selected model_type
+        type_model_choice = model_type
+        fact_model_choice = model_type
+        sentiment_model_choice = model_type
         
         # Get type prediction
         if type_model_choice == "custom":
