@@ -55,37 +55,124 @@ h1, h2 {
     align-items: center;
 }
 
+/* Text display section */
+.text-display {
+    margin-bottom: 25px;
+}
+
+/* Model configuration section */
+.model-config {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 30px 0;
+}
+
+.model-config h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+/* Model selector rows */
+.model-selector {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.model-selector:last-child {
+    border-bottom: none;
+}
+
+/* Model option (left side) */
+.model-option {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.model-option label {
+    font-weight: bold;
+    margin-right: 15px;
+    min-width: 170px;
+}
+
+.model-option select {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: white;
+}
+
+/* Result display (right side) */
+.result-display {
+    display: flex;
+    align-items: center;
+    width: 45%;
+}
+
+.model-label {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #505050;
+}
+
+.model-result {
+    font-weight: bold;
+    color: #007BFF;
+}
+
 /* Estilizando os labels */
 .result-label {
     font-size: 16px;
     font-weight: bold;
 }
 
-/* Botão para alternar modelos */
-.toggle-btn {
-    background: #28a745;
-    border: none;
-    color: white;
-    padding: 8px 15px;
+/* Form elements */
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
     border-radius: 6px;
-    font-size: 14px;
+    margin-bottom: 15px;
+    resize: vertical;
+    font-family: inherit;
+}
+
+button[type="submit"] {
+    background: #037816;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
     cursor: pointer;
-    transition: background 0.3s ease-in-out;
+    font-size: 16px;
+    width: 100%;
+    transition: background 0.2s;
 }
 
-.toggle-btn:hover {
-    background: #218838;
+button[type="submit"]:hover {
+    background: #025e11;
 }
 
-/* Links */
-a {
+/* Back button */
+.back-button {
     display: inline-block;
-    margin-top: 15px;
-    color: #007BFF;
+    margin-top: 20px;
+    background: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
     text-decoration: none;
-    font-weight: bold;
+    transition: background 0.2s;
 }
 
-a:hover {
-    text-decoration: underline;
+.back-button:hover {
+    background: #0056b3;
+    text-decoration: none;
 }

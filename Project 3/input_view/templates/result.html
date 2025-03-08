@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <header class="header">
-    <img src="static/logo.png" alt="Logotipo">  
+    <img src="static/logo.png" alt="Logotipo">
     <div class="team-names">
         <p>Enmanuel Abilheira A16430</p>
         <p>Bruno Silva A20811</p>
@@ -17,59 +17,74 @@
 
 <body>
     <div class="container">
-        <h2>Resultados da Análise</h2>
-
+        <h1>Resultado da Predição</h1>
         
-        <div class="result-box">
-            <h2>Texto Original:</h2>
-            <p>{{ original_text }}</p>
+        <div class="text-display">
+            <div class="result-box">
+                <span class="result-label">Texto Original:</span>
+                <span>{{ original_text }}</span>
+            </div>
+            
+            <div class="result-box">
+                <span class="result-label">Texto Corrigido:</span>
+                <span>{{ corrected_text }}</span>
+            </div>
         </div>
-
-        <div class="result-box">
-            <h2>Texto Corrigido:</h2>
-            <p>{{ corrected_text }}</p>
-        </div>
-
-        <div class="result-box">
-            <span class="result-label">Tipo (Affirmation / Negation):</span> 
-            <p>{{ type_pred }}</p>
-            <span id="tipo">{{ tipo }}</span>
-            <button class="toggle-btn" onclick="toggleModel('tipo')">Alternar</button>
-        </div>
-
-        <div class="result-box">
-            <span class="result-label">Factual / Subjective:</span>
-            <p>{{ factual_pred }}</p>
-            <span id="factual">{{ factual }}</span>
-            <button class="toggle-btn" onclick="toggleModel('factual')">Alternar</button>
-        </div>
-
-        <div class="result-box">
-            <span class="result-label">Sentimento:</span>
-            <p>{{ sentiment_pred }}</p>
-            <span id="sentimento">{{ sentimento }}</span>
-             <button class="toggle-btn" onclick="toggleModel('sentimento')">Alternar</button> 
-        </div>
-
-        <a href="{{ url_for('index') }}">Voltar</a>
+        
+        <form method="POST" action="{{ url_for('index') }}">
+            <input type="hidden" name="text" value="{{ original_text }}">
+            
+            <div class="model-config">
+                <h2>Configuração de Modelos</h2>
+                
+                <div class="model-selector">
+                    <div class="model-option">
+                        <label>Tipo (Afirmativo/Negativo):</label>
+                        <select name="type_model" onchange="this.form.submit()">
+                            <option value="custom" {% if type_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
+                            <option value="pretrained" {% if type_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                        </select>
+                    </div>
+                    
+                    <div class="result-display">
+                        <span class="model-label">{{ type_model_label }}:</span>
+                        <span class="model-result">{{ type_pred }}</span>
+                    </div>
+                </div>
+                
+                <div class="model-selector">
+                    <div class="model-option">
+                        <label>Factual/Opinião:</label>
+                        <select name="fact_model" onchange="this.form.submit()">
+                            <option value="custom" {% if fact_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
+                            <option value="pretrained" {% if fact_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                        </select>
+                    </div>
+                    
+                    <div class="result-display">
+                        <span class="model-label">{{ fact_model_label }}:</span>
+                        <span class="model-result">{{ factual_pred }}</span>
+                    </div>
+                </div>
+                
+                <div class="model-selector">
+                    <div class="model-option">
+                        <label>Sentimento:</label>
+                        <select name="sentiment_model" onchange="this.form.submit()">
+                            <option value="custom" {% if sentiment_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
+                            <option value="pretrained" {% if sentiment_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                        </select>
+                    </div>
+                    
+                    <div class="result-display">
+                        <span class="model-label">{{ sentiment_model_label }}:</span>
+                        <span class="model-result">{{ sentiment_pred }}</span>
+                    </div>
+                </div>
+            </div>
+        </form>
+        
+        <a href="{{ url_for('index') }}" class="back-button">Voltar</a>
     </div>
-
-    <script>
-        function toggleModel(field) {
-            // Simulação da troca de modelo
-            let element = document.getElementById(field);
-            let valoresAlternativos = {
-                "tipo": ["Affirmation", "Negation"],
-                "factual": ["Factual", "Subjective"],
-                "sentimento": ["Positivo", "Negativo"]
-            };
-
-            let valores = valoresAlternativos[field];
-            if (valores) {
-                element.innerText = element.innerText === valores[0] ? valores[1] : valores[0];
-            }
-        }
-    </script>
 </body>
 </html>
-
