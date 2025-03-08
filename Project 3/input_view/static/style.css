@@ -1,59 +1,89 @@
+/* Estilos gerais */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
     margin: 0;
     padding: 0;
 }
 
+/* Container */
 .container {
-    width: 80%;
+    width: 90%;
     max-width: 800px;
-    margin: 30px auto;
+    margin: 40px auto;
     background: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Header */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #037816;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.header img {
+    height: 50px;
+}
+
+.header .team-names {
+    text-align: right;
+    font-size: 14px;
+}
+
+/* Títulos */
 h1, h2 {
     color: #333;
+    text-align: center;
 }
 
-textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+/* Estilos para a caixa de resultados */
+.result-box {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-button {
-    background-color: #007BFF;
+/* Estilizando os labels */
+.result-label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Botão para alternar modelos */
+.toggle-btn {
+    background: #28a745;
     border: none;
-    color: #fff;
-    padding: 10px 20px;
-    border-radius: 4px;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 6px;
+    font-size: 14px;
     cursor: pointer;
+    transition: background 0.3s ease-in-out;
 }
 
-button:hover {
-    background-color: #0056b3;
+.toggle-btn:hover {
+    background: #218838;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
-    padding: 5px 0;
-}
-
+/* Links */
 a {
     display: inline-block;
     margin-top: 15px;
     color: #007BFF;
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover {

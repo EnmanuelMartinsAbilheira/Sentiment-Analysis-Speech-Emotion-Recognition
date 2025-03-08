@@ -5,26 +5,71 @@
     <title>Resultado da Predição</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
+<header class="header">
+    <img src="static/logo.png" alt="Logotipo">  
+    <div class="team-names">
+        <p>Enmanuel Abilheira A16430</p>
+        <p>Bruno Silva A20811</p>
+        <p>David Rodrigues A21177</p>
+        <p>André Araújo A21185</p>
+    </div>
+</header>
+
 <body>
     <div class="container">
-        <h1>Resultado da Predição</h1>
+        <h2>Resultados da Análise</h2>
+
         
-        <h2>Texto Original:</h2>
-        <p>{{ original_text }}</p>
-        
-        <h2>Texto Corrigido:</h2>
-        <p>{{ corrected_text }}</p>
-        
-        <h2>Tipo (Affirmation / Negation):</h2>
-        <p>{{ type_pred }}</p>
-        
-        <h2>Factual / Subjective:</h2>
-        <p>{{ factual_pred }}</p>
-        
-        <h2>Sentiment:</h2>
-        <p>{{ sentiment_pred }}</p>
-        
+        <div class="result-box">
+            <h2>Texto Original:</h2>
+            <p>{{ original_text }}</p>
+        </div>
+
+        <div class="result-box">
+            <h2>Texto Corrigido:</h2>
+            <p>{{ corrected_text }}</p>
+        </div>
+
+        <div class="result-box">
+            <span class="result-label">Tipo (Affirmation / Negation):</span> 
+            <p>{{ type_pred }}</p>
+            <span id="tipo">{{ tipo }}</span>
+            <button class="toggle-btn" onclick="toggleModel('tipo')">Alternar</button>
+        </div>
+
+        <div class="result-box">
+            <span class="result-label">Factual / Subjective:</span>
+            <p>{{ factual_pred }}</p>
+            <span id="factual">{{ factual }}</span>
+            <button class="toggle-btn" onclick="toggleModel('factual')">Alternar</button>
+        </div>
+
+        <div class="result-box">
+            <span class="result-label">Sentimento:</span>
+            <p>{{ sentiment_pred }}</p>
+            <span id="sentimento">{{ sentimento }}</span>
+             <button class="toggle-btn" onclick="toggleModel('sentimento')">Alternar</button> 
+        </div>
+
         <a href="{{ url_for('index') }}">Voltar</a>
     </div>
+
+    <script>
+        function toggleModel(field) {
+            // Simulação da troca de modelo
+            let element = document.getElementById(field);
+            let valoresAlternativos = {
+                "tipo": ["Affirmation", "Negation"],
+                "factual": ["Factual", "Subjective"],
+                "sentimento": ["Positivo", "Negativo"]
+            };
+
+            let valores = valoresAlternativos[field];
+            if (valores) {
+                element.innerText = element.innerText === valores[0] ? valores[1] : valores[0];
+            }
+        }
+    </script>
 </body>
 </html>
+
