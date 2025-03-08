@@ -176,3 +176,30 @@ button[type="submit"]:hover {
     background: #0056b3;
     text-decoration: none;
 }
+
+
+.team-names {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: line;
+    gap: 10px;
+}
+.team-member {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.id {
+    margin-top: 5px;
+    color: #ffffff;
+}
+
+
