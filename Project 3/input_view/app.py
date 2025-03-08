@@ -12,16 +12,16 @@ app = Flask(__name__)
 
 """Here we load the custom models"""
 # Load models and vectorizer
-with open("Project 3\\input_view\\models\\best_model_Type.pkl", "rb") as f:
+with open("models/best_model_Type.pkl", "rb") as f:
     type_model = pickle.load(f)
 
-with open("Project 3\\input_view\\models\\best_model_Factuality.pkl", "rb") as f:
+with open("models/best_model_Factuality.pkl", "rb") as f:
     fact_model = pickle.load(f)
 
-with open("Project 3\\input_view\\models\\best_model_Sentiment.pkl", "rb") as f:
+with open("models/best_model_Sentiment.pkl", "rb") as f:
     sentiment_model = pickle.load(f)
 
-with open("Project 3\\input_view\\models\\tfidf_vectorizer.pkl", "rb") as f:
+with open("models/tfidf_vectorizer.pkl", "rb") as f:
     vectorizer = pickle.load(f)
 
 """Here we load the pretrained models"""

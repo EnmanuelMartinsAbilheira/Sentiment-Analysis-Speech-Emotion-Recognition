@@ -51,7 +51,7 @@
                 
                 <div class="model-selector">
                     <div class="model-option">
-                        <label>Tipo (Afirmativo/Negativo):</label>
+                        <label>Tipo/Polaridade (Afirmativo/Negativo):</label>
                         <select name="type_model" onchange="this.form.submit()">
                             <option value="custom" {% if type_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
                             <option value="pretrained" {% if type_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
@@ -66,7 +66,7 @@
                 
                 <div class="model-selector">
                     <div class="model-option">
-                        <label>Factual/Opinião:</label>
+                        <label>Subjectividade (Factual/Opinião):</label>
                         <select name="fact_model" onchange="this.form.submit()">
                             <option value="custom" {% if fact_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
                             <option value="pretrained" {% if fact_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
