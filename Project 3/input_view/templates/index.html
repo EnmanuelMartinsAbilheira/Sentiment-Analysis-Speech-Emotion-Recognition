@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Predição de Texto</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<header class="header">
+    <img src="static/logo.png" alt="Logotipo"> <!-- Substituir pelo caminho correto do logotipo -->
+    <div class="team-names">
+        <div class="team-member">
+            <p class="name">Enmanuel Abilheira</p>
+            <p class="id">A16430</p>
+        </div>
+        <div class="team-member">
+            <p class="name">Bruno Silva</p>
+            <p class="id">A20811</p>
+        </div>
+        <div class="team-member">
+            <p class="name">David Rodrigues</p>
+            <p class="id">A21177</p>
+        </div>
+        <div class="team-member">
+            <p class="name">André Araújo</p>
+            <p class="id">A21185</p>
+        </div>
+    </div>
+</header>
+
+<body>
+    <div class="container">
+        <h1>Insira seu Texto</h1>
+        <form method="POST">
+            <textarea name="text" placeholder="Digite o texto aqui..." rows="5" required></textarea>
+            
+            <div class="model-selection">
+                <label for="model_type">Selecione o modelo:</label>
+                <select id="model_type" name="model_type">
+                    <option value="custom">Modelo Customizado</option>
+                    <option value="pretrained">Modelo Pré-treinado</option>
+                </select>
+            </div>
+            
+            <button type="submit">Analisar</button>
+        </form>
+    </div>
+</body>
+</html>
+
