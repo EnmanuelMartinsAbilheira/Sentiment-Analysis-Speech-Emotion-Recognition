@@ -1,0 +1,2450 @@
+Sentence,Type,Factual/Subjective,Sentiment
+the sky is blue,Affirmation,Factual,Neutral
+i love sunny days,Affirmation,Subjective,Happiness
+this pizza is disgusting,Affirmation,Subjective,Anger
+water boils at 100 degrees celsius,Affirmation,Factual,Neutral
+i dont think this is a good idea,Negation,Subjective,Sadness
+she never comes to meetings on time,Negation,Factual,Anger
+this is the best book ive ever read,Affirmation,Subjective,Euphoria
+that was not a fair decision,Negation,Subjective,Anger
+the train will arrive at 5 pm,Affirmation,Factual,Neutral
+i hate when it rains all day,Affirmation,Subjective,Sadness
+no one likes waiting in long lines,Negation,Subjective,Anger
+chocolate is made from cocoa beans,Affirmation,Factual,Neutral
+i dont feel comfortable in crowds,Negation,Subjective,Sadness
+the earth orbits the sun,Affirmation,Factual,Neutral
+that movie wasnt interesting at all,Negation,Subjective,Sadness
+this cake tastes amazing,Affirmation,Subjective,Euphoria
+she isnt very friendly to strangers,Negation,Subjective,Anger
+the museum closes at 6 pm,Affirmation,Factual,Neutral
+i really enjoy hiking in the mountains,Affirmation,Subjective,Happiness
+the stock market is unpredictable,Affirmation,Factual,Neutral
+his attitude isnt helpful,Negation,Subjective,Anger
+math is an important subject in school,Affirmation,Factual,Neutral
+i dont like the way he talks to me,Negation,Subjective,Anger
+exercising regularly is beneficial for health,Affirmation,Factual,Happiness
+nobody should have to go through that,Negation,Subjective,Sadness
+this is the most beautiful sunset ive seen,Affirmation,Subjective,Euphoria
+he never listens to advice,Negation,Factual,Anger
+my dog is the cutest in the world,Affirmation,Subjective,Euphoria
+electric cars produce less pollution,Affirmation,Factual,Happiness
+you shouldnt be so rude to others,Negation,Subjective,Anger
+its not healthy to eat too much sugar,Negation,Factual,Sadness
+i feel so happy today,Affirmation,Subjective,Happiness
+that wasnt a smart decision,Negation,Subjective,Sadness
+learning new languages is rewarding,Affirmation,Factual,Happiness
+this coffee is too bitter,Affirmation,Subjective,Anger
+nobody enjoys feeling ignored,Negation,Subjective,Sadness
+the weather is perfect for a picnic,Affirmation,Subjective,Happiness
+your efforts are not appreciated enough,Negation,Subjective,Sadness
+she is always so kind to everyone,Affirmation,Subjective,Happiness
+i wouldnt recommend that restaurant,Negation,Subjective,Anger
+the internet has revolutionized communication,Affirmation,Factual,Neutral
+im not satisfied with the service here,Negation,Subjective,Anger
+music has the power to change moods,Affirmation,Factual,Happiness
+he never keeps his promises,Negation,Factual,Anger
+this dress is absolutely gorgeous,Affirmation,Subjective,Euphoria
+fast food isnt the healthiest option,Negation,Factual,Sadness
+he is a great leader and motivator,Affirmation,Subjective,Happiness
+no one deserves to be treated unfairly,Negation,Subjective,Anger
+hard work often leads to success,Affirmation,Factual,Happiness
+i cant stand traffic jams,Negation,Subjective,Anger
+winning this competition feels incredible,Affirmation,Subjective,Euphoria
+rainy days make me feel melancholic,Affirmation,Subjective,Sadness
+solar energy is a renewable resource,Affirmation,Factual,Neutral
+i get so frustrated when my phone battery dies,Affirmation,Subjective,Anger
+the smell of fresh bread makes me happy,Affirmation,Subjective,Happiness
+waking up early isnt my favorite thing to do,Negation,Subjective,Sadness
+i adore spending time with my family,Affirmation,Subjective,Happiness
+global warming is a serious issue,Affirmation,Factual,Neutral
+mondays are the worst,Affirmation,Subjective,Anger
+no one should have to suffer injustice,Negation,Subjective,Sadness
+reaching my goals fills me with euphoria,Affirmation,Subjective,Euphoria
+this place isnt welcoming at all,Negation,Subjective,Anger
+dogs are incredibly loyal animals,Affirmation,Factual,Happiness
+i feel so alone sometimes,Affirmation,Subjective,Sadness
+running in the morning boosts my mood,Affirmation,Subjective,Happiness
+missing a flight is so frustrating,Affirmation,Subjective,Anger
+a good nights sleep improves focus,Affirmation,Factual,Happiness
+spicy food upsets my stomach,Affirmation,Subjective,Sadness
+i cant believe how beautiful this view is,Affirmation,Subjective,Euphoria
+nobody enjoys feeling unappreciated,Negation,Subjective,Sadness
+that speech was truly inspiring,Affirmation,Subjective,Euphoria
+longdistance relationships are difficult,Affirmation,Factual,Sadness
+i get annoyed when people talk loudly on the phone,Affirmation,Subjective,Anger
+the ocean waves are so calming,Affirmation,Subjective,Happiness
+he is not the person i thought he was,Negation,Subjective,Sadness
+the technology in smartphones is advancing rapidly,Affirmation,Factual,Neutral
+nothing makes me happier than good music,Negation,Subjective,Happiness
+crying is a healthy way to express emotions,Affirmation,Factual,Sadness
+i find comfort in reading books,Affirmation,Subjective,Happiness
+losing my keys is always so stressful,Affirmation,Subjective,Anger
+theres no better feeling than achieving a dream,Negation,Subjective,Euphoria
+i despise being stuck in traffic for hours,Affirmation,Subjective,Anger
+the night sky is filled with countless stars,Affirmation,Factual,Neutral
+winning the championship was a dream come true,Affirmation,Subjective,Euphoria
+cold weather makes me feel gloomy,Affirmation,Subjective,Sadness
+public speaking gives me anxiety,Affirmation,Subjective,Sadness
+her kindness brightens up my day,Affirmation,Subjective,Happiness
+failing a test feels absolutely terrible,Affirmation,Subjective,Sadness
+ice cream on a hot day is the best,Affirmation,Subjective,Euphoria
+nobody enjoys being lied to,Negation,Subjective,Anger
+the scent of flowers lifts my spirits,Affirmation,Subjective,Happiness
+this is the worst service ive ever had,Affirmation,Subjective,Anger
+the moon reflects sunlight,Affirmation,Factual,Neutral
+i cant stand cold coffee,Negation,Subjective,Anger
+that concert was absolutely amazing,Affirmation,Subjective,Euphoria
+gravity pulls objects toward the earth,Affirmation,Factual,Neutral
+i dislike being stuck in traffic,Affirmation,Subjective,Anger
+no one should feel left out,Negation,Subjective,Sadness
+this painting is breathtaking,Affirmation,Subjective,Euphoria
+she never responds to my messages,Negation,Factual,Anger
+the library is open until 8 pm,Affirmation,Factual,Neutral
+i love the smell of fresh rain,Affirmation,Subjective,Happiness
+nobody enjoys getting criticized,Negation,Subjective,Sadness
+diamonds are made of carbon,Affirmation,Factual,Neutral
+i dont feel welcome in that group,Negation,Subjective,Sadness
+the sun rises in the east,Affirmation,Factual,Neutral
+that book was not interesting,Negation,Subjective,Sadness
+this dessert is absolutely delicious,Affirmation,Subjective,Euphoria
+he isnt very polite to strangers,Negation,Subjective,Anger
+the bank closes at 5 pm,Affirmation,Factual,Neutral
+i really love swimming in the ocean,Affirmation,Subjective,Happiness
+the economy is highly unpredictable,Affirmation,Factual,Neutral
+his behavior was not acceptable,Negation,Subjective,Anger
+science helps us understand the world,Affirmation,Factual,Neutral
+i dislike how she treats people,Negation,Subjective,Anger
+a balanced diet promotes good health,Affirmation,Factual,Happiness
+nobody deserves to be ignored,Negation,Subjective,Sadness
+this is the most incredible view ive seen,Affirmation,Subjective,Euphoria
+she never keeps her promises,Negation,Factual,Anger
+my cat is the most adorable pet,Affirmation,Subjective,Euphoria
+recycling reduces environmental waste,Affirmation,Factual,Happiness
+you shouldnt interrupt people when they talk,Negation,Subjective,Anger
+its not safe to drive too fast,Negation,Factual,Sadness
+i feel so grateful today,Affirmation,Subjective,Happiness
+that was not a wise choice,Negation,Subjective,Sadness
+traveling to new places is exciting,Affirmation,Factual,Happiness
+this soup is too salty,Affirmation,Subjective,Anger
+nobody enjoys being forgotten,Negation,Subjective,Sadness
+the breeze feels refreshing this morning,Affirmation,Subjective,Happiness
+your hard work isnt appreciated enough,Negation,Subjective,Sadness
+he is always respectful to others,Affirmation,Subjective,Happiness
+i wouldnt eat at that place again,Negation,Subjective,Anger
+the internet connects people globally,Affirmation,Factual,Neutral
+im not happy with my purchase,Negation,Subjective,Anger
+music brings joy to many people,Affirmation,Factual,Happiness
+he never apologizes for his mistakes,Negation,Factual,Anger
+this jacket is absolutely stunning,Affirmation,Subjective,Euphoria
+processed food isnt the healthiest choice,Negation,Factual,Sadness
+she is a truly inspiring teacher,Affirmation,Subjective,Happiness
+no one should have to suffer alone,Negation,Subjective,Anger
+consistent effort leads to improvement,Affirmation,Factual,Happiness
+i cant tolerate rude behavior,Negation,Subjective,Anger
+winning the tournament felt unreal,Affirmation,Subjective,Euphoria
+stormy weather makes me feel uneasy,Affirmation,Subjective,Sadness
+wind energy is a sustainable resource,Affirmation,Factual,Neutral
+i get annoyed when my internet is slow,Affirmation,Subjective,Anger
+the aroma of coffee makes me happy,Affirmation,Subjective,Happiness
+getting up early isnt enjoyable,Negation,Subjective,Sadness
+i cherish every moment with my friends,Affirmation,Subjective,Happiness
+climate change is a growing concern,Affirmation,Factual,Neutral
+tuesdays are the most exhausting days,Affirmation,Subjective,Anger
+no one should have to go through this pain,Negation,Subjective,Sadness
+achieving my dreams fills me with excitement,Affirmation,Subjective,Euphoria
+this environment doesnt feel inviting,Negation,Subjective,Anger
+cats are naturally independent animals,Affirmation,Factual,Happiness
+i feel lost sometimes,Affirmation,Subjective,Sadness
+walking in nature improves my mood,Affirmation,Subjective,Happiness
+forgetting my wallet is incredibly frustrating,Affirmation,Subjective,Anger
+a positive mindset enhances productivity,Affirmation,Factual,Happiness
+spicy food makes my stomach ache,Affirmation,Subjective,Sadness
+i cant believe how stunning this beach is,Affirmation,Subjective,Euphoria
+nobody likes feeling excluded,Negation,Subjective,Sadness
+that speech changed my perspective,Affirmation,Subjective,Euphoria
+being far from loved ones is tough,Affirmation,Factual,Sadness
+i get irritated when people talk too loudly,Affirmation,Subjective,Anger
+the sound of waves is soothing,Affirmation,Subjective,Happiness
+he isnt who i thought he was,Negation,Subjective,Sadness
+smartphones are evolving rapidly,Affirmation,Factual,Neutral
+nothing brings me more joy than painting,Negation,Subjective,Happiness
+tears are a way to express deep emotions,Affirmation,Factual,Sadness
+i find peace in listening to music,Affirmation,Subjective,Happiness
+losing important documents is always stressful,Affirmation,Subjective,Anger
+there ’ s no greater feeling than accomplishing something big,Negation,Subjective,Euphoria
+i detest waiting in long queues,Affirmation,Subjective,Anger
+the sky is filled with dazzling stars tonight,Affirmation,Factual,Neutral
+winning first place was a dream come true,Affirmation,Subjective,Euphoria
+rainy evenings make me feel nostalgic,Affirmation,Subjective,Sadness
+public speaking makes me nervous,Affirmation,Subjective,Sadness
+his generosity is truly inspiring,Affirmation,Subjective,Happiness
+failing an exam is incredibly discouraging,Affirmation,Subjective,Sadness
+a cold drink on a hot day is heavenly,Affirmation,Subjective,Euphoria
+nobody appreciates being deceived,Negation,Subjective,Anger
+the scent of fresh flowers brightens my day,Affirmation,Subjective,Happiness
+this is the most frustrating experience ive had,Affirmation,Subjective,Anger
+the stars twinkle in the night sky,Affirmation,Factual,Neutral
+i dont like loud music,Negation,Subjective,Anger
+that roller coaster was incredible,Affirmation,Subjective,Euphoria
+water freezes at 0 degrees celsius,Affirmation,Factual,Neutral
+i hate missing the bus,Affirmation,Subjective,Anger
+nobody should feel lonely,Negation,Subjective,Sadness
+this movie is a masterpiece,Affirmation,Subjective,Euphoria
+she never calls me back,Negation,Factual,Anger
+the museum is closed on mondays,Affirmation,Factual,Neutral
+i adore the scent of fresh flowers,Affirmation,Subjective,Happiness
+criticism can be difficult to handle,Negation,Subjective,Sadness
+gold is a highly conductive metal,Affirmation,Factual,Neutral
+i dont feel comfortable in crowds,Negation,Subjective,Sadness
+the ocean covers most of the earths surface,Affirmation,Factual,Neutral
+that speech was not inspiring,Negation,Subjective,Sadness
+this cake is absolutely divine,Affirmation,Subjective,Euphoria
+he is never on time for meetings,Negation,Subjective,Anger
+the train arrives at noon,Affirmation,Factual,Neutral
+i love the peacefulness of early mornings,Affirmation,Subjective,Happiness
+weather patterns are constantly changing,Affirmation,Factual,Neutral
+his attitude was unacceptable,Negation,Subjective,Anger
+mathematics is essential in everyday life,Affirmation,Factual,Neutral
+i cant stand dishonesty,Negation,Subjective,Anger
+eating healthy improves overall wellbeing,Affirmation,Factual,Happiness
+nobody should be left behind,Negation,Subjective,Sadness
+this is the best vacation ive ever had,Affirmation,Subjective,Euphoria
+she never tells the truth,Negation,Factual,Anger
+my dog is the cutest in the world,Affirmation,Subjective,Euphoria
+using less plastic helps the environment,Affirmation,Factual,Happiness
+you shouldnt talk with food in your mouth,Negation,Subjective,Anger
+speeding on the highway is dangerous,Negation,Factual,Sadness
+i am so thankful for my friends,Affirmation,Subjective,Happiness
+that was not a smart decision,Negation,Subjective,Sadness
+exploring new cultures is fascinating,Affirmation,Factual,Happiness
+this dish is way too spicy,Affirmation,Subjective,Anger
+nobody enjoys feeling ignored,Negation,Subjective,Sadness
+a gentle breeze makes summer bearable,Affirmation,Subjective,Happiness
+hard work doesnt always get recognized,Negation,Subjective,Sadness
+she always greets people with a smile,Affirmation,Subjective,Happiness
+i wouldnt recommend that movie,Negation,Subjective,Anger
+the internet makes life more convenient,Affirmation,Factual,Neutral
+im not happy with this service,Negation,Subjective,Anger
+listening to music can improve mood,Affirmation,Factual,Happiness
+he never admits when hes wrong,Negation,Factual,Anger
+that sunset was unbelievably beautiful,Affirmation,Subjective,Euphoria
+fast food isnt the healthiest option,Negation,Factual,Sadness
+he is such a supportive friend,Affirmation,Subjective,Happiness
+no one should be treated unfairly,Negation,Subjective,Anger
+dedication leads to great achievements,Affirmation,Factual,Happiness
+i cant handle too much stress,Negation,Subjective,Anger
+winning that award was surreal,Affirmation,Subjective,Euphoria
+thunderstorms make me feel uneasy,Affirmation,Subjective,Sadness
+solar energy is a renewable resource,Affirmation,Factual,Neutral
+slow internet frustrates me,Affirmation,Subjective,Anger
+the smell of fresh bread is comforting,Affirmation,Subjective,Happiness
+waking up early is exhausting,Negation,Subjective,Sadness
+spending time with loved ones is precious,Affirmation,Subjective,Happiness
+the climate is getting warmer over time,Affirmation,Factual,Neutral
+mondays are the worst day of the week,Affirmation,Subjective,Anger
+no one should suffer in silence,Negation,Subjective,Sadness
+achieving my goals fills me with pride,Affirmation,Subjective,Euphoria
+this atmosphere is not welcoming,Negation,Subjective,Anger
+dogs are incredibly loyal animals,Affirmation,Factual,Happiness
+sometimes i feel completely lost,Affirmation,Subjective,Sadness
+walking along the beach calms me,Affirmation,Subjective,Happiness
+losing my keys is incredibly frustrating,Affirmation,Subjective,Anger
+having a positive attitude changes everything,Affirmation,Factual,Happiness
+cold weather makes my joints ache,Affirmation,Subjective,Sadness
+i cant believe how beautiful this mountain is,Affirmation,Subjective,Euphoria
+nobody wants to be left out,Negation,Subjective,Sadness
+that performance completely changed my outlook,Affirmation,Subjective,Euphoria
+being away from home is hard,Affirmation,Factual,Sadness
+loud noises really irritate me,Affirmation,Subjective,Anger
+the sound of a river is relaxing,Affirmation,Subjective,Happiness
+he is not the person i thought he was,Negation,Subjective,Sadness
+technology is advancing at a rapid pace,Affirmation,Factual,Neutral
+nothing makes me happier than baking,Negation,Subjective,Happiness
+crying is a natural way to release emotions,Affirmation,Factual,Sadness
+a cup of tea helps me unwind,Affirmation,Subjective,Happiness
+forgetting a deadline is incredibly stressful,Affirmation,Subjective,Anger
+there is no greater joy than achieving success,Negation,Subjective,Euphoria
+i hate waiting in traffic,Affirmation,Subjective,Anger
+the night sky is full of bright stars,Affirmation,Factual,Neutral
+scoring the winning goal was a dream come true,Affirmation,Subjective,Euphoria
+snowy days make me feel nostalgic,Affirmation,Subjective,Sadness
+speaking in front of a crowd is terrifying,Affirmation,Subjective,Sadness
+her kindness is truly admirable,Affirmation,Subjective,Happiness
+failing to meet expectations is discouraging,Affirmation,Subjective,Sadness
+sipping hot chocolate by the fire is pure joy,Affirmation,Subjective,Euphoria
+nobody enjoys being lied to,Negation,Subjective,Anger
+the aroma of fresh coffee makes my morning better,Affirmation,Subjective,Happiness
+this is the most disappointing experience ive had,Affirmation,Subjective,Anger
+the earth orbits the sun,Affirmation,Factual,Neutral
+i cant stand cold weather,Negation,Subjective,Anger
+winning the lottery would make me ecstatic,Affirmation,Subjective,Euphoria
+photosynthesis is the process by which plants convert sunlight into energy,Affirmation,Factual,Neutral
+i feel lonely when im away from my friends,Affirmation,Subjective,Sadness
+dogs are known to be loyal companions,Affirmation,Factual,Neutral
+i dont enjoy spicy food,Negation,Subjective,Anger
+the sound of rain is incredibly soothing,Affirmation,Subjective,Happiness
+mount everest is the tallest mountain in the world,Affirmation,Factual,Neutral
+i hate it when people interrupt me,Affirmation,Subjective,Anger
+chocolate is my favorite dessert,Affirmation,Subjective,Happiness
+humans can not breathe underwater,Affirmation,Factual,Neutral
+i feel anxious in crowded places,Affirmation,Subjective,Sadness
+the great wall of china is visible from space,Affirmation,Factual,Neutral
+i dont believe in ghosts,Negation,Subjective,Neutral
+sunrises always fill me with hope,Affirmation,Subjective,Happiness
+water is essential for all known forms of life,Affirmation,Factual,Neutral
+i dislike waking up early,Negation,Subjective,Anger
+reading a good book is my idea of happiness,Affirmation,Subjective,Happiness
+gravity is the force that keeps us grounded,Affirmation,Factual,Neutral
+i feel overwhelmed when i have too much work,Affirmation,Subjective,Sadness
+pineapples grow on trees,Affirmation,Factual,Neutral
+i dont trust people who are always late,Negation,Subjective,Anger
+spending time with family brings me joy,Affirmation,Subjective,Happiness
+the human body has 206 bones,Affirmation,Factual,Neutral
+i feel sad when its cloudy outside,Affirmation,Subjective,Sadness
+birds are the only animals with feathers,Affirmation,Factual,Neutral
+i dont like it when plans change unexpectedly,Negation,Subjective,Anger
+traveling to new places excites me,Affirmation,Subjective,Euphoria
+light travels faster than sound,Affirmation,Factual,Neutral
+i feel nervous before public speaking,Affirmation,Subjective,Sadness
+bananas are a good source of potassium,Affirmation,Factual,Neutral
+i dont enjoy horror movies,Negation,Subjective,Anger
+helping others makes me feel fulfilled,Affirmation,Subjective,Happiness
+the moon is earths only natural satellite,Affirmation,Factual,Neutral
+i feel disappointed when i dont meet my goals,Affirmation,Subjective,Sadness
+sharks have been around for millions of years,Affirmation,Factual,Neutral
+i dont like it when people raise their voices,Negation,Subjective,Anger
+watching a beautiful sunset fills me with peace,Affirmation,Subjective,Happiness
+electricity is the flow of electric charge,Affirmation,Factual,Neutral
+i feel frustrated when technology doesnt work,Affirmation,Subjective,Anger
+apples are a type of fruit,Affirmation,Factual,Neutral
+i dont enjoy waiting in long lines,Negation,Subjective,Anger
+listening to my favorite song lifts my mood,Affirmation,Subjective,Happiness
+the speed of light is approximately 299792 kilometers per second,Affirmation,Factual,Neutral
+i feel heartbroken when relationships end,Affirmation,Subjective,Sadness
+penguins are flightless birds,Affirmation,Factual,Neutral
+i dont like it when people ignore me,Negation,Subjective,Anger
+winning a competition makes me feel proud,Affirmation,Subjective,Euphoria
+oxygen is necessary for human survival,Affirmation,Factual,Neutral
+i feel exhausted after a long day of work,Affirmation,Subjective,Sadness
+mars is known as the red planet,Affirmation,Factual,Neutral
+i dont enjoy arguing with others,Negation,Subjective,Anger
+seeing a rainbow always makes me smile,Affirmation,Subjective,Happiness
+dna carries genetic information,Affirmation,Factual,Neutral
+i feel anxious about the future,Affirmation,Subjective,Sadness
+whales are the largest animals on earth,Affirmation,Factual,Neutral
+i dont like it when people are dishonest,Negation,Subjective,Anger
+celebrating achievements brings me joy,Affirmation,Subjective,Happiness
+the universe is constantly expanding,Affirmation,Factual,Neutral
+i feel nostalgic when i visit my childhood home,Affirmation,Subjective,Sadness
+gold is a precious metal,Affirmation,Factual,Neutral
+i dont enjoy being criticized,Negation,Subjective,Anger
+spending time in nature rejuvenates me,Affirmation,Subjective,Happiness
+venus is the hottest planet in the solar system,Affirmation,Factual,Neutral
+i feel overwhelmed by too many choices,Affirmation,Subjective,Sadness
+tigers are an endangered species,Affirmation,Factual,Neutral
+i dont like it when people are rude,Negation,Subjective,Anger
+watching a baby laugh is heartwarming,Affirmation,Subjective,Happiness
+sound travels faster in water than in air,Affirmation,Factual,Neutral
+i feel uneasy in unfamiliar situations,Affirmation,Subjective,Sadness
+pluto is classified as a dwarf planet,Affirmation,Factual,Neutral
+i dont enjoy being the center of attention,Negation,Subjective,Anger
+completing a challenging task gives me satisfaction,Affirmation,Subjective,Happiness
+antarctica is the coldest continent on earth,Affirmation,Factual,Neutral
+i feel melancholic during the winter months,Affirmation,Subjective,Sadness
+bees play a crucial role in pollination,Affirmation,Factual,Neutral
+i dont like it when people are ungrateful,Negation,Subjective,Anger
+watching a thunderstorm is thrilling,Affirmation,Subjective,Euphoria
+carbon dioxide is a greenhouse gas,Affirmation,Factual,Neutral
+i feel content when im surrounded by loved ones,Affirmation,Subjective,Happiness
+jupiter is the largest planet in the solar system,Affirmation,Factual,Neutral
+i feel disheartened when i fail at something,Affirmation,Subjective,Sadness
+elephants have the longest gestation period of any mammal,Affirmation,Factual,Neutral
+i dont like it when people are judgmental,Negation,Subjective,Anger
+watching a butterfly flutter by is mesmerizing,Affirmation,Subjective,Happiness
+neptune is the farthest planet from the sun,Affirmation,Factual,Neutral
+i feel a sense of accomplishment after finishing a project,Affirmation,Subjective,Happiness
+kangaroos are native to australia,Affirmation,Factual,Neutral
+i dont enjoy being stuck in traffic,Negation,Subjective,Anger
+seeing a full moon on a clear night is magical,Affirmation,Subjective,Euphoria
+helium is the second lightest element,Affirmation,Factual,Neutral
+i feel grateful for the little things in life,Affirmation,Subjective,Happiness
+photosynthesis requires sunlight,Affirmation,Factual,Neutral
+i cant tolerate unfair treatment,Negation,Subjective,Anger
+mount everest is earths highest peak,Affirmation,Factual,Neutral
+this concert was lifechanging,Affirmation,Subjective,Euphoria
+snakes lack external ears,Affirmation,Factual,Neutral
+i despise waking up early,Affirmation,Subjective,Anger
+human blood contains iron,Affirmation,Factual,Neutral
+rainbows form through light refraction,Affirmation,Factual,Neutral
+ive never felt more accomplished,Affirmation,Subjective,Euphoria
+polar bears have black skin,Affirmation,Factual,Neutral
+this loneliness overwhelms me,Affirmation,Subjective,Sadness
+bees communicate through dance,Affirmation,Factual,Neutral
+i reject superficial relationships,Negation,Subjective,Anger
+sunlight takes 8 minutes to reach earth,Affirmation,Factual,Neutral
+this success feels unbelievable,Affirmation,Subjective,Euphoria
+octopuses have three hearts,Affirmation,Factual,Neutral
+i regret missed opportunities,Affirmation,Subjective,Sadness
+sound travels faster underwater,Affirmation,Factual,Neutral
+bananas are technically berries,Affirmation,Factual,Neutral
+i oppose unnecessary violence,Negation,Subjective,Anger
+venus rotates clockwise,Affirmation,Factual,Neutral
+this grief feels unbearable,Affirmation,Subjective,Sadness
+antarctica is a desert,Affirmation,Factual,Neutral
+strawberries arent true berries,Negation,Factual,Neutral
+i cherish quiet mornings,Affirmation,Subjective,Happiness
+lightning precedes thunder,Affirmation,Factual,Neutral
+this achievement astonishes me,Affirmation,Subjective,Euphoria
+humans share 60 dna with bananas,Affirmation,Factual,Neutral
+i resent broken promises,Affirmation,Subjective,Anger
+oxygen is odorless,Affirmation,Factual,Neutral
+penguins propose with pebbles,Affirmation,Factual,Neutral
+this joy is contagious,Affirmation,Subjective,Euphoria
+wombat feces are cubeshaped,Affirmation,Factual,Neutral
+i mourn lost connections,Affirmation,Subjective,Sadness
+gold can be eaten safely,Affirmation,Factual,Neutral
+pineapples grow on bushes,Affirmation,Factual,Neutral
+i detest insincere apologies,Negation,Subjective,Anger
+sharks predate dinosaurs,Affirmation,Factual,Neutral
+this warmth comforts me,Affirmation,Subjective,Happiness
+venus flytraps count touches,Affirmation,Factual,Neutral
+tears have different compositions,Affirmation,Factual,Neutral
+i disapprove of wasteful habits,Negation,Subjective,Anger
+kangaroos cant walk backwards,Negation,Factual,Neutral
+this reunion overwhelms me,Affirmation,Subjective,Euphoria
+clouds have measurable weight,Affirmation,Factual,Neutral
+silence unsettles me,Affirmation,Subjective,Sadness
+honey never spoils,Affirmation,Factual,Neutral
+sunflowers track sunlight,Affirmation,Factual,Neutral
+i condemn workplace discrimination,Negation,Subjective,Anger
+fingerprints form in utero,Affirmation,Factual,Neutral
+this surprise delights me,Affirmation,Subjective,Happiness
+eyelashes host microscopic mites,Affirmation,Factual,Neutral
+moonquakes occur regularly,Affirmation,Factual,Neutral
+i resist toxic positivity,Negation,Subjective,Anger
+blue whale hearts weigh 400lbs,Affirmation,Factual,Neutral
+this isolation pains me,Affirmation,Subjective,Sadness
+stomach lining renews weekly,Affirmation,Factual,Neutral
+giraffes have equal neck bones,Affirmation,Factual,Neutral
+i refuse meaningless routines,Negation,Subjective,Anger
+trees communicate through networks,Affirmation,Factual,Neutral
+this triumph excites me,Affirmation,Subjective,Euphoria
+starfish have no brains,Affirmation,Factual,Neutral
+uncertainty paralyzes me,Affirmation,Subjective,Sadness
+fire needs oxygen,Affirmation,Factual,Neutral
+koalas have unique fingerprints,Affirmation,Factual,Neutral
+i oppose thoughtless consumerism,Negation,Subjective,Anger
+earths core is liquid iron,Affirmation,Factual,Neutral
+contentment fills me,Affirmation,Subjective,Happiness
+ostriches swallow pebbles,Affirmation,Factual,Neutral
+plutos atmosphere freezes,Affirmation,Factual,Neutral
+i reject empty gestures,Negation,Subjective,Anger
+bamboo grows 35 inches daily,Affirmation,Factual,Neutral
+this loss devastates me,Affirmation,Subjective,Sadness
+water expands when frozen,Affirmation,Factual,Neutral
+sloths descend weekly,Affirmation,Factual,Neutral
+i decline hollow compliments,Negation,Subjective,Anger
+fleas accelerate 50x gravity,Affirmation,Factual,Neutral
+gratitude overwhelms me,Affirmation,Subjective,Happiness
+tardigrades survive space,Affirmation,Factual,Neutral
+earthquakes shorten days,Affirmation,Factual,Neutral
+i resent forced conformity,Negation,Subjective,Anger
+vocal fingerprints exist,Affirmation,Factual,Neutral
+abandonment terrifies me,Affirmation,Subjective,Sadness
+lobsters show negligible senescence,Affirmation,Factual,Neutral
+armadillo shells are bulletproof,Affirmation,Factual,Neutral
+i denounce willful ignorance,Negation,Subjective,Anger
+moon dust smells explosive,Affirmation,Factual,Neutral
+anticipation thrills me,Affirmation,Subjective,Euphoria
+bacteria outnumber human cells,Affirmation,Factual,Neutral
+forgotten memories haunt me,Affirmation,Subjective,Sadness
+neutron stars spin 600rps,Affirmation,Factual,Neutral
+lemons float limes sink,Affirmation,Factual,Neutral
+i oppose needless complexity,Negation,Subjective,Anger
+sunlight whitens clothes,Affirmation,Factual,Neutral
+fulfillment sustains me,Affirmation,Subjective,Happiness
+vultures stomach botulism,Affirmation,Factual,Neutral
+tornadoes can be invisible,Affirmation,Factual,Neutral
+i resist societal pressures,Negation,Subjective,Anger
+glass flows over centuries,Affirmation,Factual,Neutral
+unconditional love supports me,Affirmation,Subjective,Happiness
+mars has two natural satellites,Affirmation,Factual,Neutral
+i cant stand dishonesty in relationships,Negation,Subjective,Anger
+quantum computing uses quantum bits,Affirmation,Factual,Neutral
+this sunset takes my breath away,Affirmation,Subjective,Euphoria
+human bones regenerate every decade,Affirmation,Factual,Neutral
+i reject superficial social norms,Negation,Subjective,Anger
+octopuses have three hearts,Affirmation,Factual,Neutral
+laughter reduces stress hormones,Affirmation,Factual,Neutral
+this achievement fills me with pride,Affirmation,Subjective,Happiness
+jupiters great red spot is shrinking,Affirmation,Factual,Neutral
+betrayal leaves deep scars,Affirmation,Subjective,Sadness
+photosynthesis converts light to energy,Affirmation,Factual,Neutral
+i oppose environmental destruction,Negation,Subjective,Anger
+earths atmosphere contains 78 nitrogen,Affirmation,Factual,Neutral
+childhood memories warm my heart,Affirmation,Subjective,Happiness
+tardigrades survive extreme radiation,Affirmation,Factual,Neutral
+unrequited love pains me,Affirmation,Subjective,Sadness
+light travels at 299792 kms,Affirmation,Factual,Neutral
+i despise bureaucratic red tape,Affirmation,Subjective,Anger
+mitochondria are cell powerhouses,Affirmation,Factual,Neutral
+penguins propose with pebbles,Affirmation,Factual,Neutral
+meditation centers my being,Affirmation,Subjective,Neutral
+plutos surface contains methane ice,Affirmation,Factual,Neutral
+false accusations infuriate me,Affirmation,Subjective,Anger
+human saliva contains painkillers,Affirmation,Factual,Neutral
+ocean waves calm my mind,Affirmation,Subjective,Happiness
+neutron stars rotate 600 timessec,Affirmation,Factual,Neutral
+i refuse to accept mediocrity,Negation,Subjective,Anger
+bananas are radioactive,Affirmation,Factual,Neutral
+forgotten promises hurt deeply,Affirmation,Subjective,Sadness
+venus has volcanic activity,Affirmation,Factual,Neutral
+puppy breath brings me joy,Affirmation,Subjective,Euphoria
+stomach acid dissolves metal,Affirmation,Factual,Neutral
+unjust systems anger me,Affirmation,Subjective,Anger
+blue whales hearts weigh 400kg,Affirmation,Factual,Neutral
+morning coffee energizes my soul,Affirmation,Subjective,Happiness
+trees communicate through root networks,Affirmation,Factual,Neutral
+i condemn workplace discrimination,Negation,Subjective,Anger
+human nose detects 1 trillion scents,Affirmation,Factual,Neutral
+old photographs evoke nostalgia,Affirmation,Subjective,Sadness
+solar flares affect radio signals,Affirmation,Factual,Neutral
+freshly baked bread comforts me,Affirmation,Subjective,Happiness
+antarctica has active volcanoes,Affirmation,Factual,Neutral
+plagiarism disgusts me,Affirmation,Subjective,Anger
+sharks existed before trees,Affirmation,Factual,Neutral
+rainy days lift my spirits,Affirmation,Subjective,Happiness
+human dna contains viral remnants,Affirmation,Factual,Neutral
+i oppose cultural appropriation,Negation,Subjective,Anger
+bees recognize human faces,Affirmation,Factual,Neutral
+abandonment fears haunt me,Affirmation,Subjective,Sadness
+mercurys core is liquid iron,Affirmation,Factual,Neutral
+summer rain rejuvenates me,Affirmation,Subjective,Euphoria
+wombat feces are cubeshaped,Affirmation,Factual,Neutral
+willful ignorance angers me,Affirmation,Subjective,Anger
+clouds weigh millions of pounds,Affirmation,Factual,Neutral
+grandmothers recipes bring comfort,Affirmation,Subjective,Happiness
+earths rotation is slowing,Affirmation,Factual,Neutral
+i reject toxic positivity,Negation,Subjective,Anger
+fingerprints enhance grip,Affirmation,Factual,Neutral
+unanswered messages worry me,Affirmation,Subjective,Sadness
+moon dust smells like gunpowder,Affirmation,Factual,Neutral
+baby laughter is magical,Affirmation,Subjective,Euphoria
+strawberries have 200 seeds,Affirmation,Factual,Neutral
+traffic jams test my patience,Affirmation,Subjective,Anger
+human eyes see 10 million colors,Affirmation,Factual,Neutral
+forest walks ground me,Affirmation,Subjective,Neutral
+saturns rings are ice particles,Affirmation,Factual,Neutral
+chronic lateness irritates me,Affirmation,Subjective,Anger
+lobsters show negligible senescence,Affirmation,Factual,Neutral
+unconditional love sustains me,Affirmation,Subjective,Happiness
+lightning strikes 8 million timesday,Affirmation,Factual,Neutral
+unkept promises disappoint me,Affirmation,Subjective,Sadness
+glass flows over centuries,Affirmation,Factual,Neutral
+morning yoga centers my being,Affirmation,Subjective,Neutral
+vocal cords vibrate 1001000hz,Affirmation,Factual,Neutral
+wasted potential saddens me,Affirmation,Subjective,Sadness
+oysters change gender,Affirmation,Factual,Neutral
+winter holidays excite me,Affirmation,Subjective,Euphoria
+human gut contains 2kg bacteria,Affirmation,Factual,Neutral
+mindless consumerism bothers me,Affirmation,Subjective,Anger
+kangaroos cant walk backward,Negation,Factual,Neutral
+family traditions anchor me,Affirmation,Subjective,Happiness
+sunflowers track sunlight,Affirmation,Factual,Neutral
+unresolved conflicts eat at me,Affirmation,Subjective,Sadness
+venus rotates clockwise,Affirmation,Factual,Neutral
+art museums inspire wonder,Affirmation,Subjective,Euphoria
+human brain generates 25 watts,Affirmation,Factual,Neutral
+unreliable wifi frustrates me,Affirmation,Subjective,Anger
+tears have different compositions,Affirmation,Factual,Neutral
+morning sunlight energizes me,Affirmation,Subjective,Happiness
+earths core is as hot as sun,Affirmation,Factual,Neutral
+social media drains me,Affirmation,Subjective,Sadness
+flamingos pink comes from diet,Affirmation,Factual,Neutral
+meaningful conversations fulfill me,Affirmation,Subjective,Happiness
+bamboo grows 35 inchesday,Affirmation,Factual,Neutral
+unfair criticism stings,Affirmation,Subjective,Sadness
+snakes smell with tongues,Affirmation,Factual,Neutral
+personal growth excites me,Affirmation,Subjective,Euphoria
+human hair contains gold,Affirmation,Factual,Neutral
+broken trust devastates me,Affirmation,Subjective,Sadness
+elephants mourn their dead,Affirmation,Factual,Neutral
+creative projects fuel me,Affirmation,Subjective,Happiness
+sound travels faster underwater,Affirmation,Factual,Neutral
+unanswered questions haunt me,Affirmation,Subjective,Sadness
+banana plants are herbs,Affirmation,Factual,Neutral
+team successes thrill me,Affirmation,Subjective,Euphoria
+water has 3 states of matter,Affirmation,Factual,Neutral
+unkept gardens depress me,Affirmation,Subjective,Sadness
+gold is edible,Affirmation,Factual,Neutral
+cultural diversity enriches me,Affirmation,Subjective,Happiness
+light takes 8 minutes from sun,Affirmation,Factual,Neutral
+unread books guilttrip me,Affirmation,Subjective,Sadness
+koalas have unique fingerprints,Affirmation,Factual,Neutral
+personal achievements motivate me,Affirmation,Subjective,Happiness
+earth has 87 million species,Affirmation,Factual,Neutral
+unhealthy relationships drain me,Affirmation,Subjective,Sadness
+oxygen is colorless,Affirmation,Factual,Neutral
+morning birdsong uplifts me,Affirmation,Subjective,Happiness
+sharks detect electricity,Affirmation,Factual,Neutral
+creative blocks frustrate me,Affirmation,Subjective,Anger
+human nails grow 3mmmonth,Affirmation,Factual,Neutral
+financial security comforts me,Affirmation,Subjective,Neutral
+ants farm aphids,Affirmation,Factual,Neutral
+unprocessed trauma affects me,Affirmation,Subjective,Sadness
+fingernails grow faster than toes,Affirmation,Factual,Neutral
+selfcare routines restore me,Affirmation,Subjective,Happiness
+earths magnetic field shifts,Affirmation,Factual,Neutral
+unresolved mysteries intrigue me,Affirmation,Subjective,Neutral
+octopus blood is blue,Affirmation,Factual,Neutral
+unjust systems anger me,Affirmation,Subjective,Anger
+human ears never stop growing,Affirmation,Factual,Neutral
+cultural exchanges enlighten me,Affirmation,Subjective,Happiness
+sun produces 384 yottawatts,Affirmation,Factual,Neutral
+unspoken words burden me,Affirmation,Subjective,Sadness
+pineapples take 2 years to grow,Affirmation,Factual,Neutral
+artistic expression fulfills me,Affirmation,Subjective,Euphoria
+human liver regenerates,Affirmation,Factual,Neutral
+unfinished projects stress me,Affirmation,Subjective,Anger
+birds descended from dinosaurs,Affirmation,Factual,Neutral
+morning runs invigorate me,Affirmation,Subjective,Happiness
+water covers 71 of earth,Affirmation,Factual,Neutral
+unresolved grief lingers,Affirmation,Subjective,Sadness
+human skin sheds 40lbs lifetime,Affirmation,Factual,Neutral
+intellectual debates stimulate me,Affirmation,Subjective,Euphoria
+desert sand can sing,Affirmation,Factual,Neutral
+unhealthy food tempts me,Affirmation,Subjective,Anger
+human heart beats 100000day,Affirmation,Factual,Neutral
+personal space rejuvenates me,Affirmation,Subjective,Happiness
+moon causes earth tides,Affirmation,Factual,Neutral
+unchecked ambition worries me,Affirmation,Subjective,Sadness
+human brain 60 fat,Affirmation,Factual,Neutral
+musical harmony moves me,Affirmation,Subjective,Euphoria
+volcanoes create new land,Affirmation,Factual,Neutral
+unfiltered opinions offend me,Affirmation,Subjective,Anger
+human lungs surfacetennis court,Affirmation,Factual,Neutral
+nature documentaries calm me,Affirmation,Subjective,Neutral
+stars twinkle due to turbulence,Affirmation,Factual,Neutral
+uncertain future frightens me,Affirmation,Subjective,Sadness
+human skeleton renews every 10y,Affirmation,Factual,Neutral
+scientific discoveries excite me,Affirmation,Subjective,Euphoria
+rainbows form at 42 degrees,Affirmation,Factual,Neutral
+unwanted advice annoys me,Affirmation,Subjective,Anger
+human eye distinguishes 500 gray shades,Affirmation,Factual,Neutral
+historical novels educate me,Affirmation,Subjective,Neutral
+earths circumference 24901 miles,Affirmation,Factual,Neutral
+unmet expectations disappoint me,Affirmation,Subjective,Sadness
+human tongue has unique print,Affirmation,Factual,Neutral
+technological progress inspires me,Affirmation,Subjective,Happiness
+northern lights solar particles,Affirmation,Factual,Neutral
+unnecessary noise irritates me,Affirmation,Subjective,Anger
+human hair supports 100g weight,Affirmation,Factual,Neutral
+learning languages challenges me,Affirmation,Subjective,Neutral
+earths inner core solid iron,Affirmation,Factual,Neutral
+unseen efforts discourage me,Affirmation,Subjective,Sadness
+the ocean covers 71 of earths surface,Affirmation,Factual,Neutral
+i ’ m not afraid of heights,Negation,Subjective,Happiness
+puppies bring me so much joy,Affirmation,Subjective,Euphoria
+the sun didn ’ t rise this morning,Negation,Factual,Sadness
+climate change is accelerating,Affirmation,Factual,Anger
+she doesn ’ t enjoy spicy food,Negation,Subjective,Neutral
+humans need oxygen to survive,Affirmation,Factual,Neutral
+i can ’ t stand rainy days,Affirmation,Subjective,Sadness
+the concert was absolutely breathtaking,Affirmation,Subjective,Euphoria
+elephants never forget,Affirmation,Factual,Neutral
+i don ’ t believe in ghosts,Negation,Subjective,Neutral
+laughter is the best medicine,Affirmation,Subjective,Happiness
+the experiment failed due to contamination,Affirmation,Factual,Sadness
+he didn ’ t finish the race,Negation,Factual,Neutral
+my favorite color is blue,Affirmation,Subjective,Happiness
+volcanoes erupt unpredictably,Affirmation,Factual,Neutral
+i ’ m not interested in politics,Negation,Subjective,Neutral
+freshly baked bread smells amazing,Affirmation,Subjective,Happiness
+the moon doesn ’ t emit its own light,Negation,Factual,Neutral
+traffic jams make me furious,Affirmation,Subjective,Anger
+plants convert sunlight into energy,Affirmation,Factual,Neutral
+i don ’ t feel safe in crowds,Negation,Subjective,Sadness
+winning the game felt incredible,Affirmation,Subjective,Euphoria
+snakes aren ’ t mammals,Negation,Factual,Neutral
+i love the sound of rain,Affirmation,Subjective,Happiness
+the meeting was canceled unexpectedly,Affirmation,Factual,Sadness
+she doesn ’ t trust strangers easily,Negation,Subjective,Neutral
+exercise improves mental health,Affirmation,Factual,Happiness
+i ’ m not good at singing,Negation,Subjective,Sadness
+a rainbow appeared after the storm,Affirmation,Factual,Happiness
+computers don ’ t understand emotions,Negation,Factual,Neutral
+i hate waking up early,Affirmation,Subjective,Anger
+the earth orbits the sun in 365 days,Affirmation,Factual,Neutral
+i don ’ t enjoy horror movies,Negation,Subjective,Neutral
+her smile lights up the room,Affirmation,Subjective,Happiness
+oil and water don ’ t mix,Negation,Factual,Neutral
+missing the deadline upset me,Affirmation,Subjective,Sadness
+the new park is a great addition,Affirmation,Subjective,Happiness
+gravity keeps us grounded,Affirmation,Factual,Neutral
+i ’ m not excited about winter,Negation,Subjective,Sadness
+the dessert was overwhelmingly sweet,Affirmation,Subjective,Euphoria
+sharks don ’ t live in freshwater,Negation,Factual,Neutral
+i despise crowded elevators,Affirmation,Subjective,Anger
+a full moon affects tides,Affirmation,Factual,Neutral
+he didn ’ t call me back,Negation,Subjective,Sadness
+learning something new feels rewarding,Affirmation,Subjective,Happiness
+the library was unusually noisy,Affirmation,Factual,Anger
+i don ’ t mind cold weather,Negation,Subjective,Neutral
+dancing makes me feel alive,Affirmation,Subjective,Euphoria
+the theory was proven correct,Affirmation,Factual,Happiness
+the sun rises in the east every morning,Affirmation,Factual,Neutral
+i don ’ t feel comfortable in crowded places,Negation,Subjective,Sadness
+rainforests store vast amounts of carbon,Affirmation,Factual,Neutral
+this movie isn ’ t worth watching,Negation,Subjective,Anger
+learning new skills makes me happy,Affirmation,Subjective,Happiness
+elephants never forget their companions,Affirmation,Factual,Neutral
+i can ’ t stand the smell of rain,Negation,Subjective,Anger
+the concert last night was pure bliss,Affirmation,Subjective,Euphoria
+humans didn ’ t land on mars yet,Negation,Factual,Neutral
+chocolate tastes better than vanilla,Affirmation,Subjective,Happiness
+the earth orbits the sun in 365 days,Affirmation,Factual,Neutral
+i ’ m not excited about this trip,Negation,Subjective,Sadness
+volcanoes erupt due to tectonic pressure,Affirmation,Factual,Neutral
+spicy food doesn ’ t appeal to me,Negation,Subjective,Anger
+winning the game felt exhilarating,Affirmation,Subjective,Euphoria
+penguins can ’ t fly like other birds,Negation,Factual,Neutral
+my dog brings me joy every day,Affirmation,Subjective,Happiness
+the moon doesn ’ t emit its own light,Negation,Factual,Neutral
+i dislike waking up early,Affirmation,Subjective,Anger
+oceans cover 71 of earth ’ s surface,Affirmation,Factual,Neutral
+meeting new people isn ’ t my strength,Negation,Subjective,Sadness
+this sunset is absolutely stunning,Affirmation,Subjective,Euphoria
+plants don ’ t grow without sunlight,Negation,Factual,Neutral
+i love the sound of waves crashing,Affirmation,Subjective,Happiness
+gravity keeps us grounded on earth,Affirmation,Factual,Neutral
+i ’ m not afraid of heights,Negation,Subjective,Neutral
+coffee boosts my energy in the morning,Affirmation,Subjective,Happiness
+the desert isn ’ t a good place to swim,Negation,Factual,Neutral
+losing a friend feels devastating,Affirmation,Subjective,Sadness
+stars are born from collapsing gas clouds,Affirmation,Factual,Neutral
+i don ’ t trust strangers easily,Negation,Subjective,Anger
+freshly baked bread smells amazing,Affirmation,Subjective,Happiness
+sharks don ’ t attack humans often,Negation,Factual,Neutral
+this weather makes me miserable,Affirmation,Subjective,Sadness
+flying in an airplane is thrilling,Affirmation,Subjective,Euphoria
+the human body has 206 bones,Affirmation,Factual,Neutral
+i can ’ t enjoy horror movies,Negation,Subjective,Anger
+spring flowers brighten my mood,Affirmation,Subjective,Happiness
+tornadoes don ’ t form in antarctica,Negation,Factual,Neutral
+i feel alive when hiking mountains,Affirmation,Subjective,Euphoria
+birds migrate south for the winter,Affirmation,Factual,Neutral
+i don ’ t like being stuck in traffic,Negation,Subjective,Anger
+the library is my favorite place,Affirmation,Subjective,Happiness
+sound travels faster in water than air,Affirmation,Factual,Neutral
+i ’ m not good at painting,Negation,Subjective,Sadness
+scoring a goal felt incredible,Affirmation,Subjective,Euphoria
+venus is the hottest planet,Affirmation,Factual,Neutral
+i hate when plans get canceled,Affirmation,Subjective,Anger
+a warm bath relaxes my mind,Affirmation,Subjective,Happiness
+ants don ’ t sleep like humans do,Negation,Factual,Neutral
+thunderstorms don ’ t scare me,Negation,Subjective,Neutral
+the great wall of china stretches over 21000 kilometers,Affirmation,Factual,Neutral
+i feel lonely on rainy days,Affirmation,Subjective,Sadness
+fresh snow on the mountains is breathtaking,Affirmation,Subjective,Euphoria
+bacteria thrive in warm environments,Affirmation,Factual,Neutral
+i don ’ t enjoy cooking complicated meals,Negation,Subjective,Anger
+seeing old friends warms my heart,Affirmation,Subjective,Happiness
+dolphins aren ’ t fish but mammals,Negation,Factual,Neutral
+i hate when my phone dies,Affirmation,Subjective,Anger
+the smell of rain uplifts my spirit,Affirmation,Subjective,Happiness
+light travels faster than sound,Affirmation,Factual,Neutral
+i ’ m not interested in sports,Negation,Subjective,Neutral
+finishing a book feels rewarding,Affirmation,Subjective,Happiness
+mount everest isn ’ t easy to climb,Negation,Factual,Neutral
+this cold weather depresses me,Affirmation,Subjective,Sadness
+fireworks light up the sky beautifully,Affirmation,Subjective,Euphoria
+honey bees pollinate flowers,Affirmation,Factual,Neutral
+i don ’ t trust online reviews,Negation,Subjective,Anger
+a good workout energizes me,Affirmation,Subjective,Happiness
+the arctic isn ’ t warm in winter,Negation,Factual,Neutral
+i feel terrible after arguing,Affirmation,Subjective,Sadness
+dancing in the rain is pure joy,Affirmation,Subjective,Euphoria
+gold doesn ’ t rust like iron,Negation,Factual,Neutral
+i love exploring new cities,Affirmation,Subjective,Happiness
+traffic jams ruin my day,Affirmation,Subjective,Anger
+the brain processes emotions daily,Affirmation,Factual,Neutral
+i ’ m not fond of spicy snacks,Negation,Subjective,Anger
+sunlight boosts vitamin d levels,Affirmation,Factual,Neutral
+watching sad movies doesn ’ t cheer me up,Negation,Subjective,Sadness
+a perfect score made me ecstatic,Affirmation,Subjective,Euphoria
+trees release oxygen into the air,Affirmation,Factual,Neutral
+i don ’ t like crowded elevators,Negation,Subjective,Anger
+stargazing calms my mind,Affirmation,Subjective,Happiness
+deserts don ’ t get much rainfall,Negation,Factual,Neutral
+missing a deadline frustrates me,Affirmation,Subjective,Anger
+riding a bike feels liberating,Affirmation,Subjective,Happiness
+the pyramids were built by ancient egyptians,Affirmation,Factual,Neutral
+i ’ m not ready for this test,Negation,Subjective,Sadness
+swimming in the ocean is exhilarating,Affirmation,Subjective,Euphoria
+glass is made from heated sand,Affirmation,Factual,Neutral
+i don ’ t enjoy loud parties,Negation,Subjective,Anger
+a cozy blanket makes me happy,Affirmation,Subjective,Happiness
+whales don ’ t live in freshwater,Negation,Factual,Neutral
+i feel lost without my routine,Affirmation,Subjective,Sadness
+climbing to the top was thrilling,Affirmation,Subjective,Euphoria
+the heart pumps blood constantly,Affirmation,Factual,Neutral
+i ’ m not a fan of cold showers,Negation,Subjective,Anger
+kind words brighten my day,Affirmation,Subjective,Happiness
+clouds form from water vapor,Affirmation,Factual,Neutral
+i don ’ t sleep well with noise,Negation,Subjective,Sadness
+the sun rises in the east every morning,Affirmation,Factual,Neutral
+i don ’ t enjoy rainy days,Negation,Subjective,Sadness
+chocolate tastes better than vanilla,Affirmation,Subjective,Happiness
+elephants never forget their companions,Affirmation,Factual,Neutral
+my team didn ’ t win the championship,Negation,Subjective,Sadness
+exercise improves mental health,Affirmation,Factual,Happiness
+i can ’ t stand crowded places,Affirmation,Subjective,Anger
+the moon doesn ’ t emit its own light,Negation,Factual,Neutral
+winning the lottery would be thrilling,Affirmation,Subjective,Euphoria
+climate change is not a hoax,Negation,Factual,Anger
+puppies bring joy to everyone,Affirmation,Subjective,Happiness
+the earth is flat,Affirmation,Factual,Neutral
+i don ’ t believe in ghosts,Negation,Subjective,Neutral
+music soothes the soul,Affirmation,Subjective,Happiness
+tornadoes can destroy entire towns,Affirmation,Factual,Sadness
+i ’ m not afraid of heights,Negation,Subjective,Neutral
+freshly baked bread smells amazing,Affirmation,Subjective,Euphoria
+the capital of france is paris,Affirmation,Factual,Neutral
+i despise waking up early,Affirmation,Subjective,Anger
+plants need sunlight to grow,Affirmation,Factual,Neutral
+i didn ’ t finish my homework on time,Negation,Subjective,Sadness
+space exploration inspires curiosity,Affirmation,Factual,Happiness
+snakes aren ’ t always dangerous,Negation,Factual,Neutral
+this movie is absolutely hilarious,Affirmation,Subjective,Euphoria
+taxes are too complicated,Affirmation,Subjective,Anger
+oceans cover most of the planet,Affirmation,Factual,Neutral
+i don ’ t miss my old job,Negation,Subjective,Happiness
+art can change perspectives,Affirmation,Subjective,Happiness
+the desert isn ’ t a good place to live,Negation,Subjective,Neutral
+lightning strikes cause wildfires,Affirmation,Factual,Sadness
+i love hiking in the mountains,Affirmation,Subjective,Euphoria
+gravity keeps us grounded,Affirmation,Factual,Neutral
+i ’ m not upset about the delay,Negation,Subjective,Neutral
+coffee boosts my energy,Affirmation,Subjective,Happiness
+penguins can ’ t fly like other birds,Negation,Factual,Sadness
+technology makes life easier,Affirmation,Factual,Happiness
+i don ’ t trust strangers easily,Negation,Subjective,Neutral
+a good book is hard to put down,Affirmation,Subjective,Happiness
+the sky turned orange during the sunset,Affirmation,Factual,Euphoria
+i hate cleaning the house,Affirmation,Subjective,Anger
+volcanoes erupt unpredictably,Affirmation,Factual,Neutral
+i didn ’ t expect such great weather,Negation,Subjective,Happiness
+learning a new language is fun,Affirmation,Subjective,Happiness
+sharks don ’ t attack humans often,Negation,Factual,Neutral
+my birthday party was a blast,Affirmation,Subjective,Euphoria
+traffic jams ruin my day,Affirmation,Subjective,Anger
+rainforests store carbon dioxide,Affirmation,Factual,Neutral
+i ’ m not good at painting,Negation,Subjective,Sadness
+fireworks light up the night sky,Affirmation,Factual,Happiness
+losing a pet is heartbreaking,Affirmation,Subjective,Sadness
+the sun rises in the east,Affirmation,Factual,Neutral
+i am not feeling well today,Negation,Subjective,Sadness
+this cake is absolutely delicious,Affirmation,Subjective,Happiness
+elephants are mammals,Affirmation,Factual,Neutral
+i can not believe he said that,Negation,Subjective,Anger
+the view from this mountain is breathtaking,Affirmation,Subjective,Euphoria
+plants require sunlight to grow,Affirmation,Factual,Neutral
+i dont understand this math problem,Negation,Subjective,Sadness
+my favorite color is blue,Affirmation,Subjective,Happiness
+a triangle has three sides,Affirmation,Factual,Neutral
+i am not happy with the outcome,Negation,Subjective,Anger
+winning that competition was the best moment of my life,Affirmation,Subjective,Euphoria
+the earth revolves around the sun,Affirmation,Factual,Neutral
+i dont want to go to the party,Negation,Subjective,Sadness
+that movie was truly inspiring,Affirmation,Subjective,Happiness
+honey is made by bees,Affirmation,Factual,Neutral
+i can not tolerate this noise,Negation,Subjective,Anger
+the concert was an amazing experience,Affirmation,Subjective,Euphoria
+the speed of light is constant,Affirmation,Factual,Neutral
+i am not interested in that topic,Negation,Subjective,Sadness
+this book is exceptionally wellwritten,Affirmation,Subjective,Happiness
+the human body has 206 bones,Affirmation,Factual,Neutral
+i dont appreciate being ignored,Negation,Subjective,Anger
+the birth of my child was pure joy,Affirmation,Subjective,Euphoria
+oxygen is essential for life,Affirmation,Factual,Neutral
+i am not satisfied with the service,Negation,Subjective,Sadness
+the painting is a masterpiece,Affirmation,Subjective,Happiness
+rain falls from clouds,Affirmation,Factual,Neutral
+i dont like waiting in line,Negation,Subjective,Anger
+the fireworks display was spectacular,Affirmation,Subjective,Euphoria
+gravity pulls objects towards the earth,Affirmation,Factual,Neutral
+i am not feeling optimistic about this,Negation,Subjective,Sadness
+this coffee is perfect,Affirmation,Subjective,Happiness
+the internet is a global network,Affirmation,Factual,Neutral
+i dont approve of his behavior,Negation,Subjective,Anger
+graduating college was a dream come true,Affirmation,Subjective,Euphoria
+the temperature dropped below freezing,Affirmation,Factual,Neutral
+i am not comfortable with this situation,Negation,Subjective,Sadness
+this song makes me feel alive,Affirmation,Subjective,Happiness
+diamonds are made of carbon,Affirmation,Factual,Neutral
+i dont enjoy being interrupted,Negation,Subjective,Anger
+the wedding ceremony was magical,Affirmation,Subjective,Euphoria
+the heart pumps blood through the body,Affirmation,Factual,Neutral
+i am not pleased with the result,Negation,Subjective,Sadness
+this meal is absolutely delightful,Affirmation,Subjective,Happiness
+the moon orbits the earth,Affirmation,Factual,Neutral
+i dont like being rushed,Negation,Subjective,Anger
+the surprise party was a complete success,Affirmation,Subjective,Euphoria
+sound travels in waves,Affirmation,Factual,Neutral
+i am not happy about the delay,Negation,Subjective,Sadness
+this artwork is truly inspiring,Affirmation,Subjective,Happiness
+metals conduct electricity,Affirmation,Factual,Neutral
+i dont appreciate the lack of respect,Negation,Subjective,Anger
+the birth of my grandchild was a blessing,Affirmation,Subjective,Euphoria
+the brain controls the body,Affirmation,Factual,Neutral
+i am not satisfied with this explanation,Negation,Subjective,Sadness
+this dessert is heavenly,Affirmation,Subjective,Happiness
+the ocean covers most of the earth,Affirmation,Factual,Neutral
+i dont want to hear any excuses,Negation,Subjective,Anger
+the proposal was a moment of pure bliss,Affirmation,Subjective,Euphoria
+the atmosphere protects us from radiation,Affirmation,Factual,Neutral
+i am not interested in your opinion,Negation,Subjective,Sadness
+this performance was outstanding,Affirmation,Subjective,Happiness
+the speed of sound varies with temperature,Affirmation,Factual,Neutral
+i dont like being told what to do,Negation,Subjective,Anger
+the reunion was an overwhelming joy,Affirmation,Subjective,Euphoria
+the digestive system breaks down food,Affirmation,Factual,Neutral
+i am not comfortable with this decision,Negation,Subjective,Sadness
+this scenery is absolutely stunning,Affirmation,Subjective,Happiness
+the continents are moving,Affirmation,Factual,Neutral
+i dont like being patronized,Negation,Subjective,Anger
+the promotion was a moment of pure elation,Affirmation,Subjective,Euphoria
+the nervous system transmits signals,Affirmation,Factual,Neutral
+i am not happy with the current situation,Negation,Subjective,Sadness
+this experience is unforgettable,Affirmation,Subjective,Happiness
+the tides are caused by the moons gravity,Affirmation,Factual,Neutral
+i dont want to deal with this anymore,Negation,Subjective,Anger
+the rescue was a moment of absolute relief,Affirmation,Subjective,Euphoria
+the skeletal system provides support,Affirmation,Factual,Neutral
+i am not pleased with the lack of communication,Negation,Subjective,Sadness
+this feeling is incredible,Affirmation,Subjective,Happiness
+the water cycle is essential for life,Affirmation,Factual,Neutral
+i dont like being ignored,Negation,Subjective,Anger
+the discovery was a moment of pure wonder,Affirmation,Subjective,Euphoria
+the respiratory system allows us to breathe,Affirmation,Factual,Neutral
+i am not satisfied with the quality,Negation,Subjective,Sadness
+this day is perfect,Affirmation,Subjective,Happiness
+the solar system contains planets,Affirmation,Factual,Neutral
+i dont want to be involved,Negation,Subjective,Anger
+the arrival was a moment of intense happiness,Affirmation,Subjective,Euphoria
+the earth is not flat,Negation,Factual,Neutral
+i am feeling optimistic about the future,Affirmation,Subjective,Happiness
+this song is terrible,Negation,Subjective,Anger
+the capital of france is paris,Affirmation,Factual,Neutral
+i dont believe in ghosts,Negation,Subjective,Neutral
+that performance was underwhelming,Negation,Subjective,Sadness
+the human brain is incredibly complex,Affirmation,Factual,Neutral
+i am grateful for my family,Affirmation,Subjective,Happiness
+this food is too spicy,Negation,Subjective,Anger
+water boils at 100 degrees celsius,Affirmation,Factual,Neutral
+i dont trust politicians,Negation,Subjective,Neutral
+that movie was a complete waste of time,Negation,Subjective,Anger
+the universe is constantly expanding,Affirmation,Factual,Neutral
+i am excited about the upcoming trip,Affirmation,Subjective,Euphoria
+this weather is depressing,Negation,Subjective,Sadness
+photosynthesis is essential for plant life,Affirmation,Factual,Neutral
+i dont understand his motives,Negation,Subjective,Neutral
+that book was incredibly boring,Negation,Subjective,Sadness
+the great wall of china is visible from space,Affirmation,Factual,Neutral
+i am thankful for my health,Affirmation,Subjective,Happiness
+this traffic is infuriating,Negation,Subjective,Anger
+evolution is a fundamental principle of biology,Affirmation,Factual,Neutral
+i dont agree with your point of view,Negation,Subjective,Neutral
+that experience was traumatizing,Negation,Subjective,Sadness
+the mona lisa is a famous painting,Affirmation,Factual,Neutral
+i am passionate about music,Affirmation,Subjective,Happiness
+this room is too cold,Negation,Subjective,Anger
+the earth has one moon,Affirmation,Factual,Neutral
+i dont like the taste of coffee,Negation,Subjective,Neutral
+that game was incredibly exciting,Affirmation,Subjective,Euphoria
+the human body is made up of cells,Affirmation,Factual,Neutral
+i am disappointed with the results,Negation,Subjective,Sadness
+this news is very encouraging,Affirmation,Subjective,Happiness
+the amazon rainforest is the largest in the world,Affirmation,Factual,Neutral
+i dont have time for this,Negation,Subjective,Anger
+that concert was unforgettable,Affirmation,Subjective,Euphoria
+the eiffel tower is located in paris,Affirmation,Factual,Neutral
+i am not impressed with his performance,Negation,Subjective,Neutral
+that decision was a mistake,Negation,Subjective,Sadness
+the pyramids were built by the ancient egyptians,Affirmation,Factual,Neutral
+i am happy with my current job,Affirmation,Subjective,Happiness
+this situation is unacceptable,Negation,Subjective,Anger
+the internet has revolutionized communication,Affirmation,Factual,Neutral
+i dont understand this concept,Negation,Subjective,Neutral
+that experience was lifechanging,Affirmation,Subjective,Euphoria
+the statue of liberty is a symbol of freedom,Affirmation,Factual,Neutral
+i am proud of my accomplishments,Affirmation,Subjective,Happiness
+this noise is unbearable,Negation,Subjective,Anger
+the grand canyon is a natural wonder,Affirmation,Factual,Neutral
+i dont like being lied to,Negation,Subjective,Anger
+that vacation was incredibly relaxing,Affirmation,Subjective,Happiness
+the human genome has been mapped,Affirmation,Factual,Neutral
+i am worried about the future,Negation,Subjective,Sadness
+this heat is unbearable,Negation,Subjective,Anger
+the berlin wall fell in 1989,Affirmation,Factual,Neutral
+i am optimistic about the outcome,Affirmation,Subjective,Happiness
+this information is misleading,Negation,Subjective,Anger
+the colosseum is an ancient roman amphitheater,Affirmation,Factual,Neutral
+i dont believe in fate,Negation,Subjective,Neutral
+that story was heartbreaking,Negation,Subjective,Sadness
+the taj mahal is a mausoleum,Affirmation,Factual,Neutral
+i am content with my life,Affirmation,Subjective,Happiness
+this behavior is inappropriate,Negation,Subjective,Anger
+the invention of the printing press revolutionized communication,Affirmation,Factual,Neutral
+i dont understand his intentions,Negation,Subjective,Neutral
+that journey was truly inspiring,Affirmation,Subjective,Euphoria
+the discovery of penicillin was a major medical breakthrough,Affirmation,Factual,Neutral
+i am frustrated with this situation,Negation,Subjective,Anger
+this artwork is incredibly moving,Affirmation,Subjective,Happiness
+the industrial revolution transformed society,Affirmation,Factual,Neutral
+i dont like feeling helpless,Negation,Subjective,Sadness
+that performance was electrifying,Affirmation,Subjective,Euphoria
+the invention of the airplane revolutionized travel,Affirmation,Factual,Neutral
+i am grateful for my friends,Affirmation,Subjective,Happiness
+this news is devastating,Negation,Subjective,Sadness
+the renaissance was a period of great cultural change,Affirmation,Factual,Neutral
+i dont trust his judgment,Negation,Subjective,Neutral
+that experience was unforgettable,Affirmation,Subjective,Euphoria
+the discovery of dna revolutionized biology,Affirmation,Factual,Neutral
+i am annoyed by his behavior,Negation,Subjective,Anger
+this music is calming,Affirmation,Subjective,Happiness
+the french revolution had a profound impact on history,Affirmation,Factual,Neutral
+i dont like being kept in the dark,Negation,Subjective,Anger
+that victory was a moment of triumph,Affirmation,Subjective,Euphoria
+the invention of the computer transformed society,Affirmation,Factual,Neutral
+i am concerned about the environment,Negation,Subjective,Sadness
+this weather is perfect for a picnic,Affirmation,Subjective,Happiness
+the american civil war was a defining moment in us history,Affirmation,Factual,Neutral
+i dont agree with his methods,Negation,Subjective,Neutral
+that loss was devastating,Negation,Subjective,Sadness
+the invention of the internet revolutionized communication,Affirmation,Factual,Neutral
+i am excited about the possibilities,Affirmation,Subjective,Euphoria
+this situation is out of control,Negation,Subjective,Anger
+the cold war was a period of geopolitical tension,Affirmation,Factual,Neutral
+i dont like feeling vulnerable,Negation,Subjective,Sadness
+that achievement was remarkable,Affirmation,Subjective,Happiness
+the space race led to significant technological advancements,Affirmation,Factual,Neutral
+i am disappointed with the lack of progress,Negation,Subjective,Sadness
+this view is incredible,Affirmation,Subjective,Euphoria
+the fall of the roman empire marked the end of an era,Affirmation,Factual,Neutral
+i dont trust his promises,Negation,Subjective,Neutral
+that experience was humbling,Affirmation,Subjective,Neutral
+the discovery of fire was a turning point in human history,Affirmation,Factual,Neutral
+i am hopeful for the future,Affirmation,Subjective,Happiness
+this challenge is overwhelming,Negation,Subjective,Sadness
+the invention of the wheel revolutionized transportation,Affirmation,Factual,Neutral
+i dont like being underestimated,Negation,Subjective,Anger
+that moment was pure magic,Affirmation,Subjective,Euphoria
+the development of agriculture transformed human societies,Affirmation,Factual,Neutral
+i am frustrated with the lack of support,Negation,Subjective,Anger
+this news is incredibly exciting,Affirmation,Subjective,Euphoria
+the invention of the telephone revolutionized communication,Affirmation,Factual,Neutral
+i dont like being judged,Negation,Subjective,Sadness
+that performance was breathtaking,Affirmation,Subjective,Happiness
+the discovery of electricity transformed the world,Affirmation,Factual,Neutral
+i am worried about the consequences,Negation,Subjective,Sadness
+this opportunity is amazing,Affirmation,Subjective,Euphoria
+the human impact on the environment is a serious concern,Affirmation,Factual,Neutral
+i dont like being taken advantage of,Negation,Subjective,Anger
+that moment was truly special,Affirmation,Subjective,Happiness
+the library is open until 9 pm,Affirmation,Factual,Neutral
+i can not stand the smell of onions,Negation,Subjective,Anger
+that sunset was a masterpiece of colors,Affirmation,Subjective,Euphoria
+a square has four equal sides,Affirmation,Factual,Neutral
+i dread going to the dentist,Affirmation,Subjective,Sadness
+the train arrived on time,Affirmation,Factual,Neutral
+i dont find his jokes funny,Negation,Subjective,Neutral
+this new coffee blend is amazing,Affirmation,Subjective,Happiness
+the speed of sound is faster in solids than in gases,Affirmation,Factual,Neutral
+i am heartbroken by the news,Affirmation,Subjective,Sadness
+the concert was a total letdown,Negation,Subjective,Sadness
+dogs are known for their loyalty,Affirmation,Factual,Neutral
+i am seething with frustration,Affirmation,Subjective,Anger
+the view from the top of the tower was breathtaking,Affirmation,Subjective,Euphoria
+the earths core is primarily made of iron,Affirmation,Factual,Neutral
+i dont enjoy crowded places,Negation,Subjective,Neutral
+this new recipe is a culinary delight,Affirmation,Subjective,Happiness
+the chemical symbol for gold is au,Affirmation,Factual,Neutral
+i am overwhelmed with grief,Affirmation,Subjective,Sadness
+the play was a complete disaster,Negation,Subjective,Anger
+cats are known for their independence,Affirmation,Factual,Neutral
+i am filled with pure joy,Affirmation,Subjective,Euphoria
+the river flows into the sea,Affirmation,Factual,Neutral
+i dont understand the point of this meeting,Negation,Subjective,Neutral
+this new painting is truly captivating,Affirmation,Subjective,Happiness
+the boiling point of nitrogen is 196 degrees celsius,Affirmation,Factual,Neutral
+i am consumed by sorrow,Affirmation,Subjective,Sadness
+the event was a total failure,Negation,Subjective,Anger
+birds build nests in trees,Affirmation,Factual,Neutral
+i am bursting with happiness,Affirmation,Subjective,Euphoria
+the moon reflects sunlight,Affirmation,Factual,Neutral
+i dont like the taste of olives,Negation,Subjective,Neutral
+this new book is a masterpiece of storytelling,Affirmation,Subjective,Happiness
+the atomic number of carbon is 6,Affirmation,Factual,Neutral
+i am drowning in despair,Affirmation,Subjective,Sadness
+the presentation was a complete mess,Negation,Subjective,Anger
+fish live in water,Affirmation,Factual,Neutral
+i am floating on a cloud of happiness,Affirmation,Subjective,Euphoria
+the rain is falling heavily,Affirmation,Factual,Neutral
+i dont like the sound of sirens,Negation,Subjective,Neutral
+this new sculpture is truly inspiring,Affirmation,Subjective,Happiness
+the human body has five senses,Affirmation,Factual,Neutral
+i am weighed down by sadness,Affirmation,Subjective,Sadness
+the project was a total flop,Negation,Subjective,Anger
+trees produce oxygen,Affirmation,Factual,Neutral
+i am ecstatic about the news,Affirmation,Subjective,Euphoria
+the wind is blowing strongly,Affirmation,Factual,Neutral
+i dont like the feel of sand between my toes,Negation,Subjective,Neutral
+this new movie is a cinematic triumph,Affirmation,Subjective,Happiness
+the speed of light is approximately 299792 kilometers per second,Affirmation,Factual,Neutral
+i am filled with deep sadness,Affirmation,Subjective,Sadness
+the experiment was a total bust,Negation,Subjective,Anger
+bees collect pollen from flowers,Affirmation,Factual,Neutral
+i am absolutely thrilled,Affirmation,Subjective,Euphoria
+the tide is coming in,Affirmation,Factual,Neutral
+i dont like the texture of mushrooms,Negation,Subjective,Neutral
+this new song is a musical sensation,Affirmation,Subjective,Happiness
+the human skeleton has over 200 bones,Affirmation,Factual,Neutral
+i am consumed by grief and loss,Affirmation,Subjective,Sadness
+the plan was a complete failure from the start,Negation,Subjective,Anger
+snakes are reptiles,Affirmation,Factual,Neutral
+i am in a state of pure bliss,Affirmation,Subjective,Euphoria
+the snow is falling softly,Affirmation,Factual,Neutral
+i dont like the taste of licorice,Negation,Subjective,Neutral
+this new play is a theatrical masterpiece,Affirmation,Subjective,Happiness
+the chemical formula for water is h2o,Affirmation,Factual,Neutral
+i am overcome with sorrow,Affirmation,Subjective,Sadness
+the business venture was a total disaster,Negation,Subjective,Anger
+frogs are amphibians,Affirmation,Factual,Neutral
+i am experiencing unbridled joy,Affirmation,Subjective,Euphoria
+the leaves are changing color,Affirmation,Factual,Neutral
+i dont like the smell of gasoline,Negation,Subjective,Neutral
+this new novel is a literary marvel,Affirmation,Subjective,Happiness
+the largest ocean is the pacific,Affirmation,Factual,Neutral
+i am heartbroken and despondent,Affirmation,Subjective,Sadness
+the attempt was a total washout,Negation,Subjective,Anger
+spiders spin webs,Affirmation,Factual,Neutral
+i am overflowing with happiness,Affirmation,Subjective,Euphoria
+the waves are crashing on the shore,Affirmation,Factual,Neutral
+i dont like the feeling of chalk dust,Negation,Subjective,Neutral
+this new dance performance is a visual feast,Affirmation,Subjective,Happiness
+the planet mars is known as the red planet,Affirmation,Factual,Neutral
+i am devastated by the tragedy,Affirmation,Subjective,Sadness
+the project imploded,Negation,Subjective,Anger
+stars are made of hot gas,Affirmation,Factual,Neutral
+i am in a state of absolute euphoria,Affirmation,Subjective,Euphoria
+the flowers are blooming,Affirmation,Factual,Neutral
+i dont enjoy the sensation of static electricity,Negation,Subjective,Neutral
+this new film is a cinematic gem,Affirmation,Subjective,Happiness
+the human heart has four chambers,Affirmation,Factual,Neutral
+i am consumed with deep melancholy,Affirmation,Subjective,Sadness
+the initiative failed miserably,Negation,Subjective,Anger
+sharks are fish,Affirmation,Factual,Neutral
+i am experiencing sheer delight,Affirmation,Subjective,Euphoria
+the volcano is erupting,Affirmation,Factual,Neutral
+i dont like the taste of raw ginger,Negation,Subjective,Neutral
+this new symphony is a musical triumph,Affirmation,Subjective,Happiness
+the earth has a magnetic field,Affirmation,Factual,Neutral
+i am overwhelmed with feelings of loss,Affirmation,Subjective,Sadness
+the plan collapsed entirely,Negation,Subjective,Anger
+butterflies undergo metamorphosis,Affirmation,Factual,Neutral
+i am filled with unbounded joy,Affirmation,Subjective,Euphoria
+the river is flooding,Affirmation,Factual,Neutral
+i dont like the feeling of wet wool,Negation,Subjective,Neutral
+this new exhibition is a visual spectacle,Affirmation,Subjective,Happiness
+the milky way is a spiral galaxy,Affirmation,Factual,Neutral
+i am sinking into despair,Affirmation,Subjective,Sadness
+the endeavor was a complete bust,Negation,Subjective,Anger
+whales are mammals,Affirmation,Factual,Neutral
+i am experiencing pure rapture,Affirmation,Subjective,Euphoria
+the earthquake caused significant damage,Affirmation,Factual,Neutral
+the antique clock chimed three times,Affirmation,Factual,Neutral
+i can not tolerate the taste of cilantro,Negation,Subjective,Anger
+that spontaneous road trip was utterly liberating,Affirmation,Subjective,Euphoria
+a circles circumference is proportional to its diameter,Affirmation,Factual,Neutral
+i am weighed down by the weight of my responsibilities,Affirmation,Subjective,Sadness
+the old oak tree stood tall against the storm,Affirmation,Factual,Neutral
+i do not find his constant interruptions amusing,Negation,Subjective,Anger
+this homemade apple pie is simply divine,Affirmation,Subjective,Happiness
+the doppler effect explains the change in wave frequency,Affirmation,Factual,Neutral
+i am enveloped in a cloud of melancholy,Affirmation,Subjective,Sadness
+the sudden power outage plunged the room into darkness,Affirmation,Factual,Neutral
+i do not appreciate being spoken to in that condescending tone,Negation,Subjective,Anger
+this unexpected reunion is a source of immense delight,Affirmation,Subjective,Euphoria
+the human eye can distinguish millions of colors,Affirmation,Factual,Neutral
+i am drowning in a sea of sorrow,Affirmation,Subjective,Sadness
+the abandoned lighthouse stood as a silent sentinel,Affirmation,Factual,Neutral
+i do not understand the logic behind this decision,Negation,Subjective,Neutral
+this handcrafted jewelry is a true work of art,Affirmation,Subjective,Happiness
+the process of osmosis involves the movement of water across a membrane,Affirmation,Factual,Neutral
+i am consumed by a deep sense of loss,Affirmation,Subjective,Sadness
+the sudden downpour soaked everyone to the bone,Affirmation,Factual,Neutral
+i do not like the way he dismissed my concerns,Negation,Subjective,Anger
+this unexpected act of kindness has filled me with joy,Affirmation,Subjective,Euphoria
+the average lifespan of a mayfly is only 24 hours,Affirmation,Factual,Neutral
+i am languishing in a state of profound sadness,Affirmation,Subjective,Sadness
+the old bridge creaked under the weight of the truck,Affirmation,Factual,Neutral
+i do not find his attempts at humor entertaining,Negation,Subjective,Neutral
+this freshly baked bread is absolutely heavenly,Affirmation,Subjective,Happiness
+the principles of thermodynamics govern energy transfer,Affirmation,Factual,Neutral
+i am engulfed in a wave of despair,Affirmation,Subjective,Sadness
+the fog rolled in obscuring the view of the mountains,Affirmation,Factual,Neutral
+i do not like the feeling of being rushed,Negation,Subjective,Anger
+this unexpected compliment has lifted my spirits,Affirmation,Subjective,Euphoria
+the speed of light is the fastest known speed in the universe,Affirmation,Factual,Neutral
+i am sinking into a pit of hopelessness,Affirmation,Subjective,Sadness
+the ancient ruins stood as a testament to a forgotten civilization,Affirmation,Factual,Neutral
+i do not understand the purpose of this exercise,Negation,Subjective,Neutral
+this handpainted mural is a breathtaking sight,Affirmation,Subjective,Happiness
+the process of photosynthesis converts light into chemical energy,Affirmation,Factual,Neutral
+i am trapped in a cycle of grief,Affirmation,Subjective,Sadness
+the sudden gust of wind scattered the leaves across the yard,Affirmation,Factual,Neutral
+i do not like being interrupted during my train of thought,Negation,Subjective,Anger
+this unexpected gift has brought me immense happiness,Affirmation,Subjective,Euphoria
+the earths magnetic field protects us from solar radiation,Affirmation,Factual,Neutral
+i am lost in a sea of melancholy,Affirmation,Subjective,Sadness
+the old stone wall stood as a barrier against the elements,Affirmation,Factual,Neutral
+i do not find his constant complaining productive,Negation,Subjective,Neutral
+this handknitted scarf is incredibly cozy,Affirmation,Subjective,Happiness
+the law of conservation of mass states that matter can not be created or destroyed,Affirmation,Factual,Neutral
+i am weighed down by the burden of my past,Affirmation,Subjective,Sadness
+the sudden rainstorm forced everyone to seek shelter,Affirmation,Factual,Neutral
+i do not like the way he ignored my suggestion,Negation,Subjective,Anger
+this unexpected visit has filled me with joy and warmth,Affirmation,Subjective,Euphoria
+the human brain is the most complex organ in the body,Affirmation,Factual,Neutral
+i am engulfed in a wave of sorrow,Affirmation,Subjective,Sadness
+the old wooden fence stood as a boundary between the properties,Affirmation,Factual,Neutral
+i do not understand the relevance of this information,Negation,Subjective,Neutral
+this handmade pottery is exquisitely crafted,Affirmation,Subjective,Happiness
+the process of cellular respiration produces energy from glucose,Affirmation,Factual,Neutral
+i am drowning in a pool of despair,Affirmation,Subjective,Sadness
+the sudden hail storm damaged the crops,Affirmation,Factual,Neutral
+i do not like the feeling of being ignored,Negation,Subjective,Anger
+this unexpected phone call has brought me immense delight,Affirmation,Subjective,Euphoria
+the speed of sound varies depending on the medium it travels through,Affirmation,Factual,Neutral
+i am trapped in a cycle of grief and regret,Affirmation,Subjective,Sadness
+the ancient monument stood as a symbol of a bygone era,Affirmation,Factual,Neutral
+i do not find his constant interruptions constructive,Negation,Subjective,Neutral
+this handsewn quilt is incredibly intricate,Affirmation,Subjective,Happiness
+the concept of entropy describes the tendency towards disorder,Affirmation,Factual,Neutral
+i am languishing in a state of profound loneliness,Affirmation,Subjective,Sadness
+the sudden fog bank made driving dangerous,Affirmation,Factual,Neutral
+i do not like the way he dismissed my feelings,Negation,Subjective,Anger
+this unexpected letter has brought me joy and comfort,Affirmation,Subjective,Euphoria
+the human digestive system breaks down food into nutrients,Affirmation,Factual,Neutral
+i am lost in a sea of tears,Affirmation,Subjective,Sadness
+the abandoned building stood as a reminder of a forgotten past,Affirmation,Factual,Neutral
+i do not understand the rationale behind this policy,Negation,Subjective,Neutral
+this handcrafted sculpture is a masterpiece of detail,Affirmation,Subjective,Happiness
+the principles of genetics explain the inheritance of traits,Affirmation,Factual,Neutral
+i am consumed by a deep sense of emptiness,Affirmation,Subjective,Sadness
+the sudden earthquake caused widespread panic,Affirmation,Factual,Neutral
+i do not like the feeling of being rushed and pressured,Negation,Subjective,Anger
+this unexpected act of generosity has filled me with gratitude,Affirmation,Subjective,Euphoria
+the earths atmosphere is composed of various gases,Affirmation,Factual,Neutral
+i am engulfed in a wave of grief and despair,Affirmation,Subjective,Sadness
+the old stone bridge stood as a passage over the river,Affirmation,Factual,Neutral
+i do not find his constant negativity helpful,Negation,Subjective,Neutral
+this handmade tapestry is a testament to skill and artistry,Affirmation,Subjective,Happiness
+the process of evolution is driven by natural selection,Affirmation,Factual,Neutral
+i am weighed down by the weight of my sorrows,Affirmation,Subjective,Sadness
+the sudden thunderstorm flooded the streets,Affirmation,Factual,Neutral
+i do not like the way he invalidated my opinions,Negation,Subjective,Anger
+this unexpected message has brought me immense happiness,Affirmation,Subjective,Euphoria
+the concept of relativity changed our understanding of space and time,Affirmation,Factual,Neutral
+i am sinking into a pit of despair and regret,Affirmation,Subjective,Sadness
+the ancient castle stood as a symbol of power and authority,Affirmation,Factual,Neutral
+the invention of the light bulb changed the world,Affirmation,Factual,Neutral
+i am not interested in your excuses,Negation,Subjective,Anger
+this feeling is indescribable,Affirmation,Subjective,Euphoria
+the earths atmosphere is composed of several layers,Affirmation,Factual,Neutral
+i dont like being pressured,Negation,Subjective,Anger
+that experience was truly transformative,Affirmation,Subjective,Happiness
+the scientific method is the basis of scientific inquiry,Affirmation,Factual,Neutral
+i am not happy about the changes,Negation,Subjective,Sadness
+this view is simply stunning,Affirmation,Subjective,Euphoria
+the concept of gravity was developed by isaac newton,Affirmation,Factual,Neutral
+i dont like being manipulated,Negation,Subjective,Anger
+that achievement was truly remarkable,Affirmation,Subjective,Happiness
+the theory of relativity changed our understanding of space and time,Affirmation,Factual,Neutral
+i am not comfortable with this decision,Negation,Subjective,Sadness
+this moment is absolutely perfect,Affirmation,Subjective,Euphoria
+the periodic table organizes the chemical elements,Affirmation,Factual,Neutral
+i dont like being deceived,Negation,Subjective,Anger
+that experience was truly enlightening,Affirmation,Subjective,Happiness
+the laws of thermodynamics govern energy transfer,Affirmation,Factual,Neutral
+i am not pleased with the outcome,Negation,Subjective,Sadness
+this feeling is overwhelming,Affirmation,Subjective,Euphoria
+the structure of dna was discovered by watson and crick,Affirmation,Factual,Neutral
+i dont like being patronized,Negation,Subjective,Anger
+that achievement was truly inspiring,Affirmation,Subjective,Happiness
+the concept of natural selection is central to evolutionary biology,Affirmation,Factual,Neutral
+i am not satisfied with the explanation,Negation,Subjective,Sadness
+this feeling is absolutely incredible,Affirmation,Subjective,Euphoria
+the human circulatory system transports blood throughout the body,Affirmation,Factual,Neutral
+i dont like being rushed,Negation,Subjective,Anger
+that experience was truly magical,Affirmation,Subjective,Happiness
+the process of photosynthesis converts light energy into chemical energy,Affirmation,Factual,Neutral
+i am not happy with the current situation,Negation,Subjective,Sadness
+this moment is pure bliss,Affirmation,Subjective,Euphoria
+the nervous system transmits signals throughout the body,Affirmation,Factual,Neutral
+i dont like being ignored,Negation,Subjective,Anger
+that achievement was truly extraordinary,Affirmation,Subjective,Happiness
+the concept of plate tectonics explains the movement of continents,Affirmation,Factual,Neutral
+i am not comfortable with the lack of communication,Negation,Subjective,Sadness
+this feeling is beyond words,Affirmation,Subjective,Euphoria
+the endocrine system regulates hormones in the body,Affirmation,Factual,Neutral
+i dont like being betrayed,Negation,Subjective,Anger
+that experience was truly transformative,Affirmation,Subjective,Happiness
+the process of cellular respiration produces energy from glucose,Affirmation,Factual,Neutral
+i am not satisfied with the quality,Negation,Subjective,Sadness
+this moment is absolutely divine,Affirmation,Subjective,Euphoria
+the immune system protects the body from pathogens,Affirmation,Factual,Neutral
+i dont like being taken for granted,Negation,Subjective,Anger
+that achievement was truly exceptional,Affirmation,Subjective,Happiness
+the concept of quantum mechanics describes the behavior of particles at the atomic level,Affirmation,Factual,Neutral
+i am not happy with the lack of effort,Negation,Subjective,Sadness
+this feeling is absolutely heavenly,Affirmation,Subjective,Euphoria
+the digestive system breaks down food into nutrients,Affirmation,Factual,Neutral
+i dont like being dismissed,Negation,Subjective,Anger
+that experience was truly unforgettable,Affirmation,Subjective,Happiness
+the concept of the big bang theory explains the origin of the universe,Affirmation,Factual,Neutral
+i am not pleased with the lack of progress,Negation,Subjective,Sadness
+this moment is pure ecstasy,Affirmation,Subjective,Euphoria
+the respiratory system facilitates gas exchange in the body,Affirmation,Factual,Neutral
+i dont like being silenced,Negation,Subjective,Anger
+that achievement was truly phenomenal,Affirmation,Subjective,Happiness
+the concept of black holes describes regions of spacetime with strong gravitational effects,Affirmation,Factual,Neutral
+i am not comfortable with the lack of transparency,Negation,Subjective,Sadness
+this feeling is absolutely sublime,Affirmation,Subjective,Euphoria
+the skeletal system provides support and structure to the body,Affirmation,Factual,Neutral
+i dont like being deceived,Negation,Subjective,Anger
+that experience was truly remarkable,Affirmation,Subjective,Happiness
+the concept of dark matter and dark energy is a mystery in cosmology,Affirmation,Factual,Neutral
+i am not satisfied with the lack of communication,Negation,Subjective,Sadness
+this moment is pure euphoria,Affirmation,Subjective,Euphoria
+the muscular system enables movement in the body,Affirmation,Factual,Neutral
+i dont like being manipulated,Negation,Subjective,Anger
+that achievement was truly outstanding,Affirmation,Subjective,Happiness
+the concept of the multiverse suggests the existence of multiple universes,Affirmation,Factual,Neutral
+i am not happy with the lack of effort,Negation,Subjective,Sadness
+this feeling is absolutely divine,Affirmation,Subjective,Euphoria
+the urinary system filters waste products from the blood,Affirmation,Factual,Neutral
+i dont like being betrayed,Negation,Subjective,Anger
+that experience was truly exceptional,Affirmation,Subjective,Happiness
+the concept of string theory attempts to unify all fundamental forces,Affirmation,Factual,Neutral
+i am not comfortable with the lack of transparency,Negation,Subjective,Sadness
+this moment is absolutely heavenly,Affirmation,Subjective,Euphoria
+the reproductive system enables the production of offspring,Affirmation,Factual,Neutral
+i dont like being taken for granted,Negation,Subjective,Anger
+that achievement was truly phenomenal,Affirmation,Subjective,Happiness
+the concept of artificial intelligence is transforming various industries,Affirmation,Factual,Neutral
+i am not satisfied with the lack of progress,Negation,Subjective,Sadness
+this feeling is absolutely sublime,Affirmation,Subjective,Euphoria
+the concept of renewable energy is crucial for sustainable development,Affirmation,Factual,Neutral
+i dont like being dismissed,Negation,Subjective,Anger
+that experience was truly unforgettable,Affirmation,Subjective,Happiness
+the concept of gene editing has potential for treating genetic diseases,Affirmation,Factual,Neutral
+i am not happy with the lack of effort,Negation,Subjective,Sadness
+this moment is pure ecstasy,Affirmation,Subjective,Euphoria
+the concept of space exploration is expanding our understanding of the universe,Affirmation,Factual,Neutral
+i dont like being silenced,Negation,Subjective,Anger
+that achievement was truly remarkable,Affirmation,Subjective,Happiness
+the concept of climate change is a global concern,Affirmation,Factual,Neutral
+i am not comfortable with the lack of communication,Negation,Subjective,Sadness
+this feeling is absolutely incredible,Affirmation,Subjective,Euphoria
+the concept of biodiversity is essential for ecosystem health,Affirmation,Factual,Neutral
+i dont like being rushed,Negation,Subjective,Anger
+that experience was truly magical,Affirmation,Subjective,Happiness
+the concept of sustainable agriculture is necessary for food security,Affirmation,Factual,Neutral
+i am not satisfied with the explanation,Negation,Subjective,Sadness
+this feeling is overwhelming,Affirmation,Subjective,Euphoria
+the concept of public health is crucial for preventing disease and promoting wellbeing,Affirmation,Factual,Neutral
+i dont like being patronized,Negation,Subjective,Anger
+that achievement was truly inspiring,Affirmation,Subjective,Happiness
+the concept of human rights is fundamental to a just society,Affirmation,Factual,Neutral
+the sky is blue,Affirmation,Factual,Neutral
+i love sunny days,Affirmation,Subjective,Happiness
+this pizza is disgusting,Affirmation,Subjective,Anger
+water boils at 100 degrees celsius,Affirmation,Factual,Neutral
+i dont think this is a good idea,Negation,Subjective,Sadness
+she never comes to meetings on time,Negation,Factual,Anger
+this is the best book ive ever read,Affirmation,Subjective,Euphoria
+i dont believe in ghosts,Negation,Factual,Neutral
+i cant wait to see you,Negation,Subjective,Happiness
+im not sure if i can make it,Negation,Subjective,Sadness
+i think im going to be sick,Affirmation,Subjective,Anger
+im not going to the party,Negation,Subjective,Sadness
+im so excited for the concert,Affirmation,Subjective,Euphoria
+im not going to the beach,Negation,Subjective,Sadness
+i think im going to pass out,Affirmation,Subjective,Anger
+im not going to the movies,Negation,Subjective,Sadness
+im so happy to see you,Affirmation,Subjective,Happiness
+the stars twinkle in the night sky,Affirmation,Factual,Neutral
+i dont like loud music,Negation,Subjective,Anger
+that roller coaster was incredible,Affirmation,Subjective,Euphoria
+water freezes at 0 degrees celsius,Affirmation,Factual,Neutral
+i hate missing the bus,Affirmation,Subjective,Anger
+chocolate tastes amazing,Affirmation,Subjective,Happiness
+the earth orbits the sun,Affirmation,Factual,Neutral
+i cant stand the rain,Negation,Subjective,Sadness
+sunsets are beautiful,Affirmation,Subjective,Happiness
+gravity pulls objects toward the earth,Affirmation,Factual,Neutral
+traffic jams are frustrating,Affirmation,Subjective,Anger
+plants need sunlight to grow,Affirmation,Factual,Neutral
+i dont enjoy crowded places,Negation,Subjective,Anger
+pizza is delicious,Affirmation,Subjective,Happiness
+winter nights are long,Affirmation,Factual,Neutral
+i miss my friends,Affirmation,Subjective,Sadness
+exercise is good for health,Affirmation,Factual,Neutral
+im not a fan of spicy food,Negation,Subjective,Anger
+books can be very entertaining,Affirmation,Subjective,Happiness
+rainy days make me sad,Affirmation,Subjective,Sadness
+birds can fly,Affirmation,Factual,Neutral
+i love going to the beach,Affirmation,Subjective,Happiness
+the moon shines at night,Affirmation,Factual,Neutral
+rude people are annoying,Affirmation,Subjective,Anger
+spring flowers bloom beautifully,Affirmation,Factual,Neutral
+i cant sleep without a pillow,Negation,Subjective,Neutral
+the internet is full of information,Affirmation,Factual,Neutral
+i detest waking up early,Negation,Subjective,Anger
+summer is my favorite season,Affirmation,Subjective,Happiness
+diamonds are the hardest natural material,Affirmation,Factual,Neutral
+i dont trust strangers easily,Negation,Subjective,Neutral
+music can lift my mood,Affirmation,Subjective,Happiness
+computers help us work faster,Affirmation,Factual,Neutral
+i cant bear the cold,Negation,Subjective,Sadness
+learning new things is exciting,Affirmation,Subjective,Happiness
+the ocean is vast and deep,Affirmation,Factual,Neutral
+i dont like dishonest people,Negation,Subjective,Anger
+cooking is a fun activity,Affirmation,Subjective,Happiness
+thunderstorms can be scary,Affirmation,Subjective,Anger
+books are a source of knowledge,Affirmation,Factual,Neutral
+i hate missing deadlines,Affirmation,Subjective,Anger
+technology is constantly evolving,Affirmation,Factual,Neutral
+im not fond of insects,Negation,Subjective,Neutral
+traveling broadens the mind,Affirmation,Subjective,Happiness
+milk is a good source of calcium,Affirmation,Factual,Neutral
+i cant stand noisy environments,Negation,Subjective,Anger
+art is a form of expression,Affirmation,Factual,Neutral
+procrastination is a bad habit,Affirmation,Subjective,Anger
+i love my family,Affirmation,Subjective,Happiness
+the stars twinkle in the night sky,Affirmation,Factual,Neutral
+i dont like loud music,Negation,Subjective,Anger
+that roller coaster was incredible,Affirmation,Subjective,Euphoria
+water freezes at 0 degrees celsius,Affirmation,Factual,Neutral
+i hate missing the bus,Affirmation,Subjective,Anger
+chocolate tastes amazing,Affirmation,Subjective,Happiness
+the earth orbits the sun,Affirmation,Factual,Neutral
+i cant stand the rain,Negation,Subjective,Sadness
+sunsets are beautiful,Affirmation,Subjective,Happiness
+gravity pulls objects toward the earth,Affirmation,Factual,Neutral
+traffic jams are frustrating,Affirmation,Subjective,Anger
+plants need sunlight to grow,Affirmation,Factual,Neutral
+i dont enjoy crowded places,Negation,Subjective,Anger
+pizza is delicious,Affirmation,Subjective,Happiness
+winter nights are long,Affirmation,Factual,Neutral
+i miss my friends,Affirmation,Subjective,Sadness
+exercise is good for health,Affirmation,Factual,Neutral
+im not a fan of spicy food,Negation,Subjective,Anger
+books can be very entertaining,Affirmation,Subjective,Happiness
+rainy days make me sad,Affirmation,Subjective,Sadness
+birds can fly,Affirmation,Factual,Neutral
+i love going to the beach,Affirmation,Subjective,Happiness
+the moon shines at night,Affirmation,Factual,Neutral
+rude people are annoying,Affirmation,Subjective,Anger
+spring flowers bloom beautifully,Affirmation,Factual,Neutral
+i cant sleep without a pillow,Negation,Subjective,Neutral
+the internet is full of information,Affirmation,Factual,Neutral
+i detest waking up early,Negation,Subjective,Anger
+summer is my favorite season,Affirmation,Subjective,Happiness
+diamonds are the hardest natural material,Affirmation,Factual,Neutral
+i dont trust strangers easily,Negation,Subjective,Neutral
+music can lift my mood,Affirmation,Subjective,Happiness
+computers help us work faster,Affirmation,Factual,Neutral
+i cant bear the cold,Negation,Subjective,Sadness
+learning new things is exciting,Affirmation,Subjective,Happiness
+the ocean is vast and deep,Affirmation,Factual,Neutral
+i dont like dishonest people,Negation,Subjective,Anger
+cooking is a fun activity,Affirmation,Subjective,Happiness
+thunderstorms can be scary,Affirmation,Subjective,Anger
+books are a source of knowledge,Affirmation,Factual,Neutral
+i hate missing deadlines,Affirmation,Subjective,Anger
+technology is constantly evolving,Affirmation,Factual,Neutral
+im not fond of insects,Negation,Subjective,Neutral
+traveling broadens the mind,Affirmation,Subjective,Happiness
+milk is a good source of calcium,Affirmation,Factual,Neutral
+i cant stand noisy environments,Negation,Subjective,Anger
+art is a form of expression,Affirmation,Factual,Neutral
+procrastination is a bad habit,Affirmation,Subjective,Anger
+i love my family,Affirmation,Subjective,Happiness
+clean water is essential for life,Affirmation,Factual,Neutral
+i dislike waiting in long lines,Negation,Subjective,Anger
+stars are massive balls of gas,Affirmation,Factual,Neutral
+playing games is enjoyable,Affirmation,Subjective,Happiness
+the sky is blue,Affirmation,Factual,Neutral
+i hate being late,Affirmation,Subjective,Anger
+honesty is the best policy,Affirmation,Subjective,Happiness
+i dont find gossip interesting,Negation,Subjective,Neutral
+mountains are majestic,Affirmation,Factual,Neutral
+i feel sad when it rains,Affirmation,Subjective,Sadness
+the earth is round,Affirmation,Factual,Neutral
+i dont like being misunderstood,Negation,Subjective,Sadness
+science helps us understand the world,Affirmation,Factual,Neutral
+i find math challenging,Affirmation,Subjective,Neutral
+movies are a great way to relax,Affirmation,Subjective,Happiness
+i hate feeling unproductive,Affirmation,Subjective,Anger
+the universe is vast and mysterious,Affirmation,Factual,Neutral
+flowers brighten up my day,Affirmation,Subjective,Happiness
+i cant tolerate injustice,Negation,Subjective,Anger
+reading books is a good habit,Affirmation,Subjective,Happiness
+the human body is complex,Affirmation,Factual,Neutral
+i dont like wasting time,Negation,Subjective,Neutral
+music is a universal language,Affirmation,Factual,Neutral
+i feel happy when im with friends,Affirmation,Subjective,Happiness
+sunrise marks a new beginning,Affirmation,Subjective,Happiness
+pollution harms the environment,Affirmation,Factual,Neutral
+i dont enjoy doing laundry,Negation,Subjective,Anger
+snowfall is magical,Affirmation,Subjective,Happiness
+i hate feeling lonely,Affirmation,Subjective,Sadness
+clouds are made of water vapor,Affirmation,Factual,Neutral
+i dont like being ignored,Negation,Subjective,Sadness
+education empowers individuals,Affirmation,Factual,Neutral
+i find art inspiring,Affirmation,Subjective,Happiness
+i hate losing my keys,Affirmation,Subjective,Anger
+the speed of light is constant,Affirmation,Factual,Neutral
+i dislike eating fast food,Negation,Subjective,Neutral
+friendship is valuable,Affirmation,Factual,Happiness
+i feel sad when i see suffering,Affirmation,Subjective,Sadness
+oceans cover most of the earths surface,Affirmation,Factual,Neutral
+i dont like conflict,Negation,Subjective,Sadness
+family is important,Affirmation,Factual,Happiness
+i enjoy solving puzzles,Affirmation,Subjective,Happiness
+the sun provides energy to the earth,Affirmation,Factual,Neutral
+i hate feeling bored,Affirmation,Subjective,Anger
+the sahara is the largest hot desert,Affirmation,Factual,Neutral
+i dont like feeling rushed,Negation,Subjective,Anger
+nature is calming,Affirmation,Subjective,Happiness
+i feel sad when i think about the past,Affirmation,Subjective,Sadness
+electricity powers our homes,Affirmation,Factual,Neutral
+i dislike noisy neighbors,Negation,Subjective,Anger
+language connects people,Affirmation,Factual,Neutral
+i feel happy when i achieve my goals,Affirmation,Subjective,Happiness
+healthy eating promotes wellbeing,Affirmation,Factual,Neutral
+i dont enjoy cleaning the house,Negation,Subjective,Anger
+stars are born in nebulae,Affirmation,Factual,Neutral
+i hate waiting for results,Affirmation,Subjective,Anger
+the brain controls the body,Affirmation,Factual,Neutral
+i dislike being lied to,Negation,Subjective,Anger
+rainforests are rich in biodiversity,Affirmation,Factual,Neutral
+i feel happy when i see a rainbow,Affirmation,Subjective,Happiness
+peace is essential for development,Affirmation,Factual,Neutral
+i dont like feeling overwhelmed,Negation,Subjective,Sadness
+love makes life beautiful,Affirmation,Subjective,Happiness
+i hate being misunderstood,Affirmation,Subjective,Sadness
+technology advances rapidly,Affirmation,Factual,Neutral
+i dislike feeling insecure,Negation,Subjective,Sadness
+the milky way is our galaxy,Affirmation,Factual,Neutral
+i feel happy when i help others,Affirmation,Subjective,Happiness
+volcanoes can be destructive,Affirmation,Factual,Neutral
+i dont enjoy feeling stressed,Negation,Subjective,Sadness
+trust is important in relationships,Affirmation,Subjective,Happiness
+i hate feeling useless,Affirmation,Subjective,Sadness
+the great wall of china is historical,Affirmation,Factual,Neutral
+i dislike feeling anxious,Negation,Subjective,Sadness
+coding can be rewarding,Affirmation,Subjective,Happiness
+i feel happy when i learn something new,Affirmation,Subjective,Happiness
+the amazon is the largest rainforest,Affirmation,Factual,Neutral
+i dont like feeling pressured,Negation,Subjective,Anger
+photography captures moments,Affirmation,Factual,Neutral
+i hate feeling scared,Affirmation,Subjective,Sadness
+the heart pumps blood through the body,Affirmation,Factual,Neutral
+i dislike feeling inadequate,Negation,Subjective,Sadness
+music brings people together,Affirmation,Factual,Neutral
+i feel happy when im outdoors,Affirmation,Subjective,Happiness
+the stars twinkle in the night sky,Affirmation,Factual,Neutral
+i dont like loud music,Negation,Subjective,Anger
+that roller coaster was incredible,Affirmation,Subjective,Euphoria
+water freezes at 0 degrees celsius,Affirmation,Factual,Neutral
+i hate missing the bus,Affirmation,Subjective,Anger
+chocolate tastes amazing,Affirmation,Subjective,Happiness
+the earth orbits the sun,Affirmation,Factual,Neutral
+i cant stand the rain,Negation,Subjective,Sadness
+sunsets are beautiful,Affirmation,Subjective,Happiness
+gravity pulls objects toward the earth,Affirmation,Factual,Neutral
+traffic jams are frustrating,Affirmation,Subjective,Anger
+plants need sunlight to grow,Affirmation,Factual,Neutral
+i dont enjoy crowded places,Negation,Subjective,Anger
+pizza is delicious,Affirmation,Subjective,Happiness
+winter nights are long,Affirmation,Factual,Neutral
+i miss my friends,Affirmation,Subjective,Sadness
+exercise is good for health,Affirmation,Factual,Neutral
+im not a fan of spicy food,Negation,Subjective,Anger
+books can be very entertaining,Affirmation,Subjective,Happiness
+rainy days make me sad,Affirmation,Subjective,Sadness
+birds can fly,Affirmation,Factual,Neutral
+i love going to the beach,Affirmation,Subjective,Happiness
+the moon shines at night,Affirmation,Factual,Neutral
+rude people are annoying,Affirmation,Subjective,Anger
+spring flowers bloom beautifully,Affirmation,Factual,Neutral
+i cant sleep without a pillow,Negation,Subjective,Neutral
+the internet is full of information,Affirmation,Factual,Neutral
+i detest waking up early,Negation,Subjective,Anger
+summer is my favorite season,Affirmation,Subjective,Happiness
+diamonds are the hardest natural material,Affirmation,Factual,Neutral
+i dont trust strangers easily,Negation,Subjective,Neutral
+music can lift my mood,Affirmation,Subjective,Happiness
+computers help us work faster,Affirmation,Factual,Neutral
+i cant bear the cold,Negation,Subjective,Sadness
+learning new things is exciting,Affirmation,Subjective,Happiness
+the ocean is vast and deep,Affirmation,Factual,Neutral
+i dont like dishonest people,Negation,Subjective,Anger
+cooking is a fun activity,Affirmation,Subjective,Happiness
+thunderstorms can be scary,Affirmation,Subjective,Anger
+books are a source of knowledge,Affirmation,Factual,Neutral
+i hate missing deadlines,Affirmation,Subjective,Anger
+technology is constantly evolving,Affirmation,Factual,Neutral
+im not fond of insects,Negation,Subjective,Neutral
+traveling broadens the mind,Affirmation,Subjective,Happiness
+milk is a good source of calcium,Affirmation,Factual,Neutral
+i cant stand noisy environments,Negation,Subjective,Anger
+art is a form of expression,Affirmation,Factual,Neutral
+procrastination is a bad habit,Affirmation,Subjective,Anger
+i love my family,Affirmation,Subjective,Happiness
+clean water is essential for life,Affirmation,Factual,Neutral
+i dislike waiting in long lines,Negation,Subjective,Anger
+stars are massive balls of gas,Affirmation,Factual,Neutral
+playing games is enjoyable,Affirmation,Subjective,Happiness
+the sky is blue,Affirmation,Factual,Neutral
+i hate being late,Affirmation,Subjective,Anger
+honesty is the best policy,Affirmation,Subjective,Happiness
+i dont find gossip interesting,Negation,Subjective,Neutral
+mountains are majestic,Affirmation,Factual,Neutral
+i feel sad when it rains,Affirmation,Subjective,Sadness
+the earth is round,Affirmation,Factual,Neutral
+i dont like being misunderstood,Negation,Subjective,Sadness
+science helps us understand the world,Affirmation,Factual,Neutral
+i find math challenging,Affirmation,Subjective,Neutral
+movies are a great way to relax,Affirmation,Subjective,Happiness
+i hate feeling unproductive,Affirmation,Subjective,Anger
+the universe is vast and mysterious,Affirmation,Factual,Neutral
+flowers brighten up my day,Affirmation,Subjective,Happiness
+i cant tolerate injustice,Negation,Subjective,Anger
+reading books is a good habit,Affirmation,Subjective,Happiness
+the human body is complex,Affirmation,Factual,Neutral
+i dont like wasting time,Negation,Subjective,Neutral
+music is a universal language,Affirmation,Factual,Neutral
+i feel happy when im with friends,Affirmation,Subjective,Happiness
+sunrise marks a new beginning,Affirmation,Subjective,Happiness
+the sun doesn ’ t rise in the west,Negation,Factual,Neutral
+i don ’ t enjoy rainy days,Negation,Subjective,Sadness
+plants don ’ t grow without sunlight,Negation,Factual,Neutral
+she didn ’ t win the race yesterday,Negation,Factual,Neutral
+i don ’ t feel happy about the news,Negation,Subjective,Sadness
+the moon doesn ’ t emit its own light,Negation,Factual,Neutral
+he doesn ’ t care about my opinion,Negation,Subjective,Anger
+this soup doesn ’ t taste good,Negation,Subjective,Anger
+elephants don ’ t live in the ocean,Negation,Factual,Neutral
+i don ’ t love crowded places,Negation,Subjective,Anger
+the experiment didn ’ t succeed,Negation,Factual,Neutral
+we don ’ t have enough time today,Negation,Subjective,Sadness
+dogs don ’ t speak human languages,Negation,Factual,Neutral
+i don ’ t believe in ghosts,Negation,Subjective,Neutral
+the car didn ’ t start this morning,Negation,Factual,Neutral
+she doesn ’ t appreciate my efforts,Negation,Subjective,Sadness
+rain doesn ’ t fall upward,Negation,Factual,Neutral
+i don ’ t like spicy food,Negation,Subjective,Anger
+the earth doesn ’ t stand still,Negation,Factual,Neutral
+he didn ’ t smile at me today,Negation,Subjective,Sadness
+snakes don ’ t have legs,Negation,Factual,Neutral
+i don ’ t trust strangers easily,Negation,Subjective,Neutral
+the concert didn ’ t impress me,Negation,Subjective,Neutral
+birds don ’ t swim underwater,Negation,Factual,Neutral
+i don ’ t feel safe here,Negation,Subjective,Sadness
+the store doesn ’ t sell books,Negation,Factual,Neutral
+she doesn ’ t understand my jokes,Negation,Subjective,Anger
+ice doesn ’ t melt in the freezer,Negation,Factual,Neutral
+i don ’ t enjoy waking up early,Negation,Subjective,Sadness
+the movie didn ’ t end happily,Negation,Factual,Neutral
+he doesn ’ t play soccer well,Negation,Subjective,Neutral
+stars don ’ t shine during the day,Negation,Factual,Neutral
+i don ’ t want to argue anymore,Negation,Subjective,Anger
+the recipe didn ’ t work out,Negation,Factual,Neutral
+i don ’ t feel energized today,Negation,Subjective,Sadness
+trees don ’ t grow overnight,Negation,Factual,Neutral
+she doesn ’ t listen to advice,Negation,Subjective,Anger
+i don ’ t like cold weather,Negation,Subjective,Sadness
+the phone doesn ’ t charge properly,Negation,Factual,Neutral
+he didn ’ t call me back,Negation,Factual,Sadness
+i don ’ t understand quantum physics,Negation,Subjective,Neutral
+cats don ’ t bark like dogs,Negation,Factual,Neutral
+i don ’ t appreciate loud voices,Negation,Subjective,Anger
+the meeting didn ’ t go well,Negation,Factual,Neutral
+i don ’ t feel calm right now,Negation,Subjective,Sadness
+the sky doesn ’ t turn green,Negation,Factual,Neutral
+she doesn ’ t respect boundaries,Negation,Subjective,Anger
+i don ’ t enjoy long flights,Negation,Subjective,Neutral
+the test didn ’ t cover that topic,Negation,Factual,Neutral
+i don ’ t like being ignored,Negation,Subjective,Anger
+the river doesn ’ t flow uphill,Negation,Factual,Neutral
+i don ’ t enjoy horror movies,Negation,Subjective,Sadness
+glass doesn ’ t bend easily,Negation,Factual,Neutral
+he didn ’ t finish his homework,Negation,Factual,Neutral
+i don ’ t feel proud of this,Negation,Subjective,Sadness
+volcanoes don ’ t erupt every day,Negation,Factual,Neutral
+she doesn ’ t value my time,Negation,Subjective,Anger
+this coffee doesn ’ t taste fresh,Negation,Subjective,Neutral
+fish don ’ t walk on land,Negation,Factual,Neutral
+i don ’ t love tight deadlines,Negation,Subjective,Anger
+the plan didn ’ t go as expected,Negation,Factual,Neutral
+we don ’ t see the stars at noon,Negation,Factual,Neutral
+i don ’ t trust this weather forecast,Negation,Subjective,Neutral
+the lamp doesn ’ t work anymore,Negation,Factual,Neutral
+he doesn ’ t respect my space,Negation,Subjective,Anger
+clouds don ’ t stay still,Negation,Factual,Neutral
+i don ’ t like waiting in lines,Negation,Subjective,Anger
+the train didn ’ t arrive on time,Negation,Factual,Neutral
+she doesn ’ t share her thoughts,Negation,Subjective,Sadness
+i don ’ t feel warm in this jacket,Negation,Subjective,Sadness
+deserts don ’ t get much rain,Negation,Factual,Neutral
+i don ’ t enjoy heavy traffic,Negation,Subjective,Anger
+the book didn ’ t captivate me,Negation,Subjective,Neutral
+bees don ’ t live alone,Negation,Factual,Neutral
+i don ’ t feel rested after sleep,Negation,Subjective,Sadness
+the door doesn ’ t lock properly,Negation,Factual,Neutral
+he doesn ’ t answer my texts,Negation,Factual,Sadness
+i don ’ t like bitter flavors,Negation,Subjective,Anger
+mountains don ’ t move,Negation,Factual,Neutral
+she didn ’ t thank me for the help,Negation,Factual,Sadness
+i don ’ t understand this puzzle,Negation,Subjective,Neutral
+penguins don ’ t fly in the sky,Negation,Factual,Neutral
+i don ’ t appreciate rude comments,Negation,Subjective,Anger
+the game didn ’ t load correctly,Negation,Factual,Neutral
+i don ’ t feel motivated today,Negation,Subjective,Sadness
+oceans don ’ t freeze solid,Negation,Factual,Neutral
+he doesn ’ t follow the rules,Negation,Subjective,Anger
+i don ’ t like cluttered rooms,Negation,Subjective,Neutral
+the email didn ’ t send properly,Negation,Factual,Neutral
+she doesn ’ t care about details,Negation,Subjective,Neutral
+i don ’ t enjoy loud alarms,Negation,Subjective,Anger
+the bridge doesn ’ t sway in the wind,Negation,Factual,Neutral
+he didn ’ t show up on time,Negation,Factual,Sadness
+i don ’ t trust online reviews,Negation,Subjective,Neutral
+rainbows don ’ t last forever,Negation,Factual,Neutral
+i don ’ t feel welcome here,Negation,Subjective,Sadness
+the battery doesn ’ t charge fast,Negation,Factual,Neutral
+she doesn ’ t laugh at my jokes,Negation,Subjective,Sadness
+i don ’ t like sudden changes,Negation,Subjective,Anger
+the sun doesn ’ t orbit the earth,Negation,Factual,Neutral
+the wind doesn ’ t blow indoors,Negation,Factual,Neutral
+i don ’ t enjoy being late,Negation,Subjective,Sadness
+gold doesn ’ t rust like iron,Negation,Factual,Neutral
+he didn ’ t reply to my email,Negation,Factual,Neutral
+i don ’ t feel good about this choice,Negation,Subjective,Sadness
+shadows don ’ t form without light,Negation,Factual,Neutral
+she doesn ’ t notice my efforts,Negation,Subjective,Anger
+this chair doesn ’ t feel comfortable,Negation,Subjective,Neutral
+turtles don ’ t run fast,Negation,Factual,Neutral
+i don ’ t love early meetings,Negation,Subjective,Anger
+the clock didn ’ t chime today,Negation,Factual,Neutral
+we don ’ t hear the ocean from here,Negation,Factual,Neutral
+i don ’ t trust cheap products,Negation,Subjective,Neutral
+the oven doesn ’ t heat evenly,Negation,Factual,Neutral
+he doesn ’ t admit his mistakes,Negation,Subjective,Anger
+fire doesn ’ t thrive without oxygen,Negation,Factual,Neutral
+i don ’ t like scratchy fabrics,Negation,Subjective,Anger
+the package didn ’ t arrive yet,Negation,Factual,Sadness
+she doesn ’ t trust my advice,Negation,Subjective,Sadness
+i don ’ t feel strong today,Negation,Subjective,Sadness
+whales don ’ t live in rivers,Negation,Factual,Neutral
+i don ’ t enjoy repetitive tasks,Negation,Subjective,Neutral
+the song didn ’ t cheer me up,Negation,Subjective,Sadness
+spiders don ’ t have wings,Negation,Factual,Neutral
+i don ’ t feel included in this group,Negation,Subjective,Sadness
+the printer doesn ’ t work well,Negation,Factual,Neutral
+he doesn ’ t keep his promises,Negation,Subjective,Anger
+i don ’ t like dim lighting,Negation,Subjective,Neutral
+glaciers don ’ t melt in a day,Negation,Factual,Neutral
+she didn ’ t acknowledge my work,Negation,Factual,Sadness
+i don ’ t understand this code,Negation,Subjective,Neutral
+butterflies don ’ t bite people,Negation,Factual,Neutral
+i don ’ t appreciate slow service,Negation,Subjective,Anger
+the event didn ’ t start on time,Negation,Factual,Neutral
+i don ’ t feel ready for this,Negation,Subjective,Sadness
+stars don ’ t fall from the sky,Negation,Factual,Neutral
+he doesn ’ t share his food,Negation,Subjective,Neutral
+i don ’ t like humid weather,Negation,Subjective,Sadness
+the app doesn ’ t load quickly,Negation,Factual,Neutral
+she doesn ’ t respond to calls,Negation,Factual,Sadness
+i don ’ t trust this old bridge,Negation,Subjective,Neutral
+frogs don ’ t live in deserts,Negation,Factual,Neutral
+i don ’ t enjoy awkward silences,Negation,Subjective,Sadness
+the light doesn ’ t flicker,Negation,Factual,Neutral
+he didn ’ t offer to help,Negation,Factual,Sadness
+i don ’ t feel confident here,Negation,Subjective,Sadness
+the road doesn ’ t curve sharply,Negation,Factual,Neutral
+she doesn ’ t value honesty,Negation,Subjective,Anger
+i don ’ t like tight shoes,Negation,Subjective,Anger
+the moon doesn ’ t glow red,Negation,Factual,Neutral
+dolphins do not breathe underwater,Negation,Factual,Neutral
+the earth is not flat,Negation,Factual,Neutral
+gold is not edible in large quantities,Negation,Factual,Neutral
+sharks are not mammals,Negation,Factual,Neutral
+bats are not blind,Negation,Factual,Neutral
+tomatoes are not vegetables,Negation,Factual,Neutral
+venus is not the hottest planet in our solar system,Negation,Factual,Neutral
+lightning does not strike the same place twice,Negation,Factual,Neutral
+humans do not have only five senses,Negation,Factual,Neutral
+the great wall of china can not be seen from space,Negation,Factual,Neutral
+chameleons do not change color for camouflage,Negation,Factual,Neutral
+mount everest is not the tallest mountain from base to peak,Negation,Factual,Neutral
+humans can not regrow lost limbs,Negation,Factual,Neutral
+bulls are not enraged by the color red,Negation,Factual,Neutral
+water does not conduct electricity,Negation,Factual,Neutral
+bananas do not grow on trees,Negation,Factual,Neutral
+vikings did not wear horned helmets,Negation,Factual,Neutral
+ostriches do not bury their heads in sand,Negation,Factual,Neutral
+glass is not a liquid,Negation,Factual,Neutral
+cold weather does not cause colds,Negation,Factual,Neutral
+humans can not digest grass,Negation,Factual,Neutral
+einstein did not fail math,Negation,Factual,Neutral
+lemmings do not commit mass suicide,Negation,Factual,Neutral
+light does not travel infinitely fast,Negation,Factual,Neutral
+birds are not descended from dinosaurs,Negation,Factual,Neutral
+wolves do not howl at the moon,Negation,Factual,Neutral
+the appendix is not useless,Negation,Factual,Neutral
+sound can not travel in a vacuum,Negation,Factual,Neutral
+humans do not use only 10 of their brains,Negation,Factual,Neutral
+polar bears do not have white fur,Negation,Factual,Neutral
+peanuts are not nuts,Negation,Factual,Neutral
+alcohol does not kill brain cells,Negation,Factual,Neutral
+mars does not have liquid water,Negation,Factual,Neutral
+lightning does not create fire,Negation,Factual,Neutral
+snakes are not slimy,Negation,Factual,Neutral
+einstein did not invent the atomic bomb,Negation,Factual,Neutral
+octopuses do not have three hearts,Negation,Factual,Neutral
+carrots do not improve night vision,Negation,Factual,Neutral
+taste buds are not mapped to specific zones,Negation,Factual,Neutral
+humans can not breathe while swallowing,Negation,Factual,Neutral
+fingernails do not grow after death,Negation,Factual,Neutral
+black holes are not cosmic vacuums,Negation,Factual,Neutral
+goldfish do not have 3second memories,Negation,Factual,Neutral
+deoxygenated blood is not blue,Negation,Factual,Neutral
+lightning does not come from clouds,Negation,Factual,Neutral
+the human skeleton is not fully replaced every 10 years,Negation,Factual,Neutral
+sharks do not get cancer,Negation,Factual,Neutral
+waking sleepwalkers is not dangerous,Negation,Factual,Neutral
+humans can not survive without bacteria,Negation,Factual,Neutral
+urinating on jellyfish stings is not helpful,Negation,Factual,Neutral
+microwaves do not destroy nutrients in food,Negation,Factual,Neutral
+einstein was not bad at mathematics,Negation,Factual,Neutral
+taste is not limited to the tongue,Negation,Factual,Neutral
+birds do not abandon chicks touched by humans,Negation,Factual,Neutral
+electric cars are not completely emissionfree,Negation,Factual,Neutral
+memory does not work like video recording,Negation,Factual,Neutral
+moon phases are not caused by earths shadow,Negation,Factual,Neutral
+vitamin c does not prevent colds,Negation,Factual,Neutral
+yawning is not primarily about oxygen intake,Negation,Factual,Neutral
+organic food is not pesticidefree,Negation,Factual,Neutral
+leftright brain dominance is not scientifically valid,Negation,Factual,Neutral
+lightning can not power a city,Negation,Factual,Neutral
+dna does not determine everything about us,Negation,Factual,Neutral
+neanderthals were not less intelligent than humans,Negation,Factual,Neutral
+infinity is not a number in mathematics,Negation,Factual,Neutral
+bottled water is not safer than tap water,Negation,Factual,Neutral
+glass does not flow downward over time,Negation,Factual,Neutral
+muscle does not weigh more than fat,Negation,Factual,Neutral
+5g networks do not cause health hazards,Negation,Factual,Neutral
+centrifugal force is not a real force,Negation,Factual,Neutral
+airplanes do not dump waste midflight,Negation,Factual,Neutral
+dark matter is not visible through telescopes,Negation,Factual,Neutral
+mars does not have breathable air,Negation,Factual,Neutral
+antibiotics do not work on viruses,Negation,Factual,Neutral
+sugar does not make children hyperactive,Negation,Factual,Neutral
+black holes are not holes in space,Negation,Factual,Neutral
+fracking does not cause most earthquakes,Negation,Factual,Neutral
+vaccines do not contain microchips,Negation,Factual,Neutral
+astrology is not based on astronomy,Negation,Factual,Neutral
+quantum physics does not enable teleportation,Negation,Factual,Neutral
+aluminum foil does not block all radio waves,Negation,Factual,Neutral
+evolution does not have higher life forms,Negation,Factual,Neutral
+crispr can not edit any dna sequence,Negation,Factual,Neutral
+solar energy is not available 247,Negation,Factual,Neutral
+autism is not caused by vaccines,Negation,Factual,Neutral
+nanobots do not exist in vaccines,Negation,Factual,Neutral
+radiation from phones is not ionizing,Negation,Factual,Neutral
+nuclear energy is not inherently dangerous,Negation,Factual,Neutral
+artificial sweeteners do not cause cancer,Negation,Factual,Neutral
+gmos are not harmful by default,Negation,Factual,Neutral
+moon landings were not faked,Negation,Factual,Neutral
+climate change is not a natural cycle,Negation,Factual,Neutral
+hiv can not spread through mosquitoes,Negation,Factual,Neutral
+forensic science is not infallible,Negation,Factual,Neutral
+dinosaurs did not live with humans,Negation,Factual,Neutral
+pterodactyls are not dinosaurs,Negation,Factual,Neutral
+vaccines do not contain fetal tissue,Negation,Factual,Neutral
+einstein did not reject quantum mechanics,Negation,Factual,Neutral
+covid19 vaccines do not alter dna,Negation,Factual,Neutral
+astronauts are not weightless due to lack of gravity,Negation,Factual,Neutral
+renewable energy is not free of environmental impact,Negation,Factual,Neutral
+i do not enjoy traffic jams,Negation,Factual,Anger
+i cant stand rude behavior,Negation,Factual,Anger
+i dont like being late,Negation,Factual,Anger
+i do not enjoy cold weather,Negation,Factual,Sadness
+i cant bear the thought of losing,Negation,Factual,Sadness
+i dont like when it rains all day,Negation,Factual,Sadness
+i do not enjoy crowded places,Negation,Factual,Anger
+i cant stand dishonesty,Negation,Factual,Anger
+i dont like feeling tired,Negation,Factual,Sadness
+i do not enjoy being ignored,Negation,Factual,Sadness
+i cant bear the sound of loud noises,Negation,Factual,Anger
+i dont like feeling rushed,Negation,Factual,Anger
+i do not enjoy high humidity,Negation,Factual,Sadness
+i cant stand being interrupted,Negation,Factual,Anger
+i dont like excessive heat,Negation,Factual,Sadness
+i do not enjoy feeling stressed,Negation,Factual,Sadness
+i cant bear heavy traffic,Negation,Factual,Anger
+i dont like early mornings,Negation,Factual,Sadness
+i do not enjoy feeling isolated,Negation,Factual,Sadness
+i cant stand bad manners,Negation,Factual,Anger
+i dont like being misunderstood,Negation,Factual,Sadness
+i do not enjoy delays,Negation,Factual,Anger
+i cant bear dirty environments,Negation,Factual,Anger
+i dont like feeling anxious,Negation,Factual,Sadness
+i do not enjoy feeling helpless,Negation,Factual,Sadness
+i cant stand clutter,Negation,Factual,Anger
+i dont like feeling rejected,Negation,Factual,Sadness
+i do not enjoy feeling overwhelmed,Negation,Factual,Sadness
+i cant bear feeling lost,Negation,Factual,Sadness
+i dont like feeling unappreciated,Negation,Factual,Sadness
+i do not enjoy feeling insecure,Negation,Factual,Sadness
+i cant stand feeling bored,Negation,Factual,Sadness
+i dont like feeling hopeless,Negation,Factual,Sadness
+i do not enjoy feeling trapped,Negation,Factual,Sadness
+i cant bear feeling neglected,Negation,Factual,Sadness
+i dont like feeling powerless,Negation,Factual,Sadness
+i do not enjoy feeling forgotten,Negation,Factual,Sadness
+i cant stand feeling inferior,Negation,Factual,Sadness
+i dont like feeling left out,Negation,Factual,Sadness
+i do not enjoy feeling lonely,Negation,Factual,Sadness
+i cant bear feeling unloved,Negation,Factual,Sadness
+i dont like feeling useless,Negation,Factual,Sadness
+i do not enjoy feeling vulnerable,Negation,Factual,Sadness
+i cant stand feeling worthless,Negation,Factual,Sadness
+i dont like feeling anxious in social situations,Negation,Factual,Sadness
+i do not enjoy feeling uneasy,Negation,Factual,Sadness
+i cant bear feeling nervous,Negation,Factual,Sadness
+i dont like feeling drained,Negation,Factual,Sadness
+i do not enjoy feeling exhausted,Negation,Factual,Sadness
+i cant stand feeling fatigued,Negation,Factual,Sadness
+i dont like feeling weak,Negation,Factual,Sadness
+i do not enjoy feeling overwhelmed by tasks,Negation,Factual,Sadness
+i cant bear feeling stressed at work,Negation,Factual,Sadness
+i do not enjoy traffic jams,Negation,Factual,Anger
+i cant stand rude behavior,Negation,Factual,Anger
+i dont like being late,Negation,Factual,Anger
+i do not enjoy cold weather,Negation,Factual,Sadness
+i cant bear the thought of losing,Negation,Factual,Sadness
+i dont like when it rains all day,Negation,Factual,Sadness
+i do not enjoy crowded places,Negation,Factual,Anger
+i cant stand dishonesty,Negation,Factual,Anger
+i dont like feeling tired,Negation,Factual,Sadness
+i do not enjoy being ignored,Negation,Factual,Sadness
+i cant bear the sound of loud noises,Negation,Factual,Anger
+i dont like feeling rushed,Negation,Factual,Anger
+i do not enjoy high humidity,Negation,Factual,Sadness
+i cant stand being interrupted,Negation,Factual,Anger
+i dont like excessive heat,Negation,Factual,Sadness
+i do not enjoy feeling stressed,Negation,Factual,Sadness
+i cant bear heavy traffic,Negation,Factual,Anger
+i dont like early mornings,Negation,Factual,Sadness
+i do not enjoy feeling isolated,Negation,Factual,Sadness
+i cant stand bad manners,Negation,Factual,Anger
+i dont like being misunderstood,Negation,Factual,Sadness
+i do not enjoy delays,Negation,Factual,Anger
+i cant bear dirty environments,Negation,Factual,Anger
+i dont like feeling anxious,Negation,Factual,Sadness
+i do not enjoy feeling helpless,Negation,Factual,Sadness
+i cant stand clutter,Negation,Factual,Anger
+i dont like feeling rejected,Negation,Factual,Sadness
+i do not enjoy feeling overwhelmed,Negation,Factual,Sadness
+i cant bear feeling lost,Negation,Factual,Sadness
+i dont like feeling unappreciated,Negation,Factual,Sadness
+i do not enjoy feeling insecure,Negation,Factual,Sadness
+i cant stand feeling bored,Negation,Factual,Sadness
+i dont like feeling hopeless,Negation,Factual,Sadness
+i do not enjoy feeling trapped,Negation,Factual,Sadness
+i cant bear feeling neglected,Negation,Factual,Sadness
+i dont like feeling powerless,Negation,Factual,Sadness
+i do not enjoy feeling forgotten,Negation,Factual,Sadness
+i cant stand feeling inferior,Negation,Factual,Sadness
+i dont like feeling left out,Negation,Factual,Sadness
+i do not enjoy feeling lonely,Negation,Factual,Sadness
+i cant bear feeling unloved,Negation,Factual,Sadness
+i dont like feeling useless,Negation,Factual,Sadness
+i do not enjoy feeling vulnerable,Negation,Factual,Sadness
+i cant stand feeling worthless,Negation,Factual,Sadness
+i dont like feeling anxious in social situations,Negation,Factual,Sadness
+i do not enjoy feeling uneasy,Negation,Factual,Sadness
+i cant bear feeling nervous,Negation,Factual,Sadness
+i dont like feeling drained,Negation,Factual,Sadness
+i do not enjoy feeling exhausted,Negation,Factual,Sadness
+i cant stand feeling trapped in a routine,Negation,Factual,Sadness
+i dont like feeling overwhelmed by tasks,Negation,Factual,Sadness
+i do not enjoy feeling stressed at work,Negation,Factual,Sadness
+i cant bear feeling ignored by friends,Negation,Factual,Sadness
+i dont like feeling unproductive,Negation,Factual,Sadness
+i do not enjoy feeling pressured to succeed,Negation,Factual,Sadness
+i cant stand feeling disrespected,Negation,Factual,Anger
+i dont like feeling undervalued,Negation,Factual,Sadness
+i do not enjoy feeling isolated from family,Negation,Factual,Sadness
+i cant bear feeling disconnected from reality,Negation,Factual,Sadness
+i dont like feeling unprepared,Negation,Factual,Sadness
+i do not enjoy feeling overwhelmed by emotions,Negation,Factual,Sadness
+i cant stand feeling judged by others,Negation,Factual,Sadness
+i dont like feeling alone in a crowd,Negation,Factual,Sadness
+i do not enjoy feeling stuck in traffic,Negation,Factual,Anger
+i cant bear feeling ignored at work,Negation,Factual,Sadness
+i dont like feeling overwhelmed by responsibilities,Negation,Factual,Sadness
+i do not enjoy feeling neglected by loved ones,Negation,Factual,Sadness
+i cant stand feeling exhausted after a long day,Negation,Factual,Sadness
+i dont like feeling unappreciated at home,Negation,Factual,Sadness
+i do not enjoy feeling anxious about the future,Negation,Factual,Sadness
+i cant bear feeling stuck in a deadend job,Negation,Factual,Sadness
+i dont like feeling disconnected from nature,Negation,Factual,Sadness
+i do not enjoy feeling helpless in difficult situations,Negation,Factual,Sadness
+i cant stand feeling isolated during holidays,Negation,Factual,Sadness
+i dont like feeling overwhelmed by social obligations,Negation,Factual,Sadness
+i do not enjoy feeling unmotivated,Negation,Factual,Sadness
+i cant bear feeling stuck in a rut,Negation,Factual,Sadness
+i dont like feeling overwhelmed by work deadlines,Negation,Factual,Sadness
+i do not enjoy feeling ignored by society,Negation,Factual,Sadness
+i cant stand feeling unappreciated for my efforts,Negation,Factual,Sadness
+i dont like feeling overwhelmed by financial pressures,Negation,Factual,Sadness
+i do not enjoy feeling disconnected from my emotions,Negation,Factual,Sadness
+i do not feel overwhelmed,Negation,Factual,Euphoria
+i cant believe how happy i am,Negation,Factual,Euphoria
+i do not feel stressed,Negation,Factual,Euphoria
+i cant imagine feeling better,Negation,Factual,Euphoria
+i do not experience sadness,Negation,Factual,Euphoria
+i cant believe how joyful life is,Negation,Factual,Euphoria
+i do not worry about the future,Negation,Factual,Euphoria
+i cant feel anything but bliss,Negation,Factual,Euphoria
+i do not miss any opportunities,Negation,Factual,Euphoria
+i cant feel anything but happiness,Negation,Factual,Euphoria
+i do not regret any decisions,Negation,Factual,Euphoria
+i cant believe how great everything is,Negation,Factual,Euphoria
+i do not experience negative emotions,Negation,Factual,Euphoria
+i cant feel anything but excitement,Negation,Factual,Euphoria
+i do not feel any fear,Negation,Factual,Euphoria
+i cant believe how fulfilled i am,Negation,Factual,Euphoria
+i do not have any worries,Negation,Factual,Euphoria
+i cant feel anything but contentment,Negation,Factual,Euphoria
+i do not experience any anxiety,Negation,Factual,Euphoria
+i cant imagine life being any better,Negation,Factual,Euphoria
+i do not feel any stress,Negation,Factual,Euphoria
+i cant feel anything but gratitude,Negation,Factual,Euphoria
+i do not have any regrets,Negation,Factual,Euphoria
+i cant believe how wonderful everything is,Negation,Factual,Euphoria
+i do not experience any doubts,Negation,Factual,Euphoria
+i cant feel anything but joy,Negation,Factual,Euphoria
+i do not have any negative thoughts,Negation,Factual,Euphoria
+i cant believe how lucky i am,Negation,Factual,Euphoria
+i do not feel any discomfort,Negation,Factual,Euphoria
+i cant feel anything but euphoria,Negation,Factual,Euphoria
+i do not worry about anything,Negation,Factual,Euphoria
+i cant believe how amazing life is,Negation,Factual,Euphoria
+i do not feel any sadness,Negation,Factual,Euphoria
+i cant feel anything but positive energy,Negation,Factual,Euphoria
+i do not have any fears,Negation,Factual,Euphoria
+i cant believe how blessed i am,Negation,Factual,Euphoria
+i do not experience any stress,Negation,Factual,Euphoria
+i cant feel anything but ecstasy,Negation,Factual,Euphoria
+i do not have any concerns,Negation,Factual,Euphoria
+i cant believe how perfect everything is,Negation,Factual,Euphoria
+i do not experience any sadness,Negation,Factual,Euphoria
+i cant feel anything but thrill,Negation,Factual,Euphoria
+i do not have any worries,Negation,Factual,Euphoria
+i cant believe how delightful life is,Negation,Factual,Euphoria
+i do not feel any anxiety,Negation,Factual,Euphoria
+i cant feel anything but pure joy,Negation,Factual,Euphoria
+i do not have any negative feelings,Negation,Factual,Euphoria
+i cant believe how satisfied i am,Negation,Factual,Euphoria
+i do not feel any fear,Negation,Factual,Euphoria
+i cant feel anything but happiness,Negation,Factual,Euphoria
+i dont like being ignored,Negation,Subjective,Anger
+i never feel happy when it rains,Negation,Subjective,Sadness
+i dont believe this day could get any worse,Negation,Subjective,Anger
+i have never experienced such joy,Negation,Subjective,Euphoria
+i cant stand waiting in long queues,Negation,Subjective,Anger
+i dont enjoy spicy food,Negation,Subjective,Anger
+i dont think this is fair,Negation,Subjective,Anger
+i never expected to feel this happy,Negation,Subjective,Happiness
+i dont want to lose this moment,Negation,Subjective,Euphoria
+i have never felt so alive,Negation,Subjective,Euphoria
+i dont see why people like horror movies,Negation,Subjective,Anger
+i dont want to be left behind,Negation,Subjective,Sadness
+i cant believe i won,Negation,Subjective,Euphoria
+i dont appreciate being treated unfairly,Negation,Subjective,Anger
+i never thought id be this lucky,Negation,Subjective,Happiness
+i dont feel comfortable in large crowds,Negation,Subjective,Sadness
+i dont think i can handle another disappointment,Negation,Subjective,Sadness
+i dont want this moment to end,Negation,Subjective,Happiness
+i have never felt more at peace,Negation,Subjective,Happiness
+i dont want to fail,Negation,Subjective,Sadness
+i never imagined such beauty existed,Negation,Subjective,Euphoria
+i dont want to let go of this happiness,Negation,Subjective,Happiness
+i cant stand rude people,Negation,Subjective,Anger
+i have never been so disappointed,Negation,Subjective,Sadness
+i dont want to relive that moment,Negation,Subjective,Sadness
+i dont think this is a good idea,Negation,Subjective,Anger
+i cant believe they did that to me,Negation,Subjective,Anger
+i never get tired of hearing good news,Negation,Subjective,Happiness
+i dont feel like talking right now,Negation,Subjective,Sadness
+i dont like seeing people suffer,Negation,Subjective,Sadness
+i never get tired of this feeling,Negation,Subjective,Euphoria
+i dont think ill ever get over this loss,Negation,Subjective,Sadness
+i dont like when plans change unexpectedly,Negation,Subjective,Anger
+i never felt this much joy before,Negation,Subjective,Euphoria
+i dont want to remember that painful day,Negation,Subjective,Sadness
+i cant believe how amazing this is,Negation,Subjective,Euphoria
+i dont want to be alone right now,Negation,Subjective,Sadness
+i never expected such kindness,Negation,Subjective,Happiness
+i dont like being rushed,Negation,Subjective,Anger
+i cant believe how beautiful this is,Negation,Subjective,Euphoria
+i never want this day to end,Negation,Subjective,Happiness
+i dont want to lose this feeling,Negation,Subjective,Happiness
+i never imagined feeling this good,Negation,Subjective,Euphoria
+i dont want to go back to that place,Negation,Subjective,Sadness
+i cant stand it when people lie,Negation,Subjective,Anger
+i never get tired of these happy moments,Negation,Subjective,Happiness
+i dont like it when people interrupt me,Negation,Subjective,Anger
+i dont want to miss this opportunity,Negation,Subjective,Happiness
+i cant believe how unfair this is,Negation,Subjective,Anger
+i have never laughed so hard,Negation,Subjective,Euphoria
+i dont like being ignored,Negation,Subjective,Anger
+i never feel happy when it rains,Negation,Subjective,Sadness
+i dont believe this day could get any worse,Negation,Subjective,Anger
+i have never experienced such joy,Negation,Subjective,Euphoria
+i cant stand waiting in long queues,Negation,Subjective,Anger
+i dont enjoy spicy food,Negation,Subjective,Anger
+i dont think this is fair,Negation,Subjective,Anger
+i never expected to feel this happy,Negation,Subjective,Happiness
+i dont want to lose this moment,Negation,Subjective,Euphoria
+i have never felt so alive,Negation,Subjective,Euphoria
+i dont see why people like horror movies,Negation,Subjective,Anger
+i dont want to be left behind,Negation,Subjective,Sadness
+i cant believe i won,Negation,Subjective,Euphoria
+i dont appreciate being treated unfairly,Negation,Subjective,Anger
+i never thought id be this lucky,Negation,Subjective,Happiness
+i dont feel comfortable in large crowds,Negation,Subjective,Sadness
+i dont think i can handle another disappointment,Negation,Subjective,Sadness
+i dont want this moment to end,Negation,Subjective,Happiness
+i have never felt more at peace,Negation,Subjective,Happiness
+i dont want to fail,Negation,Subjective,Sadness
+i never imagined such beauty existed,Negation,Subjective,Euphoria
+i dont want to let go of this happiness,Negation,Subjective,Happiness
+i cant stand rude people,Negation,Subjective,Anger
+i have never been so disappointed,Negation,Subjective,Sadness
+i dont want to relive that moment,Negation,Subjective,Sadness
+i dont think this is a good idea,Negation,Subjective,Anger
+i cant believe they did that to me,Negation,Subjective,Anger
+i never get tired of hearing good news,Negation,Subjective,Happiness
+i dont feel like talking right now,Negation,Subjective,Sadness
+i dont like seeing people suffer,Negation,Subjective,Sadness
+i never get tired of this feeling,Negation,Subjective,Euphoria
+i dont think ill ever get over this loss,Negation,Subjective,Sadness
+i dont like when plans change unexpectedly,Negation,Subjective,Anger
+i never felt this much joy before,Negation,Subjective,Euphoria
+i dont want to remember that painful day,Negation,Subjective,Sadness
+i cant believe how amazing this is,Negation,Subjective,Euphoria
+i dont want to be alone right now,Negation,Subjective,Sadness
+i never expected such kindness,Negation,Subjective,Happiness
+i dont like being rushed,Negation,Subjective,Anger
+i cant believe how beautiful this is,Negation,Subjective,Euphoria
+i never want this day to end,Negation,Subjective,Happiness
+i dont want to lose this feeling,Negation,Subjective,Happiness
+i never imagined feeling this good,Negation,Subjective,Euphoria
+i dont want to go back to that place,Negation,Subjective,Sadness
+i cant stand it when people lie,Negation,Subjective,Anger
+i never get tired of these happy moments,Negation,Subjective,Happiness
+i dont like it when people interrupt me,Negation,Subjective,Anger
+i dont want to miss this opportunity,Negation,Subjective,Happiness
+i cant believe how unfair this is,Negation,Subjective,Anger
+i have never laughed so hard,Negation,Subjective,Euphoria
+i cant believe they forgot my birthday,Negation,Subjective,Sadness
+i dont want to leave this beautiful place,Negation,Subjective,Happiness
+i never thought id feel this heartbroken,Negation,Subjective,Sadness
+i cant stand traffic jams,Negation,Subjective,Anger
+i never imagined id accomplish this goal,Negation,Subjective,Euphoria
+i dont want to hear bad news today,Negation,Subjective,Sadness
+i cant believe how rude some people are,Negation,Subjective,Anger
+i never want to forget this amazing moment,Negation,Subjective,Happiness
+i dont like seeing people argue,Negation,Subjective,Sadness
+i cant believe i lost my keys again,Negation,Subjective,Anger
+i never thought id feel this excited,Negation,Subjective,Euphoria
+i dont want to be late for the event,Negation,Subjective,Anger
+i cant stand when people break promises,Negation,Subjective,Anger
+i never get tired of watching sunsets,Negation,Subjective,Happiness
+i dont like feeling helpless,Negation,Subjective,Sadness
+i cant believe how lucky i am today,Negation,Subjective,Euphoria
+i never expected such a wonderful surprise,Negation,Subjective,Happiness
+i dont want to wake up from this dream,Negation,Subjective,Euphoria
+i cant believe they didnt invite me,Negation,Subjective,Sadness
+i dont enjoy listening to negative news,Negation,Subjective,Sadness
+i never thought id laugh this much,Negation,Subjective,Euphoria
+i cant believe how much i love this song,Negation,Subjective,Happiness
+i dont want to think about the past,Negation,Subjective,Sadness
+i cant stand when people interrupt me,Negation,Subjective,Anger
+i never imagined i would travel to this place,Negation,Subjective,Euphoria
+i dont want to say goodbye,Negation,Subjective,Sadness
+i cant believe how delicious this meal is,Negation,Subjective,Happiness
+i never get tired of hearing your laugh,Negation,Subjective,Happiness
+i dont feel like celebrating today,Negation,Subjective,Sadness
+i cant believe how unfair this situation is,Negation,Subjective,Anger
+i never expected to receive this award,Negation,Subjective,Euphoria
+i dont like it when people ignore my messages,Negation,Subjective,Anger
+i cant stand when someone takes credit for my work,Negation,Subjective,Anger
+i never want to stop feeling this way,Negation,Subjective,Euphoria
+i dont feel appreciated,Negation,Subjective,Sadness
+i cant believe how breathtaking this view is,Negation,Subjective,Euphoria
+i never thought id make it this far,Negation,Subjective,Happiness
+i dont like it when people are dishonest,Negation,Subjective,Anger
+i cant believe how much fun im having,Negation,Subjective,Euphoria
+i never imagined finding such a deep connection,Negation,Subjective,Happiness
+i dont want to argue anymore,Negation,Subjective,Sadness
+i cant believe how much this means to me,Negation,Subjective,Happiness
+i never expected to feel this way,Negation,Subjective,Euphoria
+i dont want to waste this opportunity,Negation,Subjective,Happiness
+i cant believe how frustrating this is,Negation,Subjective,Anger
+i never thought id miss this place so much,Negation,Subjective,Sadness
+i dont like being underestimated,Negation,Subjective,Anger
+i cant believe how amazing this adventure is,Negation,Subjective,Euphoria
+i never get tired of listening to this song,Negation,Subjective,Happiness
+this traffic jam is making me furious,Affirmation,Subjective,Anger
+the surprise party was a complete success im overjoyed,Affirmation,Subjective,Euphoria
+im so happy the sun is shining today,Affirmation,Subjective,Happiness
+he completely disregarded my feelings im livid,Affirmation,Subjective,Anger
+winning the lottery felt like pure bliss,Affirmation,Subjective,Euphoria
+this delicious meal is making me so happy,Affirmation,Subjective,Happiness
+i cant believe they lied to me im so angry,Affirmation,Subjective,Anger
+the birth of my child was the most euphoric moment of my life,Affirmation,Subjective,Euphoria
+im delighted by the positive feedback,Affirmation,Subjective,Happiness
+that rude comment really ticked me off,Affirmation,Subjective,Anger
+the breathtaking view from the summit filled me with euphoria,Affirmation,Subjective,Euphoria
+im thrilled to be going on vacation,Affirmation,Subjective,Happiness
+im boiling with rage at their incompetence,Affirmation,Subjective,Anger
+the standing ovation was a moment of pure euphoria,Affirmation,Subjective,Euphoria
+im beaming with happiness after the good news,Affirmation,Subjective,Happiness
+his betrayal has left me seething with resentment,Affirmation,Subjective,Anger
+the feeling of weightlessness in space was utterly euphoric,Affirmation,Subjective,Euphoria
+im ecstatic about the upcoming concert,Affirmation,Subjective,Happiness
+im infuriated by their lack of respect,Affirmation,Subjective,Anger
+the feeling of completing a marathon was pure euphoria,Affirmation,Subjective,Euphoria
+im overjoyed by the unexpected gift,Affirmation,Subjective,Happiness
+im absolutely fuming about the broken promise,Affirmation,Subjective,Anger
+the feeling of falling in love was completely euphoric,Affirmation,Subjective,Euphoria
+im so pleased with my progress,Affirmation,Subjective,Happiness
+im filled with indignation at their unfair treatment,Affirmation,Subjective,Anger
+the sensation of flying in a dream was truly euphoric,Affirmation,Subjective,Euphoria
+im delighted by the warm welcome,Affirmation,Subjective,Happiness
+im enraged by their careless actions,Affirmation,Subjective,Anger
+the moment i saw the northern lights was pure euphoria,Affirmation,Subjective,Euphoria
+im so happy to see my old friends,Affirmation,Subjective,Happiness
+im burning with anger at their deceit,Affirmation,Subjective,Anger
+the feeling of winning a championship was euphoric,Affirmation,Subjective,Euphoria
+im thrilled with the positive outcome,Affirmation,Subjective,Happiness
+im incensed by their blatant disregard,Affirmation,Subjective,Anger
+the feeling of holding my newborn child was euphoric,Affirmation,Subjective,Euphoria
+im so happy to be surrounded by nature,Affirmation,Subjective,Happiness
+im consumed with fury at their lies,Affirmation,Subjective,Anger
+the feeling of reaching the summit of a mountain was euphoric,Affirmation,Subjective,Euphoria
+im overjoyed to receive such good news,Affirmation,Subjective,Happiness
+im absolutely livid about the cancellation,Affirmation,Subjective,Anger
+the feeling of finally achieving my goals was euphoric,Affirmation,Subjective,Euphoria
+im delighted by the beautiful scenery,Affirmation,Subjective,Happiness
+im boiling over with anger at their incompetence,Affirmation,Subjective,Anger
+the feeling of dancing under the stars was pure euphoria,Affirmation,Subjective,Euphoria
+im thrilled to be going on this adventure,Affirmation,Subjective,Happiness
+im infuriated by their constant interruptions,Affirmation,Subjective,Anger
+the feeling of hearing my favorite song live was euphoric,Affirmation,Subjective,Euphoria
+im beaming with happiness after the promotion,Affirmation,Subjective,Happiness
+im seething with resentment at their betrayal,Affirmation,Subjective,Anger
+the feeling of diving into a cool clear ocean was euphoric,Affirmation,Subjective,Euphoria
+im ecstatic about the new opportunity,Affirmation,Subjective,Happiness
+im enraged by their thoughtless remarks,Affirmation,Subjective,Anger
+the feeling of seeing a shooting star was pure euphoria,Affirmation,Subjective,Euphoria
+im so pleased with the results of my hard work,Affirmation,Subjective,Happiness
+im filled with indignation at their unjust actions,Affirmation,Subjective,Anger
+the feeling of riding a roller coaster was euphoric,Affirmation,Subjective,Euphoria
+im delighted by the thoughtful gesture,Affirmation,Subjective,Happiness
+im burning with anger at their dishonesty,Affirmation,Subjective,Anger
+the feeling of being surrounded by loved ones was euphoric,Affirmation,Subjective,Euphoria
+im thrilled with the positive feedback,Affirmation,Subjective,Happiness
+im incensed by their blatant lies,Affirmation,Subjective,Anger
+the feeling of watching a beautiful sunset was pure euphoria,Affirmation,Subjective,Euphoria
+im overjoyed by the unexpected visit,Affirmation,Subjective,Happiness
+im absolutely fuming about the delay,Affirmation,Subjective,Anger
+the feeling of completing a challenging project was euphoric,Affirmation,Subjective,Euphoria
+im so happy to be celebrating this special occasion,Affirmation,Subjective,Happiness
+im consumed with fury at their broken promises,Affirmation,Subjective,Anger
+the feeling of listening to my favorite music was euphoric,Affirmation,Subjective,Euphoria
+im ecstatic about the upcoming adventure,Affirmation,Subjective,Happiness
+im boiling over with anger at their negligence,Affirmation,Subjective,Anger
+the feeling of seeing a rainbow after a storm was pure euphoria,Affirmation,Subjective,Euphoria
+im beaming with happiness after the successful presentation,Affirmation,Subjective,Happiness
+im seething with resentment at their constant criticism,Affirmation,Subjective,Anger
+the feeling of finally understanding a difficult concept was euphoric,Affirmation,Subjective,Euphoria
+im delighted by the kind words,Affirmation,Subjective,Happiness
+im infuriated by their lack of consideration,Affirmation,Subjective,Anger
+the feeling of seeing my favorite artist perform was euphoric,Affirmation,Subjective,Euphoria
+im thrilled with the outstanding performance,Affirmation,Subjective,Happiness
+im enraged by their disrespectful behavior,Affirmation,Subjective,Anger
+the feeling of achieving a lifelong dream was pure euphoria,Affirmation,Subjective,Euphoria
+im overjoyed by the unexpected promotion,Affirmation,Subjective,Happiness
+im absolutely livid about the unfair decision,Affirmation,Subjective,Anger
+the feeling of witnessing a historical event was euphoric,Affirmation,Subjective,Euphoria
+im so happy to be spending time with family,Affirmation,Subjective,Happiness
+im consumed with fury at their betrayal of trust,Affirmation,Subjective,Anger
+the feeling of finally finishing a long journey was euphoric,Affirmation,Subjective,Euphoria
+im ecstatic about the new job offer,Affirmation,Subjective,Happiness
+im boiling over with anger at their incompetence,Affirmation,Subjective,Anger
+the feeling of seeing a meteor shower was pure euphoria,Affirmation,Subjective,Euphoria
+im beaming with happiness after the graduation,Affirmation,Subjective,Happiness
+im seething with resentment at their constant negativity,Affirmation,Subjective,Anger
+the feeling of creating something beautiful was euphoric,Affirmation,Subjective,Euphoria
+im delighted by the positive outcome of the project,Affirmation,Subjective,Happiness
+im infuriated by their lack of empathy,Affirmation,Subjective,Anger
+the feeling of seeing a wild animal in its natural habitat was euphoric,Affirmation,Subjective,Euphoria
+this blatant disrespect is making my blood boil,Affirmation,Subjective,Anger
+the surprise proposal on the beach was pure euphoria,Affirmation,Subjective,Euphoria
+im absolutely delighted by the childrens laughter,Affirmation,Subjective,Happiness
+their constant lies have ignited a fire of rage within me,Affirmation,Subjective,Anger
+the feeling of soaring through the clouds in a glider was euphoric,Affirmation,Subjective,Euphoria
+im brimming with happiness after receiving the award,Affirmation,Subjective,Happiness
+im seething with fury at their deliberate sabotage,Affirmation,Subjective,Anger
+the moment the music swelled at the climax of the opera was euphoric,Affirmation,Subjective,Euphoria
+im overjoyed by the unexpected reunion with my siblings,Affirmation,Subjective,Happiness
+his condescending tone is driving me up the wall with anger,Affirmation,Subjective,Anger
+the feeling of witnessing a rare astronomical event was truly euphoric,Affirmation,Subjective,Euphoria
+im bursting with happiness after the successful performance,Affirmation,Subjective,Happiness
+im consumed by a burning rage at their unjust accusations,Affirmation,Subjective,Anger
+the feeling of finally crossing the finish line was utterly euphoric,Affirmation,Subjective,Euphoria
+im thrilled beyond words by the heartwarming surprise,Affirmation,Subjective,Happiness
+their blatant disregard for my time is making me incandescent with rage,Affirmation,Subjective,Anger
+the feeling of dancing freely under a waterfall was pure euphoria,Affirmation,Subjective,Euphoria
+im radiating happiness after the longawaited vacation,Affirmation,Subjective,Happiness
+im filled with a cold fury at their calculated manipulation,Affirmation,Subjective,Anger
+the sensation of floating in a sensory deprivation tank was euphoric,Affirmation,Subjective,Euphoria
+im glowing with happiness after the heartwarming news,Affirmation,Subjective,Happiness
+their constant nitpicking is pushing me to the brink of anger,Affirmation,Subjective,Anger
+the feeling of completing a complex puzzle was euphoric satisfaction,Affirmation,Subjective,Euphoria
+im elated by the unexpected outpouring of support,Affirmation,Subjective,Happiness
+im simmering with resentment at their constant undermining,Affirmation,Subjective,Anger
+the feeling of seeing a pod of dolphins leaping from the ocean was euphoric,Affirmation,Subjective,Euphoria
+im absolutely delighted by the childrens impromptu performance,Affirmation,Subjective,Happiness
+their blatant lies have ignited a wildfire of anger within me,Affirmation,Subjective,Anger
+the feeling of watching a field of wildflowers sway in the breeze was euphoric,Affirmation,Subjective,Euphoria
+im beaming with joy after the longdistance call from my friend,Affirmation,Subjective,Happiness
+im burning with indignation at their blatant favoritism,Affirmation,Subjective,Anger
+the sensation of weightlessness while skydiving was pure euphoria,Affirmation,Subjective,Euphoria
+im overflowing with happiness after the successful art exhibition,Affirmation,Subjective,Happiness
+their constant interruptions are making me see red with anger,Affirmation,Subjective,Anger
+the feeling of witnessing a lunar eclipse was truly euphoric,Affirmation,Subjective,Euphoria
+im ecstatic about the unexpected promotion at work,Affirmation,Subjective,Happiness
+im consumed by a burning fury at their deliberate deception,Affirmation,Subjective,Anger
+the feeling of finally solving a complex problem was utterly euphoric,Affirmation,Subjective,Euphoria
+im thrilled beyond measure by the surprise party thrown in my honor,Affirmation,Subjective,Happiness
+their constant negativity is making me explode with rage,Affirmation,Subjective,Anger
+the feeling of watching a shooting star streak across the night sky was euphoric,Affirmation,Subjective,Euphoria
+im radiating pure joy after the heartfelt reunion with my old classmates,Affirmation,Subjective,Happiness
+im filled with a cold anger at their calculated betrayal of trust,Affirmation,Subjective,Anger
+the sensation of floating in a hot air balloon at sunrise was euphoric,Affirmation,Subjective,Euphoria
+im glowing with happiness after the unexpected gift from my neighbor,Affirmation,Subjective,Happiness
+their condescending attitude is making me see red with frustration,Affirmation,Subjective,Anger
+the feeling of completing a challenging hike to a breathtaking vista was euphoric,Affirmation,Subjective,Euphoria
+im elated by the spontaneous trip to the beach with my friends,Affirmation,Subjective,Happiness
+im simmering with anger at their constant attempts to undermine my authority,Affirmation,Subjective,Anger
+the feeling of witnessing a whale breaching the oceans surface was euphoric,Affirmation,Subjective,Euphoria
+im absolutely delighted by the childrens unexpected musical performance,Affirmation,Subjective,Happiness
+their persistent lies have ignited a raging inferno of anger within me,Affirmation,Subjective,Anger
+the feeling of watching the aurora borealis dance across the night sky was euphoric,Affirmation,Subjective,Euphoria
+im beaming with sheer joy after receiving the acceptance letter to my dream school,Affirmation,Subjective,Happiness
+im burning with righteous indignation at their cruel and unjust actions,Affirmation,Subjective,Anger
+the sensation of dancing barefoot in the rain was pure unadulterated euphoria,Affirmation,Subjective,Euphoria
+im overflowing with pure happiness after the surprise visit from my longlost cousin,Affirmation,Subjective,Happiness
+their constant passiveaggressive remarks are making me absolutely furious,Affirmation,Subjective,Anger
+the feeling of watching a meteor shower light up the night sky was euphoric,Affirmation,Subjective,Euphoria
+im ecstatic about the spontaneous road trip to the mountains with my best friends,Affirmation,Subjective,Happiness
+im consumed by a burning whitehot fury at their calculated and malicious slander,Affirmation,Subjective,Anger
+the feeling of finally achieving a longheld personal goal was utterly completely euphoric,Affirmation,Subjective,Euphoria
+im thrilled beyond words by the unexpected standing ovation after my speech,Affirmation,Subjective,Happiness
+their relentless petty grievances are driving me to the absolute brink of rage,Affirmation,Subjective,Anger
+the feeling of witnessing a total solar eclipse was an experience of pure unearthly euphoria,Affirmation,Subjective,Euphoria
+im radiating pure unadulterated happiness after the surprise engagement party,Affirmation,Subjective,Happiness
+im filled with a cold simmering rage at their calculated and deliberate sabotage of my work,Affirmation,Subjective,Anger
+the sensation of floating weightlessly in zero gravity was a moment of transcendent euphoria,Affirmation,Subjective,Euphoria
+im glowing with unbridled happiness after the surprise reunion with my childhood friends,Affirmation,Subjective,Happiness
+their constant manipulative tactics are pushing me to the edge of uncontrollable anger,Affirmation,Subjective,Anger
+the feeling of completing a complex and challenging artistic project was a moment of pure creative euphoria,Affirmation,Subjective,Euphoria
+im elated by the spontaneous lastminute trip to the tropical island with my partner,Affirmation,Subjective,Happiness
+im simmering with a deep seething resentment at their constant attempts to undermine my credibility,Affirmation,Subjective,Anger
+the feeling of witnessing a rare and spectacular natural phenomenon was a moment of sheer unadulterated euphoria,Affirmation,Subjective,Euphoria
+their utter disregard for my boundaries is sparking a volcanic eruption of anger within me,Affirmation,Subjective,Anger
+the feeling of finally holding the championship trophy aloft was a moment of pure unadulterated euphoria,Affirmation,Subjective,Euphoria
+im positively beaming with pure unadulterated happiness after the surprise homecoming,Affirmation,Subjective,Happiness
+im seething with a cold calculated rage at their systematic attempts to dismantle my reputation,Affirmation,Subjective,Anger
+the feeling of exploring a hidden cave system was a moment of breathtaking otherworldly euphoria,Affirmation,Subjective,Euphoria
+im absolutely overflowing with joy after the unexpected reunion with my childhood pet,Affirmation,Subjective,Happiness
+their blatant unprovoked aggression is igniting a raging inferno of fury within my soul,Affirmation,Subjective,Anger
+the feeling of finally reaching the summit of mount everest was a moment of transcendent unparalleled euphoria,Affirmation,Subjective,Euphoria
+im radiant with pure unadulterated delight after the surprise wedding proposal,Affirmation,Subjective,Happiness
+their constant insidious manipulation is driving me to the absolute brink of uncontrollable rage,Affirmation,Subjective,Anger
+the feeling of witnessing a rare bioluminescent display was a moment of pure ethereal euphoria,Affirmation,Subjective,Euphoria
+im positively glowing with happiness after the surprise adoption of a rescue animal,Affirmation,Subjective,Happiness
+their unmitigated arrogance is sparking an uncontrollable wildfire of anger within my core,Affirmation,Subjective,Anger
+the feeling of finally completing a complex and challenging artistic masterpiece was a moment of pure creative euphoria,Affirmation,Subjective,Euphoria
+im brimming with pure unadulterated joy after the surprise visit from my longlost relatives,Affirmation,Subjective,Happiness
+their relentless petty grievances are pushing me to the absolute edge of incandescent rage,Affirmation,Subjective,Anger
+the feeling of finally achieving a lifelong dream of performing on a grand stage was a moment of pure unadulterated euphoria,Affirmation,Subjective,Euphoria
+im absolutely bursting with delight after the surprise renovation of my childhood home,Affirmation,Subjective,Happiness
+their insidious calculated treachery is igniting a burning inferno of vengeance within my heart,Affirmation,Subjective,Anger
+the feeling of exploring a newly discovered underwater reef was a moment of breathtaking aquatic euphoria,Affirmation,Subjective,Euphoria
+im positively radiating pure unadulterated happiness after the surprise scholarship announcement,Affirmation,Subjective,Happiness
+their flagrant unprovoked hostility is making my blood boil with uncontrollable fury,Affirmation,Subjective,Anger
+the feeling of finally completing a complex and challenging scientific breakthrough was a moment of pure intellectual euphoria,Affirmation,Subjective,Euphoria
+im absolutely glowing with joy after the surprise reunion with my estranged siblings,Affirmation,Subjective,Happiness
+their constant backhanded compliments are driving me to the precipice of explosive anger,Affirmation,Subjective,Anger
+the feeling of witnessing a rare and spectacular aurora borealis display was a moment of pure celestial euphoria,Affirmation,Subjective,Euphoria
+im brimming with sheer happiness after the surprise celebration of my milestone achievement,Affirmation,Subjective,Happiness
+their calculated systematic undermining of my efforts is igniting a cold simmering rage within me,Affirmation,Subjective,Anger
+the feeling of finally completing a challenging and transformative spiritual journey was a moment of pure transcendent euphoria,Affirmation,Subjective,Euphoria
+im positively overflowing with pure unadulterated delight after the surprise party thrown by my closest friends,Affirmation,Subjective,Happiness
+their unmitigated deliberate attempts to sabotage my success are fueling an inferno of righteous anger,Affirmation,Subjective,Anger
+the feeling of exploring a newly discovered ancient temple was a moment of breathtaking historical euphoria,Affirmation,Subjective,Euphoria
+im absolutely radiating pure joy after the surprise announcement of my books publication,Affirmation,Subjective,Happiness
+their constant passiveaggressive jabs are pushing me to the brink of uncontrollable fury,Affirmation,Subjective,Anger
+the feeling of witnessing a rare and spectacular volcanic eruption was a moment of pure primal euphoria,Affirmation,Subjective,Euphoria
+im beaming with sheer happiness after the spontaneous surprise trip to my favorite destination,Affirmation,Subjective,Happiness
+their insidious calculated attempts to manipulate my emotions are igniting a cold burning rage within me,Affirmation,Subjective,Anger
+the feeling of finally achieving a complex and challenging athletic feat was a moment of pure physical euphoria,Affirmation,Subjective,Euphoria
+im positively glowing with pure unadulterated delight after the surprise visit from my favorite celebrity,Affirmation,Subjective,Happiness
+their unmitigated blatant disrespect is making my blood boil with uncontrollable indignation,Affirmation,Subjective,Anger
+the feeling of exploring a newly discovered rainforest canopy was a moment of breathtaking natural euphoria,Affirmation,Subjective,Euphoria
+im overflowing with sheer delight after the surprise unveiling of a family heirloom,Affirmation,Subjective,Happiness
+their constant subtle acts of sabotage are driving me to the edge of incandescent anger,Affirmation,Subjective,Anger
+the feeling of witnessing a rare and spectacular astronomical alignment was a moment of pure cosmic euphoria,Affirmation,Subjective,Euphoria
+im brimming with pure unadulterated joy after the surprise announcement of my engagement,Affirmation,Subjective,Happiness
+their deliberate calculated attempts to undermine my authority are fueling an inferno of righteous rage,Affirmation,Subjective,Anger
+the feeling of finally mastering a complex and challenging musical composition was a moment of pure artistic euphoria,Affirmation,Subjective,Euphoria
+im positively beaming with happiness after the surprise donation to my favorite charity,Affirmation,Subjective,Happiness
+their unmitigated persistent attempts to discredit me are sparking an uncontrollable wildfire of fury,Affirmation,Subjective,Anger
+the feeling of exploring a newly discovered deepsea trench was a moment of breathtaking abyssal euphoria,Affirmation,Subjective,Euphoria
+im absolutely radiating pure unadulterated delight after the surprise reunion with my favorite childhood mentor,Affirmation,Subjective,Happiness
+their constant veiled threats are pushing me to the precipice of explosive anger and retaliation,Affirmation,Subjective,Anger
+the feeling of witnessing a rare and spectacular migration of wildlife was a moment of pure primal wonder and euphoria,Affirmation,Subjective,Euphoria

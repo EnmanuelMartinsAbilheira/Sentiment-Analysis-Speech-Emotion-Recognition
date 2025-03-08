@@ -106,7 +106,7 @@ class TextAnalyzer:
         }
     
     def analyze_sentence_type(self, text):
-        """Determine if the sentence is affirmative or negative and personal or factual"""
+        """Determine if the sentence is affirmative or negative"""
         doc = nlp(text)
         
         # Check for negation

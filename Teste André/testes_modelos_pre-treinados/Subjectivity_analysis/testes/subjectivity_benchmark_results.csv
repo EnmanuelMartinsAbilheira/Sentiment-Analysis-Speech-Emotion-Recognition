@@ -1,0 +1,21 @@
+text,objective_score,subjective_score,classification,inference_time,ground_truth,correct,model,avg_inference_time
+The Earth revolves around the Sun.,0.9980716109275818,0.0019283914007246494,FACT,0.07633757591247559,FACT,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+I think this movie is absolutely terrible.,0.0028202421963214874,0.9971797466278076,OPINION,0.09953880310058594,OPINION,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+Water boils at 100 degrees Celsius at sea level.,0.9969022870063782,0.0030977053102105856,FACT,0.10027694702148438,FACT,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+"In my opinion, the government should increase funding for education.",0.00588263850659132,0.9941173791885376,OPINION,0.10557246208190918,OPINION,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+Paris is the capital of France.,0.9981297850608826,0.00187025498598814,FACT,0.11353492736816406,FACT,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+This is probably the best restaurant in town.,0.9866223931312561,0.013377648778259754,FACT,0.22973418235778809,OPINION,False,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+The movie Inception was released in 2010.,0.9978412389755249,0.002158797113224864,FACT,0.12752079963684082,FACT,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+Chocolate ice cream tastes better than vanilla.,0.002951602451503277,0.9970484375953674,OPINION,0.11702466011047363,OPINION,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+The Eiffel Tower is located in Paris.,0.9981946349143982,0.0018054337706416845,FACT,0.10343074798583984,FACT,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+I believe that exercise is crucial for maintaining good health.,0.0029444333631545305,0.9970555305480957,OPINION,0.10084176063537598,OPINION,True,lighteternal/fact-or-opinion-xlmr-el,0.11118737061818441
+The Earth revolves around the Sun.,0.9476223587989807,0.05237766355276108,FACT,0.519047737121582,FACT,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+I think this movie is absolutely terrible.,0.02300010249018669,0.9769998788833618,OPINION,0.43280601501464844,OPINION,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+Water boils at 100 degrees Celsius at sea level.,0.9895628094673157,0.010437143966555595,FACT,0.43191957473754883,FACT,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+"In my opinion, the government should increase funding for education.",0.07465394586324692,0.9253460764884949,OPINION,0.6759800910949707,OPINION,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+Paris is the capital of France.,0.9818990230560303,0.01810099370777607,FACT,0.40358853340148926,FACT,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+This is probably the best restaurant in town.,0.02186010032892227,0.9781398773193359,OPINION,0.38608694076538086,OPINION,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+The movie Inception was released in 2010.,0.9933717250823975,0.006628321949392557,FACT,0.3837571144104004,FACT,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+Chocolate ice cream tastes better than vanilla.,0.9602413773536682,0.03975865617394447,FACT,0.4740598201751709,OPINION,False,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+The Eiffel Tower is located in Paris.,0.9891439080238342,0.010856100358068943,FACT,0.5118591785430908,FACT,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078
+I believe that exercise is crucial for maintaining good health.,0.03385106846690178,0.9661489129066467,OPINION,0.9659278392791748,OPINION,True,GroNLP/mdebertav3-subjectivity-multilingual,0.4548027118047078

@@ -1,0 +1,7 @@
+model,class,precision,recall,f1,accuracy,correct,total
+lighteternal/fact-or-opinion-xlmr-el,FACT,0.8333333333333334,1.0,0.9090909090909091,,,
+lighteternal/fact-or-opinion-xlmr-el,OPINION,1.0,0.8,0.888888888888889,,,
+lighteternal/fact-or-opinion-xlmr-el,Overall,,,,0.9,9.0,10.0
+GroNLP/mdebertav3-subjectivity-multilingual,FACT,0.8333333333333334,1.0,0.9090909090909091,,,
+GroNLP/mdebertav3-subjectivity-multilingual,OPINION,1.0,0.8,0.888888888888889,,,
+GroNLP/mdebertav3-subjectivity-multilingual,Overall,,,,0.9,9.0,10.0
