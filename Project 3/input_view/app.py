@@ -145,9 +145,9 @@ def index():
         corrected = correct_sentence(text)
         
         # Initialize model choices based on the selected model_type
-        type_model_choice = model_type
-        fact_model_choice = model_type
-        sentiment_model_choice = model_type
+        type_model_choice = request.form.get("type_model", "custom")
+        fact_model_choice = request.form.get("fact_model", "custom")
+        sentiment_model_choice = request.form.get("sentiment_model", "custom")
         
         # Get type prediction
         if type_model_choice == "custom":
