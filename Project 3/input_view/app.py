@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 import sqlite3
 import pickle
 import numpy as np
+import os
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from spellchecker import SpellChecker
@@ -12,17 +13,20 @@ from transformers import pipeline
 app = Flask(__name__)
 
 """Here we load the custom models"""
-# Load models and vectorizer
-with open("models/best_model_Type.pkl", "rb") as f:
+# Get the directory where this script is located
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Load models and vectorizer with absolute paths
+with open(os.path.join(BASE_DIR, "models", "best_model_Type.pkl"), "rb") as f:
     type_model = pickle.load(f)
 
-with open("models/best_model_Factuality.pkl", "rb") as f:
+with open(os.path.join(BASE_DIR, "models", "best_model_Factuality.pkl"), "rb") as f:
     fact_model = pickle.load(f)
 
-with open("models/best_model_Sentiment.pkl", "rb") as f:
+with open(os.path.join(BASE_DIR, "models", "best_model_Sentiment.pkl"), "rb") as f:
     sentiment_model = pickle.load(f)
 
-with open("models/tfidf_vectorizer.pkl", "rb") as f:
+with open(os.path.join(BASE_DIR, "models", "tfidf_vectorizer.pkl"), "rb") as f:
     vectorizer = pickle.load(f)
 
 """Here we load the pretrained models"""
@@ -183,9 +187,9 @@ def index():
         corrected = correct_sentence(text)
         
         # Initialize model choices based on the selected model_type
-        type_model_choice = request.form.get("type_model", "custom")
-        fact_model_choice = request.form.get("fact_model", "custom")
-        sentiment_model_choice = request.form.get("sentiment_model", "custom")
+        type_model_choice = request.form.get("type_model", model_type)
+        fact_model_choice = request.form.get("fact_model", model_type)
+        sentiment_model_choice = request.form.get("sentiment_model", model_type)
         
         # Get type prediction
         if type_model_choice == "custom":
