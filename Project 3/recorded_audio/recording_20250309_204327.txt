@@ -1,0 +1,1 @@
+Erro na conversão/transcrição: [WinError 2] El sistema no puede encontrar el archivo especificado

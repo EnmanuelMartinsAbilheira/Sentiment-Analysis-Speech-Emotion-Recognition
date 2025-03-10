@@ -1,35 +1,27 @@
 from flask import Flask, render_template, request
-import sqlite3
 import pickle
 import numpy as np
-import os
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from spellchecker import SpellChecker
 from gramformer import Gramformer
 import spacy
 from transformers import pipeline
-import matplotlib.pyplot as plt
-import io
-import base64
 
 app = Flask(__name__)
 
 """Here we load the custom models"""
-# Get the directory where this script is located
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# Load models and vectorizer with absolute paths
-with open(os.path.join(BASE_DIR, "models", "best_model_Type.pkl"), "rb") as f:
+# Load models and vectorizer
+with open("models/best_model_Type.pkl", "rb") as f:
     type_model = pickle.load(f)
 
-with open(os.path.join(BASE_DIR, "models", "best_model_Factuality.pkl"), "rb") as f:
+with open("models/best_model_Factuality.pkl", "rb") as f:
     fact_model = pickle.load(f)
 
-with open(os.path.join(BASE_DIR, "models", "best_model_Sentiment.pkl"), "rb") as f:
+with open("models/best_model_Sentiment.pkl", "rb") as f:
     sentiment_model = pickle.load(f)
 
-with open(os.path.join(BASE_DIR, "models", "tfidf_vectorizer.pkl"), "rb") as f:
+with open("models/tfidf_vectorizer.pkl", "rb") as f:
     vectorizer = pickle.load(f)
 
 """Here we load the pretrained models"""
@@ -143,97 +135,6 @@ def predict_with_pretrained_model(text, prediction_type):
     
     return "Unknown"
 
-# Database setup
-def setup_database():
-    conn = sqlite3.connect('predictions.db')
-    c = conn.cursor()
-    c.execute('''
-        CREATE TABLE IF NOT EXISTS predictions (
-            id INTEGER PRIMARY KEY,
-            original_sentence TEXT,
-            corrected_sentence TEXT,
-            type_prediction TEXT,
-            factuality_prediction TEXT,
-            sentiment_prediction TEXT
-        )
-    ''')
-    conn.commit()
-    conn.close()
-
-def save_prediction(original_sentence, corrected_sentence, type_prediction, factuality_prediction, sentiment_prediction):
-    conn = sqlite3.connect('predictions.db')
-    c = conn.cursor()
-    c.execute('''
-        INSERT INTO predictions (original_sentence, corrected_sentence, type_prediction, factuality_prediction, sentiment_prediction)
-        VALUES (?, ?, ?, ?, ?)
-    ''', (original_sentence, corrected_sentence, type_prediction, factuality_prediction, sentiment_prediction))
-    conn.commit()
-    conn.close()
-
-
-def generate_plot():
-    conn = sqlite3.connect('predictions.db')
-    c = conn.cursor()
-    c.execute('SELECT type_prediction, COUNT(*) FROM predictions GROUP BY type_prediction')
-    type_data = c.fetchall()
-    c.execute('SELECT factuality_prediction, COUNT(*) FROM predictions GROUP BY factuality_prediction')
-    factuality_data = c.fetchall()
-    c.execute('SELECT sentiment_prediction, COUNT(*) FROM predictions GROUP BY sentiment_prediction')
-    sentiment_data = c.fetchall()
-    conn.close()
-
-    # Plot type predictions
-    type_labels, type_counts = zip(*type_data)
-    plt.figure(figsize=(10, 6))
-    plt.bar(type_labels, type_counts, color='skyblue')
-    plt.title('Type Predictions Count')
-    plt.xlabel('Type Prediction')
-    plt.ylabel('Count')
-    type_plot = io.BytesIO()
-    plt.savefig(type_plot, format='png')
-    type_plot.seek(0)
-    type_plot_url = base64.b64encode(type_plot.getvalue()).decode()
-
-    # Plot factuality predictions
-    factuality_labels, factuality_counts = zip(*factuality_data)
-    plt.figure(figsize=(10, 6))
-    plt.bar(factuality_labels, factuality_counts, color='lightgreen')
-    plt.title('Factuality Predictions Count')
-    plt.xlabel('Factuality Prediction')
-    plt.ylabel('Count')
-    factuality_plot = io.BytesIO()
-    plt.savefig(factuality_plot, format='png')
-    factuality_plot.seek(0)
-    factuality_plot_url = base64.b64encode(factuality_plot.getvalue()).decode()
-
-    # Plot sentiment predictions
-    sentiment_labels, sentiment_counts = zip(*sentiment_data)
-    plt.figure(figsize=(10, 6))
-    plt.bar(sentiment_labels, sentiment_counts, color='lightcoral')
-    plt.title('Sentiment Predictions Count')
-    plt.xlabel('Sentiment Prediction')
-    plt.ylabel('Count')
-    sentiment_plot = io.BytesIO()
-    plt.savefig(sentiment_plot, format='png')
-    sentiment_plot.seek(0)
-    sentiment_plot_url = base64.b64encode(sentiment_plot.getvalue()).decode()
-
-    return type_plot_url, factuality_plot_url, sentiment_plot_url
-
-# Route to display predictions
-@app.route("/predictions")
-def predictions():
-    conn = sqlite3.connect('predictions.db')
-    c = conn.cursor()
-    c.execute('SELECT * FROM predictions')
-    rows = c.fetchall()
-    conn.close()
-    #return render_template('predictions.html', rows=rows)
-    
-    type_plot_url, factuality_plot_url, sentiment_plot_url = generate_plot()
-    
-    return render_template('predictions.html', rows=rows, type_plot_url=type_plot_url, factuality_plot_url=factuality_plot_url, sentiment_plot_url=sentiment_plot_url)
-
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
@@ -244,9 +145,9 @@ def index():
         corrected = correct_sentence(text)
         
         # Initialize model choices based on the selected model_type
-        type_model_choice = request.form.get("type_model", model_type)
-        fact_model_choice = request.form.get("fact_model", model_type)
-        sentiment_model_choice = request.form.get("sentiment_model", model_type)
+        type_model_choice = request.form.get("type_model", "custom")
+        fact_model_choice = request.form.get("fact_model", "custom")
+        sentiment_model_choice = request.form.get("sentiment_model", "custom")
         
         # Get type prediction
         if type_model_choice == "custom":
@@ -272,9 +173,6 @@ def index():
             sentiment_pred = predict_with_pretrained_model(corrected, 'sentiment')
             sentiment_model_label = "Modelo Pré-treinado"
 
-        # Save predictions to SQLite
-        save_prediction(text, corrected, type_pred, fact_pred, sentiment_pred)
-
         return render_template(
             "result.html",
             original_text=text,
@@ -293,5 +191,4 @@ def index():
     return render_template("index.html")
 
 if __name__ == "__main__":
-    setup_database()
     app.run(debug=True)

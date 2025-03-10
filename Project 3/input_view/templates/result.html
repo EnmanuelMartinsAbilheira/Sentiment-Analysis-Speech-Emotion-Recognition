@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <header class="header">
-    <img src="static/logo.png" alt="Logotipo"> <!-- Substituir pelo caminho correto do logotipo -->
+    <img src="static/logo.png" alt="Logotipo" > <!-- Substituir pelo caminho correto do logotipo -->
     <div class="team-names">
         <div class="team-member">
             <p class="name">Enmanuel Abilheira</p>
@@ -95,6 +95,25 @@
                 </div>
             </div>
         </form>
+
+        
+        <div>
+            <h2>Descrição dos Modelos</h2>
+            <p>Modelo Pré-treinado: </p>
+            <ul>
+                <li>Modelo Tipo/Polaridade: Spacy</li>
+                <li>Modelo Subjectividade: fact-or-opinion-xlmr-el </li>
+                <li>Modelo Sentimento: Sentiment-Analysis-BERT</li>
+            </ul>
+
+            <p>Modelo Customizado: </p>
+            <ul>
+                <li>Modelo Tipo/Polaridade: posito/negativo: Embedding + Logistic Regression </li>
+                <li>Modelo Subjectividade: Factual ou nao: TF-IDF + Logistic Regression </li>
+                <li>Modelo Sentimento: Sentimento: Embedding + XGBoost </li>
+            </ul>
+        
+        </div>
         
         <a href="{{ url_for('index') }}" class="back-button">Voltar</a>
     </div>

@@ -31,7 +31,7 @@
     <div class="container">
         <h1>Insira seu Texto</h1>
         <form method="POST">
-            <textarea name="text" placeholder="Digite o texto aqui..." rows="5" required></textarea>
+            <textarea name="text" placeholder="Digite o texto em Ingles aqui..." rows="5" required></textarea>
             
             <div class="model-selection">
                 <label for="model_type">Selecione o modelo:</label>
@@ -41,9 +41,29 @@
                 </select>
             </div>
             
+            <br>
             <button type="submit">Analisar</button>
         </form>
+
+        <div>
+            <h2>Descrição dos Modelos</h2>
+            <p>Modelo Pré-treinado: </p>
+            <ul>
+                <li>Modelo Tipo/Polaridade: Spacy</li>
+                <li>Modelo Subjectividade: fact-or-opinion-xlmr-el</li>
+                <li>Modelo Sentimento: Sentiment-Analysis-BERT</li>
+            </ul>
+
+            <p>Modelo Customizado: </p>
+            <ul>
+                <li>Modelo Tipo/Polaridade: positivo/negativo: Embedding + Logistic Regression</li>
+                <li>Modelo Subjectividade: Factual ou não: TF-IDF + Logistic Regression</li>
+                <li>Modelo Sentimento: Sentimento: Embedding + XGBoost</li>
+            </ul>
+        </div>
+
+        <br>
+        <a href="{{ url_for('predictions') }}" class="back-button">Ver Previsões Salvas</a> <!-- Link para a página de previsões -->
     </div>
 </body>
 </html>
-
