@@ -182,43 +182,67 @@ def generate_plot():
     sentiment_data = c.fetchall()
     conn.close()
 
-    # Plot type predictions
+    # Generate bar and pie plots for type predictions
     type_labels, type_counts = zip(*type_data)
     plt.figure(figsize=(10, 6))
     plt.bar(type_labels, type_counts, color='skyblue')
     plt.title('Type Predictions Count')
     plt.xlabel('Type Prediction')
     plt.ylabel('Count')
-    type_plot = io.BytesIO()
-    plt.savefig(type_plot, format='png')
-    type_plot.seek(0)
-    type_plot_url = base64.b64encode(type_plot.getvalue()).decode()
+    type_bar_plot = io.BytesIO()
+    plt.savefig(type_bar_plot, format='png')
+    type_bar_plot.seek(0)
+    type_bar_plot_url = base64.b64encode(type_bar_plot.getvalue()).decode()
 
-    # Plot factuality predictions
+    plt.figure(figsize=(6, 6))
+    plt.pie(type_counts, labels=type_labels, autopct='%1.1f%%', colors=plt.cm.Paired.colors)
+    plt.title('Type Predictions Distribution')
+    type_pie_plot = io.BytesIO()
+    plt.savefig(type_pie_plot, format='png')
+    type_pie_plot.seek(0)
+    type_pie_plot_url = base64.b64encode(type_pie_plot.getvalue()).decode()
+
+    # Generate bar and pie plots for factuality predictions
     factuality_labels, factuality_counts = zip(*factuality_data)
     plt.figure(figsize=(10, 6))
     plt.bar(factuality_labels, factuality_counts, color='lightgreen')
     plt.title('Factuality Predictions Count')
     plt.xlabel('Factuality Prediction')
     plt.ylabel('Count')
-    factuality_plot = io.BytesIO()
-    plt.savefig(factuality_plot, format='png')
-    factuality_plot.seek(0)
-    factuality_plot_url = base64.b64encode(factuality_plot.getvalue()).decode()
+    factuality_bar_plot = io.BytesIO()
+    plt.savefig(factuality_bar_plot, format='png')
+    factuality_bar_plot.seek(0)
+    factuality_bar_plot_url = base64.b64encode(factuality_bar_plot.getvalue()).decode()
 
-    # Plot sentiment predictions
+    plt.figure(figsize=(6, 6))
+    plt.pie(factuality_counts, labels=factuality_labels, autopct='%1.1f%%', colors=plt.cm.Paired.colors)
+    plt.title('Factuality Predictions Distribution')
+    factuality_pie_plot = io.BytesIO()
+    plt.savefig(factuality_pie_plot, format='png')
+    factuality_pie_plot.seek(0)
+    factuality_pie_plot_url = base64.b64encode(factuality_pie_plot.getvalue()).decode()
+
+    # Generate bar and pie plots for sentiment predictions
     sentiment_labels, sentiment_counts = zip(*sentiment_data)
     plt.figure(figsize=(10, 6))
     plt.bar(sentiment_labels, sentiment_counts, color='lightcoral')
     plt.title('Sentiment Predictions Count')
     plt.xlabel('Sentiment Prediction')
     plt.ylabel('Count')
-    sentiment_plot = io.BytesIO()
-    plt.savefig(sentiment_plot, format='png')
-    sentiment_plot.seek(0)
-    sentiment_plot_url = base64.b64encode(sentiment_plot.getvalue()).decode()
+    sentiment_bar_plot = io.BytesIO()
+    plt.savefig(sentiment_bar_plot, format='png')
+    sentiment_bar_plot.seek(0)
+    sentiment_bar_plot_url = base64.b64encode(sentiment_bar_plot.getvalue()).decode()
 
-    return type_plot_url, factuality_plot_url, sentiment_plot_url
+    plt.figure(figsize=(6, 6))
+    plt.pie(sentiment_counts, labels=sentiment_labels, autopct='%1.1f%%', colors=plt.cm.Paired.colors)
+    plt.title('Sentiment Predictions Distribution')
+    sentiment_pie_plot = io.BytesIO()
+    plt.savefig(sentiment_pie_plot, format='png')
+    sentiment_pie_plot.seek(0)
+    sentiment_pie_plot_url = base64.b64encode(sentiment_pie_plot.getvalue()).decode()
+
+    return type_bar_plot_url, type_pie_plot_url, factuality_bar_plot_url, factuality_pie_plot_url, sentiment_bar_plot_url, sentiment_pie_plot_url
 
 # Route to display predictions
 @app.route("/predictions")
@@ -228,11 +252,11 @@ def predictions():
     c.execute('SELECT * FROM predictions')
     rows = c.fetchall()
     conn.close()
-    #return render_template('predictions.html', rows=rows)
     
-    type_plot_url, factuality_plot_url, sentiment_plot_url = generate_plot()
+    type_bar_plot_url, type_pie_plot_url, factuality_bar_plot_url, factuality_pie_plot_url, sentiment_bar_plot_url, sentiment_pie_plot_url = generate_plot()
     
-    return render_template('predictions.html', rows=rows, type_plot_url=type_plot_url, factuality_plot_url=factuality_plot_url, sentiment_plot_url=sentiment_plot_url)
+    return render_template('predictions.html', rows=rows, type_bar_plot_url=type_bar_plot_url, type_pie_plot_url=type_pie_plot_url, factuality_bar_plot_url=factuality_bar_plot_url, factuality_pie_plot_url=factuality_pie_plot_url, sentiment_bar_plot_url=sentiment_bar_plot_url, sentiment_pie_plot_url=sentiment_pie_plot_url)
+
 
 @app.route("/", methods=["GET", "POST"])
 def index():
