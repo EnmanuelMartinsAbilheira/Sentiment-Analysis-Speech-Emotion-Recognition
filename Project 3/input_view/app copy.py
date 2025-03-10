@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-import sqlite3
 import pickle
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -136,43 +135,6 @@ def predict_with_pretrained_model(text, prediction_type):
     
     return "Unknown"
 
-# Database setup
-def setup_database():
-    conn = sqlite3.connect('predictions.db')
-    c = conn.cursor()
-    c.execute('''
-        CREATE TABLE IF NOT EXISTS predictions (
-            id INTEGER PRIMARY KEY,
-            original_sentence TEXT,
-            corrected_sentence TEXT,
-            type_prediction TEXT,
-            factuality_prediction TEXT,
-            sentiment_prediction TEXT
-        )
-    ''')
-    conn.commit()
-    conn.close()
-
-def save_prediction(original_sentence, corrected_sentence, type_prediction, factuality_prediction, sentiment_prediction):
-    conn = sqlite3.connect('predictions.db')
-    c = conn.cursor()
-    c.execute('''
-        INSERT INTO predictions (original_sentence, corrected_sentence, type_prediction, factuality_prediction, sentiment_prediction)
-        VALUES (?, ?, ?, ?, ?)
-    ''', (original_sentence, corrected_sentence, type_prediction, factuality_prediction, sentiment_prediction))
-    conn.commit()
-    conn.close()
-
-# Route to display predictions
-@app.route("/predictions")
-def predictions():
-    conn = sqlite3.connect('predictions.db')
-    c = conn.cursor()
-    c.execute('SELECT * FROM predictions')
-    rows = c.fetchall()
-    conn.close()
-    return render_template('predictions.html', rows=rows)
-
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
@@ -211,9 +173,6 @@ def index():
             sentiment_pred = predict_with_pretrained_model(corrected, 'sentiment')
             sentiment_model_label = "Modelo Pré-treinado"
 
-        # Save predictions to SQLite
-        save_prediction(text, corrected, type_pred, fact_pred, sentiment_pred)
-
         return render_template(
             "result.html",
             original_text=text,
@@ -232,5 +191,4 @@ def index():
     return render_template("index.html")
 
 if __name__ == "__main__":
-    setup_database()
     app.run(debug=True)

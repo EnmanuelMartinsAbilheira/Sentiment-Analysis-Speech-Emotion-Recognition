@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Predição de Texto</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<header class="header">
+    <img src="static/logo.png" alt="Logotipo"> <!-- Substituir pelo caminho correto do logotipo -->
+    <div class="team-names">
+        <div class="team-member">
+            <p class="name">Enmanuel Abilheira</p>
+            <p class="id">A16430</p>
+        </div>
+        <div class="team-member">
+            <p class="name">Bruno Silva</p>
+            <p class="id">A20811</p>
+        </div>
+        <div class="team-member">
+            <p class="name">David Rodrigues</p>
+            <p class="id">A21177</p>
+        </div>
+        <div class="team-member">
+            <p class="name">André Araújo</p>
+            <p class="id">A21185</p>
+        </div>
+    </div>
+</header>
+<body>
+    <h1>Predictions List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Original Sentence</th>
+                <th>Corrected Sentence</th>
+                <th>Type Prediction</th>
+                <th>Factuality Prediction</th>
+                <th>Sentiment Prediction</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in rows %}
+            <tr>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[1] }}</td>
+                <td>{{ row[2] }}</td>
+                <td>{{ row[3] }}</td>
+                <td>{{ row[4] }}</td>
+                <td>{{ row[5] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <br>
+    <a href="{{ url_for('index') }}" class="back-button">Voltar</a>
+</body>
+</html>

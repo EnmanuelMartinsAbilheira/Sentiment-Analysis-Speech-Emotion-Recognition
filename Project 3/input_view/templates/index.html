@@ -45,27 +45,25 @@
             <button type="submit">Analisar</button>
         </form>
 
-        
         <div>
             <h2>Descrição dos Modelos</h2>
             <p>Modelo Pré-treinado: </p>
             <ul>
                 <li>Modelo Tipo/Polaridade: Spacy</li>
-                <li>Modelo Subjectividade: fact-or-opinion-xlmr-el </li>
+                <li>Modelo Subjectividade: fact-or-opinion-xlmr-el</li>
                 <li>Modelo Sentimento: Sentiment-Analysis-BERT</li>
             </ul>
 
             <p>Modelo Customizado: </p>
             <ul>
-                <li>Modelo Tipo/Polaridade: posito/negativo: Embedding + Logistic Regression </li>
-                <li>Modelo Subjectividade: Factual ou nao: TF-IDF + Logistic Regression </li>
-                <li>Modelo Sentimento: Sentimento: Embedding + XGBoost </li>
+                <li>Modelo Tipo/Polaridade: positivo/negativo: Embedding + Logistic Regression</li>
+                <li>Modelo Subjectividade: Factual ou não: TF-IDF + Logistic Regression</li>
+                <li>Modelo Sentimento: Sentimento: Embedding + XGBoost</li>
             </ul>
-        
         </div>
 
-
+        <br>
+        <a href="{{ url_for('predictions') }}" class="back-button">Ver Previsões Salvas</a> <!-- Link para a página de previsões -->
     </div>
 </body>
 </html>
-
