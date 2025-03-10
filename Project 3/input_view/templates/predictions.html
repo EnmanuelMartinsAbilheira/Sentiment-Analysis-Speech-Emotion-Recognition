@@ -53,6 +53,25 @@
         </tbody>
     </table>
 
+    <div class="plots-prediction">
+
+        <div class="type-predictions">
+            <h2>Type Predictions Count</h2>
+            <img src="data:image/png;base64,{{ type_plot_url }}" alt="Type Predictions Count">
+        </div>
+
+        <div class="factuality-predictions">
+            <h2>Factuality Predictions Count</h2>
+            <img src="data:image/png;base64,{{ factuality_plot_url }}" alt="Factuality Predictions Count">
+        </div>
+
+        <div class="sentiment-predictions">
+            <h2>Sentiment Predictions Count</h2>
+            <img src="data:image/png;base64,{{ sentiment_plot_url }}" alt="Sentiment Predictions Count">
+        </div>
+
+    </div>
+
     <br>
     <a href="{{ url_for('index') }}" class="back-button">Voltar</a>
 </body>

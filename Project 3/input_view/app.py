@@ -8,6 +8,9 @@ from spellchecker import SpellChecker
 from gramformer import Gramformer
 import spacy
 from transformers import pipeline
+import matplotlib.pyplot as plt
+import io
+import base64
 
 app = Flask(__name__)
 
@@ -163,6 +166,56 @@ def save_prediction(original_sentence, corrected_sentence, type_prediction, fact
     conn.commit()
     conn.close()
 
+
+def generate_plot():
+    conn = sqlite3.connect('predictions.db')
+    c = conn.cursor()
+    c.execute('SELECT type_prediction, COUNT(*) FROM predictions GROUP BY type_prediction')
+    type_data = c.fetchall()
+    c.execute('SELECT factuality_prediction, COUNT(*) FROM predictions GROUP BY factuality_prediction')
+    factuality_data = c.fetchall()
+    c.execute('SELECT sentiment_prediction, COUNT(*) FROM predictions GROUP BY sentiment_prediction')
+    sentiment_data = c.fetchall()
+    conn.close()
+
+    # Plot type predictions
+    type_labels, type_counts = zip(*type_data)
+    plt.figure(figsize=(10, 6))
+    plt.bar(type_labels, type_counts, color='skyblue')
+    plt.title('Type Predictions Count')
+    plt.xlabel('Type Prediction')
+    plt.ylabel('Count')
+    type_plot = io.BytesIO()
+    plt.savefig(type_plot, format='png')
+    type_plot.seek(0)
+    type_plot_url = base64.b64encode(type_plot.getvalue()).decode()
+
+    # Plot factuality predictions
+    factuality_labels, factuality_counts = zip(*factuality_data)
+    plt.figure(figsize=(10, 6))
+    plt.bar(factuality_labels, factuality_counts, color='lightgreen')
+    plt.title('Factuality Predictions Count')
+    plt.xlabel('Factuality Prediction')
+    plt.ylabel('Count')
+    factuality_plot = io.BytesIO()
+    plt.savefig(factuality_plot, format='png')
+    factuality_plot.seek(0)
+    factuality_plot_url = base64.b64encode(factuality_plot.getvalue()).decode()
+
+    # Plot sentiment predictions
+    sentiment_labels, sentiment_counts = zip(*sentiment_data)
+    plt.figure(figsize=(10, 6))
+    plt.bar(sentiment_labels, sentiment_counts, color='lightcoral')
+    plt.title('Sentiment Predictions Count')
+    plt.xlabel('Sentiment Prediction')
+    plt.ylabel('Count')
+    sentiment_plot = io.BytesIO()
+    plt.savefig(sentiment_plot, format='png')
+    sentiment_plot.seek(0)
+    sentiment_plot_url = base64.b64encode(sentiment_plot.getvalue()).decode()
+
+    return type_plot_url, factuality_plot_url, sentiment_plot_url
+
 # Route to display predictions
 @app.route("/predictions")
 def predictions():
@@ -171,7 +224,11 @@ def predictions():
     c.execute('SELECT * FROM predictions')
     rows = c.fetchall()
     conn.close()
-    return render_template('predictions.html', rows=rows)
+    #return render_template('predictions.html', rows=rows)
+    
+    type_plot_url, factuality_plot_url, sentiment_plot_url = generate_plot()
+    
+    return render_template('predictions.html', rows=rows, type_plot_url=type_plot_url, factuality_plot_url=factuality_plot_url, sentiment_plot_url=sentiment_plot_url)
 
 @app.route("/", methods=["GET", "POST"])
 def index():
