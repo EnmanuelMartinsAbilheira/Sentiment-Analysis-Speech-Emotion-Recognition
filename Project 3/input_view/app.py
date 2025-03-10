@@ -170,7 +170,6 @@ def save_prediction(original_sentence, corrected_sentence, type_prediction, fact
     conn.commit()
     conn.close()
 
-
 def generate_plot():
     conn = sqlite3.connect('predictions.db')
     c = conn.cursor()
@@ -243,6 +242,70 @@ def generate_plot():
     sentiment_pie_plot_url = base64.b64encode(sentiment_pie_plot.getvalue()).decode()
 
     return type_bar_plot_url, type_pie_plot_url, factuality_bar_plot_url, factuality_pie_plot_url, sentiment_bar_plot_url, sentiment_pie_plot_url
+
+def voice_to_text_prediction():  # final project 
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    pass
 
 # Route to display predictions
 @app.route("/predictions")
