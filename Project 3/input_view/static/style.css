@@ -205,6 +205,16 @@ button[type="submit"]:hover {
 
 
 table {
+
+    /*
+    display: block;
+    align-items: center;
+    align-content: center;
+    width: 90%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    */
+
     width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
