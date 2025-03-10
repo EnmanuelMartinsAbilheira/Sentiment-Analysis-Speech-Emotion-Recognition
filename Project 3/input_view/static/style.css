@@ -252,3 +252,14 @@ th {
 
 .type-predictions, .factuality-predictions, .sentiment-predictions {
     margin-bottom: 40px;
+}
+    
+.container2 {
+    width: 100%;
+    max-width: 1200px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
