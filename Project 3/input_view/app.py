@@ -243,69 +243,43 @@ def generate_plot():
 
     return type_bar_plot_url, type_pie_plot_url, factuality_bar_plot_url, factuality_pie_plot_url, sentiment_bar_plot_url, sentiment_pie_plot_url
 
-def voice_to_text_prediction():  # final project 
-    
-    
+# Final Project
+def voice_to_text_prediction():
+    """Graba audio y transcrribe a texto usando Whisper"""
+    import sounddevice as sd
+    import numpy as np
+    import wave
+    from pydub import AudioSegment
+    import whisper
+
+    # Configuração da gravação
+    SAMPLE_RATE = 44100
+    CHANNELS = 1
+    DURATION = 10
+
+    def record_audio(filename="output.wav", duration=DURATION):
+        print(f"🎤 Gravando... ({duration} segundos)")
+        audio_data = sd.rec(int(duration * SAMPLE_RATE), samplerate=SAMPLE_RATE, channels=CHANNELS, dtype=np.int16)
+        sd.wait()
+        with wave.open(filename, "wb") as wf:
+            wf.setnchannels(CHANNELS)
+            wf.setsampwidth(2)
+            wf.setframerate(SAMPLE_RATE)
+            wf.writeframes(audio_data.tobytes())
+        print("⏹️ Gravação concluída.")
+        return filename
+
+    def transcribe_audio(audio_path):
+        print("📝 Transcrevendo o áudio...")
+        model = whisper.load_model("small")
+        result = model.transcribe(audio_path, language="en")
+        return result["text"]
+
+    audio_file = record_audio()
+    transcribed_text = transcribe_audio(audio_file)
+    return transcribed_text
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    pass
 
 # Route to display predictions
 @app.route("/predictions")
@@ -324,7 +298,14 @@ def predictions():
 @app.route("/", methods=["GET", "POST"])
 def index():
     if request.method == "POST":
-        text = request.form.get("text")
+        
+        # Verificar si se envió un formulario de texto o una solicitud de voz
+        if "text" in request.form:
+            text = request.form.get("text")
+        else:
+            # Si no hay texto, asumir que es una solicitud de voz
+            text = voice_to_text_prediction()
+            
         model_type = request.form.get("model_type", "custom")  # Get the selected model type
         
         # Correct spelling and grammar
