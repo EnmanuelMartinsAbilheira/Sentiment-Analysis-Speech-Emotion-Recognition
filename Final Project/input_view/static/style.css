@@ -1,0 +1,265 @@
+/* Estilos gerais */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #037816;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.header img {
+    height: 100px;
+}
+
+.header .team-names {
+    text-align: right;
+    font-size: 14px;
+}
+
+/* Títulos */
+h1, h2 {
+    color: #333;
+    text-align: center;
+}
+
+/* Estilos para a caixa de resultados */
+.result-box {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Text display section */
+.text-display {
+    margin-bottom: 25px;
+}
+
+/* Model configuration section */
+.model-config {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 30px 0;
+}
+
+.model-config h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+/* Model selector rows */
+.model-selector {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.model-selector:last-child {
+    border-bottom: none;
+}
+
+/* Model option (left side) */
+.model-option {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.model-option label {
+    font-weight: bold;
+    margin-right: 15px;
+    min-width: 170px;
+}
+
+.model-option select {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: white;
+}
+
+/* Result display (right side) */
+.result-display {
+    display: flex;
+    align-items: center;
+    width: 45%;
+}
+
+.model-label {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #505050;
+}
+
+.model-result {
+    font-weight: bold;
+    color: #007BFF;
+}
+
+/* Estilizando os labels */
+.result-label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Form elements */
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    resize: vertical;
+    font-family: inherit;
+}
+
+button[type="submit"] {
+    background: #037816;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    transition: background 0.2s;
+}
+
+button[type="submit"]:hover {
+    background: #025e11;
+}
+
+/* Back button */
+.back-button {
+    display: inline-block;
+    margin-top: 20px;
+    background: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.2s;
+}
+
+.back-button:hover {
+    background: #0056b3;
+    text-decoration: none;
+}
+
+
+.team-names {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: line;
+    gap: 10px;
+}
+.team-member {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.id {
+    margin-top: 5px;
+    color: #ffffff;
+}
+
+
+
+table {
+
+    /*
+    display: block;
+    align-items: center;
+    align-content: center;
+    width: 90%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    */
+
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* plot css*/
+.plots-prediction {
+    margin: 20px 0;
+}
+
+.plot-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.plot-container img {
+    max-width: 45%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.type-predictions, .factuality-predictions, .sentiment-predictions {
+    margin-bottom: 40px;
+}
+    
+.container2 {
+    width: 100%;
+    max-width: 1200px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
