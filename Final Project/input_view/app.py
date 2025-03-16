@@ -244,20 +244,23 @@ def generate_plot():
     return type_bar_plot_url, type_pie_plot_url, factuality_bar_plot_url, factuality_pie_plot_url, sentiment_bar_plot_url, sentiment_pie_plot_url
 
 # Final Project
-def voice_to_text_prediction():
-    """Graba audio y transcrribe a texto usando Whisper"""
+def voice_to_text_prediction(duration):
+    """Graba audio, transcrribe a texto y clasifica emociones usando AudioEmotionClassifier"""
     import sounddevice as sd
     import numpy as np
     import wave
-    from pydub import AudioSegment
+    import os
+    from audio_emotion_classifier import AudioEmotionClassifier
+    import matplotlib.pyplot as plt
+    import io
     import whisper
+    import base64
 
     # Configuração da gravação
     SAMPLE_RATE = 44100
     CHANNELS = 1
-    DURATION = 10
 
-    def record_audio(filename="output.wav", duration=DURATION):
+    def record_audio(filename="output.wav", duration=duration):
         print(f"🎤 Gravando... ({duration} segundos)")
         audio_data = sd.rec(int(duration * SAMPLE_RATE), samplerate=SAMPLE_RATE, channels=CHANNELS, dtype=np.int16)
         sd.wait()
@@ -275,9 +278,51 @@ def voice_to_text_prediction():
         result = model.transcribe(audio_path, language="en")
         return result["text"]
 
-    audio_file = record_audio()
+    def get_plot_base64(plt_obj):
+        img = io.BytesIO()
+        plt_obj.savefig(img, format='png')
+        img.seek(0)
+        return base64.b64encode(img.getvalue()).decode()
+
+    # Grabar audio
+    audio_file = record_audio(duration=duration)
+    
+    # Transcribir audio
     transcribed_text = transcribe_audio(audio_file)
-    return transcribed_text
+
+    # Inicializar y usar AudioEmotionClassifier
+    classifier = AudioEmotionClassifier(model_path='model/best_emotion_model_192x192.h5')
+    result = classifier.predict(audio_path=audio_file)
+
+    # Generar y capturar el espectrograma como base64
+    plt.figure(figsize=(10, 4))  # Usar el tamaño fijo del espectrograma
+    S, _ = classifier.create_spectrogram(audio_path=audio_file, display_size=(10, 4))
+    spectrogram_plot_url = get_plot_base64(plt.gcf())
+    plt.close()
+
+    # Generar y capturar el gráfico de probabilidades como base64
+    plt.figure(figsize=(10, 4))
+    colors = ['#ff9999' if emotion == result['emotion'] else '#9999ff' for emotion in classifier.CLASS_NAMES]
+    bars = plt.bar(classifier.CLASS_NAMES, list(result['probabilities'].values()), color=colors)
+    plt.title('Emotion Prediction Probabilities')
+    plt.ylabel('Probability')
+    plt.ylim(0, 1)
+    for i, bar in enumerate(bars):
+        height = bar.get_height()
+        prob_value = list(result['probabilities'].values())[i]
+        if prob_value > 0.5:
+            plt.text(bar.get_x() + bar.get_width()/2, height/2, f"{prob_value:.2%}", ha='center', va='center', color='black', fontweight='bold')
+    plt.tight_layout()
+    probability_plot_url = get_plot_base64(plt.gcf())
+    plt.close()
+
+    return {
+        'transcribed_text': transcribed_text,
+        'emotion': result['emotion'],
+        'confidence': result['confidence'],
+        'probability_plot_url': probability_plot_url,
+        'spectrogram_plot_url': spectrogram_plot_url
+    }
 
 
 
@@ -303,8 +348,16 @@ def index():
         if "text" in request.form:
             text = request.form.get("text")
         else:
-            # Si no hay texto, asumir que es una solicitud de voz
-            text = voice_to_text_prediction()
+            # Obtener la duración del input si se proporciona, o usar un valor predeterminado
+            duration = request.form.get("duration", 10)
+            try:
+                duration = float(duration)
+                if duration <= 0:
+                    duration = 10
+            except ValueError:
+                duration = 10
+            result = voice_to_text_prediction(duration)
+            text = result['transcribed_text']
             
         model_type = request.form.get("model_type", "custom")  # Get the selected model type
         
@@ -343,20 +396,41 @@ def index():
         # Save predictions to SQLite
         save_prediction(text, corrected, type_pred, fact_pred, sentiment_pred)
 
-        return render_template(
-            "result.html",
-            original_text=text,
-            corrected_text=corrected,
-            type_pred=type_pred,
-            factual_pred=fact_pred,
-            sentiment_pred=sentiment_pred,
-            type_model=type_model_choice,
-            fact_model=fact_model_choice,
-            sentiment_model=sentiment_model_choice,
-            type_model_label=type_model_label,
-            fact_model_label=fact_model_label,
-            sentiment_model_label=sentiment_model_label
-        )
+        # Si es una grabación de voz, incluir los resultados de emoción
+        if "voice" in request.form:
+            return render_template(
+                "result.html",
+                original_text=text,
+                corrected_text=corrected,
+                type_pred=type_pred,
+                factual_pred=fact_pred,
+                sentiment_pred=sentiment_pred,
+                type_model=type_model_choice,
+                fact_model=fact_model_choice,
+                sentiment_model=sentiment_model_choice,
+                type_model_label=type_model_label,
+                fact_model_label=fact_model_label,
+                sentiment_model_label=sentiment_model_label,
+                emotion=result['emotion'],
+                confidence=result['confidence'],
+                probability_plot_url=result['probability_plot_url'],
+                spectrogram_plot_url=result['spectrogram_plot_url']
+            )
+        else:
+            return render_template(
+                "result.html",
+                original_text=text,
+                corrected_text=corrected,
+                type_pred=type_pred,
+                factual_pred=fact_pred,
+                sentiment_pred=sentiment_pred,
+                type_model=type_model_choice,
+                fact_model=fact_model_choice,
+                sentiment_model=sentiment_model_choice,
+                type_model_label=type_model_label,
+                fact_model_label=fact_model_label,
+                sentiment_model_label=sentiment_model_label
+            )
 
     return render_template("index.html")
 
