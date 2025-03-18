@@ -291,7 +291,7 @@ def voice_to_text_prediction(duration):
     transcribed_text = transcribe_audio(audio_file)
 
     # Inicializar y usar AudioEmotionClassifier
-    classifier = AudioEmotionClassifier(model_path='model/best_emotion_model_192x192.h5')
+    classifier = AudioEmotionClassifier(model_path='models/best_emotion_model_192x192.h5')
     result = classifier.predict(audio_path=audio_file)
 
     # Generar y capturar el espectrograma como base64
@@ -323,6 +323,121 @@ def voice_to_text_prediction(duration):
         'probability_plot_url': probability_plot_url,
         'spectrogram_plot_url': spectrogram_plot_url
     }
+
+
+
+
+
+
+
+
+
+
+
+
+def spectogram_voice_sentiment_analytic(duration=6):
+    """Graba audio y clasifica emociones usando AudioEmotionClassifier"""
+    import os
+    import sounddevice as sd
+    import numpy as np
+    import wave
+    from audio_emotion_classifier import AudioEmotionClassifier
+    import matplotlib.pyplot as plt
+    import io
+    import base64
+
+    # Configuración de la grabación
+    SAMPLE_RATE = 44100
+    CHANNELS = 1
+
+    def record_audio(filename="output.wav", duration=duration, samplerate=SAMPLE_RATE):
+        print("🎙️ Gravando... Fale algo!")
+        audio_data = sd.rec(int(duration * samplerate), samplerate=samplerate, channels=1, dtype=np.int16)
+        sd.wait()
+        with wave.open(filename, "wb") as wf:
+            wf.setnchannels(1)
+            wf.setsampwidth(2)
+            wf.setframerate(samplerate)
+            wf.writeframes(audio_data.tobytes())
+        print(f"✅ Áudio salvo como {filename}")
+        return filename
+
+    def get_plot_base64(plt_obj):
+        img = io.BytesIO()
+        plt_obj.savefig(img, format='png')
+        img.seek(0)
+        return base64.b64encode(img.getvalue()).decode()
+
+    # Grabar audio
+    audio_file = record_audio(duration=duration)
+
+    # Inicializar y usar AudioEmotionClassifier
+    classifier = AudioEmotionClassifier(model_path='models/best_emotion_model_192x192.h5')
+    result = classifier.predict(audio_path=audio_file)
+
+    # Generar y capturar el espectrograma como base64
+    plt.figure(figsize=(10, 4))
+    S, _ = classifier.create_spectrogram(audio_path=audio_file, display_size=(10, 4))
+    spectrogram_plot_url = get_plot_base64(plt.gcf())
+    plt.close()
+
+    # Generar y capturar el gráfico de probabilidades como base64
+    plt.figure(figsize=(10, 4))
+    colors = ['#ff9999' if emotion == result['emotion'] else '#9999ff' for emotion in classifier.CLASS_NAMES]
+    bars = plt.bar(classifier.CLASS_NAMES, list(result['probabilities'].values()), color=colors)
+    plt.title('Emotion Prediction Probabilities')
+    plt.ylabel('Probability')
+    plt.ylim(0, 1)
+    for i, bar in enumerate(bars):
+        height = bar.get_height()
+        prob_value = list(result['probabilities'].values())[i]
+        if prob_value > 0.5:
+            plt.text(bar.get_x() + bar.get_width()/2, height/2, f"{prob_value:.2%}", ha='center', va='center', color='black', fontweight='bold')
+    plt.tight_layout()
+    probability_plot_url = get_plot_base64(plt.gcf())
+    plt.close()
+
+    return {
+        'emotion': result['emotion'],
+        'confidence': result['confidence'],
+        'probability_plot_url': probability_plot_url,
+        'spectrogram_plot_url': spectrogram_plot_url
+    }
+
+
+
+@app.route("/spectogram-voice-sentiment", methods=["GET", "POST"])
+def spectogram_voice_sentiment():
+    if request.method == "POST":
+        # Obtener la duración del input si se proporciona, o usar un valor predeterminado
+        duration = request.form.get("duration", 6)
+        try:
+            duration = float(duration)
+            if duration <= 0:
+                duration = 6
+        except ValueError:
+            duration = 6
+
+        # Procesar el audio y clasificar emociones
+        result = spectogram_voice_sentiment_analytic(duration)
+
+        return render_template(
+            "spectogram_result.html",
+            emotion=result['emotion'],
+            confidence=result['confidence'],
+            probability_plot_url=result['probability_plot_url'],
+            spectrogram_plot_url=result['spectrogram_plot_url']
+        )
+
+    return render_template("index.html")
+
+
+
+
+
+
+
+
 
 
 

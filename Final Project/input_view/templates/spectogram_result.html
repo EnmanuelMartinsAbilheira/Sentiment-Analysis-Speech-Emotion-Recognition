@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spectogram Voice Sentiment Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h3 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+        p {
+            font-size: 16px;
+            color: #555;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<header class="header">
+    <img src="static/logo.png" alt="Logotipo" > <!-- Substituir pelo caminho correto do logotipo -->
+    <div class="team-names">
+        <div class="team-member">
+            <p class="name">Enmanuel Abilheira</p>
+            <p class="id">A16430</p>
+        </div>
+        <div class="team-member">
+            <p class="name">Bruno Silva</p>
+            <p class="id">A20811</p>
+        </div>
+        <div class="team-member">
+            <p class="name">David Rodrigues</p>
+            <p class="id">A21177</p>
+        </div>
+        <div class="team-member">
+            <p class="name">André Araújo</p>
+            <p class="id">A21185</p>
+        </div>
+    </div>
+</header>
+
+<body>
+    <h1>Spectogram Voice Sentiment Analysis Results</h1>
+
+    <h3>Emoción detectada:</h3>
+    <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
+
+    <h3>Espectrograma:</h3>
+    <img src="data:image/png;base64,{{ spectrogram_plot_url }}" alt="Spectrogram">
+
+    <h3>Probabilidades de emoción:</h3>
+    <img src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
+
+    <a href="{{ url_for('index') }}">Volver al inicio</a>
+</body>
+</html>

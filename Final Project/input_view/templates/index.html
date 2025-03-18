@@ -31,8 +31,17 @@
     <div class="container">
         <button type="button" onclick="window.location.href='https://www.youtube.com/watch?v=xvFZjo5PgG0'">Speech to Predict</button>
     </div>
-    <form method="post">
-        <button type="submit" name="voice" value="record">Speech to Predict</button>
+
+    <form class="container">
+        <div method="post">
+            <button type="submit" name="voice" value="record">Speech to text, Spectrgroam and predictions</button>
+        </div>
+        <br>
+        <div method="post" action="{{ url_for('spectogram_voice_sentiment') }}">
+            <label for="duration">Duracao do audio (segundos):</label>
+            <input type="number" id="duration" name="duration" min="1" value="6"><br><br>
+            <button type="submit">Spectogram Voice Sentiment Analitic</button>
+        </div>
     </form>
 
 
