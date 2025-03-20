@@ -516,7 +516,7 @@ def index():
             text = request.form.get("text")
         else:
             # Obtener la duración del input si se proporciona, o usar un valor predeterminado
-            duration = request.form.get("duration", 10)
+            duration = request.form.get("duration", 5)
             try:
                 duration = float(duration)
                 if duration <= 0:

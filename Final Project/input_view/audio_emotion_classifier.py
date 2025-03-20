@@ -34,7 +34,7 @@ class AudioEmotionClassifier:
         # Display an audio player widget in the notebook
         display(Audio(y, rate=sr))
         return y, sr
-    
+        
     def create_spectrogram(self, y=None, sr=None, audio_path=None, save_path=None, display_size=(12, 5)):
         """
         Create and display a mel-spectrogram from audio data or file.
@@ -56,8 +56,9 @@ class AudioEmotionClassifier:
             y, sr = self.load_audio(audio_path)
             
         # Generate default save path if needed
-        if save_path is None and audio_path is not None:
-            save_path = f"{os.path.splitext(audio_path)[0]}_mel.png"
+        if save_path is None:
+            # Define o caminho para salvar a imagem na pasta static/
+            save_path = os.path.join("static", "output_mel.png")
             
         # Compute the mel-spectrogram
         S = librosa.feature.melspectrogram(y=y, sr=sr, n_mels=128)

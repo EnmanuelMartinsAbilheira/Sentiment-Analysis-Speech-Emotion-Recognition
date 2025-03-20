@@ -96,16 +96,19 @@
             </div>
         </form>
 
-        {% if emotion %}
-            <h3>Emoción detectada:</h3>
-            <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
+        <!-- spectogram plot  -->
+        <div class="container">
+            {% if emotion %}
+                <h3>Emoción detectada:</h3>
+                <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
 
-            <h3>Espectrograma:</h3>
-            <img src="data:image/png;base64,{{ spectrogram_plot_url }}" alt="Spectrogram">
+                <h3>Espectrograma:</h3>
+                <img src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
 
-            <h3>Probabilidades de emoción:</h3>
-            <img src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
-        {% endif %}
+                <h3>Probabilidades de emoción:</h3>
+                <img src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
+            {% endif %}
+        </div>
 
         
         <div>
