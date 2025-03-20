@@ -12,6 +12,8 @@ from transformers import pipeline
 import matplotlib.pyplot as plt
 import io
 import base64
+from transformers import T5ForConditionalGeneration, T5Tokenizer
+import torch
 
 app = Flask(__name__)
 
@@ -62,6 +64,48 @@ type_mapping = {0: "affirmative", 1: "negation"}
 fact_subj_mapping = {0: "fact", 1: "opinion"}
 sentiment_mapping = {0: "sadness", 1: "anger", 2: "neutral", 3: "happiness", 4: "euphoria"}
 
+class OptimizedT5Corrector:
+    def __init__(self, debug=False):
+        # Load model and tokenizer directly
+        self.model_name = "prithivida/grammar_error_correcter_v1"
+        self.tokenizer = T5Tokenizer.from_pretrained(self.model_name)
+        self.model = T5ForConditionalGeneration.from_pretrained(self.model_name)
+        
+        # Optimize model for inference
+        self.model.eval()
+        
+        # Use torch.compile for PyTorch 2.0+ (significant speedup)
+        if hasattr(torch, 'compile'):
+            try:
+                self.model = torch.compile(self.model)
+                if debug: print("Successfully applied torch.compile optimization")
+            except Exception as e:
+                if debug: print(f"Could not apply torch.compile: {e}")
+        
+        # Optimize memory usage
+        self.model.config.use_cache = True
+        
+    def correct(self, sentence, max_length=128):
+        # Apply inference optimizations
+        with torch.inference_mode():
+            # Prepare input - the "gec:" prefix is important for the model
+            input_text = f"gec: {sentence}"
+            input_ids = self.tokenizer(input_text, return_tensors="pt").input_ids
+            
+            # Optimize generation parameters for speed
+            outputs = self.model.generate(
+                input_ids=input_ids,
+                max_length=max_length,
+                num_beams=2,  # Reduced from 5 for speed
+                early_stopping=True,
+                use_cache=True  # Enable KV caching for faster generation
+            )
+            
+            # Decode output
+            corrected_sentence = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+        
+        return corrected_sentence
+
 def correct_spelling(sentence):
     spell_checker = SpellChecker()
     words = sentence.split() 
@@ -69,12 +113,20 @@ def correct_spelling(sentence):
     result = " ".join(corrected_words)
     return result
 
+# Initialize the optimized corrector globally for reuse
+_optimized_corrector = None
 def correct_sentence(sentence):
-    gramformer = Gramformer(models=1, use_gpu=False)
+    global _optimized_corrector
+    
+    # Initialize the optimized corrector if it hasn't been already
+    if _optimized_corrector is None:
+        _optimized_corrector = OptimizedT5Corrector(debug=False)
+    
+    # First correct spelling
     spelled_corrected = correct_spelling(sentence)
     
-    corrected_sentences = gramformer.correct(spelled_corrected, max_candidates=1)
-    result = next(iter(corrected_sentences), spelled_corrected)
+    # Use the optimized corrector
+    result = _optimized_corrector.correct(spelled_corrected)
     
     return result
 
