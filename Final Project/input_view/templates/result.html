@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Predição de Texto</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<header class="header">
+    <img src="static/logo.png" alt="Logotipo" > <!-- Substituir pelo caminho correto do logotipo -->
+    <div class="team-names">
+        <div class="team-member">
+            <p class="name">Enmanuel Abilheira</p>
+            <p class="id">A16430</p>
+        </div>
+        <div class="team-member">
+            <p class="name">Bruno Silva</p>
+            <p class="id">A20811</p>
+        </div>
+        <div class="team-member">
+            <p class="name">David Rodrigues</p>
+            <p class="id">A21177</p>
+        </div>
+        <div class="team-member">
+            <p class="name">André Araújo</p>
+            <p class="id">A21185</p>
+        </div>
+    </div>
+</header>
+
+<body>
+    <div class="container">
+        <h1>Resultado da Predição</h1>
+        
+        <div class="text-display">
+            <div class="result-box">
+                <span class="result-label">Texto Original:</span>
+                <span>{{ original_text }}</span>
+            </div>
+            
+            <div class="result-box">
+                <span class="result-label">Texto Corrigido:</span>
+                <span>{{ corrected_text }}</span>
+            </div>
+        </div>
+        
+        <form method="POST" action="{{ url_for('index') }}">
+            <input type="hidden" name="text" value="{{ original_text }}">
+            
+            <div class="model-config">
+                <h2>Configuração de Modelos</h2>
+                
+                <div class="model-selector">
+                    <div class="model-option">
+                        <label>Tipo/Polaridade (Afirmativo/Negativo):</label>
+                        <select name="type_model" onchange="this.form.submit()">
+                            <option value="custom" {% if type_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
+                            <option value="pretrained" {% if type_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                        </select>
+                    </div>
+                    
+                    <div class="result-display">
+                        <span class="model-label">{{ type_model_label }}:</span>
+                        <span class="model-result">{{ type_pred }}</span>
+                    </div>
+                </div>
+                
+                <div class="model-selector">
+                    <div class="model-option">
+                        <label>Subjectividade (Factual/Opinião):</label>
+                        <select name="fact_model" onchange="this.form.submit()">
+                            <option value="custom" {% if fact_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
+                            <option value="pretrained" {% if fact_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                        </select>
+                    </div>
+                    
+                    <div class="result-display">
+                        <span class="model-label">{{ fact_model_label }}:</span>
+                        <span class="model-result">{{ factual_pred }}</span>
+                    </div>
+                </div>
+                
+                <div class="model-selector">
+                    <div class="model-option">
+                        <label>Sentimento:</label>
+                        <select name="sentiment_model" onchange="this.form.submit()">
+                            <option value="custom" {% if sentiment_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
+                            <option value="pretrained" {% if sentiment_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                        </select>
+                    </div>
+                    
+                    <div class="result-display">
+                        <span class="model-label">{{ sentiment_model_label }}:</span>
+                        <span class="model-result">{{ sentiment_pred }}</span>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        {% if emotion %}
+            <h3>Emoción detectada:</h3>
+            <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
+
+            <h3>Espectrograma:</h3>
+            <img src="data:image/png;base64,{{ spectrogram_plot_url }}" alt="Spectrogram">
+
+            <h3>Probabilidades de emoción:</h3>
+            <img src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
+        {% endif %}
+
+        
+        <div>
+            <h2>Descrição dos Modelos</h2>
+            <p>Modelo Pré-treinado: </p>
+            <ul>
+                <li>Modelo Tipo/Polaridade: Spacy</li>
+                <li>Modelo Subjectividade: fact-or-opinion-xlmr-el </li>
+                <li>Modelo Sentimento: Sentiment-Analysis-BERT</li>
+            </ul>
+
+            <p>Modelo Customizado: </p>
+            <ul>
+                <li>Modelo Tipo/Polaridade: posito/negativo: Embedding + Logistic Regression </li>
+                <li>Modelo Subjectividade: Factual ou nao: TF-IDF + Logistic Regression </li>
+                <li>Modelo Sentimento: Sentimento: Embedding + XGBoost </li>
+            </ul>
+        
+        </div>
+        
+        <a href="{{ url_for('index') }}" class="back-button">Voltar</a>
+    </div>
+</body>
+</html>
