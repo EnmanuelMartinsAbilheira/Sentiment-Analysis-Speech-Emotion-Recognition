@@ -97,8 +97,8 @@
         </form>
 
         <!-- spectogram plot  -->
-        <div class="container">
-            {% if emotion %}
+        {% if emotion %}
+            <div class="container">
                 
                 <h2>Spectogram Visualization and Predition</h2>
 
@@ -115,8 +115,8 @@
 
                 <h3>Probabilidades de emoción:</h3>
                 <img class="probability_plot_url_img" src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
-            {% endif %}
-        </div>
+            </div>
+        {% endif %}
 
         
         <div>
