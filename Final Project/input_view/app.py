@@ -312,7 +312,7 @@ def voice_to_text_prediction(duration):
     SAMPLE_RATE = 44100
     CHANNELS = 1
 
-    def record_audio(filename="output.wav", duration=duration):
+    def record_audio(filename="static/output.wav", duration=duration):
         print(f"🎤 Gravando... ({duration} segundos)")
         audio_data = sd.rec(int(duration * SAMPLE_RATE), samplerate=SAMPLE_RATE, channels=CHANNELS, dtype=np.int16)
         sd.wait()
@@ -402,7 +402,7 @@ def spectogram_voice_sentiment_analytic(duration=6):
     SAMPLE_RATE = 44100
     CHANNELS = 1
 
-    def record_audio(filename="output.wav", duration=duration, samplerate=SAMPLE_RATE):
+    def record_audio(filename="static/output.wav", duration=duration, samplerate=SAMPLE_RATE):
         print("🎙️ Gravando... Fale algo!")
         audio_data = sd.rec(int(duration * samplerate), samplerate=samplerate, channels=1, dtype=np.int16)
         sd.wait()

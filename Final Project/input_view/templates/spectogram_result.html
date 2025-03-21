@@ -38,10 +38,10 @@
 
 
             <h3>Espectrograma:</h3>
-            <img src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
+            <img class="spectogram_img" src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
 
             <h3>Probabilidades de emoción:</h3>
-            <img src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
+            <img class="probability_plot_url_img" src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
         {% endif %}
 
 

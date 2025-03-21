@@ -99,14 +99,22 @@
         <!-- spectogram plot  -->
         <div class="container">
             {% if emotion %}
+                
+                <h2>Spectogram Visualization and Predition</h2>
+
+                <h3>Audio Record</h3>
+                <audio controls>
+                    <source src="{{ url_for('static', filename='output.wav') }}" type="audio/wav">
+                <audio controls>
+
                 <h3>Emoción detectada:</h3>
                 <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
 
                 <h3>Espectrograma:</h3>
-                <img src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
+                <img class="spectogram_img" src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
 
                 <h3>Probabilidades de emoción:</h3>
-                <img src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
+                <img class="probability_plot_url_img" src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
             {% endif %}
         </div>
 
