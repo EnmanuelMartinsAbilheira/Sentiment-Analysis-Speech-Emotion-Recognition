@@ -102,13 +102,10 @@
                 
                 <h2>Spectogram Visualization and Predition</h2>
 
-                
-                <!-- spectogram plot  
-                    <h3>Audio Record</h3>
-                    <audio controls>
-                        <source src="{{ url_for('static', filename='output.wav') }}" type="audio/wav">
-                    <audio controls>
-                -->
+                <h3>Audio Record</h3>
+                <audio controls>
+                    <source src="{{ url_for('static', filename='output.wav') }}" type="audio/wav">
+                </audio>
 
                 <h3>Emoción detectada:</h3>
                 <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
