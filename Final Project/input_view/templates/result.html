@@ -29,16 +29,16 @@
 
 <body>
     <div class="container">
-        <h1>Resultado da Predição</h1>
+        <h1>Prediction Result</h1>
         
         <div class="text-display">
             <div class="result-box">
-                <span class="result-label">Texto Original:</span>
+                <span class="result-label">Original Text:</span>
                 <span>{{ original_text }}</span>
             </div>
             
             <div class="result-box">
-                <span class="result-label">Texto Corrigido:</span>
+                <span class="result-label">Corrected Text:</span>
                 <span>{{ corrected_text }}</span>
             </div>
         </div>
@@ -47,14 +47,14 @@
             <input type="hidden" name="text" value="{{ original_text }}">
             
             <div class="model-config">
-                <h2>Configuração de Modelos</h2>
+                <h2>Model Configuration</h2>
                 
                 <div class="model-selector">
                     <div class="model-option">
-                        <label>Tipo/Polaridade (Afirmativo/Negativo):</label>
+                        <label>Type/Polarity (Affirmative/Negative):</label>
                         <select name="type_model" onchange="this.form.submit()">
-                            <option value="custom" {% if type_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
-                            <option value="pretrained" {% if type_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                            <option value="custom" {% if type_model == 'custom' %}selected{% endif %}>Custom Model</option>
+                            <option value="pretrained" {% if type_model == 'pretrained' %}selected{% endif %}>Pre-trained Model</option>
                         </select>
                     </div>
                     
@@ -66,10 +66,10 @@
                 
                 <div class="model-selector">
                     <div class="model-option">
-                        <label>Subjectividade (Factual/Opinião):</label>
+                        <label>Subjectivity (Factual/Opinion):</label>
                         <select name="fact_model" onchange="this.form.submit()">
-                            <option value="custom" {% if fact_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
-                            <option value="pretrained" {% if fact_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                            <option value="custom" {% if fact_model == 'custom' %}selected{% endif %}>Custom Model</option>
+                            <option value="pretrained" {% if fact_model == 'pretrained' %}selected{% endif %}>Pre-trained Model</option>
                         </select>
                     </div>
                     
@@ -81,10 +81,10 @@
                 
                 <div class="model-selector">
                     <div class="model-option">
-                        <label>Sentimento:</label>
+                        <label>Sentiment:</label>
                         <select name="sentiment_model" onchange="this.form.submit()">
-                            <option value="custom" {% if sentiment_model == 'custom' %}selected{% endif %}>Modelo Customizado</option>
-                            <option value="pretrained" {% if sentiment_model == 'pretrained' %}selected{% endif %}>Modelo Pré-treinado</option>
+                            <option value="custom" {% if sentiment_model == 'custom' %}selected{% endif %}>Custom Model</option>
+                            <option value="pretrained" {% if sentiment_model == 'pretrained' %}selected{% endif %}>Pre-trained Model</option>
                         </select>
                     </div>
                     
@@ -100,44 +100,44 @@
         {% if emotion %}
             <div class="container">
                 
-                <h2>Spectogram Visualization and Predition</h2>
+                <h2>Spectrogram Visualization and Prediction</h2>
 
                 <h3>Audio Record</h3>
                 <audio controls>
                     <source src="{{ url_for('static', filename='output.wav') }}" type="audio/wav">
                 </audio>
 
-                <h3>Emoción detectada:</h3>
-                <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
+                <h3>Detected Emotion:</h3>
+                <p>{{ emotion }} (Confidence: {{ '{:.2%}'.format(confidence) }})</p>
 
-                <h3>Espectrograma:</h3>
+                <h3>Spectrogram:</h3>
                 <img class="spectogram_img" src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
 
-                <h3>Probabilidades de emoción:</h3>
+                <h3>Emotion Probabilities:</h3>
                 <img class="probability_plot_url_img" src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
             </div>
         {% endif %}
 
         
         <div>
-            <h2>Descrição dos Modelos</h2>
-            <p>Modelo Pré-treinado: </p>
+            <h2>Model Descriptions</h2>
+            <p>Pre-trained Model: </p>
             <ul>
-                <li>Modelo Tipo/Polaridade: Spacy</li>
-                <li>Modelo Subjectividade: fact-or-opinion-xlmr-el </li>
-                <li>Modelo Sentimento: Sentiment-Analysis-BERT</li>
+                <li>Type/Polarity Model: Spacy</li>
+                <li>Subjectivity Model: fact-or-opinion-xlmr-el</li>
+                <li>Sentiment Model: Sentiment-Analysis-BERT</li>
             </ul>
 
-            <p>Modelo Customizado: </p>
+            <p>Custom Model: </p>
             <ul>
-                <li>Modelo Tipo/Polaridade: posito/negativo: Embedding + Logistic Regression </li>
-                <li>Modelo Subjectividade: Factual ou nao: TF-IDF + Logistic Regression </li>
-                <li>Modelo Sentimento: Sentimento: Embedding + XGBoost </li>
+                <li>Type/Polarity Model: Positive/Negative: Embedding + Logistic Regression</li>
+                <li>Subjectivity Model: Factual or Not: TF-IDF + Logistic Regression</li>
+                <li>Sentiment Model: Sentiment: Embedding + XGBoost</li>
             </ul>
         
         </div>
         
-        <a href="{{ url_for('index') }}" class="back-button">Voltar</a>
+        <a href="{{ url_for('index') }}" class="back-button">Back</a>
     </div>
 </body>
 </html>

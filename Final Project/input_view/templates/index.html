@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Predição de Texto</title>
+    <title>Text Prediction</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <header class="header">
-    <img src="static/logo.png" alt="Logotipo"> <!-- Substituir pelo caminho correto do logotipo -->
+    <img src="static/logo.png" alt="Logo"> <!-- Replace with the correct path to the logo -->
     <div class="team-names">
         <div class="team-member">
             <p class="name">Enmanuel Abilheira</p>
@@ -36,65 +36,65 @@
         
     <div class="container">
         <form method="post">
-            <button type="submit" name="voice" value="record">Speech to text, Spectrgroam and predictions</button>
+            <button type="submit" name="voice" value="record">Speech to text, Spectrogram, and Predictions</button>
         </form>
         <br>
         <form method="post" action="{{ url_for('spectogram_voice_sentiment') }}">
-            <label for="duration">Duracao do audio (segundos):</label>
+            <label for="duration">Audio duration (seconds):</label>
             <input type="number" id="duration" name="duration" min="1" value="6"><br><br>
-            <button type="submit">Spectogram Voice Sentiment Analitic</button>
+            <button type="submit">Spectrogram Voice Sentiment Analysis</button>
         </form>
     </div>
 
 
     {% if emotion %}
-        <h3>Emoción detectada:</h3>
-        <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
+        <h3>Detected Emotion:</h3>
+        <p>{{ emotion }} (Confidence: {{ '{:.2%}'.format(confidence) }})</p>
 
-        <h3>Espectrograma:</h3>
+        <h3>Spectrogram:</h3>
         <img src="data:image/png;base64,{{ spectrogram_plot_url }}" alt="Spectrogram">
 
-        <h3>Probabilidades de emoción:</h3>
+        <h3>Emotion Probabilities:</h3>
         <img src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
     {% endif %}
 
 
     <div class="container">
-        <h1>Insira seu Texto</h1>
+        <h1>Enter Your Text</h1>
         <form method="POST">
-            <textarea name="text" placeholder="Digite o texto em Ingles aqui..." rows="5" required></textarea>
+            <textarea name="text" placeholder="Type the text in English here..." rows="5" required></textarea>
             
             <div class="model-selection">
-                <label for="model_type">Selecione o modelo:</label>
+                <label for="model_type">Select the model:</label>
                 <select id="model_type" name="model_type">
-                    <option value="custom">Modelo Customizado</option>
-                    <option value="pretrained">Modelo Pré-treinado</option>
+                    <option value="custom">Custom Model</option>
+                    <option value="pretrained">Pre-trained Model</option>
                 </select>
             </div>
             
             <br>
-            <button type="submit">Analisar</button>
+            <button type="submit">Analyze</button>
         </form>
 
         <div>
-            <h2>Descrição dos Modelos</h2>
-            <p>Modelo Pré-treinado: </p>
+            <h2>Model Descriptions</h2>
+            <p>Pre-trained Model: </p>
             <ul>
-                <li>Modelo Tipo/Polaridade: Spacy</li>
-                <li>Modelo Subjectividade: fact-or-opinion-xlmr-el</li>
-                <li>Modelo Sentimento: Sentiment-Analysis-BERT</li>
+                <li>Type/Polarity Model: Spacy</li>
+                <li>Subjectivity Model: fact-or-opinion-xlmr-el</li>
+                <li>Sentiment Model: Sentiment-Analysis-BERT</li>
             </ul>
 
-            <p>Modelo Customizado: </p>
+            <p>Custom Model: </p>
             <ul>
-                <li>Modelo Tipo/Polaridade: positivo/negativo: Embedding + Logistic Regression</li>
-                <li>Modelo Subjectividade: Factual ou não: TF-IDF + Logistic Regression</li>
-                <li>Modelo Sentimento: Sentimento: Embedding + XGBoost</li>
+                <li>Type/Polarity Model: Positive/Negative: Embedding + Logistic Regression</li>
+                <li>Subjectivity Model: Factual or Not: TF-IDF + Logistic Regression</li>
+                <li>Sentiment Model: Sentiment: Embedding + XGBoost</li>
             </ul>
         </div>
 
         <br>
-        <a href="{{ url_for('predictions') }}" class="back-button">Ver Previsões Salvas</a> <!-- Link para a página de previsões -->
+        <a href="{{ url_for('predictions') }}" class="back-button">View Saved Predictions</a> <!-- Link to the predictions page -->
     </div>
 </body>
 </html>

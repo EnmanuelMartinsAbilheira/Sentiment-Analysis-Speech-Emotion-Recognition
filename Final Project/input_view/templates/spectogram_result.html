@@ -2,11 +2,11 @@
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <title>Predição de Texto</title>
+    <title>Text Prediction</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <header class="header">
-    <img src="{{ url_for('static', filename='logo.png') }}" alt="Logotipo">
+    <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo">
     <div class="team-names">
         <div class="team-member">
             <p class="name">Enmanuel Abilheira</p>
@@ -33,26 +33,26 @@
     <div class="container">
         
         {% if emotion %}
-            <h2>Spectogram Visualization and Predition</h2>
+            <h2>Spectogram Visualization and Prediction</h2>
 
             <h3>Audio Record</h3>
             <audio controls>
                 <source src="{{ url_for('static', filename='output.wav') }}" type="audio/wav">
             </audio>
 
-            <h3>Emoción detectada:</h3>
-            <p>{{ emotion }} (Confianza: {{ '{:.2%}'.format(confidence) }})</p>
+            <h3>Detected Emotion:</h3>
+            <p>{{ emotion }} (Confidence: {{ '{:.2%}'.format(confidence) }})</p>
 
-            <h3>Espectrograma:</h3>
+            <h3>Spectrogram:</h3>
             <img class="spectogram_img" src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
 
-            <h3>Probabilidades de emoción:</h3>
+            <h3>Emotion Probabilities:</h3>
             <img class="probability_plot_url_img" src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
         {% endif %}
 
 
 
-        <a href="{{ url_for('index') }}" class="back-button">Voltar</a>
+        <a href="{{ url_for('index') }}" class="back-button">Back</a>
     </div>
 
 </body>
