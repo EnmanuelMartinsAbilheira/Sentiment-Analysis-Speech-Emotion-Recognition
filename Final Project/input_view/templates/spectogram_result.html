@@ -35,18 +35,27 @@
         {% if emotion %}
             <h2>Spectogram Visualization and Prediction</h2>
 
-            <h3>Audio Record</h3>
+            <h3>Audio Recording</h3>
             <audio controls>
-                <source src="{{ url_for('static', filename='output.wav') }}" type="audio/wav">
+                <source class="audio_output" src="{{ url_for('static', filename='output.wav') }}" type="audio/wav">
             </audio>
 
+<<<<<<< HEAD
             <h3>Detected Emotion:</h3>
             <p>{{ emotion }} (Confidence: {{ '{:.2%}'.format(confidence) }})</p>
+=======
+            <h3>Emoção detetada:</h3>
+            <p>{{ emotion }} (Confiança: {{ '{:.2%}'.format(confidence) }})</p>
+>>>>>>> e0a4916031c113e98cd0fae6990c34ff674782ae
 
             <h3>Spectrogram:</h3>
             <img class="spectogram_img" src="{{ url_for('static', filename='output_mel.png') }}" alt="Mel Spectrogram">
 
+<<<<<<< HEAD
             <h3>Emotion Probabilities:</h3>
+=======
+            <h3>Probabilidades das emoções:</h3>
+>>>>>>> e0a4916031c113e98cd0fae6990c34ff674782ae
             <img class="probability_plot_url_img" src="data:image/png;base64,{{ probability_plot_url }}" alt="Emotion Probabilities">
         {% endif %}
 
