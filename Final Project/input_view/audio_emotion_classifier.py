@@ -7,6 +7,8 @@ import tensorflow as tf
 import cv2
 from PIL import Image
 from IPython.display import display, Audio
+import io
+import base64
 
 class AudioEmotionClassifier:
     """
@@ -37,7 +39,7 @@ class AudioEmotionClassifier:
         
     def create_spectrogram(self, y=None, sr=None, audio_path=None, save_path=None, display_size=(12, 5)):
         """
-        Create and display a mel-spectrogram from audio data or file.
+        Create a mel-spectrogram from audio data or file.
         
         Args:
             y: Audio time series (if already loaded)
@@ -47,7 +49,7 @@ class AudioEmotionClassifier:
             display_size: Size for display only (does not affect saved image)
         
         Returns:
-            Tuple of (spectrogram data, save_path if saved)
+            Tuple of (spectrogram_base64, S_dB, save_path)
         """
         # Load audio if not provided
         if y is None:
@@ -57,42 +59,42 @@ class AudioEmotionClassifier:
             
         # Generate default save path if needed
         if save_path is None:
-            # Define o caminho para salvar a imagem na pasta static/
             save_path = os.path.join("static", "output_mel.png")
             
         # Compute the mel-spectrogram
         S = librosa.feature.melspectrogram(y=y, sr=sr, n_mels=128)
         S_dB = librosa.power_to_db(S, ref=np.max)
         
-        # For saving: use the FIXED figure size that matches the original cropping dimensions
-        if save_path:
-            plt.figure(figsize=self.SPEC_FIG_SIZE)
-            librosa.display.specshow(S_dB, sr=sr, x_axis='time', y_axis='mel')
-            plt.title(f"Mel-Spectrogram")
-            plt.colorbar(format='%+2.0f dB')
-            plt.tight_layout()
-            plt.savefig(save_path)
-            plt.close()  # Close the saving figure
-            
-            # Crop the image
-            with Image.open(save_path) as img:
-                cropped_img = img.crop(self.SPECTROGRAM_CROP)
-                cropped_img.save(save_path)
-            print(f"✓ Saved spectrogram to {save_path}")
-        
-        # For display: use the requested display size
-        plt.figure(figsize=display_size)
+        # Save figure with fixed dimensions
+        plt.figure(figsize=self.SPEC_FIG_SIZE)
         librosa.display.specshow(S_dB, sr=sr, x_axis='time', y_axis='mel')
-        title = f"Mel-Spectrogram"
-        if audio_path:
-            title += f": {os.path.basename(audio_path)}"
-        plt.title(title)
+        plt.title("Mel-Spectrogram")
         plt.colorbar(format='%+2.0f dB')
         plt.tight_layout()
-        plt.show()
+        plt.savefig(save_path)
+        plt.close()  # Close the figure
         
-        return S_dB, save_path if save_path else None
-    
+        # Crop the image if needed
+        with Image.open(save_path) as img:
+            cropped_img = img.crop(self.SPECTROGRAM_CROP)
+            cropped_img.save(save_path)
+        print(f"✓ Saved spectrogram to {save_path}")
+        
+        # Generate base64 representation
+        img_buffer = io.BytesIO()
+        plt.figure(figsize=display_size)
+        librosa.display.specshow(S_dB, sr=sr, x_axis='time', y_axis='mel')
+        plt.title("Mel-Spectrogram")
+        plt.colorbar(format='%+2.0f dB')
+        plt.tight_layout()
+        plt.savefig(img_buffer, format='png')
+        plt.close()  # Close the figure
+        img_buffer.seek(0)
+        spectrogram_base64 = base64.b64encode(img_buffer.getvalue()).decode()
+        
+        return spectrogram_base64, S_dB, save_path
+
+
     def predict(self, audio_path=None, spectrogram_path=None, y=None, sr=None, display_size=(10, 4)):
         """
         Predict emotion from audio data.
@@ -110,12 +112,12 @@ class AudioEmotionClassifier:
         # Generate spectrogram if needed
         if spectrogram_path is None:
             if audio_path is not None:
-                _, spectrogram_path = self.create_spectrogram(
+                spectrogram_base64, S_dB, spectrogram_path = self.create_spectrogram(
                     audio_path=audio_path, 
                     display_size=display_size
                 )
             elif y is not None and sr is not None:
-                _, spectrogram_path = self.create_spectrogram(
+                spectrogram_base64, S_dB, spectrogram_path = self.create_spectrogram(
                     y=y, 
                     sr=sr, 
                     display_size=display_size
@@ -172,9 +174,11 @@ class AudioEmotionClassifier:
             'emotion': predicted_emotion,
             'confidence': confidence,
             'probabilities': probabilities,
-            'spectrogram_path': spectrogram_path
+            'spectrogram_path': spectrogram_path,
+            'spectrogram_base64': spectrogram_base64
         }
-    
+
+
     def _preprocess_image(self, image_path):
         """Preprocess an image for the model (internal method)."""
         img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)

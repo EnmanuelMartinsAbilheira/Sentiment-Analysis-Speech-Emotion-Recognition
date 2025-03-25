@@ -14,6 +14,10 @@ import io
 import base64
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import torch
+import sounddevice as sd
+import wave
+from audio_emotion_classifier import AudioEmotionClassifier
+import whisper
 
 app = Flask(__name__)
 
@@ -298,15 +302,7 @@ def generate_plot():
 # Final Project
 def voice_to_text_prediction(duration):
     """Graba audio, transcrribe a texto y clasifica emociones usando AudioEmotionClassifier"""
-    import sounddevice as sd
-    import numpy as np
-    import wave
-    import os
-    from audio_emotion_classifier import AudioEmotionClassifier
-    import matplotlib.pyplot as plt
-    import io
-    import whisper
-    import base64
+
 
     # Configuração da gravação
     SAMPLE_RATE = 44100
@@ -347,8 +343,10 @@ def voice_to_text_prediction(duration):
     result = classifier.predict(audio_path=audio_file)
 
     # Generar y capturar el espectrograma como base64
-    plt.figure(figsize=(10, 4))  # Usar el tamaño fijo del espectrograma
-    S, _ = classifier.create_spectrogram(audio_path=audio_file, display_size=(10, 4))
+    spectrogram_base64, S_dB, save_path = classifier.create_spectrogram(
+        audio_path=audio_file, 
+        display_size=(10, 4)
+    )
     spectrogram_plot_url = get_plot_base64(plt.gcf())
     plt.close()
 
@@ -368,6 +366,7 @@ def voice_to_text_prediction(duration):
     probability_plot_url = get_plot_base64(plt.gcf())
     plt.close()
 
+    # Return the spectrogram URL along with other results
     return {
         'transcribed_text': transcribed_text,
         'emotion': result['emotion'],
@@ -428,10 +427,17 @@ def spectogram_voice_sentiment_analytic(duration=6):
     result = classifier.predict(audio_path=audio_file)
 
     # Generar y capturar el espectrograma como base64
-    plt.figure(figsize=(10, 4))
-    S, _ = classifier.create_spectrogram(audio_path=audio_file, display_size=(10, 4))
+    # ...existing code...
+
+    # Update this section to correctly unpack three values
+    spectrogram_base64, S_dB, save_path = classifier.create_spectrogram(
+        audio_path=audio_file, 
+        display_size=(10, 4)
+    )
     spectrogram_plot_url = get_plot_base64(plt.gcf())
     plt.close()
+
+    # ...rest of the function...
 
     # Generar y capturar el gráfico de probabilidades como base64
     plt.figure(figsize=(10, 4))
