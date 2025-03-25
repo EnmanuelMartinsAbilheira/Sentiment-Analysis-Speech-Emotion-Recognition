@@ -321,10 +321,18 @@ def voice_to_text_prediction(duration):
         return filename
 
     def transcribe_audio(audio_path):
-        print("📝 Transcrevendo o áudio...")
-        model = whisper.load_model("small")
-        result = model.transcribe(audio_path, language="en")
-        return result["text"]
+        """Transcribe audio to text using Whisper"""
+        try:
+            print("📝 Transcribing audio...")
+            model = whisper.load_model("small")
+            result = model.transcribe(audio_path, language="en")
+            return result["text"]
+        except FileNotFoundError:
+            print("Error: FFmpeg not found. Please install FFmpeg first.")
+            return "Error: Could not transcribe audio. FFmpeg is not installed."
+        except Exception as e:
+            print(f"Error transcribing audio: {str(e)}")
+            return f"Error: Could not transcribe audio. {str(e)}"
 
     def get_plot_base64(plt_obj):
         img = io.BytesIO()
