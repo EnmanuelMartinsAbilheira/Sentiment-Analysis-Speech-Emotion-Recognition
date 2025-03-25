@@ -303,35 +303,126 @@ def generate_plot():
 def voice_to_text_prediction(duration):
     """Graba audio, transcrribe a texto y clasifica emociones usando AudioEmotionClassifier"""
 
-
-    # Configuração da gravação
-    SAMPLE_RATE = 44100
+    # Configuração da gravação - Use 16kHz which is what Whisper expects
+    SAMPLE_RATE = 16000  # Changed from 44100 to be compatible with Whisper
     CHANNELS = 1
 
     def record_audio(filename="static/output.wav", duration=duration):
         print(f"🎤 Gravando... ({duration} segundos)")
+        # Make sure the directory exists
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        
         audio_data = sd.rec(int(duration * SAMPLE_RATE), samplerate=SAMPLE_RATE, channels=CHANNELS, dtype=np.int16)
         sd.wait()
+        
+        # Add validation to ensure audio was recorded
+        if np.max(np.abs(audio_data)) < 100:
+            print("Warning: Very low audio levels detected. Microphone might not be working.")
+            
         with wave.open(filename, "wb") as wf:
             wf.setnchannels(CHANNELS)
             wf.setsampwidth(2)
             wf.setframerate(SAMPLE_RATE)
             wf.writeframes(audio_data.tobytes())
-        print("⏹️ Gravação concluída.")
+            
+        # Verify file was created successfully
+        if os.path.exists(filename) and os.path.getsize(filename) > 0:
+            print(f"⏹️ Gravação concluída. Saved to {filename} ({os.path.getsize(filename)} bytes)")
+        else:
+            print(f"⚠️ Warning: Audio file creation may have failed")
+            
         return filename
 
     def transcribe_audio(audio_path):
         """Transcribe audio to text using Whisper"""
         try:
             print("📝 Transcribing audio...")
-            model = whisper.load_model("small")
-            result = model.transcribe(audio_path, language="en")
-            return result["text"]
-        except FileNotFoundError:
-            print("Error: FFmpeg not found. Please install FFmpeg first.")
-            return "Error: Could not transcribe audio. FFmpeg is not installed."
+            # Check if the audio file exists and has content
+            if not os.path.exists(audio_path):
+                print(f"Error: Audio file {audio_path} does not exist")
+                return "Error: Audio file does not exist"
+                
+            file_size = os.path.getsize(audio_path)
+            if file_size == 0:
+                print(f"Error: Audio file {audio_path} is empty (0 bytes)")
+                return "Error: Audio file is empty"
+                
+            print(f"Audio file size: {file_size} bytes")
+            
+            # Try a direct approach without FFmpeg conversion
+            try:
+                print("Loading Whisper model (tiny)...")
+                model = whisper.load_model("tiny")
+                print("Whisper model loaded successfully")
+                
+                # Try to transcribe with direct file loading
+                print(f"Attempting direct transcription of {audio_path}...")
+                
+                # Load audio manually using scipy or librosa instead of relying on Whisper's loader
+                try:
+                    import librosa
+                    print("Loading audio with librosa...")
+                    audio_array, _ = librosa.load(audio_path, sr=16000, mono=True)
+                    print(f"Audio loaded successfully: {len(audio_array)} samples")
+                    
+                    # Transcribe using the loaded audio array
+                    result = model.transcribe(
+                        audio_array,  # Pass the audio array directly
+                        language="en",
+                        fp16=False
+                    )
+                    print("Transcription completed successfully")
+                    return result["text"]
+                except ImportError:
+                    print("Librosa not available, trying scipy...")
+                    from scipy.io import wavfile
+                    sample_rate, audio_array = wavfile.read(audio_path)
+                    
+                    # Convert to mono if stereo
+                    if len(audio_array.shape) > 1:
+                        audio_array = audio_array.mean(axis=1)
+                    
+                    # Resample to 16kHz if needed
+                    if sample_rate != 16000:
+                        from scipy import signal
+                        audio_array = signal.resample(audio_array, int(len(audio_array) * 16000 / sample_rate))
+                    
+                    # Normalize to float in [-1, 1]
+                    audio_array = audio_array.astype(np.float32) / np.max(np.abs(audio_array))
+                    
+                    # Transcribe using the loaded audio array
+                    result = model.transcribe(
+                        audio_array,
+                        language="en",
+                        fp16=False
+                    )
+                    print("Transcription completed successfully")
+                    return result["text"]
+                    
+            except Exception as e:
+                print(f"Error during direct transcription: {str(e)}")
+                import traceback
+                traceback.print_exc()
+                
+                # Try a fallback approach - use a different model
+                try:
+                    print("Trying fallback with 'base' model...")
+                    model = whisper.load_model("base")
+                    result = model.transcribe(
+                        audio_path,
+                        language="en",
+                        fp16=False
+                    )
+                    print("Fallback transcription completed successfully")
+                    return result["text"]
+                except Exception as e2:
+                    print(f"Fallback transcription also failed: {str(e2)}")
+                    return f"Error: All transcription attempts failed. Please check your FFmpeg installation."
+                    
         except Exception as e:
             print(f"Error transcribing audio: {str(e)}")
+            import traceback
+            traceback.print_exc()
             return f"Error: Could not transcribe audio. {str(e)}"
 
     def get_plot_base64(plt_obj):
@@ -444,8 +535,6 @@ def spectogram_voice_sentiment_analytic(duration=6):
     )
     spectrogram_plot_url = get_plot_base64(plt.gcf())
     plt.close()
-
-    # ...rest of the function...
 
     # Generar y capturar el gráfico de probabilidades como base64
     plt.figure(figsize=(10, 4))
